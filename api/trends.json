@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T03:40:39.176778+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-12-06T04:28:11.704658+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -19,19 +19,31 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 04时28分]"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
+          "url": "https://wallstreetcn.com/livenews/3016109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "美国最高法院将审查总统特朗普作废出生公民权（Birthright Citizenship）的做法。",
           "url": "https://wallstreetcn.com/livenews/3016099",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时28分]"
         },
         {
           "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
@@ -112,6 +124,19 @@
           "time_info": "[01时44分 ~ 03时40分]"
         },
         {
+          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
+          "url": "https://wallstreetcn.com/livenews/3016084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 04时28分]"
+        },
+        {
           "title": "美国总统特朗普：已安排活动结束后（与加拿大和墨西哥方面）会面，将讨论贸易问题。",
           "url": "https://flash.jin10.com/detail/20251206005101080800",
           "source": "金十数据",
@@ -151,6 +176,19 @@
           "time_info": "[01时44分 ~ 03时40分]"
         },
         {
+          "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
+          "url": "https://wallstreetcn.com/livenews/3016079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 04时28分]"
+        },
+        {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
           "url": "https://flash.jin10.com/detail/20251206004830012800",
           "source": "金十数据",
@@ -164,16 +202,29 @@
           "time_info": "[01时44分 ~ 03时40分]"
         },
         {
-          "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
-          "url": "https://wallstreetcn.com/livenews/3016084",
+          "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
+          "url": "https://wallstreetcn.com/livenews/3016074",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            16
+            14,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 04时28分]"
+        },
+        {
+          "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
+          "url": "https://flash.jin10.com/detail/20251206022018049800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时32分 ~ 03时40分]"
+          "time_info": "[03时20分 ~ 04时28分]"
         },
         {
           "title": "美国总统特朗普：将与墨西哥总统辛鲍姆讨论贸易、移民等问题。",
@@ -187,41 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 02时32分]"
-        },
-        {
-          "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
-          "url": "https://wallstreetcn.com/livenews/3016079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 03时40分]"
-        },
-        {
-          "title": "Anthropic的高管Amodei周四会见了美国总统特朗普的政府官员们，并会见了国会参议院的跨党派团体。",
-          "url": "https://wallstreetcn.com/livenews/3016074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 03时40分]"
-        },
-        {
-          "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
-          "url": "https://flash.jin10.com/detail/20251206022018049800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时40分]"
         },
         {
           "title": "哈塞特：美联储是时候谨慎降息了，未与特朗普讨论过主席相关话题",
@@ -244,12 +260,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 00时29分]"
+        },
+        {
+          "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
+          "url": "https://flash.jin10.com/detail/20251206033944574800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "加拿大总理办公室：美国总统特朗普、加拿大总理和墨西哥总统正在会面。",
+          "url": "https://flash.jin10.com/detail/20251206033847426800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股迎首部上市公司监管专项行政法规，74条全梳理",
@@ -259,8 +297,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 04时28分]"
         },
         {
           "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
@@ -270,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 04时28分]"
         },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
@@ -282,8 +320,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 04时28分]"
         },
         {
           "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
@@ -292,11 +330,34 @@
           "ranks": [
             1,
             15,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 03时40分]"
+          "appearance_count": 5,
+          "time_info": "[01时44分 ~ 04时28分]"
+        },
+        {
+          "title": "美国10月消费信贷变动 91.78亿美元，预期 104.8亿美元，前值 130.93亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3016112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
+          "url": "https://flash.jin10.com/detail/20251206040033600800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -310,6 +371,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时04分 ~ 02时32分]"
+        },
+        {
+          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
+          "url": "https://wallstreetcn.com/livenews/3016097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时28分]"
         },
         {
           "title": "美国消费者信心五个月以来首次上升",
@@ -358,17 +431,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 01时04分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
-          "url": "https://wallstreetcn.com/livenews/3016097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时40分]"
         },
         {
           "title": "美国9月个人消费支出(PCE)环比 0.3%，预期 0.3%，前值 0.6%。",
@@ -439,19 +501,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 04时28分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.10%，报26121点。 恒生科技指数主连夜盘收跌0.02%，报5678点。",
           "url": "https://wallstreetcn.com/livenews/3016100",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时40分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 04时28分]"
         },
         {
           "title": "黄仁勋称华为史上最强科技公司之一",
@@ -539,11 +602,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%854%25",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时28分]"
         }
       ]
     },
@@ -560,8 +624,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 04时28分]"
         },
         {
           "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
@@ -580,11 +644,40 @@
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时40分]"
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
+          "url": "https://flash.jin10.com/detail/20251206034533252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
+          "url": "https://flash.jin10.com/detail/20251206034235677800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
@@ -622,8 +715,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 03时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 04时28分]"
         }
       ]
     }
