@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-06T18:23:25.550571+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2025-12-06T18:43:52.929794+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 45,
       "titles": [
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时21分 ~ 18时43分]"
+        },
         {
           "title": "特朗普世界杯抽签搞抽象",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
@@ -18,24 +31,12 @@
             22,
             15,
             16,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时45分 ~ 18时23分]"
-        },
-        {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
-          "ranks": [
-            5,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时21分 ~ 18时23分]"
+          "appearance_count": 16,
+          "time_info": "[09时45分 ~ 18时43分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -240,6 +241,17 @@
           "time_info": "[06时43分 ~ 09时45分]"
         },
         {
+          "title": "特朗普终于获得一枚“和平奖”",
+          "url": "https://www.toutiao.com/trending/7579662225003511862/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时43分]"
+        },
+        {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
           "url": "https://wallstreetcn.com/livenews/3016109",
           "source": "华尔街见闻-快讯",
@@ -268,6 +280,19 @@
           "time_info": "[02时32分 ~ 05时22分]"
         },
         {
+          "title": "特朗普获得“国际足联和平奖”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时49分 ~ 18时43分]"
+        },
+        {
           "title": "白宫记者团：美国总统特朗普会见墨西哥和加拿大的领导人。",
           "url": "https://wallstreetcn.com/livenews/3016132",
           "source": "华尔街见闻-快讯",
@@ -281,17 +306,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时42分 ~ 07时41分]"
-        },
-        {
-          "title": "特朗普终于获得一枚“和平奖”",
-          "url": "https://www.toutiao.com/trending/7579662225003511862/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
         },
         {
           "title": "墨西哥总统辛鲍姆：与美国总统特朗普一致认为，将持续致力于解决贸易问题。",
@@ -348,18 +362,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时32分 ~ 04时46分]"
-        },
-        {
-          "title": "特朗普获得“国际足联和平奖”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%BE%97%E2%80%9C%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时49分 ~ 18时23分]"
         },
         {
           "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
@@ -518,6 +520,18 @@
           "time_info": "[01时04分 ~ 02时32分]"
         },
         {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时43分]"
+        },
+        {
           "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
           "url": "https://wallstreetcn.com/livenews/3016179",
           "source": "华尔街见闻-快讯",
@@ -551,17 +565,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 03时40分]"
-        },
-        {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时23分]"
         },
         {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
@@ -624,8 +627,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时23分 ~ 18时23分]"
+          "appearance_count": 41,
+          "time_info": "[00时23分 ~ 18时43分]"
         },
         {
           "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
@@ -652,8 +655,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时55分 ~ 18时23分]"
+          "appearance_count": 16,
+          "time_info": "[11时55分 ~ 18时43分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -668,8 +671,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时21分 ~ 18时23分]"
+          "appearance_count": 23,
+          "time_info": "[07时21分 ~ 18时43分]"
+        },
+        {
+          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
+          "url": "https://www.cls.cn/detail/2221699",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 18时43分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -683,21 +700,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 18时23分]"
-        },
-        {
-          "title": "AI手机概念龙头单周累计最大涨幅近四成 梳理产业链成本占比、市占率居前A股名单",
-          "url": "https://www.cls.cn/detail/2221699",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时23分 ~ 18时23分]"
+          "appearance_count": 13,
+          "time_info": "[13时23分 ~ 18时43分]"
         },
         {
           "title": "美国10月消费信贷 91.8亿美元，预期105亿美元，前值130.93亿美元。",
@@ -736,23 +740,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时55分 ~ 18时23分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            7,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时55分 ~ 18时23分]"
+          "appearance_count": 16,
+          "time_info": "[11时55分 ~ 18时43分]"
         },
         {
           "title": "人民日报访商务部部长王文涛：扩大高水平对外开放，大力提振消费",
@@ -765,8 +754,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时12分 ~ 18时23分]"
+          "appearance_count": 18,
+          "time_info": "[11时12分 ~ 18时43分]"
+        },
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            7,
+            6,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[11时55分 ~ 18时43分]"
         },
         {
           "title": "害怕错过或害怕亏钱 AI投资引发私募市场双重焦虑",
@@ -794,8 +799,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 18时43分]"
         },
         {
           "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
@@ -837,6 +842,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 09时45分]"
+        },
+        {
+          "title": "住建部主管：楼市消费有活力 高质量发展就有底气",
+          "url": "https://flash.jin10.com/detail/20251206160823627800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时49分 ~ 18时43分]"
         },
         {
           "title": "吴清：A股实现了量的合理增长和质的有效提升",
@@ -881,18 +901,15 @@
           "time_info": "[03时20分 ~ 05时22分]"
         },
         {
-          "title": "住建部主管：楼市消费有活力 高质量发展就有底气",
-          "url": "https://flash.jin10.com/detail/20251206160823627800",
-          "source": "金十数据",
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            13,
-            16,
-            20
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时49分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 18时43分]"
         },
         {
           "title": "住建部主管《中国房地产报》社评：楼市消费有活力 高质量发展就有底气",
@@ -915,11 +932,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 18时43分]"
         },
         {
           "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
@@ -946,17 +964,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时40分 ~ 16时49分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时23分]"
         },
         {
           "title": "美国消费者信心五个月以来首次上升",
@@ -1134,8 +1141,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时45分 ~ 18时23分]"
+          "appearance_count": 19,
+          "time_info": "[09时45分 ~ 18时43分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -1150,8 +1157,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[07时21分 ~ 18时23分]"
+          "appearance_count": 23,
+          "time_info": "[07时21分 ~ 18时43分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -1359,8 +1366,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时45分 ~ 18时23分]"
+          "appearance_count": 19,
+          "time_info": "[09时45分 ~ 18时43分]"
         },
         {
           "title": "黄仁勋赞华为：史上最强科技公司之一",
@@ -1414,6 +1421,19 @@
           "time_info": "[03时20分 ~ 05时42分]"
         },
         {
+          "title": "百度人名大全疑云未熄：一全国性科技平台两份职称公示名单照搬人名大全",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32119954",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 18时43分]"
+        },
+        {
           "title": "标普500指数的11个板块多数收跌，公用事业板块跌0.98%，能源板块跌0.43%，原材料板块跌0.39%，可选消费板块则收涨0.44%，信息技术/科技板块涨0.45%，电信板块涨0.95%。",
           "url": "https://wallstreetcn.com/livenews/3016136",
           "source": "华尔街见闻-快讯",
@@ -1427,18 +1447,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时42分 ~ 07时41分]"
-        },
-        {
-          "title": "百度人名大全疑云未熄：一全国性科技平台两份职称公示名单照搬人名大全",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32119954",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 18时23分]"
         },
         {
           "title": "2025腾冲科学家论坛聚焦前沿科技与产业融合新路径",
