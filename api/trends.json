@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T07:21:24.842507+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-12-08T07:40:57.886119+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -23,8 +23,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
+          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[03时39分 ~ 07时40分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -37,8 +49,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时40分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -63,17 +75,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 04时43分]"
-        },
-        {
-          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
-          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时39分 ~ 07时21分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
@@ -110,11 +111,12 @@
             1,
             6,
             10,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时39分 ~ 07时21分]"
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 07时40分]"
         },
         {
           "title": "内塔尼亚胡：加沙停火第二阶段很快开始，将于本月与特朗普会面",
@@ -124,11 +126,37 @@
             2,
             7,
             11,
-            17
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 07时40分]"
+        },
+        {
+          "title": "特朗普：奈飞与华纳兄弟的交易必须走流程；奈飞是一家很棒的公司，但并购协议使得市场份额太大。",
+          "url": "https://wallstreetcn.com/livenews/3016477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "特朗普政府免除西南航空公司1100万美元罚款",
+          "url": "https://flash.jin10.com/detail/20251208053436110800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8,
+            14,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时39分 ~ 07时21分]"
+          "time_info": "[06时21分 ~ 07时40分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -146,17 +174,82 @@
           "time_info": "[05时19分 ~ 07时21分]"
         },
         {
-          "title": "特朗普政府免除西南航空公司1100万美元罚款",
-          "url": "https://flash.jin10.com/detail/20251208053436110800",
-          "source": "金十数据",
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            8,
-            14
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
+          "url": "https://www.cls.cn/detail/2221983",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 07时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时40分]"
+        },
+        {
+          "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2221697",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 07时21分]"
+        },
+        {
+          "title": "广东“十五五”规划建议：大力提振消费 清理汽车、住房等消费不合理限制性措施",
+          "url": "https://wallstreetcn.com/livenews/3016480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "贝森特：假日消费强劲，美国全年GDP增长将达3%",
+          "url": "https://flash.jin10.com/detail/20251208045942860800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            14,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时39分 ~ 07时40分]"
+        },
+        {
+          "title": "美国消费品安全委员会表示，由于可能存在火灾隐患，亚马逊(AMZN.O)上销售的超过20万个便携式充电宝已被召回。",
+          "url": "https://flash.jin10.com/detail/20251208063129080800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时40分]"
         }
       ]
     },
@@ -169,11 +262,12 @@
           "url": "https://www.cls.cn/detail/2221792",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 07时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 07时40分]"
         },
         {
           "title": "众擎T800机器人引台媒惊呼",
@@ -201,11 +295,12 @@
           "url": "https://wallstreetcn.com/livenews/3016466",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时40分]"
         },
         {
           "title": "全网最忙五人组现身世界机器人大赛",
@@ -217,60 +312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
-          "url": "https://www.cls.cn/detail/2221983",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2221697",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "美国消费品安全委员会表示，由于可能存在火灾隐患，亚马逊(AMZN.O)上销售的超过20万个便携式充电宝已被召回。",
-          "url": "https://flash.jin10.com/detail/20251208063129080800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "贝森特：假日消费强劲，美国全年GDP增长将达3%",
-          "url": "https://flash.jin10.com/detail/20251208045942860800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时39分 ~ 07时21分]"
         }
       ]
     },
@@ -314,6 +355,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时27分 ~ 06时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一小幅高开。",
+          "url": "https://flash.jin10.com/detail/20251208070101981800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     }
