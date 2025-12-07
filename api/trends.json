@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T22:20:47.395629+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2025-12-07T22:42:37.459081+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时27分 ~ 22时20分]"
+          "appearance_count": 47,
+          "time_info": "[00时27分 ~ 22时42分]"
         },
         {
           "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
@@ -89,8 +89,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时27分 ~ 22时20分]"
+          "appearance_count": 47,
+          "time_info": "[00时27分 ~ 22时42分]"
         },
         {
           "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
@@ -119,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时21分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[18时21分 ~ 22时42分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -227,11 +227,12 @@
           "source": "今日头条",
           "ranks": [
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时42分]"
         },
         {
           "title": "惊悚AI玩偶视频入侵未成年人",
@@ -322,8 +323,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[17时41分 ~ 22时20分]"
+          "appearance_count": 14,
+          "time_info": "[17时41分 ~ 22时42分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -361,6 +362,17 @@
           "time_info": "[13时22分 ~ 17时22分]"
         },
         {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时28分 ~ 22时42分]"
+        },
+        {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
@@ -377,17 +389,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时22分 ~ 17时22分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时28分 ~ 22时20分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -413,11 +414,42 @@
             16,
             18,
             21,
-            23
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时39分 ~ 22时42分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            9,
+            12,
+            14,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[19时39分 ~ 22时20分]"
+          "time_info": "[20时43分 ~ 22时42分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10,
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时43分 ~ 22时42分]"
         },
         {
           "title": "特朗普威胁封锁委领空 马杜罗咋办",
@@ -431,34 +463,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时21分 ~ 19时19分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
-          "url": "https://flash.jin10.com/detail/20251207194238247800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            9,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时20分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时43分 ~ 22时20分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -565,8 +569,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时27分 ~ 22时20分]"
+          "appearance_count": 47,
+          "time_info": "[00时27分 ~ 22时42分]"
         },
         {
           "title": "百度人名大全疑云未熄：一全国性科技平台两份职称公示名单照搬人名大全",
