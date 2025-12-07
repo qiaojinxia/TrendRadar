@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T06:21:39.507950+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-12-08T06:42:54.086445+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             9,
             26,
             10,
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时42分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -32,11 +33,12 @@
           "ranks": [
             14,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时42分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -81,19 +83,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时39分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普政府免除西南航空公司1100万美元罚款",
-          "url": "https://flash.jin10.com/detail/20251208053436110800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "appearance_count": 8,
+          "time_info": "[03时39分 ~ 06时42分]"
         },
         {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
@@ -103,11 +94,12 @@
             1,
             7,
             13,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 06时42分]"
         },
         {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
@@ -115,11 +107,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 06时42分]"
         },
         {
           "title": "内塔尼亚胡：加沙停火第二阶段很快开始，将于本月与特朗普会面",
@@ -127,11 +120,24 @@
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普政府免除西南航空公司1100万美元罚款",
+          "url": "https://flash.jin10.com/detail/20251208053436110800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时21分]"
+          "time_info": "[06时21分 ~ 06时42分]"
         },
         {
           "title": "特朗普长子：特朗普可能会因乌克兰的腐败丑闻而退出俄乌和平谈判",
@@ -140,11 +146,60 @@
           "ranks": [
             6,
             12,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时21分]"
+          "appearance_count": 4,
+          "time_info": "[05时19分 ~ 06时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技 机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人租赁市场趋于理性：昔日万元“日薪”遭膝斩 年末季节性需求注入动力",
+          "url": "https://www.cls.cn/detail/2221792",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时42分]"
+        },
+        {
+          "title": "众擎T800机器人引台媒惊呼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%97%E6%93%8ET800%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%95%E5%8F%B0%E5%AA%92%E6%83%8A%E5%91%BC",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            25,
+            23,
+            22,
+            19,
+            18,
+            24,
+            20,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时42分]"
+        },
+        {
+          "title": "全网最忙五人组现身世界机器人大赛",
+          "url": "https://www.toutiao.com/trending/7581026981908267049/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         }
       ]
     },
@@ -160,8 +215,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时42分]"
         },
         {
           "title": "年末市场热度不减 本周披露并购重组进展的A股名单一览",
@@ -172,8 +227,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时27分 ~ 06时42分]"
         },
         {
           "title": "贝森特：假日消费强劲，美国全年GDP增长将达3%",
@@ -181,47 +236,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技 机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人租赁市场趋于理性：昔日万元“日薪”遭膝斩 年末季节性需求注入动力",
-          "url": "https://www.cls.cn/detail/2221792",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时21分]"
-        },
-        {
-          "title": "众擎T800机器人引台媒惊呼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%97%E6%93%8ET800%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%95%E5%8F%B0%E5%AA%92%E6%83%8A%E5%91%BC",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            23,
-            22,
-            19,
-            18,
-            24,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 06时42分]"
         }
       ]
     },
@@ -237,11 +257,12 @@
             6,
             12,
             18,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时43分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[04时43分 ~ 06时42分]"
         }
       ]
     },
@@ -258,11 +279,12 @@
             8,
             14,
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 06时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 06时42分]"
         }
       ]
     }
