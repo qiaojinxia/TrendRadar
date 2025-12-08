@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T20:51:01.275040+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2025-12-08T21:37:54.435581+08:00",
+  "total_titles_processed": 1757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "周末要闻汇总：券商行业迎重磅利好，吴清称适度拓宽其杠杆上限；A股将迎超千亿增量资金",
@@ -63,6 +63,17 @@
           "time_info": "[11时24分 ~ 17时33分]"
         },
         {
+          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
+          "url": "https://wallstreetcn.com/articles/3760893",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 21时37分]"
+        },
+        {
           "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
           "url": "https://www.cls.cn/detail/2222331",
           "source": "财联社热门",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[12时55分 ~ 18时51分]"
-        },
-        {
-          "title": "A股高开高走，创业板涨超2%，算力硬件、券商爆发，港股恒指跌1.2%，30年期国债期货拉升，万科债上涨，双焦暴跌",
-          "url": "https://wallstreetcn.com/articles/3760893",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 20时51分]"
         },
         {
           "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
@@ -165,8 +165,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时55分 ~ 20时51分]"
+          "appearance_count": 19,
+          "time_info": "[12时55分 ~ 21时37分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -177,8 +177,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时28分 ~ 20时51分]"
+          "appearance_count": 8,
+          "time_info": "[18时28分 ~ 21时37分]"
         },
         {
           "title": "A股高开高走，创业板涨超3%，稀土、算力硬件、券商股拉升，港股恒指跌逾1%，30年期国债期货拉升，万科债上涨",
@@ -204,17 +204,6 @@
           "time_info": "07时40分"
         },
         {
-          "title": "农业银行：2025年半年度派发A股现金红利约381.5亿元",
-          "url": "https://wallstreetcn.com/livenews/3016991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "贝森特：假日消费强劲，美国全年GDP增长将达3%",
           "url": "https://flash.jin10.com/detail/20251208045942860800",
           "source": "金十数据",
@@ -228,6 +217,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时39分 ~ 07时40分]"
+        },
+        {
+          "title": "A股唯二！美的集团完成单次百亿回购",
+          "url": "https://www.cls.cn/detail/2223188",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "印尼财长：只有在经济好转后才会实施含糖饮料消费税。",
@@ -252,6 +252,19 @@
           "time_info": "16时36分"
         },
         {
+          "title": "如何看A股放量暴涨",
+          "url": "https://www.toutiao.com/trending/7581378714035175430/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时42分 ~ 21时37分]"
+        },
+        {
           "title": "A股海南自贸概念震荡走强，新大洲A涨停，海南发展此前封板，凯撒旅业、康芝药业、海峡股份、海南海药、海马汽车跟涨。",
           "url": "https://wallstreetcn.com/livenews/3016720",
           "source": "华尔街见闻-快讯",
@@ -263,6 +276,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 14时39分]"
+        },
+        {
+          "title": "农业银行：2025年半年度派发A股现金红利约381.5亿元",
+          "url": "https://wallstreetcn.com/livenews/3016991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时37分]"
         },
         {
           "title": "A股收盘：创业板指高开高走涨2.6%，全市场成交突破2万亿",
@@ -290,18 +315,6 @@
           "time_info": "[07时21分 ~ 07时40分]"
         },
         {
-          "title": "如何看A股放量暴涨",
-          "url": "https://www.toutiao.com/trending/7581378714035175430/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时42分 ~ 20时51分]"
-        },
-        {
           "title": "冰雪经济新玩法带动新消费",
           "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E7%BB%8F%E6%B5%8E%E6%96%B0%E7%8E%A9%E6%B3%95%E5%B8%A6%E5%8A%A8%E6%96%B0%E6%B6%88%E8%B4%B9%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -323,6 +336,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时26分 ~ 13时48分]"
+        },
+        {
+          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
+          "url": "https://www.zhihu.com/question/1981321831689511959",
+          "source": "知乎",
+          "ranks": [
+            18,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 21时37分]"
         },
         {
           "title": "谷歌将举行AndroidXR特别发布会 端侧AI有望迎重磅催化",
@@ -347,6 +372,18 @@
           "time_info": "[15时46分 ~ 16时36分]"
         },
         {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时37分]"
+        },
+        {
           "title": "A股福建板块再度拉升，厦门空港直线涨停。厦门“十五五”规划建议，推动厦金率先融合，优化厦金客运、货运航线布局。",
           "url": "https://wallstreetcn.com/livenews/3016728",
           "source": "华尔街见闻-快讯",
@@ -369,17 +406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时28分 ~ 15时46分]"
-        },
-        {
-          "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
-          "url": "https://www.zhihu.com/question/1981321831689511959",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "评论员：留意A股冲高回落的风险",
@@ -439,17 +465,6 @@
           "time_info": "09时52分"
         },
         {
-          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
-          "url": "https://wallstreetcn.com/livenews/3016987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "金十数据整理：A股每日市场要闻回顾（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208151812189800",
           "source": "金十数据",
@@ -461,13 +476,24 @@
           "time_info": "15时46分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：AI让经济运行得更加火热一些。",
+          "url": "https://flash.jin10.com/detail/20251208212102903800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
           "url": "https://flash.jin10.com/detail/20251208200524592800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -489,7 +515,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -503,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "毕马威：消费作为经济增长的重要引擎，正占据更为突出的战略位置",
+          "url": "https://wallstreetcn.com/livenews/3016995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "万字拆解影视飓风AI高能片段",
@@ -541,7 +578,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -613,8 +650,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时35分 ~ 20时51分]"
+          "appearance_count": 11,
+          "time_info": "[16时35分 ~ 21时37分]"
         },
         {
           "title": "特朗普称对泽连斯基感到失望",
@@ -632,8 +669,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时08分 ~ 20时51分]"
+          "appearance_count": 20,
+          "time_info": "[12时08分 ~ 21时37分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -699,6 +736,17 @@
           "time_info": "[00时27分 ~ 04时25分]"
         },
         {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普：美国还有其他方式征收关税 目前的方法要直接得多",
           "url": "https://flash.jin10.com/detail/20251208041606128800",
           "source": "金十数据",
@@ -713,17 +761,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时43分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
-          "url": "https://news.ifeng.com/c/8ov552jltTT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 20时51分]"
         },
         {
           "title": "贝森特：不会限制儿童使用“特朗普账户”的方式",
@@ -767,6 +804,39 @@
           "time_info": "[05时39分 ~ 07时40分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普将公布大量利好经济消息。",
+          "url": "https://flash.jin10.com/detail/20251208212413479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈特朗普的人工智能“单一规则”）：该行政命令将帮助人工智能公司明确规则是什么。",
+          "url": "https://wallstreetcn.com/livenews/3017019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特暗示特朗普本周将传达有关经济的信息。",
+          "url": "https://flash.jin10.com/detail/20251208212334315800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "特朗普长子：特朗普或退出乌和平进程",
           "url": "https://www.toutiao.com/trending/7581096689352572934/",
           "source": "今日头条",
@@ -787,6 +857,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "美国总统特朗普：如果我们要继续在人工智能领域保持领先，必须只有一套规则手册。",
+          "url": "https://flash.jin10.com/detail/20251208212300357800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/livenews/3017015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
@@ -922,13 +1014,35 @@
           "time_info": "18时28分"
         },
         {
+          "title": "美国总统特朗普：我本周将发布一项关于人工智能的单一规则行政命令。",
+          "url": "https://flash.jin10.com/detail/20251208212154914800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特（谈美联储）：特朗普有很多不错的选择。 如果我必须成为那个选择，我会很高兴帮助他。",
+          "url": "https://wallstreetcn.com/livenews/3017012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "特朗普就美国与加拿大贸易争端最新发声",
           "url": "https://wallstreetcn.com/livenews/3016981",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -953,6 +1067,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）美国总统特朗普有很多不错的选择。",
+          "url": "https://flash.jin10.com/detail/20251208211824210800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：（谈美国总统特朗普的美联储人选）如果非让我来担任这一人选，我将非常乐意为他效力。",
+          "url": "https://flash.jin10.com/detail/20251208211748147800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美媒：特朗普称泽连斯基尚未阅读美方提出的乌克兰危机最新解决方案，对此“有点失望”",
@@ -1006,8 +1142,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时27分 ~ 20时51分]"
+          "appearance_count": 14,
+          "time_info": "[15时27分 ~ 21时37分]"
         },
         {
           "title": "机器人租赁市场趋于理性：昔日万元“日薪”遭膝斩 年末季节性需求注入动力",
@@ -1409,17 +1545,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "清洁能源公司NextEra Energy与谷歌宣布合作，开发多个数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3016989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
           "url": "https://flash.jin10.com/detail/20251208040048349800",
           "source": "金十数据",
@@ -1433,6 +1558,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时43分 ~ 06时42分]"
+        },
+        {
+          "title": "清洁能源公司NextEra Energy与谷歌宣布合作，开发多个数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3016989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 21时37分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
@@ -1508,7 +1645,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
