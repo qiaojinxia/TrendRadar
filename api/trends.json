@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T19:42:42.363483+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2025-12-09T20:52:14.196094+08:00",
+  "total_titles_processed": 1980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时25分 ~ 19时42分]"
+          "appearance_count": 13,
+          "time_info": "[15时25分 ~ 20时52分]"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -160,7 +160,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -174,17 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "特朗普可能会通过调整关税来降低部分商品价格。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3017647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "迪尔农机/约翰迪尔股价短线转跌，美国总统特朗普要求拖拉机行业立即降价。",
@@ -435,6 +424,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普可能会通过调整关税来降低部分商品价格。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3017647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时52分]"
         },
         {
           "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
@@ -764,6 +765,17 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "美国总统特朗普：墨西哥持续违反我们全面的水资源条约。由于墨西哥未能履行我们的条约义务，至今仍欠美国超过80万英亩-英尺的水。",
           "url": "https://flash.jin10.com/detail/20251209070002373800",
           "source": "金十数据",
@@ -781,7 +793,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -894,12 +906,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "据Politico，特朗普称降息是美联储主席的试金石。",
+          "url": "https://wallstreetcn.com/livenews/3017651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         }
       ]
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 56,
+      "match_count": 58,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -937,8 +960,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时25分 ~ 19时42分]"
+          "appearance_count": 14,
+          "time_info": "[15时25分 ~ 20时52分]"
         },
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -982,6 +1005,19 @@
           "time_info": "[11时21分 ~ 18时52分]"
         },
         {
+          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
+          "url": "https://wallstreetcn.com/articles/3760976",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时35分 ~ 20时52分]"
+        },
+        {
           "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
           "url": "https://www.zhihu.com/question/1980612606218756126",
           "source": "知乎",
@@ -1013,17 +1049,18 @@
           "time_info": "[09时51分 ~ 15时26分]"
         },
         {
-          "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
-          "url": "https://wallstreetcn.com/articles/3760976",
+          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
+          "url": "https://wallstreetcn.com/articles/3760975",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            4
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时35分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[17时28分 ~ 20时52分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1049,8 +1086,24 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时44分 ~ 19时42分]"
+          "appearance_count": 12,
+          "time_info": "[15时44分 ~ 20时52分]"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[12时50分 ~ 20时52分]"
         },
         {
           "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
@@ -1082,21 +1135,6 @@
           "time_info": "[09时51分 ~ 15时44分]"
         },
         {
-          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13,
-            12,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时50分 ~ 19时42分]"
-        },
-        {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
           "url": "https://www.cls.cn/detail/2223334",
           "source": "财联社热门",
@@ -1119,25 +1157,12 @@
             18,
             16,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时25分 ~ 19时42分]"
-        },
-        {
-          "title": "A股震荡调整，创业板涨0.61%，算力硬件领涨，商业航天冲高回落，中际旭创新高，港股走低，恒指、科指跌超1%，有色弱势",
-          "url": "https://wallstreetcn.com/articles/3760975",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时28分 ~ 19时42分]"
+          "appearance_count": 14,
+          "time_info": "[15时25分 ~ 20时52分]"
         },
         {
           "title": "中证报头版文章：提振消费服务民生，财政政策将更加积极",
@@ -1149,6 +1174,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时42分]"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时29分 ~ 20时52分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -1211,17 +1248,6 @@
           "time_info": "[06时45分 ~ 07时42分]"
         },
         {
-          "title": "嘉澳环保：收到中国证券监督管理委员会浙江监管局下发的《行政处罚事先告知书》，公司股票将被实施其他风险警示，实施后A股简称为ST嘉澳。",
-          "url": "https://wallstreetcn.com/livenews/3017645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "日本央行行长植田和男：日本汽车制造商选择降低出口价格而不是将成本转嫁给美国消费者，这稳定了汽车出口量，并未对国内就业和生产造成巨大负面影响。 国内物价和薪资动态的强劲势头足以防止负面冲击对通胀产生重大影响。 目前来看通胀风险并不高，尤其是财政刺激导致基准通胀加速的风险。 实现中长期财政可持续性是政府的职责。",
           "url": "https://wallstreetcn.com/livenews/3017558",
           "source": "华尔街见闻-快讯",
@@ -1249,16 +1275,16 @@
           "time_info": "[06时23分 ~ 07时42分]"
         },
         {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
           "ranks": [
-            10,
-            9
+            20,
+            16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[18时29分 ~ 19时42分]"
+          "time_info": "[19时22分 ~ 20时52分]"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -1307,6 +1333,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时52分 ~ 11时22分]"
+        },
+        {
+          "title": "嘉澳环保：收到中国证券监督管理委员会浙江监管局下发的《行政处罚事先告知书》，公司股票将被实施其他风险警示，实施后A股简称为ST嘉澳。",
+          "url": "https://wallstreetcn.com/livenews/3017645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时52分]"
         },
         {
           "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
@@ -1418,17 +1456,6 @@
           "time_info": "[00时33分 ~ 01时46分]"
         },
         {
-          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
-          "url": "https://www.zhihu.com/question/1981675433712976771",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 19时42分]"
-        },
-        {
           "title": "商汤医疗：信任、数据与商业模式是当前AI医疗三大瓶颈",
           "url": "https://wallstreetcn.com/livenews/3017622",
           "source": "华尔街见闻-快讯",
@@ -1500,6 +1527,17 @@
           "time_info": "[15时26分 ~ 15时44分]"
         },
         {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "美联储：美国11月消费者通胀预期稳定，财务状况恶化",
           "url": "https://wallstreetcn.com/livenews/3017075",
           "source": "华尔街见闻-快讯",
@@ -1531,6 +1569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "沃尔玛首席执行官道格·麦克米伦在CNBC采访中谈及消费者行为时表示，低收入群体正面临巨大压力。",
+          "url": "https://flash.jin10.com/detail/20251209202702318800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "冰雪经济新玩法带动新消费",
@@ -1602,7 +1651,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "众擎 T800 人形机器人对战自家 CEO，一脚将其踹倒在地，机器人完成这一动作有哪些技术亮点？",
@@ -1669,11 +1718,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32136307",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时48分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[17时48分 ~ 20时52分]"
         },
         {
           "title": "机器人产业链企业“排队”赴港上市",
@@ -1686,6 +1736,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 07时42分]"
+        },
+        {
+          "title": "闻泰科技邀请荷兰安世股权托管人会谈，但暂未获得回应",
+          "url": "https://wallstreetcn.com/livenews/3017691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.05%，报25763点。 恒生科技指数主连夜盘收跌0.25%，报5654点。",
@@ -1907,7 +1968,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1967,6 +2028,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "再升科技：控股股东郭茂先生拟通过协议转让方式向中融华信转让其持有的6.04%股份，转让总价款为人民币3.44亿元。",
+          "url": "https://wallstreetcn.com/livenews/3017670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "恒生科技指数午后跌幅扩大至2%",
           "url": "https://wallstreetcn.com/livenews/3017422",
           "source": "华尔街见闻-快讯",
@@ -2014,7 +2086,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -2248,6 +2320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时28分 ~ 17时49分]"
+        },
+        {
+          "title": "CoreWeave美股盘前下跌1.7%，公司将1.75%的可转换优先票据定价为22.5亿美元，高于最初计划的20亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3017684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "奈飞跌2.7%，华纳兄弟探索涨5.6%，Paramount Skydance涨5.4%。 美股开盘之前，Paramount针对奈飞收购华纳兄弟探索的交易发出敌意收购报价。",
@@ -2574,8 +2657,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时51分 ~ 19时42分]"
+          "appearance_count": 26,
+          "time_info": "[09时51分 ~ 20时52分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
