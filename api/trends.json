@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T12:03:22.131018+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-12-09T12:51:24.580637+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 12时51分]"
         },
         {
           "title": "周一（12月8日，美联储政策利率会议开幕前一天），降息赢家指数跌1.05%，报97.78点。 “特朗普关税输家”指数跌1.50%，散户抱团概念股指数/迷因股（meme stock）指数大致持平。",
@@ -219,6 +219,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 06时45分]"
+        },
+        {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 12时51分]"
         },
         {
           "title": "美国法官认定：总统特朗普对若干风电项目的禁令非法。",
@@ -441,17 +452,6 @@
           "time_info": "[04时48分 ~ 05时41分]"
         },
         {
-          "title": "美议员急了：特朗普你得拉一把日本啊",
-          "url": "https://news.ifeng.com/c/8owI9R84r47",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时03分]"
-        },
-        {
           "title": "美国总统特朗普谈疫苗：我们正在研究很多方面。",
           "url": "https://flash.jin10.com/detail/20251209042735171800",
           "source": "金十数据",
@@ -668,7 +668,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -704,8 +704,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 12时03分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 12时51分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 12时51分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -734,16 +746,17 @@
           "time_info": "[00时32分 ~ 07时42分]"
         },
         {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
           "ranks": [
-            4,
-            3
+            13,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 12时51分]"
         },
         {
           "title": "中证报头版文章：提振消费服务民生，财政政策将更加积极",
@@ -757,6 +770,18 @@
           "time_info": "[07时23分 ~ 07时42分]"
         },
         {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 12时51分]"
+        },
+        {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
           "url": "https://wallstreetcn.com/livenews/3017099",
           "source": "华尔街见闻-快讯",
@@ -768,6 +793,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 03时40分]"
+        },
+        {
+          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
+          "url": "https://www.cls.cn/detail/2223631",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时21分 ~ 12时51分]"
         },
         {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
@@ -806,17 +844,16 @@
           "time_info": "[06时45分 ~ 07时42分]"
         },
         {
-          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
-          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
+          "url": "https://www.zhihu.com/question/1980612606218756126",
           "source": "知乎",
           "ranks": [
-            13,
-            9,
-            7
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时03分]"
+          "time_info": "[11时21分 ~ 12时51分]"
         },
         {
           "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
@@ -833,16 +870,15 @@
           "time_info": "[06时23分 ~ 07时42分]"
         },
         {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
+          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
+          "url": "https://www.cls.cn/detail/2223334",
           "source": "财联社热门",
           "ranks": [
-            12,
             13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时03分]"
+          "time_info": "[09时51分 ~ 12时51分]"
         },
         {
           "title": "蚂蚁旗下通用AI助手灵光上线网页版",
@@ -895,30 +931,6 @@
           "time_info": "[06时23分 ~ 07时42分]"
         },
         {
-          "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
-          "url": "https://www.zhihu.com/question/1980612606218756126",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时03分]"
-        },
-        {
-          "title": "AI眼镜爆发前夜：多家巨头集体下注释放何种信号？光学显示、芯片等厂商望持续受益",
-          "url": "https://www.cls.cn/detail/2223631",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 12时03分]"
-        },
-        {
           "title": "综合知情人士透露的消息和条款清单来看，软银和英伟达正在洽谈投资人工智能公司Skild AI。 Skild AI可能会按140亿美元估值融资10亿美元。 谈判细节仍存在变数，但该交易预计将在圣诞节前完成。（路透）",
           "url": "https://wallstreetcn.com/livenews/3017070",
           "source": "华尔街见闻-快讯",
@@ -931,17 +943,6 @@
           "time_info": "[00时33分 ~ 01时46分]"
         },
         {
-          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
-          "url": "https://www.cls.cn/detail/2223334",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时03分]"
-        },
-        {
           "title": "OpenAI报告称：企业人工智能应用激增",
           "url": "https://wallstreetcn.com/livenews/3017061",
           "source": "华尔街见闻-快讯",
@@ -952,6 +953,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时46分]"
+        },
+        {
+          "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 12时51分]"
         },
         {
           "title": "美联储：美国11月消费者通胀预期稳定，财务状况恶化",
@@ -1033,8 +1045,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 12时51分]"
+        },
+        {
+          "title": "华尔街老兵亚德尼终结15年信仰：不再超配科技股，首次下调“Mag 7”评级",
+          "url": "https://wallstreetcn.com/articles/3760909",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 12时51分]"
         },
         {
           "title": "机器人产业链企业“排队”赴港上市",
@@ -1060,19 +1085,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时20分 ~ 04时48分]"
-        },
-        {
-          "title": "华尔街老兵亚德尼终结15年信仰：不再超配科技股，首次下调“Mag 7”评级",
-          "url": "https://wallstreetcn.com/articles/3760909",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时03分]"
         },
         {
           "title": "标普500指数初步收跌超0.4%，电信板块跌1.9%，原材料、可选消费、公用事业、保健、能源板块至多跌超1.6%，科技板块则涨0.7%。 纳斯达克100指数初步收跌0.3%，迈威尔科技跌7%，Fortinet跌4%，奈飞、特斯拉跌3.4%。",
@@ -1228,6 +1240,19 @@
       "match_count": 17,
       "titles": [
         {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[06时45分 ~ 12时51分]"
+        },
+        {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
@@ -1242,19 +1267,6 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时45分 ~ 12时03分]"
-        },
-        {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
           "url": "https://www.cls.cn/detail/2223257",
           "source": "财联社热门",
@@ -1264,8 +1276,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 12时03分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 12时51分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -1464,8 +1476,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 12时03分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 12时51分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -1479,17 +1491,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 03时40分]"
-        },
-        {
-          "title": "谷歌与XREAL联合发布Project Aura",
-          "url": "https://wallstreetcn.com/livenews/3017367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时03分"
         },
         {
           "title": "谷歌(GOOG.O)最新下跌约2.4%。",
@@ -1512,6 +1513,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "谷歌与XREAL联合发布Project Aura",
+          "url": "https://wallstreetcn.com/livenews/3017367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时03分 ~ 12时51分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -1641,8 +1654,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 12时03分]"
+          "appearance_count": 7,
+          "time_info": "[09时51分 ~ 12时51分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
