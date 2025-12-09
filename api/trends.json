@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T06:23:47.853197+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2025-12-10T06:43:52.249469+08:00",
+  "total_titles_processed": 684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "文旅赋能消费升级",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
           "url": "https://wallstreetcn.com/articles/3760976",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
@@ -60,11 +61,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 06时43分]"
         },
         {
           "title": "马上评｜用AI写年度总结与职场人的“AI化”",
@@ -75,8 +77,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "OpenAI：作为这项工作的一部分，我们正在向AAIF网站贡献Agents.MD。",
@@ -135,6 +137,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 03时40分]"
+        },
+        {
+          "title": "新能源汽车购置税政策调整在即，车市消费热度持续上升",
+          "url": "https://wallstreetcn.com/livenews/3017915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "摩根大通(JPM.N)股价转跌，最新下跌3%；其高管称消费者正变得更加谨慎，环境“更加脆弱”。",
@@ -380,7 +393,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -391,8 +404,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -403,8 +416,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -415,8 +428,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -428,33 +441,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
-        },
-        {
-          "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
-          "url": "https://www.cls.cn/detail/2224247",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
-        },
-        {
-          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/1981659657740234762",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -465,8 +453,35 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时32分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[02时32分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/1981659657740234762",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普宣布向农民发放百亿援助大礼包 或仍难挡美国农业继续下滑",
+          "url": "https://www.cls.cn/detail/2224247",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -480,8 +495,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 04时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -494,17 +509,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时50分 ~ 03时40分]"
-        },
-        {
-          "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
-          "url": "https://flash.jin10.com/detail/20251210055642373800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时23分]"
         },
         {
           "title": "据英国金融时报，美国总统特朗普在回应和平计划方面向乌克兰总统泽连斯基提供了“几天时间”。",
@@ -521,6 +525,54 @@
           "time_info": "[02时32分 ~ 04时45分]"
         },
         {
+          "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
+          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 06时43分]"
+        },
+        {
+          "title": "据消息人士透露，特朗普计划任命国土安全部副部长担任美国驻萨尔瓦多大使，这将是国土安全部领导层结构的一次重大调整。",
+          "url": "https://flash.jin10.com/detail/20251210062629989800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3017890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时21分 ~ 06时43分]"
+        },
+        {
+          "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
+          "url": "https://flash.jin10.com/detail/20251210055642373800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 06时43分]"
+        },
+        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -533,30 +585,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时50分 ~ 03时40分]"
-        },
-        {
-          "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
-          "url": "https://news.ifeng.com/c/8oxUGggjWaR",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 06时23分]"
-        },
-        {
-          "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3017890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 06时23分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）将加速补充发布因特朗普政府关门事件而造成的持仓周报（COT）发布。",
@@ -621,6 +649,18 @@
           "time_info": "[04时45分 ~ 05时21分]"
         },
         {
+          "title": "报道：美联储主席候选人本周将接受特朗普最后一轮面试，有人建议给哈塞特一个“缩水”的任期",
+          "url": "https://wallstreetcn.com/livenews/3017905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时43分]"
+        },
+        {
           "title": "美国财长贝森特：很荣幸今天上午有机会与乌克兰总理以及她的团队交谈。我强调了特朗普总统致力于确保乌克兰持久和平的承诺，并讨论了财政部对俄罗斯两大石油巨头卢克石油公司和俄罗斯石油公司实施的制裁，这些制裁符合美国总统大胆果断的领导力。",
           "url": "https://flash.jin10.com/detail/20251210041544325800",
           "source": "金十数据",
@@ -666,15 +706,15 @@
           "time_info": "02时32分"
         },
         {
-          "title": "报道：美联储主席候选人本周将接受特朗普最后一轮面试，有人建议给哈塞特一个“缩水”的任期",
-          "url": "https://wallstreetcn.com/livenews/3017905",
-          "source": "华尔街见闻-快讯",
+          "title": "美国贸易代表格里尔：美国总统特朗普政府已明确告知南非，如果南非希望改善关税待遇，就必须解决贸易壁垒问题。",
+          "url": "https://flash.jin10.com/detail/20251210060922610800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "06时43分"
         },
         {
           "title": "据华尔街日报：被美国总统特朗普赦免的洪都拉斯前总统在本国面临逮捕令。",
@@ -712,6 +752,144 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 04时25分]"
+        },
+        {
+          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2224567",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251210050514464800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
+          "url": "https://wallstreetcn.com/livenews/3017863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时25分 ~ 06时11分]"
+        },
+        {
+          "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3017849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 04时45分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
+          "url": "https://wallstreetcn.com/livenews/3017889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时11分 ~ 06时43分]"
+        },
+        {
+          "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
+          "url": "https://wallstreetcn.com/livenews/3017904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时43分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.54%，报322.02点，美股早盘持续走高，北京时间00:00过后持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.55%，报2292.39点，22:30美股开盘之前维持微跌状态、持续交投于2230点附近，之后持续走高，也在00:00之后持续高位横盘震荡。",
+          "url": "https://wallstreetcn.com/livenews/3017901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时43分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通跌近5%",
+          "url": "https://flash.jin10.com/detail/20251210050109549800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251210020030904800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科技 机器人",
       "match_count": 10,
       "titles": [
@@ -725,8 +903,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "浙江台州科技馆志愿者名单再现百度人名大全，多人批量上榜",
@@ -737,8 +915,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.16%，报25399点。 恒生科技指数主连夜盘收跌0.07%，报5553点。",
@@ -772,11 +950,12 @@
           "ranks": [
             2,
             6,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时21分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时21分 ~ 06时43分]"
         },
         {
           "title": "美光科技一度上涨大约3.5%，汇丰分析师Ricky Seo覆盖该公司，给予买入的初始评级。",
@@ -838,126 +1017,43 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时50分 ~ 04时25分]"
-        },
-        {
-          "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2224567",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251210050514464800",
+          "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251210063207113800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "06时43分"
         },
         {
-          "title": "美国芝加哥商业交易所（CME）集团数据中心的服务商CyrusOne在（美股）市场开盘之前12个小时（美国中部时间04:19）开始出现故障。 CME数据中心时间线包括秘密递交报告。",
-          "url": "https://wallstreetcn.com/livenews/3017863",
+          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
+          "url": "https://wallstreetcn.com/livenews/3017850",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时25分 ~ 06时11分]"
-        },
-        {
-          "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
-          "url": "https://wallstreetcn.com/livenews/3017849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            22
+            14,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时18分 ~ 04时45分]"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收涨将近1.3%，Meta跌约1.5%",
-          "url": "https://wallstreetcn.com/livenews/3017889",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
+          "url": "https://flash.jin10.com/detail/20251210023813881800",
+          "source": "金十数据",
           "ranks": [
-            8,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时23分]"
-        },
-        {
-          "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
-          "url": "https://wallstreetcn.com/livenews/3017904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通跌近5%",
-          "url": "https://flash.jin10.com/detail/20251210050109549800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251210020030904800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨3.54%，报322.02点，美股早盘持续走高，北京时间00:00过后持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.55%，报2292.39点，22:30美股开盘之前维持微跌状态、持续交投于2230点附近，之后持续走高，也在00:00之后持续高位横盘震荡。",
-          "url": "https://wallstreetcn.com/livenews/3017901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "[03时18分 ~ 03时40分]"
         }
       ]
     },
@@ -973,8 +1069,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1000,36 +1096,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
-          "url": "https://wallstreetcn.com/livenews/3017850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时18分 ~ 04时45分]"
-        },
-        {
-          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
-          "url": "https://flash.jin10.com/detail/20251210023813881800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 03时40分]"
         }
       ]
     },
@@ -1078,11 +1144,12 @@
             5,
             7,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 06时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时50分 ~ 06时43分]"
         }
       ]
     },
