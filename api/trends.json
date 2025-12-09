@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T20:52:14.196094+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2025-12-09T21:39:20.984318+08:00",
+  "total_titles_processed": 2055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 79,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时25分 ~ 20时52分]"
+          "appearance_count": 14,
+          "time_info": "[15时25分 ~ 21时39分]"
         },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
@@ -590,6 +590,17 @@
           "time_info": "[05时41分 ~ 06时45分]"
         },
         {
+          "title": "采访中特朗普突然发飙怒斥记者",
+          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 21时39分]"
+        },
+        {
           "title": "据Politico：特朗普否认承诺救助匈牙利。",
           "url": "https://flash.jin10.com/detail/20251209190736130800",
           "source": "金十数据",
@@ -765,15 +776,26 @@
           "time_info": "[09时51分 ~ 09时52分]"
         },
         {
-          "title": "采访中特朗普突然发飙怒斥记者",
-          "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
-          "source": "百度热搜",
+          "title": "据CNN： 特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。",
+          "url": "https://flash.jin10.com/detail/20251209210853362800",
+          "source": "金十数据",
           "ranks": [
-            29
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "特朗普政府正在制定委内瑞拉总统马杜罗被赶下台后的后续计划。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3017721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "美国总统特朗普：墨西哥持续违反我们全面的水资源条约。由于墨西哥未能履行我们的条约义务，至今仍欠美国超过80万英亩-英尺的水。",
@@ -853,6 +875,28 @@
           "time_info": "17时49分"
         },
         {
+          "title": "白宫新闻秘书莱维特表示，美国总统特朗普今日将在宾州发表利好经济的讲话。",
+          "url": "https://flash.jin10.com/detail/20251209204946258800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普今天将在宾夕法尼亚州发表积极的经济演讲。",
+          "url": "https://wallstreetcn.com/livenews/3017706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "俄乌双方都想拉拢特朗普女婿",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E9%83%BD%E6%83%B3%E6%8B%89%E6%8B%A2%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -914,7 +958,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -922,7 +966,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "A股唯二！美的集团完成单次百亿回购",
@@ -1014,8 +1058,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时35分 ~ 20时52分]"
+          "appearance_count": 12,
+          "time_info": "[16时35分 ~ 21时39分]"
         },
         {
           "title": "AI 冲击下多所大学停招、撤销外语类本科专业，怎样看待这一调整？外语专业未来前景的怎么样？",
@@ -1059,8 +1103,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时28分 ~ 20时52分]"
+          "appearance_count": 11,
+          "time_info": "[17时28分 ~ 21时39分]"
         },
         {
           "title": "A股成交额重返2万亿！四大板块热度激增，通信、电子股仍领跑成交榜",
@@ -1086,8 +1130,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时44分 ~ 20时52分]"
+          "appearance_count": 13,
+          "time_info": "[15时44分 ~ 21时39分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -1102,8 +1146,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时50分 ~ 20时52分]"
+          "appearance_count": 22,
+          "time_info": "[12时50分 ~ 21时39分]"
         },
         {
           "title": "十大券商看后市｜A股春季行情有望提前演绎，指数或迈上新台阶",
@@ -1161,8 +1205,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时25分 ~ 20时52分]"
+          "appearance_count": 15,
+          "time_info": "[15时25分 ~ 21时39分]"
+        },
+        {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时29分 ~ 21时39分]"
         },
         {
           "title": "中证报头版文章：提振消费服务民生，财政政策将更加积极",
@@ -1174,18 +1230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时42分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时29分 ~ 20时52分]"
         },
         {
           "title": "贝莱德：涌入AI基础设施的资金浪潮远未见顶",
@@ -1234,6 +1278,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时42分]"
+        },
+        {
+          "title": "微软首席执行官在X平台发文表示，微软将投入175亿美元支持印度的AI发展。",
+          "url": "https://flash.jin10.com/detail/20251209211204523800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "分析人士认为，当前A股市场或仍处于超跌修复演绎中，赚钱效应回暖后交投情绪有望进一步回升，跨年行情有望徐徐展开。（中证报）",
@@ -1456,6 +1511,17 @@
           "time_info": "[00时33分 ~ 01时46分]"
         },
         {
+          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 21时39分]"
+        },
+        {
           "title": "商汤医疗：信任、数据与商业模式是当前AI医疗三大瓶颈",
           "url": "https://wallstreetcn.com/livenews/3017622",
           "source": "华尔街见闻-快讯",
@@ -1527,17 +1593,6 @@
           "time_info": "[15时26分 ~ 15时44分]"
         },
         {
-          "title": "新质观察｜AI附体手机：一场笨拙而暴烈的数字越狱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32131597",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
-        },
-        {
           "title": "美联储：美国11月消费者通胀预期稳定，财务状况恶化",
           "url": "https://wallstreetcn.com/livenews/3017075",
           "source": "华尔街见闻-快讯",
@@ -1577,7 +1632,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1591,6 +1646,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "富国银行首席执行官沙夫：消费者支出水平依然强劲。",
+          "url": "https://flash.jin10.com/detail/20251209210421720800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
@@ -1626,6 +1692,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "2030 年我国计划实现 7 万亿体育消费目标，如何实现？你最看好哪个方向？",
+          "url": "https://www.zhihu.com/question/1981742134878032772",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "A股光伏概念午后局部异动，清源股份直线涨停。",
           "url": "https://wallstreetcn.com/livenews/3017417",
           "source": "华尔街见闻-快讯",
@@ -1651,7 +1728,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "众擎 T800 人形机器人对战自家 CEO，一脚将其踹倒在地，机器人完成这一动作有哪些技术亮点？",
@@ -1722,8 +1799,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时48分 ~ 20时52分]"
+          "appearance_count": 10,
+          "time_info": "[17时48分 ~ 21时39分]"
         },
         {
           "title": "机器人产业链企业“排队”赴港上市",
@@ -1736,17 +1813,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 07时42分]"
-        },
-        {
-          "title": "闻泰科技邀请荷兰安世股权托管人会谈，但暂未获得回应",
-          "url": "https://wallstreetcn.com/livenews/3017691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.05%，报25763点。 恒生科技指数主连夜盘收跌0.25%，报5654点。",
@@ -1772,6 +1838,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时23分 ~ 19时42分]"
+        },
+        {
+          "title": "闻泰科技邀请荷兰安世股权托管人会谈，但暂未获得回应",
+          "url": "https://wallstreetcn.com/livenews/3017691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时39分]"
         },
         {
           "title": "澜起科技港股上市获中国证监会备案",
@@ -2006,6 +2084,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "特斯拉机器人摔倒前做出「摘头显」动作被疑受远程操控，这算露馅了吗？从专业角度分析，可能是什么原因？",
+          "url": "https://www.zhihu.com/question/1981656074458199100",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "金十图示：2025年12月09日（周二）全球主要科技与互联网公司市值变化",
           "url": "https://flash.jin10.com/detail/20251209105605436800",
           "source": "金十数据",
@@ -2034,7 +2123,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -2328,7 +2417,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -2597,6 +2686,59 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[09时51分 ~ 21时39分]"
+        },
+        {
+          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
+          "url": "https://wallstreetcn.com/livenews/3017141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 05时41分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示净多头比例降至五周以来最低。",
+          "url": "https://flash.jin10.com/detail/20251209205624127800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3017053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -2645,48 +2787,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时51分 ~ 20时52分]"
-        },
-        {
-          "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
-          "url": "https://wallstreetcn.com/livenews/3017141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 05时41分]"
-        },
-        {
-          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3017053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -2702,6 +2802,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时48分 ~ 05时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国伊朗沙特三方联合委员会第三次会议联合新闻稿",
+          "url": "https://wallstreetcn.com/livenews/3017703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     }
