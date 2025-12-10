@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T03:21:32.475539+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-12-11T03:41:55.140782+08:00",
+  "total_titles_processed": 543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时41分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -30,16 +30,15 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
-          "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
-          "url": "https://flash.jin10.com/detail/20251211005314935800",
-          "source": "金十数据",
+          "title": "高市早苗求见特朗普",
+          "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            23
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时41分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普将在未来1-2周对美联储主席人选做最终决定。 被列为候选人，我为此感到荣幸。",
@@ -50,8 +49,20 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 03时41分]"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
+          "url": "https://flash.jin10.com/detail/20251211005314935800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时21分]"
+          "time_info": "[01时27分 ~ 01时49分]"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -102,7 +113,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -112,8 +123,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时41分]"
         },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -124,8 +135,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时41分]"
         },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -136,8 +147,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时41分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -146,11 +157,12 @@
           "ranks": [
             27,
             26,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时41分]"
         },
         {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
@@ -184,9 +196,20 @@
           "ranks": [
             9
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 03时41分]"
+        },
+        {
+          "title": "美联储主席鲍威尔：消费者支出稳健，企业固定投资扩张。",
+          "url": "https://flash.jin10.com/detail/20251211033219524800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "03时41分"
         }
       ]
     },
@@ -277,11 +300,12 @@
           "url": "https://www.cls.cn/detail/2225788",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 03时21分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 03时41分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -314,7 +338,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -370,9 +394,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 03时41分]"
         },
         {
           "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
@@ -401,8 +425,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 03时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 03时41分]"
         },
         {
           "title": "美联储12月利率决议声明发布前，标普大致持平，道指涨0.34%，纳指跌0.37%，银行指数涨1.15%。 美元指数跌0.29%，暂报98.95点；美元兑日元跌0.31%，欧元兑美元涨0.28%，英镑兑美元涨0.32%，澳元兑美元持平。 现货黄金跌0.29%，暂报4195.92美元；现货白银跌0.36%，报60.42美元。 美国10年期国债收益率跌2.34个基点，暂报4.1644%，持稳于日低4.1566%附近；两年期美债收益率跌2.67个基点，暂报3.5859%，也持稳于日低3.5817%附近。",
@@ -411,9 +435,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 03时41分]"
         }
       ]
     },
