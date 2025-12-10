@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T07:21:28.147199+08:00",
-  "total_titles_processed": 828,
+  "generated_at": "2025-12-11T07:41:45.280441+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时41分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[03时41分 ~ 07时41分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 07时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 07时41分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -39,17 +39,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
-          "url": "https://wallstreetcn.com/livenews/3018703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "美国总统特朗普：听苹果(AAPL.O)CEO库克说，招聘人才很难。",
@@ -113,6 +102,18 @@
           "time_info": "[01时27分 ~ 01时49分]"
         },
         {
+          "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
+          "url": "https://wallstreetcn.com/livenews/3018703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
+        },
+        {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
           "url": "https://flash.jin10.com/detail/20251211054743918800",
           "source": "金十数据",
@@ -165,6 +166,30 @@
           "time_info": "[05时46分 ~ 06时47分]"
         },
         {
+          "title": "特朗普百万美元金卡签证开始接受申请",
+          "url": "https://flash.jin10.com/detail/20251211060659681800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 07时41分]"
+        },
+        {
+          "title": "美联储降息后 特朗普发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
+        },
+        {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
           "url": "https://wallstreetcn.com/livenews/3018652",
           "source": "华尔街见闻-快讯",
@@ -189,16 +214,28 @@
           "time_info": "[01时27分 ~ 01时49分]"
         },
         {
-          "title": "特朗普百万美元金卡签证开始接受申请",
-          "url": "https://flash.jin10.com/detail/20251211060659681800",
+          "title": "特朗普称计划在明年初公布“加沙和平委员会”成员名单",
+          "url": "https://flash.jin10.com/detail/20251211064549059800",
           "source": "金十数据",
           "ranks": [
             10,
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时21分]"
+          "time_info": "[07时21分 ~ 07时41分]"
+        },
+        {
+          "title": "特朗普：泽连斯基必须现实一点",
+          "url": "https://flash.jin10.com/detail/20251211064229195800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
         },
         {
           "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
@@ -309,6 +346,17 @@
           "time_info": "[05时26分 ~ 05时46分]"
         },
         {
+          "title": "“特朗普黄金卡”开始接受申请",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
+        },
+        {
           "title": "美国总统特朗普：我们能够实现比传统数据好得多的成绩。可以在没有通货膨胀的情况下实现巨大增长。",
           "url": "https://flash.jin10.com/detail/20251211043405458800",
           "source": "金十数据",
@@ -320,6 +368,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "高市早苗求见特朗普",
+          "url": "https://flash.jin10.com/detail/20251211072431284800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "美国总统特朗普：美联储降息幅度本可以加倍。",
           "url": "https://flash.jin10.com/detail/20251211043212488800",
           "source": "金十数据",
@@ -329,17 +388,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "美联储降息后 特朗普发声",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
@@ -375,17 +423,6 @@
           "time_info": "02时36分"
         },
         {
-          "title": "特朗普称计划在明年初公布“加沙和平委员会”成员名单",
-          "url": "https://flash.jin10.com/detail/20251211064549059800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "美国总统特朗普：瑞士过去几乎什么都没付，现在却在支付一笔公平的金额。",
           "url": "https://flash.jin10.com/detail/20251211043143899800",
           "source": "金十数据",
@@ -395,17 +432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "特朗普：泽连斯基必须现实一点",
-          "url": "https://flash.jin10.com/detail/20251211064229195800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "美国总统特朗普：市场应继续上涨并取得优异成绩。",
@@ -529,17 +555,6 @@
           "time_info": "05时26分"
         },
         {
-          "title": "“特朗普黄金卡”开始接受申请",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "特朗普证实美国在委内瑞拉附近扣押一艘油轮",
           "url": "https://flash.jin10.com/detail/20251211044315426800",
           "source": "金十数据",
@@ -565,20 +580,8 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 07时21分]"
-        },
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
           "url": "https://wallstreetcn.com/articles/3761127",
@@ -586,11 +589,25 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 07时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 07时41分]"
+        },
+        {
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 07时41分]"
         },
         {
           "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
@@ -602,8 +619,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 07时21分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 07时41分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -619,8 +636,41 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 06时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 07时41分]"
+        },
+        {
+          "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
+          "url": "https://flash.jin10.com/detail/20251211073101861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "近日多家A股公司披露外汇套期保值额度 总额度大幅提升",
+          "url": "https://wallstreetcn.com/livenews/3018718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "12月以来超200家A股公司迎券商调研 存储芯片概念受关注",
+          "url": "https://wallstreetcn.com/livenews/3018717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
@@ -635,6 +685,19 @@
           "time_info": "[04时51分 ~ 05时26分]"
         },
         {
+          "title": "提升A股配置，基金“专业买手”布局跨年行情",
+          "url": "https://wallstreetcn.com/livenews/3018687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 07时41分]"
+        },
+        {
           "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3018538",
           "source": "华尔街见闻-快讯",
@@ -646,6 +709,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时49分]"
+        },
+        {
+          "title": "AIDC储能2030年出货量或达今年20倍",
+          "url": "https://wallstreetcn.com/livenews/3018700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
         },
         {
           "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
@@ -671,16 +746,16 @@
           "time_info": "[03时21分 ~ 03时41分]"
         },
         {
-          "title": "提升A股配置，基金“专业买手”布局跨年行情",
-          "url": "https://wallstreetcn.com/livenews/3018687",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            20
+            9,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时21分]"
+          "time_info": "[07时21分 ~ 07时41分]"
         },
         {
           "title": "AIG涨4.3%，刷新日高，创4月份以来最大盘中涨幅。",
@@ -707,26 +782,26 @@
           "time_info": "[04时51分 ~ 05时26分]"
         },
         {
-          "title": "AIDC储能2030年出货量或达今年20倍",
-          "url": "https://wallstreetcn.com/livenews/3018700",
-          "source": "华尔街见闻-快讯",
+          "title": "罗永浩与闫俊杰聊AI终极问题",
+          "url": "https://www.douyin.com/hot/2332688",
+          "source": "抖音",
           "ranks": [
-            7
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
         },
         {
-          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
-          "url": "https://flash.jin10.com/detail/20251211064706062800",
-          "source": "金十数据",
+          "title": "业内人士：政策预期不断强化，大消费板块配置机遇浮现",
+          "url": "https://wallstreetcn.com/livenews/3018711",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "07时41分"
         },
         {
           "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
@@ -749,17 +824,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "罗永浩与闫俊杰聊AI终极问题",
-          "url": "https://www.douyin.com/hot/2332688",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
@@ -809,7 +873,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -822,6 +886,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时27分 ~ 07时21分]"
+        },
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -901,6 +976,19 @@
           "time_info": "[06时27分 ~ 07时21分]"
         },
         {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 07时41分]"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251211013034126800",
           "source": "金十数据",
@@ -911,18 +999,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时36分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 07时21分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.43%，报326.61点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.50%，报2326.70点。",
@@ -977,8 +1053,19 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "金十数据整理：每日科技要闻速递（12月11日）",
+          "url": "https://flash.jin10.com/detail/20251211072824098800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
         {
           "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
           "url": "https://wallstreetcn.com/livenews/3018670",
@@ -1106,6 +1193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
+        },
+        {
+          "title": "机器人组鼓乐团了",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%84%E9%BC%93%E4%B9%90%E5%9B%A2%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         }
       ]
     },
@@ -1113,17 +1211,6 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 9,
       "titles": [
-        {
-          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
-          "url": "https://wallstreetcn.com/livenews/3018705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
           "url": "https://flash.jin10.com/detail/20251211055023100800",
@@ -1136,6 +1223,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 07时21分]"
+        },
+        {
+          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
+          "url": "https://wallstreetcn.com/livenews/3018705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
@@ -1263,6 +1362,18 @@
           "time_info": "[03时21分 ~ 03时41分]"
         },
         {
+          "title": "两年期美债收益率于美联储降息日跌超7.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3018697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时41分]"
+        },
+        {
           "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
           "url": "https://wallstreetcn.com/livenews/3018647",
           "source": "华尔街见闻-快讯",
@@ -1273,17 +1384,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 05时46分]"
-        },
-        {
-          "title": "两年期美债收益率于美联储降息日跌超7.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3018697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         }
       ]
     },
