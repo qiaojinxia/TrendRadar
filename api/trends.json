@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:29:17.102141+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2025-12-10T17:50:49.848998+08:00",
+  "total_titles_processed": 1663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时50分 ~ 17时29分]"
+          "appearance_count": 32,
+          "time_info": "[00时50分 ~ 17时50分]"
         },
         {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
@@ -163,8 +163,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 17时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 17时50分]"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时46分 ~ 17时50分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -215,19 +228,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时54分 ~ 14时38分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时46分 ~ 17时29分]"
         },
         {
           "title": "特朗普暗示质疑拜登使用自动签名机签署的美联储官员任命",
@@ -636,6 +636,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "据华尔街日报：被美国总统特朗普赦免的洪都拉斯前总统在本国面临逮捕令。",
           "url": "https://flash.jin10.com/detail/20251210015959433800",
           "source": "金十数据",
@@ -694,7 +705,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -729,11 +740,12 @@
             8,
             7,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时25分 ~ 17时29分]"
+          "appearance_count": 11,
+          "time_info": "[13时25分 ~ 17时50分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -796,11 +808,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 17时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 17时50分]"
         },
         {
           "title": "A股震荡分化，创业板涨0.61%，算力领涨，光伏拉升，中际旭创新高，港股恒指、科指跌超1%，有色弱势",
@@ -892,6 +905,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "万亿冰雪产业点燃冬季消费",
+          "url": "https://www.douyin.com/hot/2332093",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "智谱开源“会操作手机的AI”",
@@ -992,6 +1016,18 @@
           "time_info": "[03时18分 ~ 04时45分]"
         },
         {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 17时50分]"
+        },
+        {
           "title": "金十图示：2025年12月10日（周三）富时中国A50指数成分股午盘收盘行情一览：成分股多数下跌，银行、消费电子、半导体跌幅居前，保险股逆势小幅反弹",
           "url": "https://flash.jin10.com/detail/20251210113458134800",
           "source": "金十数据",
@@ -1002,6 +1038,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时54分 ~ 12时54分]"
+        },
+        {
+          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
+          "url": "https://wallstreetcn.com/articles/3761064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 17时50分]"
         },
         {
           "title": "花旗集团CFO Mason等高管预计，四季度市场收入同比增幅可能处于0%-10%区间的低端。 四季度IB费用同比增幅可能处于20%-30%区间的中部。 运营效率可能会超过63.5%。 美联储将在明天（12月10日）降息。 （美国）经济继续保持韧性，消费者开支保持稳健和韧性。 花旗股价下跌，刷新日低。",
@@ -1081,18 +1128,6 @@
           "time_info": "[00时50分 ~ 01时46分]"
         },
         {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 17时29分]"
-        },
-        {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
           "url": "https://wallstreetcn.com/livenews/3017838",
           "source": "华尔街见闻-快讯",
@@ -1151,17 +1186,6 @@
           "time_info": "[13时26分 ~ 13时47分]"
         },
         {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
-        },
-        {
           "title": "市场消息：OpenAI与Linux基金会共同创立了Agentic AI基金会。",
           "url": "https://flash.jin10.com/detail/20251210010503413800",
           "source": "金十数据",
@@ -1185,6 +1209,18 @@
           "time_info": "[14时38分 ~ 15时26分]"
         },
         {
+          "title": "中金公司：公司A股股票将继续停牌。",
+          "url": "https://wallstreetcn.com/livenews/3018341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时50分]"
+        },
+        {
           "title": "OpenAI：Denise Dresser将加入OpenAI担任首席营收官。",
           "url": "https://flash.jin10.com/detail/20251210024251829800",
           "source": "金十数据",
@@ -1194,6 +1230,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 03时40分]"
+        },
+        {
+          "title": "小米回应进军AI教育",
+          "url": "https://wallstreetcn.com/livenews/3018326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时50分]"
         },
         {
           "title": "A股福建板块反复活跃，德艺文创、永辉超市、惠泉啤酒、安记食品、昇兴股份、厦门港务、安妮股份等多股此前涨停。",
@@ -1273,17 +1321,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "中金公司：公司A股股票将继续停牌。",
-          "url": "https://wallstreetcn.com/livenews/3018341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "摩根大通消费者与社区银行业务首席执行官：从长远来看，人工智能的使用可使生产力提高40%至50%。",
           "url": "https://flash.jin10.com/detail/20251210015549048800",
           "source": "金十数据",
@@ -1315,17 +1352,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "小米回应进军AI教育",
-          "url": "https://wallstreetcn.com/livenews/3018326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
         },
         {
           "title": "EIA短期能源展望报告：预计2025年美国原油消费量为2059.00万桶/日，此前预期为2049.00万桶/日。",
@@ -1412,17 +1438,6 @@
           "time_info": "[03时18分 ~ 05时21分]"
         },
         {
-          "title": "联发科技11月销售额为469亿新台币，同比增长3.65%。",
-          "url": "https://flash.jin10.com/detail/20251210170355471800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
           "url": "https://wallstreetcn.com/livenews/3017889",
           "source": "华尔街见闻-快讯",
@@ -1457,6 +1472,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "联发科技11月销售额为469亿新台币，同比增长3.65%。",
+          "url": "https://flash.jin10.com/detail/20251210170355471800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时50分]"
         },
         {
           "title": "宇树和智元高价争抢春晚赞助席位？智元机器人回应：不是真的",
@@ -1823,8 +1850,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时53分 ~ 17时29分]"
+          "appearance_count": 17,
+          "time_info": "[09时53分 ~ 17时50分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1898,7 +1925,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         }
