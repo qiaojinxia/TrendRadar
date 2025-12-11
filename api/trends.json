@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T14:39:09.546100+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2025-12-11T15:28:22.393048+08:00",
+  "total_titles_processed": 1549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -29,19 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 14时39分]"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 07时41分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 15时28分]"
         },
         {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
@@ -53,8 +42,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 14时39分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 15时28分]"
+        },
+        {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 07时41分]"
         },
         {
           "title": "特朗普发飙怒斥记者",
@@ -585,6 +585,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "鲍威尔：如果（特朗普政府）不实施新的关税，商品通胀可能会在2026年一季度见顶。 现存关税通胀应当有十分之几。",
           "url": "https://wallstreetcn.com/livenews/3018626",
           "source": "华尔街见闻-快讯",
@@ -687,7 +698,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -702,8 +713,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 14时39分]"
+          "appearance_count": 29,
+          "time_info": "[00时32分 ~ 15时28分]"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 15时28分]"
+        },
+        {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 15时28分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -729,8 +764,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 14时39分]"
+          "appearance_count": 29,
+          "time_info": "[00时32分 ~ 15时28分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -751,45 +786,10 @@
           "time_info": "[00时32分 ~ 12时11分]"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 14时39分]"
-        },
-        {
           "title": "男子AI生成车展虚假低俗视频被拘",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
           "source": "bilibili 热搜",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 14时39分]"
-        },
-        {
-          "title": "网警查处一起AI生成虚假低俗视频案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 12时57分]"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
             6
           ],
           "is_new": false,
@@ -804,8 +804,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 15时28分]"
+        },
+        {
+          "title": "网警查处一起AI生成虚假低俗视频案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时55分 ~ 12时57分]"
         },
         {
           "title": "男子AI生成车展低俗视频造谣被拘",
@@ -815,8 +826,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时11分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 15时28分]"
         },
         {
           "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
@@ -863,6 +874,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 15时28分]"
+        },
+        {
           "title": "野村：韩国首尔综合指数明年上半年料触及5000点，受AI资本支出激增推动",
           "url": "https://wallstreetcn.com/livenews/3018915",
           "source": "华尔街见闻-快讯",
@@ -900,17 +922,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时28分 ~ 12时57分]"
-        },
-        {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 14时39分]"
         },
         {
           "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
@@ -961,6 +972,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 13时49分]"
+        },
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时28分]"
         },
         {
           "title": "提升A股配置，基金“专业买手”布局跨年行情",
@@ -1071,17 +1094,6 @@
           "time_info": "[04时51分 ~ 05时26分]"
         },
         {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
-        },
-        {
           "title": "罗永浩与闫俊杰聊AI终极问题",
           "url": "https://www.douyin.com/hot/2332688",
           "source": "抖音",
@@ -1115,6 +1127,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "A股收盘：北证50指数大涨近4%，商业航天概念股持续活跃",
+          "url": "https://wallstreetcn.com/livenews/3019021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-11）",
           "url": "https://flash.jin10.com/detail/20251211090536766800",
           "source": "金十数据",
@@ -1132,7 +1155,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -1170,6 +1193,28 @@
           "time_info": "04时51分"
         },
         {
+          "title": "Baird将Adobe目标价从425美元下调至410美元；将甲骨文目标价从315美元下调至300美元。",
+          "url": "https://wallstreetcn.com/livenews/3019009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
+          "url": "https://www.zhihu.com/question/1974921641634064010",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
           "title": "美联储主席鲍威尔：（新闻发布会开场白）可获得的数据表明，前景尚未改变。 通胀水平仍然偏高。 消费者开支仍然稳固。 大部分长期通胀预期与2%目标保持一致。 服务业似乎仍然存在反通胀。 劳动力市场似乎正在逐渐降温。 数据表明经济适度/温和扩张。 劳动力需求已经显著地趋软。 可获得数据表明，裁员和招聘都偏低。 就业下行风险似乎已经在近期上升。 企业固定投资已经继续扩张。",
           "url": "https://wallstreetcn.com/livenews/3018607",
           "source": "华尔街见闻-快讯",
@@ -1179,6 +1224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "投行Baird：将甲骨文(ORCL.N)目标价从315美元下调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251211144209926800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "美国银行CEO莫伊尼汉：未见消费者承受财务压力的迹象。",
@@ -1206,7 +1262,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特斯拉机器人摔倒摘镜被群嘲",
@@ -1214,11 +1270,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时28分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[11时28分 ~ 15时28分]"
         },
         {
           "title": "我国重大科技成果数量月月攀高",
@@ -1230,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时28分"
+        },
+        {
+          "title": "上海商汤科技开发公司增资至35亿，增幅75%",
+          "url": "https://wallstreetcn.com/livenews/3019033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（12月11日）",
@@ -1479,8 +1547,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时41分 ~ 14时39分]"
+          "appearance_count": 11,
+          "time_info": "[07时41分 ~ 15时28分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1493,8 +1561,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时46分 ~ 14时39分]"
+          "appearance_count": 14,
+          "time_info": "[06时46分 ~ 15时28分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1813,6 +1881,84 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            24,
+            28,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时28分 ~ 13时49分]"
+        },
+        {
+          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3018598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 04时29分]"
+        },
+        {
+          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
+          "url": "https://flash.jin10.com/detail/20251211011833674800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 02时36分]"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）上海金午盘价为952.81元/克，较国际金价(956.07元/克)，低3.26元/克",
+          "url": "https://flash.jin10.com/detail/20251211150430758800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
+          "url": "https://flash.jin10.com/detail/20251211101756207800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "高盛预计4,900美元的金价预期有上调空间 ETF资金流入将是推动力",
+          "url": "https://wallstreetcn.com/livenews/3019003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -1873,62 +2019,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 05时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            24,
-            28,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时28分 ~ 13时49分]"
-        },
-        {
-          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3018598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时29分]"
-        },
-        {
-          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
-          "url": "https://flash.jin10.com/detail/20251211011833674800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 02时36分]"
-        },
-        {
-          "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
-          "url": "https://flash.jin10.com/detail/20251211101756207800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         }
       ]
     },
