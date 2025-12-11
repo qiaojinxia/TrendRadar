@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T09:55:29.897190+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2025-12-11T11:28:29.980114+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时41分 ~ 09时55分]"
+          "appearance_count": 14,
+          "time_info": "[03时41分 ~ 11时28分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -48,7 +49,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -59,7 +60,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -225,6 +226,18 @@
           "time_info": "[07时21分 ~ 07时41分]"
         },
         {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
           "url": "https://wallstreetcn.com/livenews/3018652",
           "source": "华尔街见闻-快讯",
@@ -357,6 +370,18 @@
           "time_info": "[05时26分 ~ 05时46分]"
         },
         {
+          "title": "特朗普回应美联储降息：幅度太小",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
           "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
           "url": "https://flash.jin10.com/detail/20251211045154571800",
           "source": "金十数据",
@@ -420,7 +445,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -445,17 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
-        },
-        {
-          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
-          "url": "https://www.cls.cn/detail/2225986",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "法院命令显示，美国法官驳回特朗普政府要求驳回加州对40亿美元高铁资金撤销案的动议。",
@@ -546,24 +560,13 @@
           "time_info": "04时51分"
         },
         {
-          "title": "特朗普回应美联储降息：幅度太小",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -648,7 +651,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -658,11 +661,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 11时28分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -684,11 +688,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 11时28分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -705,8 +710,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 09时55分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时28分]"
+        },
+        {
+          "title": "网警查处一起AI生成虚假低俗视频案",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时28分]"
         },
         {
           "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
@@ -720,24 +736,13 @@
           "time_info": "07时41分"
         },
         {
-          "title": "网警查处一起AI生成虚假低俗视频案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
           "title": "中兴通讯A股跌近7%，港股大跌8.3%。",
           "url": "https://wallstreetcn.com/livenews/3018815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -751,6 +756,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
+          "url": "https://wallstreetcn.com/livenews/3018896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "12月以来超200家A股公司迎券商调研 存储芯片概念受关注",
@@ -800,6 +816,51 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时49分]"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
+          "title": "男子AI生成车展虚假低俗视频被拘",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
+          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
+          "url": "https://www.cls.cn/detail/2225983",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 11时28分]"
         },
         {
           "title": "AIDC储能2030年出货量或达今年20倍",
@@ -884,37 +945,15 @@
           "time_info": "[07时21分 ~ 07时41分]"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
+          "title": "男子AI生成车展低俗视频被拘",
+          "url": "https://www.douyin.com/hot/2333057",
+          "source": "抖音",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "男子AI生成车展虚假低俗视频被拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "11时28分"
         },
         {
           "title": "A股福建板块盘初走低，欣贺股份、舒华体育双双跌停，德艺文创跌超10%，新华都、安记食品、中国武夷、海欣食品、厦门空港等跌超7%。",
@@ -923,18 +962,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -956,7 +984,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -1030,8 +1058,30 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "恒指转跌，恒生科技指数跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3018899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "特斯拉机器人摔倒摘镜被群嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347877&amp;topic_name=%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%91%94%E5%80%92%E6%91%98%E9%95%9C%E8%A2%AB%E7%BE%A4%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
         {
           "title": "金十数据整理：每日科技要闻速递（12月11日）",
           "url": "https://flash.jin10.com/detail/20251211072824098800",
@@ -1042,6 +1092,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251211110330566800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
@@ -1123,9 +1184,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251211105040565800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.04%，报577.98点，银行指数初步收涨0.76%、科技指数跌0.29%。 欧元区STOXX 50指数初步收跌0.24%，报5704.46点。 富时泛欧绩优300指数初步收涨0.04%，报2305.28点。",
@@ -1156,7 +1228,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -1203,12 +1275,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "浙江省脑机接口重大科技专项与创新联合体将开启 相关脑机接口立项国际标准启动",
+          "url": "https://wallstreetcn.com/livenews/3018835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1231,8 +1314,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 09时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 11时28分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -1245,8 +1328,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时46分 ~ 09时55分]"
+          "appearance_count": 6,
+          "time_info": "[06时46分 ~ 11时28分]"
+        },
+        {
+          "title": "美股期货跌幅扩大，标普500指数期货跌1%，纳指期货跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3018895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
@@ -1385,6 +1479,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美股三大股指期货跌幅扩大，纳斯达克100指数期货跌1%，标普500指数期货跌0.59%，道指期货跌0.17%。",
+          "url": "https://flash.jin10.com/detail/20251211105349305800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "纳斯达克100指数期货跌1%，此前甲骨文美股盘后发布财报，股价大跌。",
+          "url": "https://wallstreetcn.com/livenews/3018880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
@@ -1509,7 +1625,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
@@ -1580,6 +1696,58 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3018598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 04时29分]"
+        },
+        {
+          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
+          "url": "https://flash.jin10.com/detail/20251211011833674800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 02时36分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
+          "url": "https://flash.jin10.com/detail/20251211101756207800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1614,46 +1782,27 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "伊朗",
+      "match_count": 3,
       "titles": [
         {
-          "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
-          "url": "https://wallstreetcn.com/livenews/3018598",
+          "title": "黎巴嫩外长：暂时无法接受邀请访问伊朗",
+          "url": "https://wallstreetcn.com/livenews/3018897",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            25
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
-        {
-          "title": "金价在美联储利率决议前回落 银价徘徊于高位附近",
-          "url": "https://flash.jin10.com/detail/20251211011833674800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时49分 ~ 02时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
         {
           "title": "伊朗驻俄罗斯大使表示，伊朗总统将在土库曼斯坦会见俄罗斯总统普京。",
           "url": "https://flash.jin10.com/detail/20251211020149364800",
