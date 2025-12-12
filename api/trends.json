@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T17:49:47.088778+08:00",
-  "total_titles_processed": 1741,
+  "generated_at": "2025-12-12T18:28:17.876552+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时42分 ~ 17时49分]"
+          "appearance_count": 19,
+          "time_info": "[07时42分 ~ 18时28分]"
         },
         {
           "title": "蜜雪冰城 7.9 元早餐被部分消费者吐槽有点贵，怎样看待这一定价？你觉得贵吗？",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时27分 ~ 17时49分]"
+          "appearance_count": 17,
+          "time_info": "[11时27分 ~ 18时28分]"
         },
         {
           "title": "110秒看懂万亿级消费风口",
@@ -42,6 +42,20 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时36分 ~ 11时27分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[11时27分 ~ 18时28分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -57,19 +71,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时36分 ~ 07时42分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时27分 ~ 17时49分]"
         },
         {
           "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
@@ -115,6 +116,21 @@
           "time_info": "[00时36分 ~ 17时29分]"
         },
         {
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时54分 ~ 18时28分]"
+        },
+        {
           "title": "日本高市内阁被曝丑闻：外相涉嫌将政治资金用于奢侈品牌消费",
           "url": "https://news.ifeng.com/c/8p1KgpgNO8P",
           "source": "凤凰网",
@@ -125,20 +141,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时55分 ~ 15时45分]"
-        },
-        {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时54分 ~ 17时49分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -168,11 +170,12 @@
             24,
             25,
             26,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时36分 ~ 17时49分]"
+          "appearance_count": 38,
+          "time_info": "[00时36分 ~ 18时28分]"
         },
         {
           "title": "消费者称蜜雪冰城早餐有点贵",
@@ -254,17 +257,6 @@
           "time_info": "14时38分"
         },
         {
-          "title": "度小满拟发行60亿元消费分期ABS，已获上交所受理",
-          "url": "https://wallstreetcn.com/livenews/3019821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
-        },
-        {
           "title": "“特斯拉劲敌”Rivian开发AI芯片，用于在未来车型中取代英伟达产品。 其AI平台的性能是之前款式英伟达系统的四倍。",
           "url": "https://wallstreetcn.com/livenews/3019345",
           "source": "华尔街见闻-快讯",
@@ -314,6 +306,17 @@
           "time_info": "[06时24分 ~ 07时42分]"
         },
         {
+          "title": "消费“主引擎” 持续释放增长新动能",
+          "url": "https://www.toutiao.com/trending/7582808889357156395/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
           "url": "https://wallstreetcn.com/livenews/3019584",
           "source": "华尔街见闻-快讯",
@@ -326,6 +329,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时27分 ~ 13时26分]"
+        },
+        {
+          "title": "李大霄：八个迹象显示A股或将反弹",
+          "url": "https://www.toutiao.com/trending/7582860539362020870/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "博主：A股修复性反弹进入重要观察期",
+          "url": "https://www.toutiao.com/trending/7582869749168623155/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "博通：预计未来六个季度AI芯片销售“至少”730亿美元。",
@@ -375,6 +404,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时47分 ~ 14时38分]"
+        },
+        {
+          "title": "度小满拟发行60亿元消费分期ABS，已获上交所受理",
+          "url": "https://wallstreetcn.com/livenews/3019821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时28分]"
         },
         {
           "title": "A股三大指数集体翻红。",
@@ -441,47 +482,12 @@
           "time_info": "[06时46分 ~ 07时42分]"
         },
         {
-          "title": "李大霄：八个迹象显示A股或将反弹",
-          "url": "https://www.toutiao.com/trending/7582860539362020870/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 17时49分]"
-        },
-        {
-          "title": "消费“主引擎” 持续释放增长新动能",
-          "url": "https://www.toutiao.com/trending/7582808889357156395/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 17时49分]"
-        },
-        {
           "title": "A股三大指数全线收红",
           "url": "https://www.toutiao.com/trending/7582540459596775460/",
           "source": "今日头条",
           "ranks": [
             19,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 17时49分]"
-        },
-        {
-          "title": "博主：A股修复性反弹进入重要观察期",
-          "url": "https://www.toutiao.com/trending/7582869749168623155/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -614,6 +620,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 06时46分]"
+        },
+        {
+          "title": "对 AI 从业者和创业者来说，2026 会是一个好年吗？",
+          "url": "https://www.zhihu.com/question/1977067972511097434",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "A股散户为何牛熊市都难逃亏损",
@@ -928,7 +945,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -952,11 +969,12 @@
             4,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时26分 ~ 17时49分]"
+          "appearance_count": 14,
+          "time_info": "[13时26分 ~ 18时28分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -977,11 +995,12 @@
           "ranks": [
             11,
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时27分 ~ 17时49分]"
+          "appearance_count": 17,
+          "time_info": "[11时27分 ~ 18时28分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -995,6 +1014,30 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时36分 ~ 07时42分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 18时28分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 18时28分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
@@ -1121,18 +1164,6 @@
           "time_info": "[05时27分 ~ 06时46分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 17时49分]"
-        },
-        {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
           "url": "https://flash.jin10.com/detail/20251212035647732800",
           "source": "金十数据",
@@ -1211,18 +1242,6 @@
           "time_info": "[03时23分 ~ 04时46分]"
         },
         {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 17时49分]"
-        },
-        {
           "title": "欧盟委员会主席冯德莱恩表示，特朗普不应该干涉欧洲的民主制度。",
           "url": "https://flash.jin10.com/detail/20251212042709736800",
           "source": "金十数据",
@@ -1233,6 +1252,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时46分 ~ 05时43分]"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
@@ -1359,17 +1390,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时54分 ~ 12时10分]"
-        },
-        {
-          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
-          "url": "https://www.cls.cn/detail/2227581",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 17时49分]"
         },
         {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
@@ -1636,6 +1656,28 @@
           "time_info": "07时42分"
         },
         {
+          "title": "据美国财经媒体Semafor：参议院民主党人很可能阻止特朗普青睐的Halligan获得检察官任命。",
+          "url": "https://flash.jin10.com/detail/20251212181225814800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212180819181800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "特朗普下令SEC审查代理咨询机构规则",
           "url": "https://flash.jin10.com/detail/20251212084323146800",
           "source": "金十数据",
@@ -1683,7 +1725,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "特斯拉机器人摔倒摘镜被群嘲",
@@ -1699,11 +1741,12 @@
             22,
             23,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 36,
-          "time_info": "[00时36分 ~ 17时49分]"
+          "appearance_count": 38,
+          "time_info": "[00时36分 ~ 18时28分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.85%，报25788点。 恒生科技指数主连夜盘收涨0.83%，报5593点。",
@@ -1831,6 +1874,17 @@
           "time_info": "[09时54分 ~ 11时27分]"
         },
         {
+          "title": "【数据看盘】北向、游资“爆买”联特科技 量化资金激烈博弈摩尔线程",
+          "url": "https://www.cls.cn/detail/2228098",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
           "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3019406",
           "source": "华尔街见闻-快讯",
@@ -1840,6 +1894,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 05时43分]"
+        },
+        {
+          "title": "何立峰：继续实施好适度宽松的货币政策 加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2228052",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "隆盛科技：公司及隆盛唯睿将在无锡滨湖区投资建设江苏隆盛唯睿具身智能机器人创新中心项目，重点聚焦具身机器人工业场景应用的研发与产业化，该项目总投资额约3.5亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3019813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时49分 ~ 18时28分]"
         },
         {
           "title": "金十图示：2025年12月12日（周五）中国科技互联网公司市值排名TOP 50一览",
@@ -1863,17 +1940,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
-        },
-        {
-          "title": "隆盛科技：公司及隆盛唯睿将在无锡滨湖区投资建设江苏隆盛唯睿具身智能机器人创新中心项目，重点聚焦具身机器人工业场景应用的研发与产业化，该项目总投资额约3.5亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3019813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时49分"
         },
         {
           "title": "【恒指高开0.9%，恒生科技指数涨1.02%】京东健康涨超3%，蔚来涨超2%，网易涨近2%，快手、阿里巴巴等涨超1%。",
@@ -2265,8 +2331,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时55分 ~ 17时49分]"
+          "appearance_count": 15,
+          "time_info": "[12时55分 ~ 18时28分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
