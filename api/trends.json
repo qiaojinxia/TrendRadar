@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T12:10:33.995738+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-12T12:55:18.960641+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 59,
+      "match_count": 62,
       "titles": [
         {
           "title": "110秒看懂万亿级消费风口",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 12时10分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 12时55分]"
         },
         {
           "title": "动画老牌GAINAX正式破产领盒饭",
@@ -55,11 +55,12 @@
             11,
             13,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 12时10分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 12时55分]"
         },
         {
           "title": "消费者称蜜雪冰城早餐有点贵",
@@ -88,8 +89,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时42分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时42分 ~ 12时55分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -97,11 +98,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时55分]"
         },
         {
           "title": "蜜雪冰城 7.9 元早餐被部分消费者吐槽有点贵，怎样看待这一定价？你觉得贵吗？",
@@ -112,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时55分]"
         },
         {
           "title": "博通(AVGO.O)盘后股价跌超5%，公司第一财季毛利润率将因AI产品而收缩1%。预计未来六个季度AI芯片销售至少730亿美元。",
@@ -203,6 +205,19 @@
           "time_info": "[07时23分 ~ 07时42分]"
         },
         {
+          "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
+          "url": "https://wallstreetcn.com/livenews/3019584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时55分]"
+        },
+        {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://wallstreetcn.com/livenews/3019450",
           "source": "华尔街见闻-快讯",
@@ -215,16 +230,17 @@
           "time_info": "[07时23分 ~ 07时42分]"
         },
         {
-          "title": "黄仁勋奥特曼等八人获《时代》年度人物：人类将共同决定AI未来形态",
-          "url": "https://wallstreetcn.com/livenews/3019584",
+          "title": "A股三大指数集体翻红。",
+          "url": "https://wallstreetcn.com/livenews/3019579",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            13
+            5,
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时55分]"
         },
         {
           "title": "AI泡沫担忧重燃，甲骨文跌16%，美股涨跌不一，金油承压，比特币跌超2%",
@@ -240,16 +256,16 @@
           "time_info": "[05时27分 ~ 06时46分]"
         },
         {
-          "title": "A股三大指数集体翻红。",
-          "url": "https://wallstreetcn.com/livenews/3019579",
-          "source": "华尔街见闻-快讯",
+          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3761222",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            15
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时55分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Greg Brockman发布GPT5.2思维能力测评结果，并表示，模型的基准测试表现非常出色。",
@@ -265,16 +281,29 @@
           "time_info": "[03时23分 ~ 04时46分]"
         },
         {
-          "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3761222",
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时55分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时10分]"
+          "time_info": "[11时27分 ~ 12时55分]"
         },
         {
           "title": "博通CFO：第一财季毛利润率将因AI产品而收缩1%。",
@@ -290,27 +319,28 @@
           "time_info": "[06时46分 ~ 07时42分]"
         },
         {
-          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
-          "source": "澎湃新闻",
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            18
+            13,
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时10分]"
+          "time_info": "[11时27分 ~ 12时55分]"
         },
         {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时55分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -372,29 +402,6 @@
           "time_info": "[01时57分 ~ 02时37分]"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼在社交媒体上透露，下周将带来一些小小的圣诞礼物。",
           "url": "https://flash.jin10.com/detail/20251212031452829800",
           "source": "金十数据",
@@ -453,6 +460,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "日本高市内阁被曝丑闻：外相涉嫌将政治资金用于奢侈品牌消费",
+          "url": "https://news.ifeng.com/c/8p1KgpgNO8P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
           "url": "https://flash.jin10.com/detail/20251212020607458800",
           "source": "金十数据",
@@ -462,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
+          "url": "https://www.cls.cn/detail/2227459",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "CoreWeave宣布达成协议，为Runway的下一代AI视频模型提供算力支持。",
@@ -607,6 +636,17 @@
           "time_info": "11时27分"
         },
         {
+          "title": "A股散户为何牛熊市都难逃亏损",
+          "url": "https://www.toutiao.com/trending/7582570482419895859/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
           "url": "https://flash.jin10.com/detail/20251211235011876800",
           "source": "金十数据",
@@ -709,7 +749,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -738,6 +778,17 @@
           "time_info": "[00时36分 ~ 07时42分]"
         },
         {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时55分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
           "url": "https://wallstreetcn.com/livenews/3019384",
           "source": "华尔街见闻-快讯",
@@ -750,17 +801,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时23分 ~ 05时43分]"
-        },
-        {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "美国总统特朗普：周六有个会议，我们看看要不要参加。如果我们认为有很好的机会（达成乌克兰和平协议），我们会参加。",
@@ -938,6 +978,19 @@
           "time_info": "[04时46分 ~ 05时43分]"
         },
         {
+          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
+          "url": "https://flash.jin10.com/detail/20251212111451238800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时55分]"
+        },
+        {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
           "url": "https://flash.jin10.com/detail/20251212014134428800",
           "source": "金十数据",
@@ -948,18 +1001,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 02时37分]"
-        },
-        {
-          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
-          "url": "https://flash.jin10.com/detail/20251212111451238800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -1063,6 +1104,17 @@
           "time_info": "[09时54分 ~ 12时10分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时55分]"
+        },
+        {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
           "url": "https://flash.jin10.com/detail/20251212054106500800",
           "source": "金十数据",
@@ -1146,17 +1198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 04时46分]"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -1313,6 +1354,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "特朗普称美对委行动很快将延伸至陆地",
+          "url": "https://www.toutiao.com/trending/7582515717653315611/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
           "title": "特朗普称赞股市再创新高",
           "url": "https://flash.jin10.com/detail/20251211234650410800",
           "source": "金十数据",
@@ -1350,8 +1402,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时23分 ~ 12时10分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 12时55分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1535,11 +1587,12 @@
             9,
             11,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时36分 ~ 12时10分]"
+          "appearance_count": 24,
+          "time_info": "[00时36分 ~ 12时55分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.85%，报25788点。 恒生科技指数主连夜盘收涨0.83%，报5593点。",
@@ -1609,11 +1662,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 12时10分]"
+          "appearance_count": 4,
+          "time_info": "[09时54分 ~ 12时55分]"
         },
         {
           "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
@@ -1667,7 +1721,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1786,6 +1840,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全面解析ChatGPT5.2",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时10分]"
+        },
+        {
+          "title": "ChatGPT5.2正式发布",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -1871,34 +1964,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全面解析ChatGPT5.2",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
-        },
-        {
-          "title": "ChatGPT5.2正式发布",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         }
       ]
     },
