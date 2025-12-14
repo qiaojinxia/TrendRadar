@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:44:52.992850+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2025-12-14T21:31:06.947000+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力芯片龙头赫然在列",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时00分 ~ 20时44分]"
+          "appearance_count": 26,
+          "time_info": "[10时00分 ~ 21时31分]"
         },
         {
           "title": "近一个月21家A股上市公司公告终止并购重组 热门国产算力龙头赫然在列",
@@ -132,6 +132,20 @@
           "time_info": "[00时28分 ~ 13时45分]"
         },
         {
+          "title": "三部门发文：更大力度提振消费",
+          "url": "https://www.cls.cn/detail/2228883",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时24分 ~ 21时31分]"
+        },
+        {
           "title": "华尔街日报：OpenAI将取消员工股权归属期",
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
@@ -210,8 +224,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时39分 ~ 20时44分]"
+          "appearance_count": 23,
+          "time_info": "[12时39分 ~ 21时31分]"
         },
         {
           "title": "累计金额超1375亿！1468家A股上市公司今年以来实施回购，个股回购额排行榜出炉",
@@ -225,8 +239,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时28分 ~ 20时44分]"
+          "appearance_count": 47,
+          "time_info": "[00时28分 ~ 21时31分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -265,8 +279,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时44分 ~ 20时44分]"
+          "appearance_count": 24,
+          "time_info": "[11时44分 ~ 21时31分]"
         },
         {
           "title": "三部门：鼓励有条件的地方运用数字人民币智能合约红包提升促消费政策实施质效",
@@ -309,18 +323,18 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
-          "title": "三部门发文：更大力度提振消费",
-          "url": "https://www.cls.cn/detail/2228883",
+          "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
+          "url": "https://www.cls.cn/detail/2228836",
           "source": "财联社热门",
           "ranks": [
-            11,
-            6,
-            5,
-            2
+            13,
+            10,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 20时44分]"
+          "appearance_count": 9,
+          "time_info": "[18时24分 ~ 21时31分]"
         },
         {
           "title": "商务部财务司负责人：下一步将推动相关举措落地生效，更大力度支持惠民生和提振消费",
@@ -368,18 +382,40 @@
           "time_info": "[16时31分 ~ 19时40分]"
         },
         {
-          "title": "千亿市值背后的资本棋局：解码A股光模块“三剑客”发家史",
-          "url": "https://www.cls.cn/detail/2228836",
-          "source": "财联社热门",
+          "title": "11条政策措施更大力度提振消费",
+          "url": "https://www.toutiao.com/trending/7583614906374193193/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            10,
-            7,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时24分 ~ 20时44分]"
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "加强商务和金融协同更大力度提振消费",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%BC%BA%E5%95%86%E5%8A%A1%E5%92%8C%E9%87%91%E8%9E%8D%E5%8D%8F%E5%90%8C%E6%9B%B4%E5%A4%A7%E5%8A%9B%E5%BA%A6%E6%8F%90%E6%8C%AF%E6%B6%88%E8%B4%B9%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
+          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
+          "url": "https://wallstreetcn.com/livenews/3020397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时24分 ~ 21时31分]"
         },
         {
           "title": "重启「混元」、挖字节 Seed 研究员，腾讯能在 AI 领域再度成功上演「敢为人后」的策略吗？",
@@ -406,6 +442,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "中钢协骆铁军：呼吁钢企响应国家反“内卷式”恶性竞争，维护行业利益和消费者利益",
+          "url": "https://wallstreetcn.com/livenews/3020418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
+        },
+        {
           "title": "日本自民党多地分支机构涉嫌违规消费",
           "url": "https://www.toutiao.com/trending/7583528062436917289/",
           "source": "今日头条",
@@ -416,19 +463,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时42分 ~ 19时19分]"
-        },
-        {
-          "title": "中信证券：AI训练、推理需求贡献驱动力，持续看好一线云厂商2026年投资机遇",
-          "url": "https://wallstreetcn.com/livenews/3020397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时24分 ~ 20时44分]"
         },
         {
           "title": "日本自民党多地分支机构使用政治资金支付娱乐场所消费",
@@ -442,6 +476,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 12时39分]"
+        },
+        {
+          "title": "商务部等三部门：加强商务和金融协同，更大力度提振消费",
+          "url": "https://wallstreetcn.com/articles/3761365",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时31分]"
+        },
+        {
+          "title": "商家“大字宣传，小字提醒”，消费者产生误解起诉3倍赔偿",
+          "url": "https://news.ifeng.com/c/8p56v1rdF9z",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 21时31分]"
         },
         {
           "title": "日本加息对A股的影响有多大",
@@ -465,28 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
-        },
-        {
-          "title": "商务部等三部门：加强商务和金融协同，更大力度提振消费",
-          "url": "https://wallstreetcn.com/articles/3761365",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
-          "title": "商家“大字宣传，小字提醒”，消费者产生误解起诉3倍赔偿",
-          "url": "https://news.ifeng.com/c/8p56v1rdF9z",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -517,7 +551,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -525,7 +559,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -692,6 +726,17 @@
           "time_info": "[04时25分 ~ 07时42分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时39分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
           "url": "https://flash.jin10.com/detail/20251214101831272800",
           "source": "金十数据",
@@ -738,17 +783,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[17时23分 ~ 19时19分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 20时44分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -847,6 +881,17 @@
           "time_info": "[15时22分 ~ 15时41分]"
         },
         {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
+        },
+        {
           "title": "特朗普的“新五常”计划可行吗",
           "url": "https://www.toutiao.com/trending/7583121726133767743/",
           "source": "今日头条",
@@ -938,8 +983,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 45,
-          "time_info": "[00时28分 ~ 20时44分]"
+          "appearance_count": 47,
+          "time_info": "[00时28分 ~ 21时31分]"
         },
         {
           "title": "机器人年终盘点①：宇树科技官宣IPO，掀起行业资本浪潮",
@@ -952,8 +997,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[12时39分 ~ 20时44分]"
+          "appearance_count": 23,
+          "time_info": "[12时39分 ~ 21时31分]"
         },
         {
           "title": "对标智能手机生态？宇树首发人形机器人App Store，复杂动作“即下即用”",
@@ -1061,11 +1106,12 @@
           "url": "https://wallstreetcn.com/livenews/3020412",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时44分 ~ 21时31分]"
         },
         {
           "title": "美媒：美英贸易协议遭遇阻碍，美方将暂停履行《科技繁荣协议》",
@@ -1177,6 +1223,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时44分 ~ 13时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         }
       ]
     }
