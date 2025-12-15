@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T04:53:07.150789+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-12-16T05:24:39.144953+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 35,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -38,11 +38,12 @@
             8,
             10,
             20,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -53,33 +54,23 @@
             26,
             28,
             30,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
-          "title": "美国总统特朗普：将签署行政命令，将芬太尼列为“大规模杀伤性武器”。",
-          "url": "https://flash.jin10.com/detail/20251216043109134800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
-          "url": "https://wallstreetcn.com/livenews/3021155",
+          "title": "美国总统特朗普：我今天没看股市，可能涨了。",
+          "url": "https://wallstreetcn.com/livenews/3021167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时53分"
+          "time_info": "05时24分"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -94,6 +85,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 03时23分]"
+        },
+        {
+          "title": "美国总统特朗普：将签署行政命令，将芬太尼列为“大规模杀伤性武器”。",
+          "url": "https://flash.jin10.com/detail/20251216043109134800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时24分]"
+        },
+        {
+          "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3021155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时24分]"
         },
         {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
@@ -189,15 +204,37 @@
           "time_info": "[01时07分 ~ 01时28分]"
         },
         {
+          "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
+          "url": "https://flash.jin10.com/detail/20251216050154625800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国总统特朗普：将开始打击陆地上的毒品走私贩。",
           "url": "https://flash.jin10.com/detail/20251216042346554800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普：我要起诉BBC，对方将文字塞进我的嘴里。 我们可能会在今天或明天早间递交诉状。",
+          "url": "https://wallstreetcn.com/livenews/3021165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：俄罗斯也想结束这一切。",
@@ -206,7 +243,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -217,9 +254,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普：国际维和部队已经在以某种形式运行了。",
+          "url": "https://flash.jin10.com/detail/20251216045805156800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：我们与俄罗斯总统普京进行了多次会谈。",
@@ -228,9 +276,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普：更多国家将加入加沙国际维和部队。",
+          "url": "https://flash.jin10.com/detail/20251216045719232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：我认为我们现在比以往任何时候都更接近目标（达成俄乌停火）。",
@@ -239,9 +298,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
+          "url": "https://flash.jin10.com/detail/20251216045556707800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：我们进行了长时间的讨论，事情似乎进展得很顺利。",
@@ -250,7 +320,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
         },
@@ -261,9 +331,86 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251216045447003800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：将对极端组织 “伊斯兰国” 实施严厉打击。",
+          "url": "https://flash.jin10.com/detail/20251216044703308800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：我与内塔尼亚胡一直保持着良好的关系。",
+          "url": "https://flash.jin10.com/detail/20251216044528423800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在调查以色列是否通过杀害哈马斯领导人而违反了停火协议。",
+          "url": "https://flash.jin10.com/detail/20251216044444718800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：正考虑通过行政命令重新对大麻进行分类。",
+          "url": "https://flash.jin10.com/detail/20251216044421725800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：可能在今天下午或明天上午提交诉讼申请。",
+          "url": "https://flash.jin10.com/detail/20251216044233822800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：将很快对英国广播公司（BBC）提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20251216044150857800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -280,8 +427,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "十大券商看后市｜A股跨年行情蓄势待发，布局春季躁动",
@@ -292,8 +439,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "AH股震荡调整，创业板跌1.77%，大消费全面爆发，恒科指跌超2%，铂金期货涨停，30年期国债收跌0.99%",
@@ -303,8 +450,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "“冰雪+”打造消费新场景",
@@ -314,8 +461,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -327,8 +474,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -340,6 +487,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时28分]"
+        },
+        {
+          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
+          "url": "https://wallstreetcn.com/livenews/3021142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 05时24分]"
         },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -365,19 +526,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时51分 ~ 04时29分]"
-        },
-        {
-          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
-          "url": "https://wallstreetcn.com/livenews/3021142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 04时53分]"
         },
         {
           "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
@@ -465,7 +613,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
@@ -475,8 +623,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -488,8 +636,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "机器人年终盘点②：具身智能加速奔赴“场景”，机遇与挑战共存",
@@ -501,8 +649,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "扫地机器人鼻祖要破产了",
@@ -511,11 +659,12 @@
           "ranks": [
             7,
             13,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.31%，报25574点。 恒生科技指数主连夜盘收跌0.69%，报5479点。",
@@ -524,11 +673,23 @@
           "ranks": [
             2,
             8,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时23分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 05时24分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块初步收跌1%，能源板块跌0.8%，电信板块跌0.1%，可选消费板块则涨0.5%，公用事业板块涨0.8%，保健板块涨1.3%。 纳斯达克100指数初步收跌0.5%，成分股中，Strategy初步收跌7.9%，博通、CoStar Group跌6.2%，Arm控股跌5.2%，Booking、ISRG、万豪国际、康卡斯特、特斯拉则涨超3%。 Salesforce初步收跌3.1%，3M、亚马逊、苹果、卡特彼勒跌超1%，领跌道指成分股，宝洁、强生、霍尼韦尔则至少涨约1.6%，Travelers Companies Inc.涨1.9%，安进涨2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3021168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "欧盟抵制美国施压，拒绝修改科技监管规则",
@@ -542,12 +703,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时07分 ~ 02时37分]"
+        },
+        {
+          "title": "市场消息：高盛重组科技、电信与媒体银行业务团队。",
+          "url": "https://flash.jin10.com/detail/20251216044856453800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -559,8 +731,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时07分 ~ 04时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时07分 ~ 05时24分]"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251216050520167800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
+          "url": "https://flash.jin10.com/detail/20251216050109624800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股盘中）",
@@ -587,6 +781,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
+          "url": "https://wallstreetcn.com/livenews/3021137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -595,11 +806,12 @@
           "url": "https://wallstreetcn.com/livenews/3021163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时24分]"
         }
       ]
     },
@@ -612,11 +824,12 @@
           "url": "https://wallstreetcn.com/livenews/3021162",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时24分]"
         }
       ]
     }
