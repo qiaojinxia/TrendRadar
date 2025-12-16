@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T09:55:23.057186+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-12-16T11:28:17.244402+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -68,9 +68,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
+          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://news.ifeng.com/c/8p7htngCHQD",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时28分]"
         },
         {
           "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
@@ -87,15 +98,16 @@
           "time_info": "[05时44分 ~ 07时43分]"
         },
         {
-          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://news.ifeng.com/c/8p7htngCHQD",
-          "source": "凤凰网",
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
           "ranks": [
+            8,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时28分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -325,6 +337,17 @@
           "time_info": "[05时24分 ~ 05时44分]"
         },
         {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
           "url": "https://flash.jin10.com/detail/20251216004832020800",
           "source": "金十数据",
@@ -384,6 +407,17 @@
           "time_info": "[03时23分 ~ 03时42分]"
         },
         {
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "美国总统特朗普邀请斯洛伐克总理前往美国，讨论核合作协议。",
           "url": "https://wallstreetcn.com/livenews/3021091",
           "source": "华尔街见闻-快讯",
@@ -415,17 +449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        },
-        {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "美国总统特朗普：俄罗斯也想结束这一切。",
@@ -500,7 +523,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -563,7 +586,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "汽车与家电零售跌幅扩大，中国11月社会消费品零售同比增速降至1.3%",
@@ -601,8 +624,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 09时55分]"
+          "appearance_count": 17,
+          "time_info": "[01时07分 ~ 11时28分]"
         },
         {
           "title": "“冰雪+”打造消费新场景",
@@ -612,8 +635,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时07分 ~ 09时55分]"
+          "appearance_count": 17,
+          "time_info": "[01时07分 ~ 11时28分]"
         },
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -639,8 +662,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时25分 ~ 09时55分]"
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 11时28分]"
         },
         {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
@@ -744,7 +767,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -787,6 +810,39 @@
           "time_info": "[01时07分 ~ 01时51分]"
         },
         {
+          "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
+          "url": "https://wallstreetcn.com/articles/3761448",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
+          "title": "你如何看待 DeepMind CEO 说「中国 AI 毫无创新但跟进速度可怕」？",
+          "url": "https://www.zhihu.com/question/1982854147905691963",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
+          "title": "A股跨年行情蓄势待发",
+          "url": "https://www.toutiao.com/trending/7583973911629725734/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "摩根大通：甲骨文激进AI投入引发债市担忧",
           "url": "https://flash.jin10.com/detail/20251216004022333800",
           "source": "金十数据",
@@ -796,6 +852,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时28分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
         },
         {
           "title": "A股年内分红总额超去年达2.56万亿元，创出历史新高",
@@ -815,7 +882,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -826,7 +893,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -859,7 +926,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -873,12 +940,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "A股三大指数均跌超1%，军工、商业航天、光伏风电、影视等板块跌幅居前，沪深京三市下跌个股超4500只。",
+          "url": "https://wallstreetcn.com/livenews/3021320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "国产算力掀资本化浪潮：沐曦股份上市在即 壁仞科技港股IPO获备案",
@@ -934,6 +1012,17 @@
           "time_info": "[01时07分 ~ 09时55分]"
         },
         {
+          "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.31%，报25574点。 恒生科技指数主连夜盘收跌0.69%，报5479点。",
           "url": "https://wallstreetcn.com/livenews/3021141",
           "source": "华尔街见闻-快讯",
@@ -959,17 +1048,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时43分]"
-        },
-        {
-          "title": "非农前夕，科技股续跌拖累大盘，特斯拉年内新高，加密货币跌，人民币走强，金银走高",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（12月16日）",
@@ -1046,6 +1124,17 @@
           "time_info": "[06时46分 ~ 07时43分]"
         },
         {
+          "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
+          "url": "https://wallstreetcn.com/articles/3761403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "市场消息：高盛重组科技、电信与媒体银行业务团队。",
           "url": "https://flash.jin10.com/detail/20251216044856453800",
           "source": "金十数据",
@@ -1058,15 +1147,48 @@
           "time_info": "[05时24分 ~ 05时44分]"
         },
         {
+          "title": "“馆长”福耀科技大学演讲",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%A6%86%E9%95%BF%E2%80%9D%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%BC%94%E8%AE%B2",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "恒生科技指数日内跌幅扩大至1%，小鹏汽车跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3021295",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251216105617788800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251216105422299800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "A股智能驾驶概念开盘活跃，北汽蓝谷、浙江世宝竞价涨停，云意电气、万集科技、莱赛激光涨超10%，索菱股份、经纬恒润、豪恩汽电、中海达、锦江在线等涨幅靠前，消息面上，我国首批L3级自动驾驶车型产品获得准入许可，两款分别适配城市拥堵、高速路段的车型将在北京、重庆指定区域开展上路试点。",
@@ -1075,9 +1197,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至2%，恒指跌1.7%。商汤、小鹏汽车、阿里巴巴跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3021337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "恒生指数低开0.32%，报25547.92点；恒生科技指数跌0.56%。小鹏汽车、百度、小米、阿里巴巴等跌超1%。",
@@ -1086,7 +1219,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -1211,6 +1344,57 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
+          "url": "https://flash.jin10.com/detail/20251216110323554800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 11时28分]"
+        },
+        {
+          "title": "澳新银行：受全球增长前景恶化、贸易紧张局势再起、美联储独立性受损以及股市抛售潮等因素影响，金价或于2026年突破5000美元/盎司。 若美国经济增长前景改善、美元汇率意外走强且美联储采取鹰派政策，现货黄金或于 2026年回落至3500美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3021329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "澳新银行：牛市情景下，2026年金价可突破5000美元/盎司",
+          "url": "https://flash.jin10.com/detail/20251216103053723800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1256,23 +1440,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         }
       ]
     },
