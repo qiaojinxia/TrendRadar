@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-17T13:27:24.578696+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-12-17T13:48:51.626751+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 49,
       "titles": [
+        {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 13时48分]"
+        },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
           "url": "https://www.zhihu.com/question/1983941746871264912",
@@ -23,8 +34,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时34分 ~ 13时27分]"
+          "appearance_count": 26,
+          "time_info": "[00时34分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 13时48分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -38,17 +73,6 @@
           "time_info": "[00时34分 ~ 07时43分]"
         },
         {
-          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
-          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时27分]"
-        },
-        {
           "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
           "url": "https://news.ifeng.com/c/8p8hxedgU29",
           "source": "凤凰网",
@@ -58,17 +82,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时34分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普签署公告，进一步限制外国公民入境美国",
-          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时27分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -101,19 +114,6 @@
           "time_info": "[00时34分 ~ 07时23分]"
         },
         {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时27分]"
-        },
-        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普可能会在周三披露2026年政策方向。",
           "url": "https://wallstreetcn.com/livenews/3021872",
           "source": "华尔街见闻-快讯",
@@ -137,6 +137,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 03时42分]"
+        },
+        {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 13时48分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于明天前往多佛空军基地，出席在叙利亚阵亡美军士兵的移交仪式。",
@@ -193,18 +206,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 03时42分]"
-        },
-        {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 13时27分]"
         },
         {
           "title": "布伦特原油日内涨超1.00%，现报59.65美元/桶。此前特朗普下令封锁进出委内瑞拉的受制裁油轮。",
@@ -292,6 +293,17 @@
           "time_info": "[04时29分 ~ 05时44分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 13时48分]"
+        },
+        {
           "title": "特朗普签署公告 进一步限制外国公民入境美国",
           "url": "https://flash.jin10.com/detail/20251217040248349800",
           "source": "金十数据",
@@ -343,17 +355,6 @@
           "time_info": "[04时49分 ~ 05时44分]"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时27分]"
-        },
-        {
           "title": "专家预测特朗普将为中选出什么招",
           "url": "https://www.toutiao.com/trending/7584654516868353579/",
           "source": "今日头条",
@@ -387,6 +388,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时27分]"
+        },
+        {
+          "title": "马斯克又要给特朗普花钱了",
+          "url": "https://www.toutiao.com/trending/7584667287097986610/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时48分]"
         },
         {
           "title": "特朗普政府官员对哈塞特担任美联储主席表示质疑。（Politico）",
@@ -478,17 +491,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
-        },
-        {
-          "title": "马斯克又要给特朗普花钱了",
-          "url": "https://www.toutiao.com/trending/7584667287097986610/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         },
         {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
@@ -593,7 +595,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -619,8 +621,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时37分 ~ 13时27分]"
+          "appearance_count": 11,
+          "time_info": "[02时37分 ~ 13时48分]"
         },
         {
           "title": "“AI基建”遭重创，博通，甲骨文三天跌超17%，CoreWeave3个月几近“腰斩”",
@@ -642,11 +644,12 @@
           "ranks": [
             7,
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 13时48分]"
         },
         {
           "title": "A股因何调整？公募激辩未来走势，大摩：2026年更多外资回归中国市场",
@@ -709,6 +712,19 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "一签赚近30万！沐曦股份刷新A股纪录 相较可比公司估值如何？",
+          "url": "https://www.cls.cn/detail/2231770",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时07分 ~ 13时48分]"
+        },
+        {
           "title": "OpenAI应用负责人：包括Adobe、Airtable、AppleMusic、Clay、Lovable、Salesforce在内的更多应用程序，将在ChatGPT的新目录中上线。",
           "url": "https://flash.jin10.com/detail/20251217041047149800",
           "source": "金十数据",
@@ -743,19 +759,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 13时27分]"
-        },
-        {
-          "title": "一签赚近30万！沐曦股份刷新A股纪录 相较可比公司估值如何？",
-          "url": "https://www.cls.cn/detail/2231770",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时07分 ~ 13时27分]"
         },
         {
           "title": "OpenAI：我们将发布一项新的评估FrontierScience，用于衡量专家级的科学推理能力。FrontierScience包含两个题型：奥林匹克赛题，用于评估奥林匹克竞赛式的科学推理能力；研究赛题，用于评估现实世界中的科研能力。",
@@ -800,11 +803,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3ThaiMu%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 13时48分]"
         },
         {
           "title": "A股公司股东辞世 1.7亿遗产子女继承",
@@ -817,6 +821,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时22分 ~ 06时44分]"
+        },
+        {
+          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
+          "url": "https://www.cls.cn/detail/2231832",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 13时48分]"
         },
         {
           "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
@@ -900,17 +915,6 @@
           "time_info": "00时34分"
         },
         {
-          "title": "电力“隐形心脏”告急！揭秘美国AI热潮最大瓶颈之一：变压器",
-          "url": "https://www.cls.cn/detail/2231832",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-17）",
           "url": "https://flash.jin10.com/detail/20251217090325398800",
           "source": "金十数据",
@@ -942,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "A股今年打新最大肉签出现",
+          "url": "https://www.toutiao.com/trending/7584644035324018729/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
         },
         {
           "title": "A股公司今年以来斥资逾9440亿元购买理财产品",
@@ -1005,8 +1020,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 13时48分]"
         },
         {
           "title": "科技巨头推动国会简化人工智能与芯片项目审批流程",
@@ -1092,8 +1107,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时54分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时54分 ~ 13时48分]"
         },
         {
           "title": "美国11月非农就业报告发布日，标普500指数初步收跌0.2%，能源板块跌2.8%，保健板块跌1.2%，科技板块涨0.5%。 纳斯达克100指数初步收涨0.3%，成分股中，康卡斯特初步收涨5.5%，Strategy涨3.7%，特斯拉涨3.4%，Palantir涨2.6%，核电股Constellation Energy涨2.6%，Arm控股则跌2.5%，Diamondback Energy跌2.9%，美国油服贝克休斯跌3.9%。",
@@ -1192,8 +1207,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 13时48分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
