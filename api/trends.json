@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T01:26:49.185525+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2025-12-18T01:49:04.060214+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "网红券商Robinhood的CEO Tenev：目标是，继续成为一个金融“超级APP”。 已经与美国总统特朗普讨论过“Trump Accounts”的事宜，我们准备（出资）向这个东西提供帮助。",
@@ -14,9 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 01时49分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
         },
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -50,8 +50,32 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
+        },
+        {
+          "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
+          "url": "https://wallstreetcn.com/livenews/3022522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "time_info": "[00时34分 ~ 01时49分]"
+        },
+        {
+          "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
+          "url": "https://flash.jin10.com/detail/20251218010257604800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 01时49分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -66,27 +90,39 @@
           "time_info": "[00时34分 ~ 01时26分]"
         },
         {
-          "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
-          "url": "https://wallstreetcn.com/livenews/3022522",
-          "source": "华尔街见闻-快讯",
+          "title": "美智库：特朗普重返白宫不到一年，签署行政命令已超其首任总和",
+          "url": "https://flash.jin10.com/detail/20251218005333021800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            24
+            8,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "time_info": "[01时26分 ~ 01时49分]"
         },
         {
-          "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
-          "url": "https://flash.jin10.com/detail/20251218010257604800",
+          "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
+          "url": "https://flash.jin10.com/detail/20251218004201233800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 01时49分]"
+        },
+        {
+          "title": "美国参议院正式通过总额达9006亿美元的2026财年国防授权法案，将送交特朗普签署成为法律。",
+          "url": "https://flash.jin10.com/detail/20251218012702878800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "01时49分"
         },
         {
           "title": "桥水基金创始人达利欧：达利欧慈善基金会将支持为儿童设立的“特朗普账户”（Trump Accounts for Children）。",
@@ -100,35 +136,13 @@
           "time_info": "00时34分"
         },
         {
-          "title": "美智库：特朗普重返白宫不到一年，签署行政命令已超其首任总和",
-          "url": "https://flash.jin10.com/detail/20251218005333021800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
-          "url": "https://flash.jin10.com/detail/20251218004201233800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
           "url": "https://flash.jin10.com/detail/20251218003458997800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -139,7 +153,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         },
@@ -158,7 +172,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -167,20 +181,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20251218010322438800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 01时49分]"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
@@ -191,8 +194,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时49分]"
         },
         {
           "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
@@ -202,19 +205,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
+        },
+        {
+          "title": "Atlas Cloud AI：初始投资约2.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218010322438800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 01时49分]"
         },
         {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
           "url": "https://flash.jin10.com/detail/20251218010152851800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 01时49分]"
         },
         {
           "title": "俄罗斯12月15日当周消费者价格环比上涨0.05%，同比上涨5.37%。俄罗斯11月生产者价格环比下跌0.9%。",
@@ -228,13 +244,24 @@
           "time_info": "00时34分"
         },
         {
+          "title": "亚马逊(AMZN.O)：Peter Desantis将领导一个新组织，负责推动我们最具扩展性的AI模型、硅研发和量子计算。",
+          "url": "https://flash.jin10.com/detail/20251218011901705800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
           "title": "甲骨文AI光环褪色 股价较9月高点接近腰斩",
           "url": "https://flash.jin10.com/detail/20251218003153204800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         }
@@ -252,8 +279,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
         },
         {
           "title": "机器人年终盘点④：是谁，迈入量产大门？",
@@ -263,8 +290,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
         },
         {
           "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
@@ -274,8 +301,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -302,60 +329,42 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
-          "url": "https://wallstreetcn.com/livenews/3022530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
-          "url": "https://wallstreetcn.com/livenews/3022529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时26分]"
-        },
-        {
-          "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
-          "url": "https://flash.jin10.com/detail/20251218000152068800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
           "url": "https://wallstreetcn.com/articles/3761550",
           "source": "华尔街见闻",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 01时49分]"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013152524800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251218013016003800",
+          "source": "金十数据",
+          "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "01时49分"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -371,8 +380,49 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
+          "url": "https://wallstreetcn.com/livenews/3022530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时49分]"
+        },
+        {
+          "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
+          "url": "https://wallstreetcn.com/livenews/3022529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 01时49分]"
+        },
+        {
+          "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
+          "url": "https://flash.jin10.com/detail/20251218000152068800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗海滩暴雨后变血红色",
@@ -380,11 +430,40 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时26分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 01时49分]"
+        },
+        {
+          "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
+          "url": "https://flash.jin10.com/detail/20251218012504616800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT找不出美国应对彩虹-7的方法",
+          "url": "https://www.toutiao.com/trending/7584059510923739178/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 01时49分]"
         }
       ]
     }
