@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:28:53.931135+08:00",
-  "total_titles_processed": 1707,
+  "generated_at": "2025-12-18T18:51:27.327486+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
@@ -86,11 +86,24 @@
             8,
             6,
             2,
-            4
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 18时51分]"
+        },
+        {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[15时26分 ~ 18时28分]"
+          "time_info": "[15时43分 ~ 18时51分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -157,18 +170,6 @@
           "time_info": "[12时08分 ~ 13时49分]"
         },
         {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 18时28分]"
-        },
-        {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
           "url": "https://flash.jin10.com/detail/20251218043431580800",
           "source": "金十数据",
@@ -228,6 +229,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时51分]"
         },
         {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
@@ -324,18 +337,6 @@
           "time_info": "[07时23分 ~ 07时43分]"
         },
         {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时28分]"
-        },
-        {
           "title": "巴西总统卢拉：担忧美国总统特朗普对拉丁美洲的态度及其威胁。",
           "url": "https://flash.jin10.com/detail/20251218004201233800",
           "source": "金十数据",
@@ -346,6 +347,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时49分]"
+        },
+        {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉把我们的公司赶走了，我们要把它们拿回来。",
@@ -472,17 +484,6 @@
           "time_info": "00时34分"
         },
         {
-          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
-          "url": "https://wallstreetcn.com/livenews/3023059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "特朗普说委内瑞拉抢了美国的石油",
           "url": "https://wallstreetcn.com/livenews/3022878",
           "source": "华尔街见闻-快讯",
@@ -522,7 +523,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -718,17 +719,6 @@
           "time_info": "[13时26分 ~ 16时34分]"
         },
         {
-          "title": "美光科技盘后涨幅扩大至9%。",
-          "url": "https://wallstreetcn.com/livenews/3022649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时43分]"
-        },
-        {
           "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
           "url": "https://www.cls.cn/detail/2233335",
           "source": "财联社热门",
@@ -738,8 +728,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时34分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时34分 ~ 18时51分]"
+        },
+        {
+          "title": "美光科技盘后涨幅扩大至9%。",
+          "url": "https://wallstreetcn.com/livenews/3022649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
           "title": "美光科技(MU.O)：第二财季展望反映出收入、毛利率、每股收益和自由现金流均创下历史新高。",
@@ -1087,6 +1088,17 @@
           "time_info": "[11时24分 ~ 12时09分]"
         },
         {
+          "title": "中微公司：筹划购买杭州众硅电子科技有限公司控股权 股票停牌",
+          "url": "https://wallstreetcn.com/livenews/3023056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时51分]"
+        },
+        {
           "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
           "url": "https://wallstreetcn.com/livenews/3022923",
           "source": "华尔街见闻-快讯",
@@ -1109,6 +1121,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 15时44分]"
+        },
+        {
+          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时51分]"
         },
         {
           "title": "派杰投资：将美光科技(MU.O)目标价从200美元上调至275美元。",
@@ -1189,35 +1212,13 @@
           "time_info": "09时51分"
         },
         {
-          "title": "中微公司：筹划购买杭州众硅电子科技有限公司控股权 股票停牌",
-          "url": "https://wallstreetcn.com/livenews/3023056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "金十数据整理：科技巨头打响“AI军备赛”，钱都烧向了哪里？（二）",
           "url": "https://flash.jin10.com/detail/20251218174438346800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1259,8 +1260,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时24分 ~ 18时28分]"
+          "appearance_count": 21,
+          "time_info": "[06时24分 ~ 18时51分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -1288,8 +1289,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时26分 ~ 18时28分]"
+          "appearance_count": 11,
+          "time_info": "[13时26分 ~ 18时51分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 18时51分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -1320,19 +1335,6 @@
           "is_new": false,
           "appearance_count": 27,
           "time_info": "[00时33分 ~ 13时49分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时49分 ~ 18时28分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1484,6 +1486,19 @@
           "time_info": "[15时43分 ~ 16时34分]"
         },
         {
+          "title": "A股结构调整或将延续",
+          "url": "https://www.toutiao.com/trending/7585093997870190107/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时51分]"
+        },
+        {
           "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
           "url": "https://flash.jin10.com/detail/20251218010152851800",
           "source": "金十数据",
@@ -1494,6 +1509,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时49分]"
+        },
+        {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时51分]"
+        },
+        {
+          "title": "【每日收评】创业板指缩量跌超2%，大消费板块反复活跃，银行股午后逆势拉升",
+          "url": "https://www.cls.cn/detail/2233554",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时51分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -1564,16 +1602,15 @@
           "time_info": "[07时23分 ~ 07时43分]"
         },
         {
-          "title": "A股结构调整或将延续",
-          "url": "https://www.toutiao.com/trending/7585093997870190107/",
-          "source": "今日头条",
+          "title": "Meta前首席AI科学家Yann LeCun为其新的人工智能初创公司Advanced Machine Intelligence Labs设定了30亿欧元的估值。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3023041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            18
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时28分]"
+          "time_info": "[18时28分 ~ 18时51分]"
         },
         {
           "title": "马斯克新战书：xAI最早明年实现AGI",
@@ -1607,28 +1644,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "【每日收评】创业板指缩量跌超2%，大消费板块反复活跃，银行股午后逆势拉升",
-          "url": "https://www.cls.cn/detail/2233554",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
         },
         {
           "title": "中金公司、东兴证券A股复盘开盘一字涨停，信达证券涨6.8%。中金公司港股开盘涨逾7%。消息面上，中金公司换股吸收合并东兴证券和信达证券，换股价格分别为36.91元、16.14元、19.15元。",
@@ -1741,24 +1756,13 @@
           "time_info": "09时51分"
         },
         {
-          "title": "Meta前首席AI科学家Yann LeCun为其新的人工智能初创公司Advanced Machine Intelligence Labs设定了30亿欧元的估值。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3023041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
           "title": "据英国金融时报：Meta Platforms(META.O)前首席AI科学家杨立昆（Yann LeCun）为其新的人工智能初创公司设定了30亿欧元的估值。",
           "url": "https://flash.jin10.com/detail/20251218174226959800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -2109,6 +2113,35 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
+          "url": "https://wallstreetcn.com/livenews/3022598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -2122,24 +2155,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 01时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
-          "url": "https://wallstreetcn.com/livenews/3022598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 06时46分]"
         }
       ]
     },
