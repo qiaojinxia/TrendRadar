@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T23:28:03.752226+08:00",
-  "total_titles_processed": 2322,
+  "generated_at": "2025-12-18T23:49:02.727600+08:00",
+  "total_titles_processed": 2361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 机器人",
-      "match_count": 75,
+      "match_count": 77,
       "titles": [
         {
           "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
@@ -30,6 +30,22 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
+          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
+          "url": "https://www.cls.cn/detail/2233723",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时42分 ~ 23时49分]"
+        },
+        {
           "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
           "url": "https://www.cls.cn/detail/2233335",
           "source": "财联社热门",
@@ -44,6 +60,17 @@
           "time_info": "[16时34分 ~ 21时39分]"
         },
         {
+          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
+          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时39分 ~ 23时49分]"
+        },
+        {
           "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
           "url": "https://www.cls.cn/detail/2232376",
           "source": "财联社热门",
@@ -56,22 +83,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
-          "url": "https://www.cls.cn/detail/2233723",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时42分 ~ 23时28分]"
         },
         {
           "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
@@ -108,19 +119,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 23时28分]"
-        },
-        {
-          "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
-          "url": "https://news.ifeng.com/c/8pByOwBOHEi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时39分 ~ 23时28分]"
+          "appearance_count": 13,
+          "time_info": "[18时28分 ~ 23时49分]"
         },
         {
           "title": "如何看待西安电子科技大学外国语学院调整为语言智能学部？",
@@ -183,15 +183,15 @@
           "time_info": "19时43分"
         },
         {
-          "title": "美光科技涨幅从17%收窄至10%。",
-          "url": "https://wallstreetcn.com/livenews/3023238",
+          "title": "纳斯达克100指数涨幅扩大至2%，成分股美光科技涨11.3%，核电股Constellation Energy（CEG）涨7.7%，Applovin涨6.6%，拉姆研究涨6.2%，露露柠檬涨5.4%，特斯拉涨3.8%，Strategy（MSTR）涨3.7%，AMD涨3.2%。 标普500质素目前涨1.4%，道指涨448点涨幅超过0.9%，纳指涨1.9%，半导体指数涨3.5%，银行指数涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023245",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "23时49分"
         },
         {
           "title": "特朗普媒体科技集团(DJT.O)：在签约时提供高达2亿美元的现金。",
@@ -263,6 +263,31 @@
           "time_info": "[03时41分 ~ 04时49分]"
         },
         {
+          "title": "美光科技涨幅从17%收窄至10%。",
+          "url": "https://wallstreetcn.com/livenews/3023238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时49分]"
+        },
+        {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3023222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时49分]"
+        },
+        {
           "title": "存储芯片板块午后拉升，万润科技涨停，成都华微涨超10%，大为股份、普冉股份、德明利、江波龙、香农芯创等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3022850",
           "source": "华尔街见闻-快讯",
@@ -274,18 +299,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
-          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3023222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时28分]"
         },
         {
           "title": "摩根大通将美光科技目标价从220美元上调至350美元。",
@@ -397,6 +410,17 @@
           "time_info": "[06时24分 ~ 07时43分]"
         },
         {
+          "title": "纳指开盘大涨1.4% 美光科技涨超13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E5%BC%80%E7%9B%98%E5%A4%A7%E6%B6%A81.4%25+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E6%B6%A8%E8%B6%8513%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[23时27分 ~ 23时49分]"
+        },
+        {
           "title": "美光科技(MU.O) CEO：预计服务器需求强劲态势将持续至2026年。",
           "url": "https://flash.jin10.com/detail/20251218053921663800",
           "source": "金十数据",
@@ -444,6 +468,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 12时56分]"
+        },
+        {
+          "title": "特朗普媒体科技涨29%。",
+          "url": "https://wallstreetcn.com/livenews/3023215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时49分]"
+        },
+        {
+          "title": "美光科技涨14%，创4月9日以来最佳盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/3023212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时49分]"
         },
         {
           "title": "中微公司：筹划购买杭州众硅电子科技有限公司控股权 股票停牌",
@@ -513,18 +563,6 @@
           "time_info": "[05时24分 ~ 05时44分]"
         },
         {
-          "title": "特朗普媒体科技涨29%。",
-          "url": "https://wallstreetcn.com/livenews/3023215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时28分]"
-        },
-        {
           "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3022988",
           "source": "华尔街见闻-快讯",
@@ -549,18 +587,6 @@
           "time_info": "[13时49分 ~ 14时38分]"
         },
         {
-          "title": "美光科技涨14%，创4月9日以来最佳盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/3023212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 23时28分]"
-        },
-        {
           "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。",
           "url": "https://wallstreetcn.com/livenews/3022621",
           "source": "华尔街见闻-快讯",
@@ -582,17 +608,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时09分]"
-        },
-        {
-          "title": "纳指开盘大涨1.4% 美光科技涨超13%",
-          "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E5%BC%80%E7%9B%98%E5%A4%A7%E6%B6%A81.4%25+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E6%B6%A8%E8%B6%8513%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时28分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）中国科技互联网公司市值排名TOP 50一览",
@@ -786,6 +801,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "美光科技(MU.O)涨幅收窄至11%，此前一度大涨17%。",
+          "url": "https://flash.jin10.com/detail/20251218231716158800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国贸易代表格里尔：301条款可能是解决欧盟科技争端的可行工具。",
           "url": "https://flash.jin10.com/detail/20251218205843560800",
           "source": "金十数据",
@@ -888,7 +914,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -906,6 +932,17 @@
           "is_new": false,
           "appearance_count": 33,
           "time_info": "[00时33分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时42分 ~ 23时49分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -978,15 +1015,17 @@
           "time_info": "[15时26分 ~ 19时22分]"
         },
         {
-          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
-          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
-          "source": "凤凰网",
+          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2233937",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时42分 ~ 23时28分]"
+          "appearance_count": 6,
+          "time_info": "[22时27分 ~ 23时49分]"
         },
         {
           "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
@@ -1066,6 +1105,17 @@
           "time_info": "[12时08分 ~ 13时49分]"
         },
         {
+          "title": "巴西总统卢拉：已告知马杜罗和特朗普，巴西愿意帮助防止拉丁美洲地区发生武装对抗。",
+          "url": "https://flash.jin10.com/detail/20251218233904758800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国记者卡尔森：特朗普或将对委内瑞拉宣战",
           "url": "https://flash.jin10.com/detail/20251218043431580800",
           "source": "金十数据",
@@ -1115,18 +1165,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时56分 ~ 13时49分]"
-        },
-        {
-          "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2233937",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时27分 ~ 23时28分]"
         },
         {
           "title": "特朗普考虑向国防企业施压，要求其削减回购",
@@ -1373,6 +1411,17 @@
           "time_info": "[06时24分 ~ 06时46分]"
         },
         {
+          "title": "特朗普为何既要日本管住嘴又让迈开腿",
+          "url": "https://www.toutiao.com/trending/7584332222707793963/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时48分 ~ 23时49分]"
+        },
+        {
           "title": "特朗普全国讲话未提及委内瑞拉",
           "url": "https://news.ifeng.com/c/8pBVKVnZZtZ",
           "source": "凤凰网",
@@ -1586,8 +1635,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[06时24分 ~ 23时28分]"
+          "appearance_count": 32,
+          "time_info": "[06时24分 ~ 23时49分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -1630,8 +1679,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时49分 ~ 23时28分]"
+          "appearance_count": 20,
+          "time_info": "[13时49分 ~ 23时49分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -1674,8 +1723,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 23时28分]"
+          "appearance_count": 13,
+          "time_info": "[18时28分 ~ 23时49分]"
+        },
+        {
+          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
+          "url": "https://www.zhihu.com/question/1984925319061267264",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时51分 ~ 23时49分]"
+        },
+        {
+          "title": "AI上车教练下车 驾校生意变天了",
+          "url": "https://www.baidu.com/s?wd=AI%E4%B8%8A%E8%BD%A6%E6%95%99%E7%BB%83%E4%B8%8B%E8%BD%A6+%E9%A9%BE%E6%A0%A1%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[23时27分 ~ 23时49分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -1689,17 +1761,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时38分 ~ 17时31分]"
-        },
-        {
-          "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
-          "url": "https://www.zhihu.com/question/1984925319061267264",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时51分 ~ 23时28分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。",
@@ -1722,17 +1783,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[17时31分 ~ 22时27分]"
-        },
-        {
-          "title": "AI上车教练下车 驾校生意变天了",
-          "url": "https://www.baidu.com/s?wd=AI%E4%B8%8A%E8%BD%A6%E6%95%99%E7%BB%83%E4%B8%8B%E8%BD%A6+%E9%A9%BE%E6%A0%A1%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时28分]"
         },
         {
           "title": "ThaiSweet樱花舞MV",
@@ -1887,6 +1937,18 @@
           "time_info": "[17时31分 ~ 18时51分]"
         },
         {
+          "title": "海南全岛封关点燃消费市场热潮",
+          "url": "https://www.toutiao.com/trending/7584294384665968683/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[23时28分 ~ 23时49分]"
+        },
+        {
           "title": "豆包AI视频能说方言了",
           "url": "https://www.douyin.com/hot/2340352",
           "source": "抖音",
@@ -1910,6 +1972,18 @@
           "time_info": "[01时26分 ~ 01时49分]"
         },
         {
+          "title": "德勤：预计2025年A股IPO的融资规模同比将增加94%",
+          "url": "https://wallstreetcn.com/livenews/3023232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时49分]"
+        },
+        {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
           "url": "https://flash.jin10.com/detail/20251218063011323800",
           "source": "金十数据",
@@ -1919,6 +1993,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
+          "url": "https://wallstreetcn.com/livenews/3023228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时49分]"
         },
         {
           "title": "美国联邦上诉法院推翻先前裁决，允许美国总统特朗普政府恢复在美国消费者金融保护局的大规模裁员。",
@@ -2033,17 +2119,6 @@
           "time_info": "19时43分"
         },
         {
-          "title": "德勤：预计2025年A股IPO的融资规模同比将增加94%",
-          "url": "https://wallstreetcn.com/livenews/3023232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
           "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
           "url": "https://flash.jin10.com/detail/20251218091357602800",
           "source": "金十数据",
@@ -2064,17 +2139,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
-          "url": "https://wallstreetcn.com/livenews/3023228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
         },
         {
           "title": "俄罗斯12月15日当周消费者价格环比上涨0.05%，同比上涨5.37%。俄罗斯11月生产者价格环比下跌0.9%。",
@@ -2229,17 +2293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "22时51分"
-        },
-        {
-          "title": "海南全岛封关点燃消费市场热潮",
-          "url": "https://www.toutiao.com/trending/7584294384665968683/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
         }
       ]
     },
@@ -2346,6 +2399,17 @@
           "time_info": "[06时24分 ~ 07时43分]"
         },
         {
+          "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3761635",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[23时27分 ~ 23时49分]"
+        },
+        {
           "title": "金十图示：2025年12月17日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251218013016003800",
           "source": "金十数据",
@@ -2404,17 +2468,6 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
-          "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3761635",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时27分 ~ 23时28分]"
-        },
-        {
           "title": "美股收盘：三大股指齐跌 英伟达跌近4%",
           "url": "https://flash.jin10.com/detail/20251218050114407800",
           "source": "金十数据",
@@ -2454,7 +2507,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时28分"
         }
@@ -2462,7 +2515,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -2548,12 +2601,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "数据中心开发商为与谷歌合作的项目寻求13亿美元融资",
+          "url": "https://flash.jin10.com/detail/20251218232227200800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗海滩暴雨后变血红色",
@@ -2578,26 +2642,15 @@
           "time_info": "[00时33分 ~ 11时24分]"
         },
         {
-          "title": "市场消息：美国发布与伊朗及国际刑事法院相关的通用许可证，并更新了与俄罗斯相关的指定名单。",
-          "url": "https://flash.jin10.com/detail/20251218230600826800",
+          "title": "受美国制裁和通货膨胀影响，伊朗里亚尔跌至历史新低",
+          "url": "https://flash.jin10.com/detail/20251218233831538800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "美国签发与伊朗相关的通用许可证。",
-          "url": "https://wallstreetcn.com/livenews/3023236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "23时49分"
         },
         {
           "title": "俄伊外长会晤 伊朗强调和平利用核能权利",
@@ -2611,6 +2664,30 @@
           "time_info": "09时51分"
         },
         {
+          "title": "市场消息：美国发布与伊朗及国际刑事法院相关的通用许可证，并更新了与俄罗斯相关的指定名单。",
+          "url": "https://flash.jin10.com/detail/20251218230600826800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时49分]"
+        },
+        {
+          "title": "美国签发与伊朗相关的通用许可证。",
+          "url": "https://wallstreetcn.com/livenews/3023236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时28分 ~ 23时49分]"
+        },
+        {
           "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
           "url": "https://flash.jin10.com/detail/20251218012504616800",
           "source": "金十数据",
@@ -2621,6 +2698,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时49分 ~ 02时38分]"
+        },
+        {
+          "title": "美国财政部网站显示，美国对与伊朗有关的船只实施制裁。",
+          "url": "https://flash.jin10.com/detail/20251218231651639800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "市场消息：美国允许部分与伊朗相关的交易持续至1月18日。",
+          "url": "https://flash.jin10.com/detail/20251218230833037800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
