@@ -1,11 +1,721 @@
 {
-  "generated_at": "2025-12-18T19:22:41.873709+08:00",
-  "total_titles_processed": 1802,
+  "generated_at": "2025-12-18T19:43:00.207048+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "科技 机器人",
+      "match_count": 60,
+      "titles": [
+        {
+          "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 06时46分]"
+        },
+        {
+          "title": "机器人年终盘点④：是谁，迈入量产大门？",
+          "url": "https://www.cls.cn/detail/2232090",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
+          "url": "https://www.cls.cn/detail/2232376",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
+          "url": "https://www.cls.cn/detail/2233335",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 19时43分]"
+        },
+        {
+          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
+          "url": "https://wallstreetcn.com/articles/3761532",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时33分 ~ 16时34分]"
+        },
+        {
+          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
+          "url": "https://www.cls.cn/detail/2232856",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 15时44分]"
+        },
+        {
+          "title": "如何看待西安电子科技大学外国语学院调整为语言智能学部？",
+          "url": "https://www.zhihu.com/question/1983769057573496263",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 16时34分]"
+        },
+        {
+          "title": "美光科技盘后涨幅扩大至9%。",
+          "url": "https://wallstreetcn.com/livenews/3022649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O)：第二财季展望反映出收入、毛利率、每股收益和自由现金流均创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20251218050527480800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "美光科技(MU.O) CFO：2026财年的资本支出将更多集中在下半年。",
+          "url": "https://flash.jin10.com/detail/20251218060137414800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：交易结束后，公司将成为“真相社交”（Truth Social）、“真相+”（Truth+）、“真相金融”（Truth.FI）、TAE、TAE Power Solutions以及TAE Life Sciences的控股公司。",
+          "url": "https://flash.jin10.com/detail/20251218193737540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：在签约时提供高达2亿美元的现金。",
+          "url": "https://flash.jin10.com/detail/20251218193524722800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3022570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时22分 ~ 04时49分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：交易对每股TAE股票估值为53.89美元。",
+          "url": "https://flash.jin10.com/detail/20251218193503529800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "商业航天概念反复活跃，盛洋科技2连板，万隆光电、顺灏股份、奥普光电涨停，天银机电、天箭科技、天力复合等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3022730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：聚变能源将为美国的人工智能主导地位和能源安全开辟道路。",
+          "url": "https://flash.jin10.com/detail/20251218193409794800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.57%，报25304点。 恒生科技指数主连夜盘收跌0.81%，报5414点。",
+          "url": "https://wallstreetcn.com/livenews/3022574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时41分 ~ 04时49分]"
+        },
+        {
+          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
+        },
+        {
+          "title": "存储芯片板块午后拉升，万润科技涨停，成都华微涨超10%，大为股份、普冉股份、德明利、江波龙、香农芯创等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3022850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
+        },
+        {
+          "title": "摩根大通将美光科技目标价从220美元上调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3022848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
+        },
+        {
+          "title": "美光科技(MU.O)第二财季营收展望183亿至191亿美元，市场预期为143亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218050313767800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
+          "url": "https://wallstreetcn.com/livenews/3022628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计将于2026年在纽约开工建设新晶圆厂，该晶圆厂将于2030年前投入运营。",
+          "url": "https://flash.jin10.com/detail/20251218055117685800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计第二座爱达荷工厂将于2028年投入运营。",
+          "url": "https://flash.jin10.com/detail/20251218055049232800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "新晨科技：系我国载人航天工程协作配套任务的研制承建单位 年订单额近2000万元",
+          "url": "https://wallstreetcn.com/livenews/3022855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时38分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：首批晶圆将于2027年初从爱达荷州新工厂产出，比此前预期更早。",
+          "url": "https://flash.jin10.com/detail/20251218054945214800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计2026年资本支出将增至200亿美元，高于此前预计的180亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218054918723800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技：将2026财年资本开支预期提高至200亿美元，公司原本预计180亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3022623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计服务器需求强劲态势将持续至2026年。",
+          "url": "https://flash.jin10.com/detail/20251218053921663800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：预计紧张的内存市场状况将持续到2026年之后。",
+          "url": "https://flash.jin10.com/detail/20251218053857036800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O) CEO：公司已就2026年的高带宽内存（HBM）供应与客户达成了价格和容量协议。",
+          "url": "https://flash.jin10.com/detail/20251218053445388800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "商业航天概念持续走高，星辰科技30cm涨停，中国卫星封涨停，天银机电、北摩高科、西部材料、天箭科技等多股此前封板，航天环宇、邵阳液压、西测测试、中科星图涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3022797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 12时56分]"
+        },
+        {
+          "title": "中微公司：筹划购买杭州众硅电子科技有限公司控股权 股票停牌",
+          "url": "https://wallstreetcn.com/livenews/3023056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时28分 ~ 19时22分]"
+        },
+        {
+          "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
+          "url": "https://www.cls.cn/detail/2233723",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘后涨6%。",
+          "url": "https://flash.jin10.com/detail/20251218050240044800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 05时44分]"
+        },
+        {
+          "title": "卧安机器人（OneRobotics）申请香港IPO。 拟发行2220万股股票。 发行价指导区间为每股63-81港元。 预计股票将于12月24日定价。",
+          "url": "https://wallstreetcn.com/livenews/3022647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美光科技(MU.O)2026财年Q1营收136.43亿美元，市场预期为127.64亿美元，上年同期为87.09亿美元。",
+          "url": "https://flash.jin10.com/detail/20251218050211154800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 05时44分]"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）富时中国A50指数成分股今日收盘行情一览：科技股走弱，工业富联跌超5%，新易盛跌4.6%，中际旭创跌超3%，银行、保险板块明显强势，多只个股涨超2%",
+          "url": "https://flash.jin10.com/detail/20251218150357926800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时44分]"
+        },
+        {
+          "title": "标普500指数收跌78.83点，跌幅1.16%，报6721.43点。 道琼斯工业平均指数收跌228.29点，跌幅0.47%，报47885.97点。 纳斯达克综合指数（纳指）收跌418.139点，跌幅1.81%，报22693.323点。 纳斯达克100指数收跌485.334点，跌幅1.93%，报24647.606点。 纳斯达克生物科技指数收跌0.56%，报5644.93点。 费城半导体指数收跌3.78%，报6695.309点。 费城证交所KBW银行指数收跌0.01%，报163.75点。 道琼斯KBW地区银行指数收涨0.54%，报128.35点。",
+          "url": "https://wallstreetcn.com/livenews/3022605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 05时44分]"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3022988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时31分]"
+        },
+        {
+          "title": "摩根大通：将美光科技(MU.O)目标价从220美元上调至350美元。",
+          "url": "https://flash.jin10.com/detail/20251218130327654800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时38分]"
+        },
+        {
+          "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。",
+          "url": "https://wallstreetcn.com/livenews/3022621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 06时46分]"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251218105617139800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时09分]"
+        },
+        {
+          "title": "金十图示：2025年12月18日（周四）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251218105137949800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时09分]"
+        },
+        {
+          "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
+          "url": "https://wallstreetcn.com/livenews/3022923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时44分]"
+        },
+        {
+          "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3022921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 15时44分]"
+        },
+        {
+          "title": "派杰投资：将美光科技(MU.O)目标价从200美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20251218115107165800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时56分 ~ 13时27分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.73%，报7501.36点，整体呈现出平滑、持续的高开低走状态。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%。 中国科技指数ETF（CQQQ）收跌0.21%，中概互联网指数ETF（KWEB）收跌0.83%。",
+          "url": "https://wallstreetcn.com/livenews/3022607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 06时46分]"
+        },
+        {
+          "title": "营收指引远超预期，美光科技乘AI东风业绩“狂飙”",
+          "url": "https://flash.jin10.com/detail/20251218051441855800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 06时46分]"
+        },
+        {
+          "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。 （估计）只能满足1/2-2/3的关键客户的需求。",
+          "url": "https://wallstreetcn.com/livenews/3022621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
+          "url": "https://flash.jin10.com/detail/20251218193331502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
+          "url": "https://wallstreetcn.com/livenews/3023017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)美股盘前大涨24%。",
+          "url": "https://flash.jin10.com/detail/20251218193307691800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：交易预计于2026年年中完成。",
+          "url": "https://flash.jin10.com/detail/20251218193251152800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "韩国计划孵化万家AI等硬科技初创企业",
+          "url": "https://wallstreetcn.com/livenews/3023014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "市场消息：特朗普媒体科技集团(DJT.O)将与TAE TECHNOLOGIES进行全股票交易合并。",
+          "url": "https://flash.jin10.com/detail/20251218193127356800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
+          "url": "https://wallstreetcn.com/livenews/3022713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "金十数据整理：科技巨头打响“AI军备赛”，钱都烧向了哪里？（二）",
+          "url": "https://flash.jin10.com/detail/20251218174438346800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "东方证券黄燕铭展望2026年股票市场机遇：前期在中盘蓝筹，后期在科技创新",
+          "url": "https://wallstreetcn.com/livenews/3022963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
+          "url": "https://wallstreetcn.com/livenews/3022503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -196,6 +906,20 @@
           "time_info": "[02时38分 ~ 03时41分]"
         },
         {
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时42分]"
+        },
+        {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
           "url": "https://flash.jin10.com/detail/20251218121134659800",
           "source": "金十数据",
@@ -219,19 +943,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 05时44分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 19时22分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
@@ -280,6 +991,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时26分 ~ 13时49分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 19时43分]"
         },
         {
           "title": "联邦上诉法院暂允特朗普在华盛顿保留国民警卫队部署",
@@ -644,618 +1366,8 @@
       ]
     },
     {
-      "keyword_group": "科技 机器人",
-      "match_count": 51,
-      "titles": [
-        {
-          "title": "非农数据喜忧参半，标普三连跌，科技股反弹撑纳指，人民币创14个月新高，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3761475",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 06时46分]"
-        },
-        {
-          "title": "机器人年终盘点④：是谁，迈入量产大门？",
-          "url": "https://www.cls.cn/detail/2232090",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "【焦点复盘】科技成长赛道引领反弹，创指百点长阳收复60日线，全市场超3600股飘红",
-          "url": "https://www.cls.cn/detail/2232376",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时33分 ~ 07时23分]"
-        },
-        {
-          "title": "创业板涨超3%，沐曦涨近700%，算力硬件爆发，金融股走强，宽基ETF放量，碳酸锂期货涨超7％，铂钯期货涨停，沪银涨超5%，港股科技股普涨",
-          "url": "https://wallstreetcn.com/articles/3761532",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时33分 ~ 16时34分]"
-        },
-        {
-          "title": "人形机器人量产路线清晰 机构建议关注产业链投资布局机会",
-          "url": "https://www.cls.cn/detail/2232856",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 15时44分]"
-        },
-        {
-          "title": "东方AI“震撼”华尔街！美国投资者今年爆买中国科技ETF",
-          "url": "https://www.cls.cn/detail/2233335",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时22分]"
-        },
-        {
-          "title": "如何看待西安电子科技大学外国语学院调整为语言智能学部？",
-          "url": "https://www.zhihu.com/question/1983769057573496263",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时26分 ~ 16时34分]"
-        },
-        {
-          "title": "美光科技盘后涨幅扩大至9%。",
-          "url": "https://wallstreetcn.com/livenews/3022649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O)：第二财季展望反映出收入、毛利率、每股收益和自由现金流均创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20251218050527480800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 06时46分]"
-        },
-        {
-          "title": "美光科技(MU.O) CFO：2026财年的资本支出将更多集中在下半年。",
-          "url": "https://flash.jin10.com/detail/20251218060137414800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "标普500指数跌幅扩大至1%，科技板块跌1.87%，工业板块跌1.4%，电信板块跌1.2%，能源板块涨1.3%。 道指跌0.4%，纳指跌1.6%，半导体指数跌3.6%。 英伟达目前维持3.2%的跌幅，此前一度跌超4%。",
-          "url": "https://wallstreetcn.com/livenews/3022570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时22分 ~ 04时49分]"
-        },
-        {
-          "title": "商业航天概念反复活跃，盛洋科技2连板，万隆光电、顺灏股份、奥普光电涨停，天银机电、天箭科技、天力复合等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3022730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.57%，报25304点。 恒生科技指数主连夜盘收跌0.81%，报5414点。",
-          "url": "https://wallstreetcn.com/livenews/3022574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时41分 ~ 04时49分]"
-        },
-        {
-          "title": "存储芯片板块午后拉升，万润科技涨停，成都华微涨超10%，大为股份、普冉股份、德明利、江波龙、香农芯创等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3022850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
-          "title": "摩根大通将美光科技目标价从220美元上调至350美元。",
-          "url": "https://wallstreetcn.com/livenews/3022848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 14时38分]"
-        },
-        {
-          "title": "美光科技(MU.O)第二财季营收展望183亿至191亿美元，市场预期为143亿美元。",
-          "url": "https://flash.jin10.com/detail/20251218050313767800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 06时46分]"
-        },
-        {
-          "title": "美光科技美股盘后涨幅重新扩大至5.56%，业绩报告出炉后一度涨超6.77%。",
-          "url": "https://wallstreetcn.com/livenews/3022628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：预计将于2026年在纽约开工建设新晶圆厂，该晶圆厂将于2030年前投入运营。",
-          "url": "https://flash.jin10.com/detail/20251218055117685800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：预计第二座爱达荷工厂将于2028年投入运营。",
-          "url": "https://flash.jin10.com/detail/20251218055049232800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "新晨科技：系我国载人航天工程协作配套任务的研制承建单位 年订单额近2000万元",
-          "url": "https://wallstreetcn.com/livenews/3022855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时38分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：首批晶圆将于2027年初从爱达荷州新工厂产出，比此前预期更早。",
-          "url": "https://flash.jin10.com/detail/20251218054945214800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：预计2026年资本支出将增至200亿美元，高于此前预计的180亿美元。",
-          "url": "https://flash.jin10.com/detail/20251218054918723800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技：将2026财年资本开支预期提高至200亿美元，公司原本预计180亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3022623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：预计服务器需求强劲态势将持续至2026年。",
-          "url": "https://flash.jin10.com/detail/20251218053921663800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：预计紧张的内存市场状况将持续到2026年之后。",
-          "url": "https://flash.jin10.com/detail/20251218053857036800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O) CEO：公司已就2026年的高带宽内存（HBM）供应与客户达成了价格和容量协议。",
-          "url": "https://flash.jin10.com/detail/20251218053445388800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "商业航天概念持续走高，星辰科技30cm涨停，中国卫星封涨停，天银机电、北摩高科、西部材料、天箭科技等多股此前封板，航天环宇、邵阳液压、西测测试、中科星图涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3022797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时56分]"
-        },
-        {
-          "title": "中微公司：筹划购买杭州众硅电子科技有限公司控股权 股票停牌",
-          "url": "https://wallstreetcn.com/livenews/3023056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时22分]"
-        },
-        {
-          "title": "英雄城红色传承受年轻人追捧：“硬货”加科技，南昌红色文旅不断创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32193479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时22分]"
-        },
-        {
-          "title": "美光科技(MU.O)美股盘后涨6%。",
-          "url": "https://flash.jin10.com/detail/20251218050240044800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时44分]"
-        },
-        {
-          "title": "卧安机器人（OneRobotics）申请香港IPO。 拟发行2220万股股票。 发行价指导区间为每股63-81港元。 预计股票将于12月24日定价。",
-          "url": "https://wallstreetcn.com/livenews/3022647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技(MU.O)2026财年Q1营收136.43亿美元，市场预期为127.64亿美元，上年同期为87.09亿美元。",
-          "url": "https://flash.jin10.com/detail/20251218050211154800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时44分]"
-        },
-        {
-          "title": "金十图示：2025年12月18日（周四）富时中国A50指数成分股今日收盘行情一览：科技股走弱，工业富联跌超5%，新易盛跌4.6%，中际旭创跌超3%，银行、保险板块明显强势，多只个股涨超2%",
-          "url": "https://flash.jin10.com/detail/20251218150357926800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时44分]"
-        },
-        {
-          "title": "标普500指数收跌78.83点，跌幅1.16%，报6721.43点。 道琼斯工业平均指数收跌228.29点，跌幅0.47%，报47885.97点。 纳斯达克综合指数（纳指）收跌418.139点，跌幅1.81%，报22693.323点。 纳斯达克100指数收跌485.334点，跌幅1.93%，报24647.606点。 纳斯达克生物科技指数收跌0.56%，报5644.93点。 费城半导体指数收跌3.78%，报6695.309点。 费城证交所KBW银行指数收跌0.01%，报163.75点。 道琼斯KBW地区银行指数收涨0.54%，报128.35点。",
-          "url": "https://wallstreetcn.com/livenews/3022605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时44分]"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.12%，恒生科技指数收跌0.73%。小米集团跌近2.5%，阿里巴巴、比亚迪股份、舜宇光学科技均跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3022988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时31分]"
-        },
-        {
-          "title": "摩根大通：将美光科技(MU.O)目标价从220美元上调至350美元。",
-          "url": "https://flash.jin10.com/detail/20251218130327654800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 14时38分]"
-        },
-        {
-          "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。",
-          "url": "https://wallstreetcn.com/livenews/3022621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时46分]"
-        },
-        {
-          "title": "金十图示：2025年12月18日（周四）全球主要科技与互联网公司市值变化",
-          "url": "https://flash.jin10.com/detail/20251218105617139800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时09分]"
-        },
-        {
-          "title": "金十图示：2025年12月18日（周四）中国科技互联网公司市值排名TOP 50一览",
-          "url": "https://flash.jin10.com/detail/20251218105137949800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时09分]"
-        },
-        {
-          "title": "商汤科技、大晓机器人与中科曙光正式达成战略合作，将共建国产化“算力基础设施+世界模型+具身智能 ”生态",
-          "url": "https://wallstreetcn.com/livenews/3022923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时44分]"
-        },
-        {
-          "title": "A股锂电池板块震荡走低，华盛锂电跌超9%，海科新源、天华新能、永太科技、多氟多、恩捷股份等跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3022921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 15时44分]"
-        },
-        {
-          "title": "派杰投资：将美光科技(MU.O)目标价从200美元上调至275美元。",
-          "url": "https://flash.jin10.com/detail/20251218115107165800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 13时27分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.73%，报7501.36点，整体呈现出平滑、持续的高开低走状态。 热门中概股里，拼多多跌3.7%，蔚来、理想跌3.3%，小马智行跌3%，阿里跌1.5%，新东方涨0.6%，百胜中国涨0.7%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.33%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%。 中国科技指数ETF（CQQQ）收跌0.21%，中概互联网指数ETF（KWEB）收跌0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3022607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时46分]"
-        },
-        {
-          "title": "营收指引远超预期，美光科技乘AI东风业绩“狂飙”",
-          "url": "https://flash.jin10.com/detail/20251218051441855800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 06时46分]"
-        },
-        {
-          "title": "美光科技：记忆/存储（芯片）供应将保持“显著的短缺（状态）”。 供应短缺将在2026年持续，并维持更久。 对无法满足客户需求“感到失望”。 （估计）只能满足1/2-2/3的关键客户的需求。",
-          "url": "https://wallstreetcn.com/livenews/3022621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时43分]"
-        },
-        {
-          "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
-          "url": "https://wallstreetcn.com/livenews/3023017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "韩国计划孵化万家AI等硬科技初创企业",
-          "url": "https://wallstreetcn.com/livenews/3023014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
-          "title": "香港恒生指数开盘跌0.5%，恒生科技指数跌1.1%。商汤跌逾3%，小米集团、小鹏汽车跌逾2%。中金公司涨逾7%，拟换股吸收合并东兴证券与信达证券。",
-          "url": "https://wallstreetcn.com/livenews/3022713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "金十数据整理：科技巨头打响“AI军备赛”，钱都烧向了哪里？（二）",
-          "url": "https://flash.jin10.com/detail/20251218174438346800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "东方证券黄燕铭展望2026年股票市场机遇：前期在中盘蓝筹，后期在科技创新",
-          "url": "https://wallstreetcn.com/livenews/3022963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
-          "url": "https://wallstreetcn.com/livenews/3022503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "a股 ai 消费",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1267,8 +1379,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[06时24分 ~ 19时22分]"
+          "appearance_count": 24,
+          "time_info": "[06时24分 ~ 19时43分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -1297,8 +1409,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时26分 ~ 19时22分]"
+          "appearance_count": 14,
+          "time_info": "[13时26分 ~ 19时43分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -1311,8 +1423,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时49分 ~ 19时22分]"
+          "appearance_count": 12,
+          "time_info": "[13时49分 ~ 19时43分]"
         },
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -1421,6 +1533,29 @@
           "time_info": "[12时09分 ~ 13时49分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 19时43分]"
+        },
+        {
+          "title": "【每日收评】创业板指缩量跌超2%，大消费板块反复活跃，银行股午后逆势拉升",
+          "url": "https://www.cls.cn/detail/2233554",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
+        },
+        {
           "title": "元宝AI靠人工？腾讯回应",
           "url": "https://wallstreetcn.com/livenews/3022852",
           "source": "华尔街见闻-快讯",
@@ -1468,29 +1603,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时49分 ~ 05时44分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时22分]"
-        },
-        {
-          "title": "【每日收评】创业板指缩量跌超2%，大消费板块反复活跃，银行股午后逆势拉升",
-          "url": "https://www.cls.cn/detail/2233554",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时22分]"
         },
         {
           "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
@@ -1641,6 +1753,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "第十四届全国政协委员张斌：消费和投资不是对立关系，短期内提高消费就需要扩大投资",
+          "url": "https://wallstreetcn.com/livenews/3023095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "光合组织：未来三年将推动超过20个行业级AI4S软硬协同解决方案落地",
+          "url": "https://wallstreetcn.com/livenews/3023093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
@@ -2125,6 +2259,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时51分 ~ 19时43分]"
+        },
+        {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
           "url": "https://wallstreetcn.com/livenews/3022598",
           "source": "华尔街见闻-快讯",
@@ -2135,17 +2280,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 06时46分]"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时51分 ~ 19时22分]"
         }
       ]
     },
