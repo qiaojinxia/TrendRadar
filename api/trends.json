@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T04:27:48.455054+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2025-12-20T04:46:37.692837+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -15,11 +15,12 @@
             8,
             6,
             5,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -52,8 +53,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -63,11 +64,12 @@
             27,
             22,
             28,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "九家制药商与特朗普签署价格协议以避免关税。",
@@ -81,13 +83,37 @@
           "time_info": "[03时20分 ~ 03时40分]"
         },
         {
+          "title": "金十提示：美国总统特朗普讲话结束。",
+          "url": "https://flash.jin10.com/detail/20251220040556442800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
+          "title": "美国总统特朗普：保险公司必须赚更少的钱。",
+          "url": "https://flash.jin10.com/detail/20251220040257481800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
           "title": "美国总统特朗普：保险公司需要降价以继续留在系统中。 将在未来几周召开保险公司会议。",
           "url": "https://wallstreetcn.com/livenews/3024144",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -104,60 +130,52 @@
           "time_info": "[00时31分 ~ 01时41分]"
         },
         {
-          "title": "金十提示：美国总统特朗普讲话结束。",
-          "url": "https://flash.jin10.com/detail/20251220040556442800",
-          "source": "金十数据",
+          "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
+          "url": "https://wallstreetcn.com/livenews/3024132",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时46分]"
+        },
+        {
+          "title": "特朗普：将召集保险公司开会讨论降价问题",
+          "url": "https://wallstreetcn.com/livenews/3024144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "04时46分"
         },
         {
           "title": "美国总统特朗普：强生下周“将来这里（白宫）”（谈判）。",
           "url": "https://wallstreetcn.com/livenews/3024141",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：保险公司必须赚更少的钱。",
-          "url": "https://flash.jin10.com/detail/20251220040257481800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普签署太空行政令，直觉机器公司及航天板块股价应声大涨",
-          "url": "https://wallstreetcn.com/livenews/3024132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 04时27分]"
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
         },
         {
           "title": "美国总统特朗普：保险公司会议旨在降低价格。",
           "url": "https://flash.jin10.com/detail/20251220040213570800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
         },
         {
           "title": "美国总统特朗普：英国国家医疗服务体系将支付公平份额，我们也期望其他欧洲国家这样做，否则将征收关税。",
@@ -165,11 +183,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时40分 ~ 04时27分]"
+          "appearance_count": 3,
+          "time_info": "[03时40分 ~ 04时46分]"
         },
         {
           "title": "美联储：（美国总统特朗普宣布联邦政府2025年圣诞节假日安排之际，金融系统）支付与现金服务运营照常进行。",
@@ -198,6 +217,54 @@
           "time_info": "[01时21分 ~ 02时35分]"
         },
         {
+          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
+          "url": "https://flash.jin10.com/detail/20251220040203208800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
+          "title": "美国总统特朗普：我所发出的关税威胁强迫医药行业（与我）达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3024136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
+          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
+          "url": "https://flash.jin10.com/detail/20251220035945921800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
+          "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
+          "url": "https://wallstreetcn.com/livenews/3024134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
           "title": "美国总统特朗普：保险公司“正在敲诈美国”，医疗费用必须直接归人民所有。民主党必须加入进来！",
           "url": "https://flash.jin10.com/detail/20251219233534861800",
           "source": "金十数据",
@@ -222,6 +289,30 @@
           "time_info": "[01时21分 ~ 01时41分]"
         },
         {
+          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
+          "url": "https://flash.jin10.com/detail/20251220034545979800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
+          "title": "特朗普与九家药企达成协议 大幅降低药价",
+          "url": "https://flash.jin10.com/detail/20251220034432259800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
+        },
+        {
           "title": "特朗普给联邦政府加假不影响国债标售计划，财政部称安排照旧",
           "url": "https://wallstreetcn.com/livenews/3024047",
           "source": "华尔街见闻-快讯",
@@ -233,57 +324,13 @@
           "time_info": "[00时31分 ~ 00时55分]"
         },
         {
-          "title": "美国总统特朗普：我们可以让保险公司降价，否则就退出这个体系。我将在未来几周召开保险公司会议。",
-          "url": "https://flash.jin10.com/detail/20251220040203208800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：我所发出的关税威胁强迫医药行业（与我）达成协议。",
-          "url": "https://wallstreetcn.com/livenews/3024136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
-          "url": "https://flash.jin10.com/detail/20251220035945921800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
-          "url": "https://wallstreetcn.com/livenews/3024134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
           "url": "https://wallstreetcn.com/livenews/3024133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
         },
@@ -308,6 +355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 现骨干公司将向所有美国民众按照最低价推出新药。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
+          "url": "https://wallstreetcn.com/livenews/3024133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
         },
         {
           "title": "美国总统特朗普：在17家制药公司中，尚未达成协议的3家将于下周加入。",
@@ -365,28 +423,6 @@
           "time_info": "03时40分"
         },
         {
-          "title": "特朗普政府表示，在铁路检查引发安全担忧后，墨西哥火车乘务组在美国境内的运行距离不得超过10英里。",
-          "url": "https://flash.jin10.com/detail/20251220034545979800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "特朗普与九家药企达成协议 大幅降低药价",
-          "url": "https://flash.jin10.com/detail/20251220034432259800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
           "title": "美国总统特朗普：已从“金卡”中获利15亿美元。",
           "url": "https://flash.jin10.com/detail/20251220032612490800",
           "source": "金十数据",
@@ -434,8 +470,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
@@ -446,8 +482,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时54分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时54分 ~ 04时46分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -457,8 +493,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -482,8 +518,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时34分 ~ 04时46分]"
         },
         {
           "title": "欧元区12月消费者信心指数初值 -14.6，预期 -14，前值 -14.2。",
@@ -496,6 +532,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 01时21分]"
+        },
+        {
+          "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
+          "url": "https://wallstreetcn.com/livenews/3024138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时46分]"
         },
         {
           "title": "国际铜业研究小组：初步数据显示，2025年前十个月全球表观精炼铜消费量增长约5.5%。",
@@ -541,17 +589,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时55分]"
-        },
-        {
-          "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
-          "url": "https://wallstreetcn.com/livenews/3024138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
         },
         {
           "title": "美国消费者信心小幅上升，但预算担忧依然存在",
@@ -616,8 +653,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "王力宏演唱会上机器人伴舞秀空翻",
@@ -641,8 +678,21 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时34分 ~ 04时46分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.46%，报25843点。 恒生科技指数主连夜盘收涨0.60%，报5519点。",
+          "url": "https://wallstreetcn.com/livenews/3024124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时46分]"
         },
         {
           "title": "科技亿万富翁承诺出资10亿美元，助力CERN粒子对撞机",
@@ -656,18 +706,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 01时41分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.46%，报25843点。 恒生科技指数主连夜盘收涨0.60%，报5519点。",
-          "url": "https://wallstreetcn.com/livenews/3024124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 04时27分]"
         }
       ]
     },
@@ -685,8 +723,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -696,8 +734,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 04时46分]"
         },
         {
           "title": "金十图示：2025年12月19日（周五）美股热门股票行情一览（美股盘中）",
@@ -738,6 +776,65 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2/10年期美债收益率于美国CPI数据发布当周跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3024148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        },
+        {
+          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
+          "url": "https://wallstreetcn.com/articles/3761670",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
+          "url": "https://wallstreetcn.com/livenews/3024093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 03时40分]"
+        },
+        {
+          "title": "美元指数本周涨0.2%",
+          "url": "https://wallstreetcn.com/livenews/3024146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -755,43 +852,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
-          "url": "https://wallstreetcn.com/articles/3761670",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 04时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVector数字资产100小盘指数跌0.30%，暂报3552.51点，最近七天累计下跌9.01%，整体持续走低。 目前（周五纽约中午），Solana涨6.63%，狗狗币涨8.42%，XRP涨4.53%。 MarketVector数字资产100指数涨0.29%，暂报18057.99点，最近七天累跌2.86%。 比特币目前涨3.7%，报88071美元，以太坊涨6.4%，报2968.53美元。",
-          "url": "https://wallstreetcn.com/livenews/3024093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 03时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
@@ -802,11 +862,12 @@
           "ranks": [
             28,
             27,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时34分 ~ 04时27分]"
+          "appearance_count": 7,
+          "time_info": "[02时34分 ~ 04时46分]"
         }
       ]
     }
