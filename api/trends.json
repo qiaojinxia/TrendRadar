@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:10:46.663851+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-19T12:56:48.628208+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             18,
             17,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时26分 ~ 12时10分]"
+          "appearance_count": 24,
+          "time_info": "[01时26分 ~ 12时56分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -55,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时56分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -66,8 +67,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时56分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -78,8 +79,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时10分]"
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时56分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -118,17 +119,6 @@
           "time_info": "05时41分"
         },
         {
-          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3023559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "特朗普将签署命令，重新归类大麻",
           "url": "https://wallstreetcn.com/livenews/3023303",
           "source": "华尔街见闻-快讯",
@@ -138,6 +128,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时56分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -230,17 +232,6 @@
           "time_info": "[03时40分 ~ 05时21分]"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时10分]"
-        },
-        {
           "title": "美国总统特朗普：美联储理事鲍曼很棒。",
           "url": "https://flash.jin10.com/detail/20251219032212060800",
           "source": "金十数据",
@@ -278,6 +269,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时41分 ~ 04时44分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3023559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时56分]"
         },
         {
           "title": "加拿大总理卡尼：加拿大将继续支持乳业供应管理。 美国墨西哥加拿大贸易协议（USMCA）首脑们为评估USMCA提出了广泛的尺度。 （美墨加三方）不可能达成行业协议，磋商将深入USMCA。 我们准备（与美国）达成一份关于森林产品的协议。 只要加拿大方面还存在顾虑，（与美国总统特朗普的）钢铁协议仍然在谈判桌上。",
@@ -357,6 +360,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时24分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时56分]"
         },
         {
           "title": "美国总统特朗普：将在未来几周内宣布美联储主席人选。",
@@ -446,17 +460,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时41分 ~ 04时44分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -612,6 +615,18 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
+          "title": "特朗普18分钟全国电视讲话说了什么",
+          "url": "https://www.toutiao.com/trending/7585366067095014931/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
+        {
           "title": "特朗普：美国将在月球部署核反应堆",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
           "source": "百度热搜",
@@ -731,17 +746,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
-        },
-        {
-          "title": "特朗普18分钟全国电视讲话说了什么",
-          "url": "https://www.toutiao.com/trending/7585366067095014931/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
@@ -922,17 +926,6 @@
           "time_info": "09时54分"
         },
         {
-          "title": "正与字节开展AI手机合作？联想内部人士：一直保持密切沟通",
-          "url": "https://wallstreetcn.com/livenews/3023553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
-        },
-        {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
           "url": "https://wallstreetcn.com/livenews/3023302",
           "source": "华尔街见闻-快讯",
@@ -1034,6 +1027,18 @@
           "time_info": "[01时49分 ~ 02时37分]"
         },
         {
+          "title": "正与字节开展AI手机合作？联想内部人士：一直保持密切沟通",
+          "url": "https://wallstreetcn.com/livenews/3023553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
+        {
           "title": "OpenAI：正在ChatGPT个人订阅用户中初步部署年龄预测模型。",
           "url": "https://flash.jin10.com/detail/20251219031741512800",
           "source": "金十数据",
@@ -1073,6 +1078,18 @@
           "time_info": "[06时45分 ~ 07时43分]"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 12时56分]"
+        },
+        {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/3023316",
           "source": "华尔街见闻-快讯",
@@ -1097,16 +1114,16 @@
           "time_info": "[09时53分 ~ 11时27分]"
         },
         {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
+          "title": "大摩邢自强：社保改革“投资于人”提升消费",
+          "url": "https://wallstreetcn.com/livenews/3023551",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时10分]"
+          "time_info": "[12时10分 ~ 12时56分]"
         },
         {
           "title": "OpenAI：协议建立在我们与能源部国家实验室的合作之上，并推进“创世纪计划”，以加速科学发现。",
@@ -1155,17 +1172,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时20分]"
-        },
-        {
-          "title": "大摩邢自强：社保改革“投资于人”提升消费",
-          "url": "https://wallstreetcn.com/livenews/3023551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "A股可控核聚变概念开盘领涨，王子新材竞价涨停，常辅股份涨超10%，爱科赛博、哈焊华通、雪人集团、国机重装等涨超6%。",
@@ -1218,7 +1224,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1229,7 +1235,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -1270,7 +1276,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "机器人年终盘点⑤：欢迎来到“机器人”纪元 一图看懂产业星图",
@@ -1334,6 +1340,17 @@
           "time_info": "[00时35分 ~ 07时43分]"
         },
         {
+          "title": "TD Cowen：将美光科技(MU.O)目标股价从275美元上调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251219122731483800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "商业航天概念延续强势，华体科技2连板，广联航空、瑞华泰、优机股份涨超10%，国机精工、航天智装、通宇通讯、西部材料涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3023466",
           "source": "华尔街见闻-快讯",
@@ -1358,15 +1375,15 @@
           "time_info": "[03时20分 ~ 04时44分]"
         },
         {
-          "title": "据商务部商务大数据，11月份，重点监测平台运动相机、具身智能机器人、一级能效电视销量增长均超20%。",
-          "url": "https://wallstreetcn.com/livenews/3023552",
+          "title": "上海寒武纪信息科技公司注册资本增至37亿，增幅约37%",
+          "url": "https://wallstreetcn.com/livenews/3023578",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "12时56分"
         },
         {
           "title": "美国民主党众议员Don Beyer：特朗普媒体科技集团与核聚变公司TAE Technologies提议进行的合并，引发了关于利益冲突和潜在腐败途径的严重担忧。",
@@ -1409,6 +1426,18 @@
           "time_info": "[06时45分 ~ 07时43分]"
         },
         {
+          "title": "据商务部商务大数据，11月份，重点监测平台运动相机、具身智能机器人、一级能效电视销量增长均超20%。",
+          "url": "https://wallstreetcn.com/livenews/3023552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时56分]"
+        },
+        {
           "title": "文件显示：特朗普媒体科技集团(DJT.O)与TAE签署了无担保可转换本票，据此TMTG同意向TAE提供2亿美元资金。",
           "url": "https://flash.jin10.com/detail/20251219061408238800",
           "source": "金十数据",
@@ -1444,6 +1473,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "安徽“十五五”规划建议：推动量子科技、氢能和核聚变能、脑机接口等成为新的经济增长点",
+          "url": "https://www.cls.cn/detail/2234188",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时10分 ~ 12时56分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.9%，创11月26日（当天收涨1.4%）以来最大单日涨幅，报359.93点。 在十个板块中，北欧工业板块涨幅最大。 高科技工程集团Sandvik AB（山特维克股份）涨3.8%，在一众北欧个股里领跑。",
@@ -1537,17 +1577,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "安徽“十五五”规划建议：推动量子科技、氢能和核聚变能、脑机接口等成为新的经济增长点",
-          "url": "https://www.cls.cn/detail/2234188",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时10分"
         },
         {
           "title": "金十图示：2025年12月19日（周五）中国科技互联网公司市值排名TOP 50一览",
@@ -1646,8 +1675,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时45分 ~ 12时10分]"
+          "appearance_count": 8,
+          "time_info": "[06时45分 ~ 12时56分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1675,6 +1704,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时41分 ~ 07时43分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时53分 ~ 12时56分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股收盘）",
@@ -1772,19 +1814,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 06时24分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时10分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股盘中）",
