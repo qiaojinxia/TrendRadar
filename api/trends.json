@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T04:27:48.648099+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-12-23T04:47:04.423411+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -39,8 +39,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
+        },
+        {
+          "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
+          "url": "https://flash.jin10.com/detail/20251223034156652800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时47分]"
+        },
+        {
+          "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
+          "url": "https://flash.jin10.com/detail/20251223020338765800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时47分]"
         },
         {
           "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
@@ -71,17 +95,6 @@
           "time_info": "[00时31分 ~ 02时36分]"
         },
         {
-          "title": "内塔尼亚胡：将与特朗普讨论伊朗问题及加沙计划下阶段行动",
-          "url": "https://flash.jin10.com/detail/20251223034156652800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
           "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
           "url": "https://flash.jin10.com/detail/20251223000806217800",
           "source": "金十数据",
@@ -95,17 +108,18 @@
           "time_info": "[00时31分 ~ 01时44分]"
         },
         {
-          "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
-          "url": "https://flash.jin10.com/detail/20251223020338765800",
-          "source": "金十数据",
+          "title": "美国参议院Murphy：将通过法律手段阻止美国总统特朗普针对风电场采取的命令。",
+          "url": "https://wallstreetcn.com/livenews/3025100",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            20,
-            26
+            3,
+            7,
+            9,
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时36分 ~ 04时27分]"
+          "time_info": "[03时21分 ~ 04时47分]"
         },
         {
           "title": "据福克斯新闻：一位官员证实，特朗普政府正召回约30名大使。",
@@ -132,19 +146,6 @@
           "time_info": "[01时22分 ~ 02时36分]"
         },
         {
-          "title": "美国参议院Murphy：将通过法律手段阻止美国总统特朗普针对风电场采取的命令。",
-          "url": "https://wallstreetcn.com/livenews/3025100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时27分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：与特朗普的会谈将聚焦加沙和黎巴嫩问题。",
           "url": "https://flash.jin10.com/detail/20251223015326106800",
           "source": "金十数据",
@@ -154,8 +155,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时47分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -193,6 +194,17 @@
           "time_info": "[00时31分 ~ 00时55分]"
         },
         {
+          "title": "美国原油期货收涨超2.6%，特朗普试图在封锁委内瑞拉期间截获第三艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3025107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
           "url": "https://flash.jin10.com/detail/20251223013612242800",
           "source": "金十数据",
@@ -228,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨逾2%，半导体产业链“王者归来”，机器人概念午后异动",
@@ -241,19 +253,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%8E%B7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%86%A0%E5%86%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
@@ -264,8 +277,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
@@ -277,8 +290,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "罗永浩“科技春晚”时隔七年回归",
@@ -292,8 +305,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.37%，报25909点。 恒生科技指数主连夜盘收涨0.40%，报5545点。",
@@ -302,11 +315,12 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时47分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
@@ -322,6 +336,17 @@
           "time_info": "[00时31分 ~ 01时44分]"
         },
         {
+          "title": "中国机器人靠什么走进海外高校",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%B0%E8%BF%9B%E6%B5%B7%E5%A4%96%E9%AB%98%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 04时47分]"
+        },
+        {
           "title": "希捷科技股价在回吐开盘涨幅后下跌5.5%。",
           "url": "https://flash.jin10.com/detail/20251222233847422800",
           "source": "金十数据",
@@ -331,17 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "中国机器人靠什么走进海外高校",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E8%B5%B0%E8%BF%9B%E6%B5%B7%E5%A4%96%E9%AB%98%E6%A0%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
         }
       ]
     },
@@ -357,31 +371,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
-        },
-        {
-          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
-          "url": "https://wallstreetcn.com/articles/3761823",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
-        },
-        {
-          "title": "相亲消费四千块,怕同房连夜跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348195&amp;topic_name=%E7%9B%B8%E4%BA%B2%E6%B6%88%E8%B4%B9%E5%9B%9B%E5%8D%83%E5%9D%97%2C%E6%80%95%E5%90%8C%E6%88%BF%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -394,8 +385,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时47分]"
+        },
+        {
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
+        },
+        {
+          "title": "相亲消费四千块,怕同房连夜跑路",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348195&amp;topic_name=%E7%9B%B8%E4%BA%B2%E6%B6%88%E8%B4%B9%E5%9B%9B%E5%8D%83%E5%9D%97%2C%E6%80%95%E5%90%8C%E6%88%BF%E8%BF%9E%E5%A4%9C%E8%B7%91%E8%B7%AF",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -405,11 +419,12 @@
             14,
             12,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 04时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 04时47分]"
         },
         {
           "title": "加拿大帝国商业银行经济学家Avery Shenfeld：加拿大消费者情况在2026年将更加稳定。",
@@ -455,11 +470,12 @@
             7,
             15,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时47分]"
         },
         {
           "title": "美国银行CEO Brian Moynihan：人工智能（AI）开支继续，那将给2026年经济增长带去帮助。 就更长周期而言，AI将关乎巩固（企业）收入。",
@@ -468,11 +484,12 @@
           "ranks": [
             6,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时47分]"
         }
       ]
     },
@@ -488,30 +505,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "美情报机构未发现伊朗将发动袭击的迹象",
           "url": "https://wallstreetcn.com/livenews/3025109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时47分]"
         },
         {
           "title": "以色列向美通报，伊朗或在筹备对以发动袭击",
           "url": "https://wallstreetcn.com/livenews/3025108",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时47分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗的任何行动都将遭到“强硬回应”。",
@@ -606,8 +625,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 04时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 04时47分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
@@ -619,8 +638,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时47分]"
         }
       ]
     },
@@ -636,11 +655,12 @@
             2,
             10,
             14,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 04时27分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 04时47分]"
         },
         {
           "title": "交易员大举押注10年期美债收益率数周内将重返4%",
@@ -651,32 +671,14 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 04时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 04时27分]"
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 04时47分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
@@ -693,6 +695,52 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 04时27分]"
+        },
+        {
+          "title": "美元指数跌0.3%",
+          "url": "https://wallstreetcn.com/livenews/3025112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "deepseek崩了",
+          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 04时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 04时47分]"
         }
       ]
     }
