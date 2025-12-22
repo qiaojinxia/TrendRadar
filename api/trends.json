@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T07:23:23.700654+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2025-12-23T07:43:06.584457+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -39,8 +39,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "美国总统特朗普：我们将讨论生产计划，这些生产计划太慢了。",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 06时46分]"
+        },
+        {
+          "title": "美军将建造“特朗普级战舰” 意图打造“黄金舰队”",
+          "url": "https://flash.jin10.com/detail/20251223071654633800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -156,17 +167,6 @@
           "time_info": "[00时31分 ~ 02时36分]"
         },
         {
-          "title": "美军将建造“特朗普级战舰” 意图打造“黄金舰队”",
-          "url": "https://flash.jin10.com/detail/20251223071654633800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "美国总统特朗普：宣布新的“黄金舰队”。 已经批准海军建造两艘新战列舰的计划。 将增加航空母舰的数量。 从两艘开始，最终会有20-25艘。 将配置许许多多的高超音速武器。 下周将在佛罗里达会见承包商，将讨论生产安排。 承包商可能会修建新工厂，来满足生产安排。",
           "url": "https://wallstreetcn.com/livenews/3025149",
           "source": "华尔街见闻-快讯",
@@ -176,17 +176,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "提醒：美国总统特朗普在佛罗里达州棕榈滩住所的讲话结束。",
-          "url": "https://wallstreetcn.com/livenews/3025175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
@@ -202,17 +191,6 @@
           "time_info": "[00时31分 ~ 01时44分]"
         },
         {
-          "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
-          "url": "https://wallstreetcn.com/livenews/3025174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "据福克斯新闻：一位官员证实，特朗普政府正召回约30名大使。",
           "url": "https://flash.jin10.com/detail/20251223005847511800",
           "source": "金十数据",
@@ -223,6 +201,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 02时36分]"
+        },
+        {
+          "title": "特朗普：美国还将增加航空母舰数量",
+          "url": "https://wallstreetcn.com/livenews/3025152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时43分]"
         },
         {
           "title": "据Politico：特朗普的批评者乔治·康威已提交申请，竞选纽约州众议院席位。",
@@ -250,17 +242,28 @@
           "time_info": "[02时36分 ~ 04时47分]"
         },
         {
-          "title": "特朗普：美国还将增加航空母舰数量",
-          "url": "https://wallstreetcn.com/livenews/3025152",
+          "title": "提醒：美国总统特朗普在佛罗里达州棕榈滩住所的讲话结束。",
+          "url": "https://wallstreetcn.com/livenews/3025175",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            9,
-            24
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：希望让14家大型医疗保险公司降费。 我们将会见其他保险公司。 汽车、住房的保费都已经上涨。",
+          "url": "https://wallstreetcn.com/livenews/3025174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
           "title": "美国原油期货收涨超2.6%，特朗普试图在封锁委内瑞拉期间截获第三艘油轮",
@@ -274,6 +277,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 05时42分]"
+        },
+        {
+          "title": "美国总统特朗普：防务行业需要优先考虑生产开支。",
+          "url": "https://wallstreetcn.com/livenews/3025154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 07时43分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：将与美国总统特朗普讨论伊朗的核活动。",
@@ -311,6 +327,18 @@
           "time_info": "[06时24分 ~ 06时46分]"
         },
         {
+          "title": "美国总统特朗普：我们需要格陵兰岛，并非是为了矿产或石油，而是出于安全考虑。",
+          "url": "https://wallstreetcn.com/livenews/3025172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
           "title": "美国总统特朗普：批准海军开始建造两艘全新战列舰的计划。",
           "url": "https://flash.jin10.com/detail/20251223061340570800",
           "source": "金十数据",
@@ -320,18 +348,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 06时46分]"
-        },
-        {
-          "title": "美国总统特朗普：防务行业需要优先考虑生产开支。",
-          "url": "https://wallstreetcn.com/livenews/3025154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普活动现场的海报展示了新军舰的图像，并配有文字“特朗普级美国海军无畏号（Trump Class USS Defiant）”。",
@@ -345,6 +361,17 @@
           "time_info": "[06时24分 ~ 06时46分]"
         },
         {
+          "title": "美国总统特朗普：与保险公司的会议将在（圣诞节）复工后的头几天举行。",
+          "url": "https://flash.jin10.com/detail/20251223070333893800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
           "title": "据华尔街日报：美国新级别军舰将以美国总统特朗普命名。",
           "url": "https://flash.jin10.com/detail/20251223044243476800",
           "source": "金十数据",
@@ -354,6 +381,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 05时42分]"
+        },
+        {
+          "title": "美国总统特朗普：我们还将与其他保险公司、汽车保险公司和房屋保险公司会面。",
+          "url": "https://flash.jin10.com/detail/20251223070230285800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
           "title": "美国总统特朗普：宣布新的“黄金舰队”。 已经批准海军建造两艘新战列舰的计划。 将增加航空母舰的数量，正在建造三艘大型航空母舰。 从两艘开始，最终会有20-25艘。 15艘潜艇正在建造或即将开工。 将配置许许多多的高超音速武器。 下周将在佛罗里达会见承包商，将讨论生产安排。 承包商可能会修建新工厂，来满足生产安排。",
@@ -366,6 +404,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：本周将与医疗保险公司会面。",
+          "url": "https://flash.jin10.com/detail/20251223070148000800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：马杜罗想做什么，由他自己决定；马杜罗下台是明智之举。",
+          "url": "https://flash.jin10.com/detail/20251223070109720800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：所有人都厌倦了俄罗斯在乌克兰的战争。",
+          "url": "https://flash.jin10.com/detail/20251223070041135800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普：美国还将增加航空母舰数量",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E8%BF%98%E5%B0%86%E5%A2%9E%E5%8A%A0%E8%88%AA%E7%A9%BA%E6%AF%8D%E8%88%B0%E6%95%B0%E9%87%8F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈柬埔寨-泰国关系）我认为我们在这方面控制得相当不错。",
+          "url": "https://flash.jin10.com/detail/20251223065954207800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
           "title": "克里姆林宫：俄总统特别代表德米特里耶夫与美国特使威特科夫和特朗普女婿库什纳的接触是“工作进程”的一部分。",
@@ -390,6 +483,72 @@
           "time_info": "[06时24分 ~ 06时46分]"
         },
         {
+          "title": "美国总统特朗普：（谈柬埔寨与泰国）我认为我们在这方面进展得相当顺利。",
+          "url": "https://flash.jin10.com/detail/20251223065456882800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰谈判正在进行中，乌克兰会谈进展顺利。",
+          "url": "https://flash.jin10.com/detail/20251223065444674800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20251223065414373800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：我们需要格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20251223065306060800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：如果马杜罗摆出强硬姿态，这将是他最后一次能够摆出强硬姿态。",
+          "url": "https://flash.jin10.com/detail/20251223065032687800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
+          "title": "美国总统特朗普：告诉了马克龙，法国必须提高药品价格。",
+          "url": "https://flash.jin10.com/detail/20251223064823222800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
           "title": "欧美风电概念股普遍下挫，特朗普政府接口国家安全对五家公司暂停海上风电场租赁",
           "url": "https://wallstreetcn.com/livenews/3025027",
           "source": "华尔街见闻-快讯",
@@ -401,81 +560,37 @@
           "time_info": "[00时31分 ~ 00时55分]"
         },
         {
-          "title": "美国总统特朗普：我们需要格陵兰岛，并非是为了矿产或石油，而是出于安全考虑。",
-          "url": "https://wallstreetcn.com/livenews/3025172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：与保险公司的会议将在（圣诞节）复工后的头几天举行。",
-          "url": "https://flash.jin10.com/detail/20251223070333893800",
+          "title": "美国总统特朗普：已就委内瑞拉问题与“大型”石油公司进行过对话。",
+          "url": "https://flash.jin10.com/detail/20251223064255386800",
           "source": "金十数据",
           "ranks": [
-            9
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
-          "title": "美国总统特朗普：我们还将与其他保险公司、汽车保险公司和房屋保险公司会面。",
-          "url": "https://flash.jin10.com/detail/20251223070230285800",
+          "title": "美国总统特朗普：我们将继续在委内瑞拉附近扣押船只和石油。",
+          "url": "https://flash.jin10.com/detail/20251223064123693800",
           "source": "金十数据",
           "ranks": [
-            11
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
-          "title": "美国总统特朗普：本周将与医疗保险公司会面。",
-          "url": "https://flash.jin10.com/detail/20251223070148000800",
+          "title": "美国总统特朗普：将为新战舰使用美国钢铁。",
+          "url": "https://flash.jin10.com/detail/20251223063925012800",
           "source": "金十数据",
           "ranks": [
-            12
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：马杜罗想做什么，由他自己决定；马杜罗下台是明智之举。",
-          "url": "https://flash.jin10.com/detail/20251223070109720800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：所有人都厌倦了俄罗斯在乌克兰的战争。",
-          "url": "https://flash.jin10.com/detail/20251223070041135800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：（谈柬埔寨-泰国关系）我认为我们在这方面控制得相当不错。",
-          "url": "https://flash.jin10.com/detail/20251223065954207800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
         },
         {
           "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
@@ -498,105 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "美国总统特朗普：（谈柬埔寨与泰国）我认为我们在这方面进展得相当顺利。",
-          "url": "https://flash.jin10.com/detail/20251223065456882800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰谈判正在进行中，乌克兰会谈进展顺利。",
-          "url": "https://flash.jin10.com/detail/20251223065444674800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：我们必须拥有格陵兰岛。",
-          "url": "https://flash.jin10.com/detail/20251223065414373800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：我们需要格陵兰岛。",
-          "url": "https://flash.jin10.com/detail/20251223065306060800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：如果马杜罗摆出强硬姿态，这将是他最后一次能够摆出强硬姿态。",
-          "url": "https://flash.jin10.com/detail/20251223065032687800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：告诉了马克龙，法国必须提高药品价格。",
-          "url": "https://flash.jin10.com/detail/20251223064823222800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：已就委内瑞拉问题与“大型”石油公司进行过对话。",
-          "url": "https://flash.jin10.com/detail/20251223064255386800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：我们将继续在委内瑞拉附近扣押船只和石油。",
-          "url": "https://flash.jin10.com/detail/20251223064123693800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美国总统特朗普：将为新战舰使用美国钢铁。",
-          "url": "https://flash.jin10.com/detail/20251223063925012800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         }
       ]
     },
@@ -625,8 +641,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "中国机器人获机器人格斗冠军",
@@ -638,8 +654,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "“港股GPU第一股”壁仞科技确定IPO发售价格区间，预计明年1月2日上市交易",
@@ -650,8 +666,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 06时46分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
@@ -663,8 +679,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "罗永浩“科技春晚”时隔七年回归",
@@ -681,8 +697,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.37%，报25909点。 恒生科技指数主连夜盘收涨0.40%，报5545点。",
@@ -776,6 +792,18 @@
           "time_info": "[05时42分 ~ 06时46分]"
         },
         {
+          "title": "美国总统特朗普：你能拥有机器人，但你往往需要人类。",
+          "url": "https://wallstreetcn.com/livenews/3025168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
           "title": "标普500指数收涨43.99点，涨幅0.64%，报6878.49点。 道琼斯工业平均指数收涨227.78点，涨幅0.47%，报48362.68点。 纳斯达克综合指数（纳指）收涨121.209点，涨幅0.52%，报23428.829点。 纳斯达克100指数收涨115.525点，涨幅0.46%，报25461.702点。 纳斯达克生物科技指数收涨1.50%，报5824.16点。 费城半导体指数收涨1.10%，报7145.57点。 费城证交所KBW银行指数收涨1.24%，报167.41点。 道琼斯KBW地区银行指数收涨0.30%，报128.56点。",
           "url": "https://wallstreetcn.com/livenews/3025123",
           "source": "华尔街见闻-快讯",
@@ -785,17 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "美国总统特朗普：你能拥有机器人，但你往往需要人类。",
-          "url": "https://wallstreetcn.com/livenews/3025168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "希捷科技股价在回吐开盘涨幅后下跌5.5%。",
@@ -822,8 +839,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "UP主用AI改写三体名场面",
@@ -837,8 +854,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -849,8 +866,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "港大博士论文引用 AI 虚构文献，通讯作者副院长引咎卸职，该事件对 AI 应用有哪些警示意义？",
@@ -863,11 +880,12 @@
             11,
             13,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时22分 ~ 06时24分]"
+          "appearance_count": 14,
+          "time_info": "[01时22分 ~ 07时43分]"
         },
         {
           "title": "相亲消费四千块,怕同房连夜跑路",
@@ -877,8 +895,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "美国民主党主导的各州提起诉讼，以阻止特朗普政府削减消费者金融保护局的经费。",
@@ -959,6 +977,30 @@
           "time_info": "[02时36分 ~ 04时47分]"
         },
         {
+          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 07时43分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
           "title": "美国五角大楼将与马斯克旗下xAI拓展AI Arsenal。",
           "url": "https://wallstreetcn.com/livenews/3025118",
           "source": "华尔街见闻-快讯",
@@ -981,28 +1023,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 05时42分]"
-        },
-        {
-          "title": "财晓得｜推开未来之门：AI视野下的2030上海城市图景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32229845",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         }
       ]
     },
@@ -1083,6 +1103,17 @@
           "time_info": "[06时24分 ~ 06时46分]"
         },
         {
+          "title": "诺和诺德(NVO.N)美股盘后上涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20251223065826378800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时43分]"
+        },
+        {
           "title": "华纳兄弟探索公司（WBD）美股盘初涨3.9%，Paramount SkyDance（派拉蒙天舞）涨3.3%。",
           "url": "https://wallstreetcn.com/livenews/3025024",
           "source": "华尔街见闻-快讯",
@@ -1100,18 +1131,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "诺和诺德(NVO.N)美股盘后上涨4.7%。",
-          "url": "https://flash.jin10.com/detail/20251223065826378800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -1151,8 +1171,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "美情报机构未发现伊朗将发动袭击的迹象",
@@ -1323,11 +1343,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时22分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[01时22分 ~ 07时43分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -1363,8 +1384,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时31分 ~ 07时23分]"
+          "appearance_count": 19,
+          "time_info": "[00时31分 ~ 07时43分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
