@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T21:35:14.207191+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2025-12-24T22:24:23.070788+08:00",
+  "total_titles_processed": 1941,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 21时35分]"
+          "appearance_count": 10,
+          "time_info": "[17时28分 ~ 22时24分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -40,11 +40,12 @@
             10,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[11时27分 ~ 21时35分]"
+          "appearance_count": 20,
+          "time_info": "[11时27分 ~ 22时24分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -191,6 +192,17 @@
           "time_info": "[07时43分 ~ 13时32分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时26分 ~ 22时24分]"
+        },
+        {
           "title": "“特朗普级”新型战列舰命名打破惯例",
           "url": "https://www.toutiao.com/trending/7586975150495501874/",
           "source": "今日头条",
@@ -205,17 +217,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时26分 ~ 21时35分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -450,6 +451,18 @@
           "time_info": "[14时39分 ~ 15时46分]"
         },
         {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时34分 ~ 22时24分]"
+        },
+        {
           "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
           "url": "https://flash.jin10.com/detail/20251224130340552800",
           "source": "金十数据",
@@ -544,17 +557,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时22分 ~ 19时42分]"
-        },
-        {
-          "title": "评论员：特朗普级战舰可能造不出来",
-          "url": "https://www.toutiao.com/trending/7587325146696781348/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 21时35分]"
         },
         {
           "title": "解析美军制造特朗普级战舰",
@@ -692,7 +694,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "海南封关带火旅游消费：三亚免税销售连续4天破亿，备婚情侣“打飞的”买金，“有望成为全球度假胜地”",
@@ -798,6 +800,28 @@
           "time_info": "[17时28分 ~ 19时42分]"
         },
         {
+          "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3026250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "冰雪课堂如何成为“消费新宠”",
+          "url": "https://www.baidu.com/s?wd=%E5%86%B0%E9%9B%AA%E8%AF%BE%E5%A0%82%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E2%80%9C%E6%B6%88%E8%B4%B9%E6%96%B0%E5%AE%A0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
           "url": "https://wallstreetcn.com/livenews/3025695",
           "source": "华尔街见闻-快讯",
@@ -899,6 +923,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 05时22分]"
+        },
+        {
+          "title": "何立峰：坚决遏制能源消费总量不合理增长，持续提高能源资源产出效率",
+          "url": "https://wallstreetcn.com/livenews/3026217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时24分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：当人们乐观时，他们更愿意消费。",
@@ -1012,18 +1049,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 17时28分]"
-        },
-        {
-          "title": "何立峰：坚决遏制能源消费总量不合理增长，持续提高能源资源产出效率",
-          "url": "https://wallstreetcn.com/livenews/3026217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时35分]"
         },
         {
           "title": "日本上调2025–26财年GDP增长预期 消费与投资成主要动力",
@@ -1188,7 +1213,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
@@ -1198,8 +1223,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时53分 ~ 21时35分]"
+          "appearance_count": 21,
+          "time_info": "[09时53分 ~ 22时24分]"
+        },
+        {
+          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://www.cls.cn/detail/2239177",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 22时24分]"
         },
         {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高，人民币强势逼近7.01",
@@ -1212,17 +1248,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时22分 ~ 07时43分]"
-        },
-        {
-          "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
-          "url": "https://www.cls.cn/detail/2239177",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 21时35分]"
         },
         {
           "title": "强劲GDP提振科技股，标普四连涨收创新高，金银铜再新高",
@@ -1262,6 +1287,19 @@
           "time_info": "12时11分"
         },
         {
+          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
+          "url": "https://www.cls.cn/detail/2239208",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时50分 ~ 22时24分]"
+        },
+        {
           "title": "半导体ETF收涨超0.9%，领跑美股行业ETF，标普电信、科技板块涨超0.9%",
           "url": "https://wallstreetcn.com/livenews/3025776",
           "source": "华尔街见闻-快讯",
@@ -1274,18 +1312,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时42分 ~ 07时23分]"
-        },
-        {
-          "title": "从春晚扭秧歌到演唱会伴舞，2025年机器人名场面盘点",
-          "url": "https://www.cls.cn/detail/2239208",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时50分 ~ 21时35分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.12%，报25818点。 恒生科技指数主连夜盘收涨0.05%，报5497点。",
@@ -1314,6 +1340,19 @@
           "time_info": "[15时46分 ~ 18时48分]"
         },
         {
+          "title": "拓荆科技：12月17日至12月24日国家集成电路基金减持公司总股本的0.65%",
+          "url": "https://wallstreetcn.com/livenews/3026218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时24分]"
+        },
+        {
           "title": "国家发改委：加力实施农机装备补短板行动 拓展大数据、农业机器人、人工智能等在农业农村领域应用场景",
           "url": "https://wallstreetcn.com/livenews/3025901",
           "source": "华尔街见闻-快讯",
@@ -1336,18 +1375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 14时39分]"
-        },
-        {
-          "title": "拓荆科技：12月17日至12月24日国家集成电路基金减持公司总股本的0.65%",
-          "url": "https://wallstreetcn.com/livenews/3026218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时35分]"
         },
         {
           "title": "恒指收涨0.17%，报25818.93点。恒生科技指数涨0.19%。 今日港股因假期提前收市。",
@@ -1435,6 +1462,28 @@
           "time_info": "[06时23分 ~ 06时45分]"
         },
         {
+          "title": "据港交所文件：深圳承泰科技股份有限公司向港交所提交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3026244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
+          "url": "https://wallstreetcn.com/articles/3761983",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "恒指高开0.02%，报25780.09点；恒生科技指数涨0.07%。中芯国际涨2.1%，华虹半导体涨1.5%。",
           "url": "https://wallstreetcn.com/livenews/3025881",
           "source": "华尔街见闻-快讯",
@@ -1504,7 +1553,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -1547,15 +1596,15 @@
           "time_info": "[18时26分 ~ 19时42分]"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-24）",
-          "url": "https://flash.jin10.com/detail/20251224213043071800",
-          "source": "金十数据",
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3026248",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
+          "time_info": "22时24分"
         },
         {
           "title": "英特尔美股盘前跌近1%，据报道，英伟达测试了英特尔的18A工艺，但已暂缓推进。",
@@ -1610,6 +1659,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 07时43分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224213043071800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时24分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股收盘）",
@@ -1677,6 +1738,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时42分 ~ 06时45分]"
+        },
+        {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美股收盘：英伟达涨超3%",
@@ -1821,7 +1893,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "周二（12月23日）纽约尾盘，彭博谷物分类指数涨0.18%，报29.3763点。 CBOT玉米期货涨0.06%，CBOT小麦期货涨0.44%。 CBOT大豆期货跌0.12%，报10.63美元/蒲式耳，豆粕期货涨0.10%，豆油期货跌0.63%。 CBOT瘦肉猪期货涨0.82%，活牛期货跌0.61%，饲牛期货跌0.51%。",
@@ -1889,6 +1961,17 @@
           "time_info": "[01时46分 ~ 03时20分]"
         },
         {
+          "title": "初请数据公布后，现货黄金、美元指数DXY短线变动不大，美国股指期货保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251224213209777800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "澳元兑美元上涨0.1%至0.6708，为2024年10月以来最高水平。 隔夜指数掉期显示， 澳洲联储加息两次的可能性超过70%，第一次加息最早可能在明年6月发生。",
           "url": "https://wallstreetcn.com/livenews/3025903",
           "source": "华尔街见闻-快讯",
@@ -1914,11 +1997,12 @@
             16,
             7,
             4,
-            2
+            2,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 20时50分]"
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 22时24分]"
         },
         {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
