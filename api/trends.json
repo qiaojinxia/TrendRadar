@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T09:54:59.240673+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2025-12-26T11:28:30.981291+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "央视曝光美妆背后的消费陷阱",
@@ -44,11 +44,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 09时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 11时28分]"
         },
         {
           "title": "李宏毅被限制高消费",
@@ -59,8 +60,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 09时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 11时28分]"
         },
         {
           "title": "演员李宏毅被限制高消费",
@@ -80,6 +81,18 @@
           "time_info": "[00时31分 ~ 07时43分]"
         },
         {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时28分]"
+        },
+        {
           "title": "今年以来A股市场定增融资超7800亿元",
           "url": "https://wallstreetcn.com/livenews/3026841",
           "source": "华尔街见闻-快讯",
@@ -92,6 +105,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时42分 ~ 07时43分]"
+        },
+        {
+          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
+          "url": "https://wallstreetcn.com/livenews/3027011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "光大证券策略首席分析师：政策、产业、资金“三重共振”，2026年A股市场将依然乐观。",
@@ -107,17 +131,6 @@
           "time_info": "[06时24分 ~ 07时43分]"
         },
         {
-          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
-          "url": "https://www.cls.cn/detail/2240453",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "商务部：全力做好岁末年初消费促进和市场保供工作",
           "url": "https://wallstreetcn.com/livenews/3026776",
           "source": "华尔街见闻-快讯",
@@ -129,6 +142,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 01时43分]"
+        },
+        {
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时28分]"
+        },
+        {
+          "title": "AI音乐MV绩效改进计划",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时28分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -149,7 +186,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -160,18 +197,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "AI音乐MV绩效改进计划",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -182,26 +208,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
-          "url": "https://www.cls.cn/detail/2240534",
-          "source": "财联社热门",
+          "title": "A股大金融板块震荡走强，海联金汇涨停，中银证券冲击涨停，兴业证券涨超6%，指南针、国盛证券、东方财富等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3026995",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "11时28分"
+        },
+        {
+          "title": "联想将推出超级AI智能体，对标豆包手机助手",
+          "url": "https://wallstreetcn.com/livenews/3026959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "年终巨献：机器人述职报告",
@@ -253,8 +290,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时21分 ~ 09时54分]"
+          "appearance_count": 20,
+          "time_info": "[01时21分 ~ 11时28分]"
         },
         {
           "title": "汽车零部件巨头变机器人新势力？中鼎股份子公司出资3000万元，与逐际动力等共同经营人形机器人代工",
@@ -301,6 +338,30 @@
           "time_info": "[06时24分 ~ 07时43分]"
         },
         {
+          "title": "【明日主题前瞻】太空算力成为多个海外科技巨头看好的赛道",
+          "url": "https://www.cls.cn/detail/2240358",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时28分]"
+        },
+        {
+          "title": "哥大博士预言人会爱上机器人",
+          "url": "https://www.douyin.com/hot/2346977",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时28分]"
+        },
+        {
           "title": "联手金马游乐，星尘智能开启“机器人MART”千台级批量交付",
           "url": "https://wallstreetcn.com/livenews/3026773",
           "source": "华尔街见闻-快讯",
@@ -313,15 +374,37 @@
           "time_info": "[00时31分 ~ 00时53分]"
         },
         {
+          "title": "金十图示：2025年12月26日（周五）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251226105854762800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "A股商业航天概念延续强势，神剑股份7连板，九鼎新材4连板，大业股份3连板，佳缘科技20cm涨停，广联航空涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3026938",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251226105122946800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（12月26日）",
@@ -341,37 +424,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "【明日主题前瞻】太空算力成为多个海外科技巨头看好的赛道",
-          "url": "https://www.cls.cn/detail/2240358",
-          "source": "财联社热门",
+          "title": "柳州优必选第1000台工业人形机器人下线",
+          "url": "https://wallstreetcn.com/livenews/3026991",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "哥大博士预言人会爱上机器人",
-          "url": "https://www.douyin.com/hot/2346977",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -490,6 +562,18 @@
           "time_info": "[07时23分 ~ 07时43分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时28分]"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -502,15 +586,26 @@
           "time_info": "[07时23分 ~ 07时43分]"
         },
         {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "11时28分"
+        },
+        {
+          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251226104958577800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "专家：特朗普或在2026“压榨”美联储",
@@ -519,9 +614,71 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11,
+            10,
+            7,
+            8,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时31分 ~ 07时43分]"
+        },
+        {
+          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
+          "url": "https://wallstreetcn.com/livenews/3026784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            21,
+            24,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 04时46分]"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时28分]"
+        },
+        {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
@@ -593,56 +750,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            10,
-            7,
-            8,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 07时43分]"
-        },
-        {
-          "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
-          "url": "https://wallstreetcn.com/livenews/3026784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17,
-            21,
-            24,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 04时46分]"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -653,11 +760,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 09时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 11时28分]"
         }
       ]
     },
