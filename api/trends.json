@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T16:32:02.244310+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2025-12-28T17:25:25.045482+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "年内近40家上市公司分红超百亿 股息率居前A股名单一览",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时28分 ~ 16时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时28分 ~ 17时25分]"
         },
         {
           "title": "南京路步行街跨年消费“大餐”来了：线上线下可抢券、商家延时至凌晨",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[02时33分 ~ 16时32分]"
+          "appearance_count": 30,
+          "time_info": "[02时33分 ~ 17时25分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时06分 ~ 16时32分]"
+          "appearance_count": 15,
+          "time_info": "[10时06分 ~ 17时25分]"
         },
         {
           "title": "天津启动2026年新春消费季 将推出超千场促消费活动",
@@ -115,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时58分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[11时58分 ~ 17时25分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -127,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时51分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[12时51分 ~ 17时25分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -162,8 +162,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时23分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时23分 ~ 17时25分]"
         },
         {
           "title": "财政部：明年继续安排资金支持消费品以旧换新",
@@ -173,22 +173,12 @@
             7,
             10,
             11,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 16时32分]"
-        },
-        {
-          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
-          "url": "https://wallstreetcn.com/livenews/3027613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 17时25分]"
         },
         {
           "title": "如何看待央视曝光韩束两款面膜被检出「违禁生长因子」（EGF），暴露了哪些行业问题，对消费者有何影响？",
@@ -204,6 +194,18 @@
           "time_info": "[10时06分 ~ 12时52分]"
         },
         {
+          "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
+          "url": "https://wallstreetcn.com/livenews/3027613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时25分]"
+        },
+        {
           "title": "国产AI大战迈入新阶段？豆包日活破亿 机构：“Chatbot入口之争”已然意义不大",
           "url": "https://www.cls.cn/detail/2241925",
           "source": "财联社热门",
@@ -215,6 +217,18 @@
           "time_info": "[07时22分 ~ 07时42分]"
         },
         {
+          "title": "财政部：2026年大力提振消费",
+          "url": "https://www.toutiao.com/trending/7587772603142996011/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
           "url": "https://flash.jin10.com/detail/20251228101016182800",
           "source": "金十数据",
@@ -224,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 12时52分]"
-        },
-        {
-          "title": "财政部：2026年大力提振消费",
-          "url": "https://www.toutiao.com/trending/7587772603142996011/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "AI医疗前景如何",
@@ -268,6 +271,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "财政部：2026年大力提振消费",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%A2%E6%94%BF%E9%83%A8%EF%BC%9A2026%E5%B9%B4%E5%A4%A7%E5%8A%9B%E6%8F%90%E6%8C%AF%E6%B6%88%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "A股全年诞生528只翻倍股",
+          "url": "https://www.toutiao.com/trending/7588783963586432566/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
@@ -352,17 +377,31 @@
           "time_info": "[00时28分 ~ 03时19分]"
         },
         {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时25分]"
+        },
+        {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
           "url": "https://flash.jin10.com/detail/20251228145227378800",
           "source": "金十数据",
           "ranks": [
             2,
             8,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时25分]"
         },
         {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
@@ -371,23 +410,12 @@
           "ranks": [
             3,
             9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时32分]"
-        },
-        {
-          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
-          "url": "https://www.toutiao.com/trending/7588795037148794414/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            7
+            17,
+            21
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时42分 ~ 16时32分]"
+          "time_info": "[15时24分 ~ 17时25分]"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -485,7 +513,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "机器人测试时突然送工程师恶毒一脚",
@@ -513,8 +541,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时58分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[11时58分 ~ 17时25分]"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -543,8 +571,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时28分 ~ 16时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时28分 ~ 17时25分]"
         },
         {
           "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
@@ -578,11 +606,12 @@
             2,
             5,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 16时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 17时25分]"
         },
         {
           "title": "马斯克1个表情评宇树机器人踹工程师",
@@ -595,6 +624,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 12时52分]"
+        },
+        {
+          "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
+          "url": "https://wallstreetcn.com/livenews/3027626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -669,8 +709,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时58分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[11时58分 ~ 17时25分]"
         },
         {
           "title": "伊朗总统：正与美欧打“全面战争”",
@@ -707,11 +747,12 @@
           "ranks": [
             5,
             11,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 17时25分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -773,8 +814,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时23分 ~ 15时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时23分 ~ 17时25分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
