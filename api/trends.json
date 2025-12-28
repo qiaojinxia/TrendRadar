@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T23:23:54.258701+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2025-12-28T23:43:27.171640+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "南京路步行街跨年消费“大餐”来了：线上线下可抢券、商家延时至凌晨",
@@ -34,8 +34,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[00时28分 ~ 23时23分]"
+          "appearance_count": 49,
+          "time_info": "[00时28分 ~ 23时43分]"
         },
         {
           "title": "2025年A股上市公司分红2.64万亿 分红超百亿个股名单一览",
@@ -44,11 +44,12 @@
           "ranks": [
             7,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[10时06分 ~ 23时23分]"
+          "appearance_count": 28,
+          "time_info": "[10时06分 ~ 23时43分]"
         },
         {
           "title": "财政部：2026年继续实施更加积极的财政政策，扩大财政支出盘子，继续支持消费品以旧换新",
@@ -60,8 +61,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[15时23分 ~ 23时23分]"
+          "appearance_count": 20,
+          "time_info": "[15时23分 ~ 23时43分]"
+        },
+        {
+          "title": "2025最全AI成果盘点",
+          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            3,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[19时20分 ~ 23时43分]"
         },
         {
           "title": "天津启动2026年新春消费季 将推出超千场促消费活动",
@@ -90,20 +105,6 @@
           "time_info": "[10时06分 ~ 13时50分]"
         },
         {
-          "title": "2025最全AI成果盘点",
-          "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            3,
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时20分 ~ 23时23分]"
-        },
-        {
           "title": "智能驾驶细分龙头月内涨超95% 梳理产业链激光雷达等环节市占率居前A股名单",
           "url": "https://www.cls.cn/detail/2241810",
           "source": "财联社热门",
@@ -117,8 +118,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时58分 ~ 23时23分]"
+          "appearance_count": 27,
+          "time_info": "[11时58分 ~ 23时43分]"
         },
         {
           "title": "天津启动2026年新春消费季 将推出超千场促消费活动",
@@ -160,8 +161,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时51分 ~ 23时23分]"
+          "appearance_count": 26,
+          "time_info": "[12时51分 ~ 23时43分]"
         },
         {
           "title": "财政部：明年继续安排资金支持消费品以旧换新",
@@ -205,6 +206,17 @@
           "time_info": "[13时28分 ~ 16时32分]"
         },
         {
+          "title": "点燃冬季文旅消费新热潮",
+          "url": "https://www.toutiao.com/trending/7588190809251250218/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时22分 ~ 23时43分]"
+        },
+        {
           "title": "小鹏汽车联合北大提出全新视觉Token剪枝框架FastDriveVLA，论文入选国际AI顶会AAAI 2026",
           "url": "https://wallstreetcn.com/livenews/3027613",
           "source": "华尔街见闻-快讯",
@@ -235,28 +247,18 @@
           "time_info": "[17时25分 ~ 21时32分]"
         },
         {
-          "title": "点燃冬季文旅消费新热潮",
-          "url": "https://www.toutiao.com/trending/7588190809251250218/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时22分 ~ 23时23分]"
-        },
-        {
           "title": "A股迎多项利好",
           "url": "https://www.toutiao.com/trending/7588759906153840703/",
           "source": "今日头条",
           "ranks": [
             19,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时22分 ~ 23时23分]"
+          "appearance_count": 5,
+          "time_info": "[22时22分 ~ 23时43分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -265,9 +267,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
         },
         {
           "title": "如何看待央视曝光韩束两款面膜被检出「违禁生长因子」（EGF），暴露了哪些行业问题，对消费者有何影响？",
@@ -382,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 17时43分]"
+        },
+        {
+          "title": "元旦消费提示: 警惕三大价格陷阱",
+          "url": "https://www.baidu.com/s?wd=%E5%85%83%E6%97%A6%E6%B6%88%E8%B4%B9%E6%8F%90%E7%A4%BA%3A+%E8%AD%A6%E6%83%95%E4%B8%89%E5%A4%A7%E4%BB%B7%E6%A0%BC%E9%99%B7%E9%98%B1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         }
       ]
     },
@@ -413,8 +426,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时43分 ~ 23时23分]"
+          "appearance_count": 13,
+          "time_info": "[17时43分 ~ 23时43分]"
         },
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -502,8 +515,74 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时22分 ~ 23时23分]"
+          "appearance_count": 4,
+          "time_info": "[22时22分 ~ 23时43分]"
+        },
+        {
+          "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
+          "url": "https://flash.jin10.com/detail/20251228225808977800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
+        },
+        {
+          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
+          "url": "https://wallstreetcn.com/livenews/3027678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
+        },
+        {
+          "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
+          "url": "https://flash.jin10.com/detail/20251228225633143800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
+          "url": "https://wallstreetcn.com/livenews/3027677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
+          "url": "https://flash.jin10.com/detail/20251228224005794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
+        },
+        {
+          "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
+          "url": "https://flash.jin10.com/detail/20251228223135364800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时43分]"
         },
         {
           "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。",
@@ -517,59 +596,16 @@
           "time_info": "22时45分"
         },
         {
-          "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
-          "url": "https://flash.jin10.com/detail/20251228225808977800",
+          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
+          "url": "https://flash.jin10.com/detail/20251228220434760800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
-          "url": "https://wallstreetcn.com/livenews/3027678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "乌克兰总统办公室：乌克兰总统泽连斯基和美国总统特朗普将与欧洲领导人举行电话会议。",
-          "url": "https://flash.jin10.com/detail/20251228225633143800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
-          "url": "https://wallstreetcn.com/livenews/3027677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
-          "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
-          "url": "https://flash.jin10.com/detail/20251228224005794800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时43分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-28）",
@@ -598,17 +634,6 @@
           "time_info": "[15时24分 ~ 17时25分]"
         },
         {
-          "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
-          "url": "https://flash.jin10.com/detail/20251228223135364800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时23分"
-        },
-        {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
           "url": "https://flash.jin10.com/detail/20251228144705189800",
           "source": "金十数据",
@@ -621,18 +646,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时24分 ~ 17时25分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
-          "url": "https://flash.jin10.com/detail/20251228220434760800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时23分]"
         },
         {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
@@ -758,8 +771,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时58分 ~ 23时23分]"
+          "appearance_count": 27,
+          "time_info": "[11时58分 ~ 23时43分]"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -806,8 +819,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 48,
-          "time_info": "[00时28分 ~ 23时23分]"
+          "appearance_count": 49,
+          "time_info": "[00时28分 ~ 23时43分]"
         },
         {
           "title": "恒生电子执行总裁官晓岚：海南封关为金融科技与财富管理带来重要机遇",
@@ -832,6 +845,19 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时28分 ~ 07时22分]"
+        },
+        {
+          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/1988539129605091831",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时32分 ~ 23时43分]"
         },
         {
           "title": "中国人民银行科技司司长李伟：积极稳妥、安全有序推进人工智能金融应用",
@@ -859,18 +885,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 12时52分]"
-        },
-        {
-          "title": "宇树 G1 机器人模仿动作测试中，对工程师踢了一脚，为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/1988539129605091831",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时32分 ~ 23时23分]"
         },
         {
           "title": "机器人测试时突然踹工程师一脚",
@@ -1001,6 +1015,19 @@
           "time_info": "[13时28分 ~ 15时43分]"
         },
         {
+          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
+          "url": "https://wallstreetcn.com/livenews/3027666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时22分 ~ 23时43分]"
+        },
+        {
           "title": "伊朗总统警告美以勿发动新的攻击",
           "url": "https://flash.jin10.com/detail/20251228144104744800",
           "source": "金十数据",
@@ -1013,19 +1040,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时24分 ~ 17时25分]"
-        },
-        {
-          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
-          "url": "https://wallstreetcn.com/livenews/3027666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时22分 ~ 23时23分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -1090,8 +1104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时23分 ~ 23时23分]"
+          "appearance_count": 18,
+          "time_info": "[15时23分 ~ 23时43分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
@@ -1130,8 +1144,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时23分]"
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时43分]"
         }
       ]
     },
