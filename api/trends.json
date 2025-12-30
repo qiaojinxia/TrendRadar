@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T06:23:45.367629+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-12-31T06:46:27.085470+08:00",
+  "total_titles_processed": 598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -30,11 +30,12 @@
             22,
             23,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "有钱不敢花,国人陷消费焦虑",
@@ -44,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "明年消费者买手机等补贴15%",
@@ -61,8 +62,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -73,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
@@ -87,8 +88,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时36分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[02时36分 ~ 06时46分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -98,8 +99,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -151,11 +152,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时23分]"
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 06时46分]"
         },
         {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
@@ -180,6 +182,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 02时37分]"
+        },
+        {
+          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20251231052550783800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时43分 ~ 06时46分]"
         },
         {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
@@ -207,18 +222,6 @@
           "time_info": "[01时47分 ~ 02时37分]"
         },
         {
-          "title": "亚马逊将为美国政府机构AI系统投资高达500亿美元",
-          "url": "https://flash.jin10.com/detail/20251231052550783800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时23分]"
-        },
-        {
           "title": "据The Information：马斯克的xAI已在田纳西州孟菲斯郊外购买了一栋大楼，用于其计划建设的第三座超大规模数据中心。",
           "url": "https://flash.jin10.com/detail/20251231025925842800",
           "source": "金十数据",
@@ -228,6 +231,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 03时40分]"
+        },
+        {
+          "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
+          "url": "https://wallstreetcn.com/livenews/3028923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时46分]"
         },
         {
           "title": "龚正：明年要更大力度提振消费 加快推出上海优化营商环境9.0版行动方案",
@@ -264,15 +279,15 @@
           "time_info": "02时37分"
         },
         {
-          "title": "马斯克证实xAI购入第三栋建筑，训练算力将接近2吉瓦",
-          "url": "https://wallstreetcn.com/livenews/3028923",
+          "title": "产值冲刺8000亿元，全球市场占比近54%，新型显示从“链式生态” 迈向“AI+显示”新纪元",
+          "url": "https://wallstreetcn.com/livenews/3028945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时23分"
+          "time_info": "06时46分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -333,8 +348,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "罗永浩科技春晚迟到超 40 分钟，现场有观众大喊退票，后宣布全场退票，如何看待？",
@@ -347,8 +362,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时36分 ~ 06时23分]"
+          "appearance_count": 12,
+          "time_info": "[02时36分 ~ 06时46分]"
         },
         {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
@@ -359,8 +374,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "【每日收评】沪指连收10日阳线！机器人概念午后再度爆发，商业航天分歧加剧",
@@ -371,19 +386,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "马斯克设想人形机器人将遍布各地 中国或率先实现这一愿景",
           "url": "https://www.cls.cn/detail/2244180",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时20分 ~ 06时23分]"
+          "appearance_count": 10,
+          "time_info": "[03时20分 ~ 06时46分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.17%，报25880点。 恒生科技指数主连夜盘收跌0.32%，报5593点。",
@@ -418,11 +434,26 @@
           "ranks": [
             6,
             9,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3028919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
         },
         {
           "title": "长鑫科技科创板IPO已受理，拟融资295亿元",
@@ -436,19 +467,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时47分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3028919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时23分]"
         },
         {
           "title": "罗永浩：“科技春晚”门票将全部退还",
@@ -510,8 +528,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -521,8 +539,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -533,8 +551,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -556,8 +574,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "外交部回应特朗普谈解放军军演",
@@ -571,8 +589,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时40分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[03时40分 ~ 06时46分]"
         },
         {
           "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
@@ -581,22 +599,24 @@
           "ranks": [
             1,
             4,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
         },
         {
           "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
           "url": "https://flash.jin10.com/detail/20251231054352146800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时46分]"
         },
         {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
@@ -675,8 +695,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -697,8 +717,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 06时46分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -707,9 +727,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时46分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
@@ -718,11 +738,12 @@
           "ranks": [
             2,
             14,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
@@ -731,11 +752,12 @@
           "ranks": [
             3,
             15,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时23分]"
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
@@ -744,11 +766,25 @@
           "ranks": [
             4,
             16,
-            21
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/3028929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时23分]"
+          "time_info": "[05时43分 ~ 06时46分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股盘中）",
@@ -763,16 +799,16 @@
           "time_info": "[01时47分 ~ 02时37分]"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3028929",
+          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
+          "url": "https://wallstreetcn.com/livenews/3028934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            13
+            9,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时43分 ~ 06时23分]"
+          "time_info": "[06时23分 ~ 06时46分]"
         },
         {
           "title": "美股开盘：百度高开超4%",
@@ -787,17 +823,6 @@
           "time_info": "[01时24分 ~ 01时47分]"
         },
         {
-          "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
-          "url": "https://wallstreetcn.com/livenews/3028934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251231013358697800",
           "source": "金十数据",
@@ -807,6 +832,64 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
+          "url": "https://wallstreetcn.com/livenews/3028908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 05时43分]"
+        },
+        {
+          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
+          "url": "https://flash.jin10.com/detail/20251231030228136800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时20分 ~ 04时48分]"
+        },
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20251231041346663800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
+          "url": "https://wallstreetcn.com/livenews/3028943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
         }
       ]
     },
@@ -875,11 +958,24 @@
           "ranks": [
             23,
             25,
-            26
+            26,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 06时46分]"
+        },
+        {
+          "title": "金价周二略微反弹",
+          "url": "https://wallstreetcn.com/livenews/3028932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 06时46分]"
         },
         {
           "title": "金价波动",
@@ -891,17 +987,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 00时33分]"
-        },
-        {
-          "title": "金价周二略微反弹",
-          "url": "https://wallstreetcn.com/livenews/3028932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
         }
       ]
     },
@@ -951,52 +1036,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时48分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
-          "url": "https://wallstreetcn.com/livenews/3028908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 05时43分]"
-        },
-        {
-          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
-          "url": "https://flash.jin10.com/detail/20251231030228136800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 04时48分]"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20251231041346663800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时23分]"
         }
       ]
     },
