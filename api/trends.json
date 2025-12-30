@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T13:49:21.353115+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2025-12-30T14:38:41.109695+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 13时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -45,6 +45,17 @@
           "time_info": "[00时31分 ~ 11时41分]"
         },
         {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
+        },
+        {
           "title": "得知普京官邸遭袭 特朗普：很生气",
           "url": "https://www.baidu.com/s?wd=%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%88%E7%94%9F%E6%B0%94",
           "source": "百度热搜",
@@ -56,6 +67,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时42分 ~ 12时42分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "特朗普谈乌克兰试图袭击普京官邸：对此非常愤怒",
@@ -70,28 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时40分 ~ 05时22分]"
-        },
-        {
-          "title": "特朗普回应解放军在台岛附近军演",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时49分]"
-        },
-        {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时49分]"
         },
         {
           "title": "美国总统特朗普：美东时间08:00已经与俄罗斯总统普京通电话。",
@@ -126,6 +127,17 @@
           "time_info": "[03时19分 ~ 05时42分]"
         },
         {
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时38分]"
+        },
+        {
           "title": "美国总统特朗普：哈马斯必须解除武装。",
           "url": "https://wallstreetcn.com/livenews/3028299",
           "source": "华尔街见闻-快讯",
@@ -140,18 +152,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时36分 ~ 05时22分]"
-        },
-        {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 13时49分]"
         },
         {
           "title": "特朗普：若伊朗发展核武器，支持对伊朗发动快速打击",
@@ -366,15 +366,16 @@
           "time_info": "[03时19分 ~ 05时22分]"
         },
         {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
+          "title": "特朗普回应解放军在台岛附近军演",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9C%A8%E5%8F%B0%E5%B2%9B%E9%99%84%E8%BF%91%E5%86%9B%E6%BC%94%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
         },
         {
           "title": "特朗普：普京说他被袭击了 我很生气",
@@ -895,6 +896,20 @@
           "time_info": "[01时44分 ~ 03时40分]"
         },
         {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时38分]"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告诉美国总统特朗普，乌克兰对俄罗斯总统府发动了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20251230001452299800",
           "source": "金十数据",
@@ -907,6 +922,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时31分 ~ 01时44分]"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普：希望尽快进入加沙计划的第二阶段。",
@@ -1002,17 +1028,6 @@
           "time_info": "[00时54分 ~ 01时44分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时49分]"
-        },
-        {
           "title": "特朗普称不担心解放军绕台军演",
           "url": "https://www.toutiao.com/trending/7589288606792581163/",
           "source": "今日头条",
@@ -1023,19 +1038,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 11时41分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%8B%85%E5%BF%83%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BB%95%E5%8F%B0%E5%86%9B%E6%BC%94",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时49分]"
         },
         {
           "title": "特朗普政府将宣布面向农村卫生事业的州级拨款。",
@@ -1160,6 +1162,17 @@
           "time_info": "[05时42分 ~ 06时23分]"
         },
         {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时38分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡离开酒店前往海湖庄园会见美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251230021725324800",
           "source": "金十数据",
@@ -1228,17 +1241,6 @@
           "time_info": "09时56分"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
           "title": "美国总统特朗普：我会让以色列和叙利亚的总统和睦相处。",
           "url": "https://flash.jin10.com/detail/20251230050541630800",
           "source": "金十数据",
@@ -1297,7 +1299,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
@@ -1311,6 +1313,20 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时31分 ~ 09时56分]"
+        },
+        {
+          "title": "老干妈营收再破 54 亿大关，从商业上看，作为传统消费品牌，其逆势增长是做对了什么？",
+          "url": "https://www.zhihu.com/question/1988754685729998308",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 14时38分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -1367,20 +1383,6 @@
           "time_info": "[00时53分 ~ 09时56分]"
         },
         {
-          "title": "老干妈营收再破 54 亿大关，从商业上看，作为传统消费品牌，其逆势增长是做对了什么？",
-          "url": "https://www.zhihu.com/question/1988754685729998308",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 13时49分]"
-        },
-        {
           "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
           "url": "https://www.zhihu.com/question/1988511175416239504",
           "source": "知乎",
@@ -1391,8 +1393,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 13时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -1408,6 +1410,33 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 05时42分]"
+        },
+        {
+          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
+          "url": "https://www.cls.cn/detail/2243572",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时40分 ~ 14时38分]"
+        },
+        {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            4,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时38分]"
         },
         {
           "title": "东部战区发布的AI视频意味深长",
@@ -1447,31 +1476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时41分"
-        },
-        {
-          "title": "盘点2025年度AI大事件",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时49分]"
-        },
-        {
-          "title": "AI智能体超级并购来了！跻身Meta第三大收购案 商业化拐点还有多远？",
-          "url": "https://www.cls.cn/detail/2243572",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时49分]"
         },
         {
           "title": "中证报：多重因素催化，大消费板块配置价值获看好",
@@ -1538,6 +1542,30 @@
           "time_info": "[09时56分 ~ 12时42分]"
         },
         {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
+        },
+        {
+          "title": "AI造假当庭露馅,法官严斥伪造者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
+        },
+        {
           "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
           "url": "https://wallstreetcn.com/articles/3762279",
           "source": "华尔街见闻",
@@ -1550,27 +1578,28 @@
           "time_info": "[11时40分 ~ 12时42分]"
         },
         {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
+          "title": "A股三花智控午后成交额达100亿元，现涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3028559",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            6
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时49分]"
+          "time_info": "[13时49分 ~ 14时38分]"
         },
         {
-          "title": "AI造假当庭露馅,法官严斥伪造者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
-          "source": "贴吧",
+          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
+          "url": "https://www.cls.cn/detail/2243427",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时49分]"
+          "time_info": "[13时49分 ~ 14时38分]"
         },
         {
           "title": "A股商业航天概念震荡回升，硕贝德20cm涨停，雷科防务、华菱线缆、大业股份、中超控股、中国卫通、巨力索具等多股封板，航天发展、中国卫星、中天火箭等涨超8%。",
@@ -1585,26 +1614,15 @@
           "time_info": "[11时41分 ~ 12时42分]"
         },
         {
-          "title": "A股三花智控午后成交额达100亿元，现涨近8%。",
-          "url": "https://wallstreetcn.com/livenews/3028559",
+          "title": "A股商业航天概念午后跳水，神剑股份跌停。",
+          "url": "https://wallstreetcn.com/livenews/3028581",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "Meta宣布收购AI智能体公司Manus AI智能体商业价值愈发显著",
-          "url": "https://www.cls.cn/detail/2243427",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
+          "time_info": "14时38分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-30）",
@@ -1643,7 +1661,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
@@ -1712,11 +1730,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 13时49分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 14时38分]"
         },
         {
           "title": "手术机器人制造商精锋医疗寻求通过香港IPO融资12亿港元",
@@ -1848,6 +1867,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "香港恒生指数涨1%，恒生科技指数涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3028578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "标普500指数收跌24.20点，跌幅0.35%，报6905.74点。 道琼斯工业平均指数收跌249.04点，跌幅0.51%，报48461.93点。 纳斯达克综合指数（纳指）收跌118.748点，跌幅0.50%，报23474.349点。 纳斯达克100指数收跌118.83点，跌幅0.46%，报25525.56点。 纳斯达克生物科技指数收跌0.74%，报5766.42点。 费城半导体指数收跌0.41%，报7178.272点。 费城证交所KBW银行指数收跌1.10%，报166.49点。 道琼斯KBW地区银行指数收跌0.84%，报126.25点。",
           "url": "https://wallstreetcn.com/livenews/3028327",
           "source": "华尔街见闻-快讯",
@@ -1949,8 +1979,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 13时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -2103,8 +2133,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时38分]"
         },
         {
           "title": "金价暴跌店员称跌幅首次见",
@@ -2112,11 +2142,12 @@
           "source": "微博",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时38分]"
         },
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -2219,8 +2250,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时31分 ~ 13时49分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 14时38分]"
         }
       ]
     },
@@ -2265,11 +2296,12 @@
           "url": "https://www.douyin.com/hot/2351661",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时49分 ~ 14时38分]"
         }
       ]
     },
