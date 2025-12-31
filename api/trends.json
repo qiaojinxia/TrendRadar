@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T13:50:55.561315+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2025-12-31T14:39:08.731124+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -32,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时36分 ~ 13时50分]"
+          "appearance_count": 22,
+          "time_info": "[02时36分 ~ 14时39分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -80,11 +80,12 @@
             9,
             14,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 13时50分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 14时39分]"
         },
         {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
@@ -107,11 +108,25 @@
             16,
             21,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 13时50分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 14时39分]"
+        },
+        {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 14时39分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -158,15 +173,29 @@
           "time_info": "[05时43分 ~ 07时42分]"
         },
         {
-          "title": "字节跳动旗下海外AI助手Dola日活破千万",
-          "url": "https://wallstreetcn.com/livenews/3029107",
+          "title": "预告：国新办将于2026年1月6日举行新闻发布会 介绍推进绿色消费有关情况",
+          "url": "https://wallstreetcn.com/livenews/3029123",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时50分"
+          "time_info": "14时39分"
+        },
+        {
+          "title": "2026年全国消费品以旧换新工作部署电视电话会议在京召开",
+          "url": "https://wallstreetcn.com/livenews/3029086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 14时39分]"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -222,31 +251,6 @@
           "time_info": "[11时40分 ~ 13时50分]"
         },
         {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时50分]"
-        },
-        {
-          "title": "2026年全国消费品以旧换新工作部署电视电话会议在京召开",
-          "url": "https://wallstreetcn.com/livenews/3029086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 13时50分]"
-        },
-        {
           "title": "马斯克确认The Information关于扩建数据中心的报道，称：xAI正追求修建第三座建筑。",
           "url": "https://wallstreetcn.com/livenews/3028923",
           "source": "华尔街见闻-快讯",
@@ -257,6 +261,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 05时43分]"
+        },
+        {
+          "title": "字节跳动旗下海外AI助手Dola日活破千万",
+          "url": "https://wallstreetcn.com/livenews/3029107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 14时39分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -297,6 +313,19 @@
           "time_info": "[06时46分 ~ 07时42分]"
         },
         {
+          "title": "预告：国新办1月6日就推进绿色消费有关情况举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3029090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 14时39分]"
+        },
+        {
           "title": "报道：马斯克旗下xAI将扩建“巨人”数据中心",
           "url": "https://wallstreetcn.com/livenews/3028914",
           "source": "华尔街见闻-快讯",
@@ -322,18 +351,6 @@
           "time_info": "[01时47分 ~ 02时37分]"
         },
         {
-          "title": "预告：国新办1月6日就推进绿色消费有关情况举行新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3029090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时50分]"
-        },
-        {
           "title": "财联社、《科创板日报》年度评选推出“2025中国十大AI风云人物”",
           "url": "https://www.cls.cn/detail/2244555",
           "source": "财联社热门",
@@ -343,6 +360,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 07时42分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
+        },
+        {
+          "title": "向低质AI内容说不",
+          "url": "https://www.toutiao.com/trending/7589793585539186694/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "据The Information：马斯克的xAI已在田纳西州孟菲斯郊外购买了一栋大楼，用于其计划建设的第三座超大规模数据中心。",
@@ -366,6 +405,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 06时46分]"
+        },
+        {
+          "title": "UP主三个月打造AI男团",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%B8%89%E4%B8%AA%E6%9C%88%E6%89%93%E9%80%A0AI%E7%94%B7%E5%9B%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "龚正：明年要更大力度提振消费 加快推出上海优化营商环境9.0版行动方案",
@@ -538,7 +588,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
@@ -568,6 +618,17 @@
           "time_info": "[02时36分 ~ 07时42分]"
         },
         {
+          "title": "2025中国科技有多“硬核”",
+          "url": "https://www.toutiao.com/trending/7589613729818968110/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 14时39分]"
+        },
+        {
           "title": "拟募资295亿元！长鑫科技科创板IPO获受理 已完成两轮预审问询回复 2025年有望扭亏",
           "url": "https://www.cls.cn/detail/2244775",
           "source": "财联社热门",
@@ -581,6 +642,31 @@
           "time_info": "[09时56分 ~ 13时50分]"
         },
         {
+          "title": "2025中国科技有多“硬核”",
+          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%9C%89%E5%A4%9A%E2%80%9C%E7%A1%AC%E6%A0%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 14时39分]"
+        },
+        {
+          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
+          "url": "https://wallstreetcn.com/articles/3762337",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时56分 ~ 14时39分]"
+        },
+        {
           "title": "沪指10连阳，机器人、AI智能体爆发，恒科指涨近2%，半导体领涨，英矽智能港股IPO涨约25%，国投白银LOF震荡调整，在岸人民币破7",
           "url": "https://wallstreetcn.com/articles/3762287",
           "source": "华尔街见闻",
@@ -589,8 +675,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时32分 ~ 13时50分]"
+          "appearance_count": 26,
+          "time_info": "[00时32分 ~ 14时39分]"
         },
         {
           "title": "【每日收评】沪指连收10日阳线！机器人概念午后再度爆发，商业航天分歧加剧",
@@ -616,41 +702,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[03时20分 ~ 07时42分]"
-        },
-        {
-          "title": "2025中国科技有多“硬核”",
-          "url": "https://www.toutiao.com/trending/7589613729818968110/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时50分]"
-        },
-        {
-          "title": "2025中国科技有多“硬核”",
-          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%9C%89%E5%A4%9A%E2%80%9C%E7%A1%AC%E6%A0%B8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 13时50分]"
-        },
-        {
-          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
-          "url": "https://wallstreetcn.com/articles/3762337",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 13时50分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.17%，报25880点。 恒生科技指数主连夜盘收跌0.32%，报5593点。",
@@ -679,6 +730,17 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "“港股GPU第一股”壁仞科技港股暗盘涨超80%。",
+          "url": "https://wallstreetcn.com/livenews/3029127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（12月31日）",
           "url": "https://flash.jin10.com/detail/20251231072548621800",
           "source": "金十数据",
@@ -701,6 +763,18 @@
           "time_info": "09时56分"
         },
         {
+          "title": "拟募资295亿！长鑫科技IPO获受理：首单“预先审阅”落地 阿里腾讯现身股东榜",
+          "url": "https://www.cls.cn/detail/2245101",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 14时39分]"
+        },
+        {
           "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
           "url": "https://wallstreetcn.com/livenews/3028922",
           "source": "华尔街见闻-快讯",
@@ -713,6 +787,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时24分 ~ 06时46分]"
+        },
+        {
+          "title": "罗永浩科技春晚回归，此前称将介绍一批未走进大众视野的创新型科技产品，达到预期了吗？哪些内容值得一聊？",
+          "url": "https://www.zhihu.com/question/1989470814232339598",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 14时39分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.27%，报7616.03点，全天呈现出高开低走状态。 热门中概股里，百度初步收涨4.5%，小鹏涨3.8%，蔚来涨3.2%，文远知行、小米涨超1%，理想涨0.5%，阿里巴巴跌0.6%，百胜中国跌1.4%，小马智行跌1.7%，京东跌1.8%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.08%，德银嘉实沪深300指数ETF（ASHR）收涨0.58%。 中国科技指数ETF（CQQQ）收涨0.89%，中概互联网指数ETF（KWEB）收跌0.23%。",
@@ -766,27 +853,15 @@
           "time_info": "[07时23分 ~ 07时42分]"
         },
         {
-          "title": "罗永浩科技春晚回归，此前称将介绍一批未走进大众视野的创新型科技产品，达到预期了吗？哪些内容值得一聊？",
-          "url": "https://www.zhihu.com/question/1989470814232339598",
-          "source": "知乎",
+          "title": "商业航天高位回调，机器人概念强势崛起，能否接棒领涨？",
+          "url": "https://www.cls.cn/detail/2244856",
+          "source": "财联社热门",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时50分]"
-        },
-        {
-          "title": "拟募资295亿！长鑫科技IPO获受理：首单“预先审阅”落地 阿里腾讯现身股东榜",
-          "url": "https://www.cls.cn/detail/2245101",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时50分]"
+          "time_info": "[14时38分 ~ 14时39分]"
         },
         {
           "title": "罗永浩科技春晚被指像直播带货",
@@ -891,7 +966,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -969,6 +1044,20 @@
           "time_info": "[00时32分 ~ 07时42分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 14时39分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
           "url": "https://wallstreetcn.com/livenews/3028961",
           "source": "华尔街见闻-快讯",
@@ -994,18 +1083,15 @@
           "time_info": "[05时24分 ~ 06时46分]"
         },
         {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
+          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
+          "url": "https://wallstreetcn.com/livenews/3029129",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12,
-            10,
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 13时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "特朗普为何称不担心解放军绕台军演",
@@ -1017,17 +1103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
-        },
-        {
-          "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
-          "url": "https://flash.jin10.com/detail/20251231131511777800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
         },
         {
           "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
@@ -1049,11 +1124,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            7
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
+          "url": "https://flash.jin10.com/detail/20251231131511777800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时50分]"
+          "time_info": "[13时50分 ~ 14时39分]"
         },
         {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
@@ -1067,6 +1155,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 06时23分]"
+        },
+        {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 14时39分]"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -1116,24 +1216,13 @@
           "time_info": "[03时20分 ~ 03时40分]"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时50分"
-        },
-        {
           "title": "特朗普级战列舰会是闹剧吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E4%BC%9A%E6%98%AF%E9%97%B9%E5%89%A7%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -1180,6 +1269,18 @@
           "time_info": "[00时32分 ~ 07时42分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 14时39分]"
+        },
+        {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
@@ -1189,18 +1290,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时32分 ~ 05时43分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 13时50分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -1604,11 +1693,12 @@
           "ranks": [
             18,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时40分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 14时39分]"
         }
       ]
     }
