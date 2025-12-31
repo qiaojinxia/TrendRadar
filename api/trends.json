@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T09:56:39.889413+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2025-12-31T11:40:39.176295+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 09时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 11时40分]"
         },
         {
           "title": "福建一摄影大赛一等奖作品被疑 AI 生成，具体是怎么回事？可以从哪些方面识别 AI 生成内容？",
@@ -28,11 +28,12 @@
             18,
             15,
             14,
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时36分 ~ 09时56分]"
+          "appearance_count": 16,
+          "time_info": "[02时36分 ~ 11时40分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -59,11 +60,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348556&amp;topic_name=%E6%9C%89%E9%92%B1%E4%B8%8D%E6%95%A2%E8%8A%B1%2C%E5%9B%BD%E4%BA%BA%E9%99%B7%E6%B6%88%E8%B4%B9%E7%84%A6%E8%99%91",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 09时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 11时40分]"
         },
         {
           "title": "明年消费者买手机等补贴15%",
@@ -100,11 +102,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
           "source": "贴吧",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 09时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 11时40分]"
         },
         {
           "title": "马斯克旗下xAI就AI训练数据法律起诉美国加州检察官。",
@@ -149,6 +152,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时43分 ~ 07时42分]"
+        },
+        {
+          "title": "12月31日午间收评：创业板指半日跌超1%，AI应用端逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3029072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "英伟达洽谈按至多30亿美元收购以色列AI21 Labs。 在2023年那一轮融资中，AI21 Labs获得14亿美元估值，英伟达和Alphabet旗下谷歌公司都参与了那次融资。（路透）",
@@ -319,13 +333,35 @@
           "time_info": "02时37分"
         },
         {
+          "title": "学习时报：新质生产力催生新型消费",
+          "url": "https://www.cls.cn/detail/2244759",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "2026年“国补”首次纳入智能眼镜 AI眼镜行业有望迎高速增长",
+          "url": "https://www.cls.cn/detail/2244751",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "金十数据整理：A股盘前市场要闻速递（2025-12-31）",
           "url": "https://flash.jin10.com/detail/20251231090628769800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -336,7 +372,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -347,7 +383,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -358,9 +394,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "国家发改委：国产算力水平有望不断提升，为AI产业提供有力支撑",
+          "url": "https://wallstreetcn.com/livenews/3029042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -413,15 +471,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "A股有色板块早盘拉升，江西铜业冲击涨停，云南铜业、盛达资源、国城矿业、精艺股份、紫金矿业等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3029025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "多路游资联袂入场！机器人龙头剑指新高，相关ETF持续“吸金”，四成份额达历史峰值",
@@ -459,8 +528,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 09时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 11时40分]"
         },
         {
           "title": "【每日收评】沪指连收10日阳线！机器人概念午后再度爆发，商业航天分歧加剧",
@@ -520,9 +589,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时40分]"
+        },
+        {
+          "title": "2025中国科技有多“硬核”",
+          "url": "https://www.toutiao.com/trending/7589613729818968110/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "11时40分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（12月31日）",
@@ -542,7 +622,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -612,6 +692,18 @@
           "time_info": "[07时23分 ~ 07时42分]"
         },
         {
+          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
+          "url": "https://wallstreetcn.com/articles/3762337",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时40分]"
+        },
+        {
           "title": "罗永浩科技春晚被指像直播带货",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E7%A7%91%E6%8A%80%E6%98%A5%E6%99%9A%E8%A2%AB%E6%8C%87%E5%83%8F%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -634,17 +726,6 @@
           "time_info": "[07时23分 ~ 07时42分]"
         },
         {
-          "title": "中国存储芯片第一股来了！长鑫科技科创板IPO获受理，预先审阅机制首单，拟募资295亿元",
-          "url": "https://wallstreetcn.com/articles/3762337",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
           "title": "标普500指数收跌9.50点，跌幅0.14%，报6896.24点。 道琼斯工业平均指数收跌94.87点，跌幅0.20%，报48367.06点。 纳斯达克综合指数（纳指）收跌55.27点，跌幅0.24%，报23419.08点。 纳斯达克100指数收跌63.00点，跌幅0.25%，报25462.561点。 纳斯达克生物科技指数收跌1.03%，报5707.25点。 费城半导体指数收跌0.13%，报7169.099点。 费城证交所KBW银行指数收跌0.56%，报165.55点。 道琼斯KBW地区银行指数收跌0.78%，报125.26点。",
           "url": "https://wallstreetcn.com/livenews/3028917",
           "source": "华尔街见闻-快讯",
@@ -656,15 +737,37 @@
           "time_info": "05时24分"
         },
         {
+          "title": "金十图示：2025年12月31日（周三）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20251231105547557800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "恒指低开0.21%，报25801.49点；恒生科技指数跌0.22%。蔚来涨超3%，小鹏汽车涨超2%；携程跌2%，京东健康、京东集团、网易、快手跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3028999",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）中国科技互联网公司市值排名TOP 50一览",
+          "url": "https://flash.jin10.com/detail/20251231105148287800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
@@ -676,12 +779,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "恒生科技指数日内跌超1%。携程集团跌超3%，网易跌近3%，华虹半导体逆市涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3029037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -784,6 +898,17 @@
           "time_info": "[05时24分 ~ 06时46分]"
         },
         {
+          "title": "特朗普为何称不担心解放军绕台军演",
+          "url": "https://www.toutiao.com/trending/7589509514882891795/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "美国上诉法院允许特朗普政府在22个州执行一项剥夺计划生育组织医疗补助资金的法律。",
           "url": "https://flash.jin10.com/detail/20251231054352146800",
           "source": "金十数据",
@@ -858,13 +983,35 @@
           "time_info": "[03时20分 ~ 03时40分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "美媒：特朗普正试图让世界MAGA化",
+          "url": "https://www.toutiao.com/trending/7589793491610242587/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "泽连斯基：希望特朗普访乌",
           "url": "https://www.toutiao.com/trending/7589183077295325238/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -921,8 +1068,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时40分]"
+        },
+        {
+          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
+          "url": "https://www.cls.cn/detail/2244733",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时40分]"
         },
         {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
@@ -978,17 +1136,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
-          "url": "https://www.cls.cn/detail/2244733",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
@@ -1121,6 +1268,61 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 07时42分]"
+        },
+        {
+          "title": "金价周二略微反弹",
+          "url": "https://wallstreetcn.com/livenews/3028932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时23分 ~ 07时42分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 00时33分]"
+        },
+        {
+          "title": "金十图示：2025年12月31日（周三）上海金早盘价为980.89元/克，较国际金价(976.71元/克)，高4.18元/克",
+          "url": "https://flash.jin10.com/detail/20251231105932049800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1176,50 +1378,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时46分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 07时42分]"
-        },
-        {
-          "title": "金价周二略微反弹",
-          "url": "https://wallstreetcn.com/livenews/3028932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 07时42分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 00时33分]"
         }
       ]
     },
@@ -1288,6 +1446,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 05时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         }
       ]
     }
