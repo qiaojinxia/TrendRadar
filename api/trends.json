@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T23:26:13.250197+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2026-01-01T23:44:51.210209+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "A股2025年收官：沪指全年上涨18.41%，创指暴涨49.57%",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[13时51分 ~ 23时26分]"
+          "appearance_count": 23,
+          "time_info": "[13时51分 ~ 23时44分]"
         },
         {
           "title": "AI魔改翻车!广电出手救名著",
@@ -97,8 +97,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时29分 ~ 23时26分]"
+          "appearance_count": 17,
+          "time_info": "[17时29分 ~ 23时44分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -119,8 +119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时06分 ~ 23时26分]"
+          "appearance_count": 26,
+          "time_info": "[10时06分 ~ 23时44分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -143,36 +143,12 @@
             5,
             7,
             9,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时51分 ~ 23时26分]"
-        },
-        {
-          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
-          "url": "https://wallstreetcn.com/livenews/3029625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时46分 ~ 23时26分]"
-        },
-        {
-          "title": "南京：跨年夜当天全市文旅消费金额9.1亿元 同比增长32%",
-          "url": "https://wallstreetcn.com/livenews/3029621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时23分 ~ 23时26分]"
+          "appearance_count": 6,
+          "time_info": "[20时51分 ~ 23时44分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -181,9 +157,47 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时44分]"
+        },
+        {
+          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
+          "url": "https://flash.jin10.com/detail/20260101230736481800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时44分]"
+        },
+        {
+          "title": "南京：跨年夜当天全市文旅消费金额9.1亿元 同比增长32%",
+          "url": "https://wallstreetcn.com/livenews/3029621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时44分]"
+        },
+        {
+          "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
+          "url": "https://wallstreetcn.com/livenews/3029625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时46分 ~ 23时44分]"
         },
         {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
@@ -198,24 +212,13 @@
           "time_info": "[06时24分 ~ 10时06分]"
         },
         {
-          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
-          "url": "https://flash.jin10.com/detail/20260101230736481800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
           "title": "OpenAI 正在采取措施改进其音频人工智能模型，以此为最终发布由AI驱动的个人设备做准备。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3029628",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时26分"
         },
@@ -231,6 +234,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时19分 ~ 04时47分]"
+        },
+        {
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -335,6 +349,17 @@
           "time_info": "[00时31分 ~ 00时53分]"
         },
         {
+          "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
+          "url": "https://www.zhihu.com/question/638067126",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "安徽省第二季惠民观影活动今日启动 将发放总值3940万元的电影消费券",
           "url": "https://flash.jin10.com/detail/20260101085027988800",
           "source": "金十数据",
@@ -368,11 +393,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时50分 ~ 23时26分]"
+          "appearance_count": 8,
+          "time_info": "[20时50分 ~ 23时44分]"
         },
         {
           "title": "机器人都会舞狮了",
@@ -387,8 +413,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时49分 ~ 23时26分]"
+          "appearance_count": 13,
+          "time_info": "[18时49分 ~ 23时44分]"
         },
         {
           "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
@@ -415,8 +441,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时06分 ~ 23时26分]"
+          "appearance_count": 26,
+          "time_info": "[10时06分 ~ 23时44分]"
         },
         {
           "title": "马斯克没造出的机器人 稚晖君搞定了",
@@ -585,11 +611,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时23分 ~ 23时26分]"
+          "appearance_count": 5,
+          "time_info": "[22时23分 ~ 23时44分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.13%，报7529.74点，12月份累计下跌3.38%，四季度累计下跌12.81%，2025年累计上涨超过11.33%。 热门中概股里，蔚来初步收跌7.3%，小鹏跌4.7%，文远知行跌2.5%，网易、理想、百度、新东方、小马智行跌超1%。 ETF中，中概互联网指数ETF（KWEB）收跌0.99%，中国科技指数ETF（CQQQ）收跌0.63%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%，XtrackersHarvest中证50（ASHS）收涨0.30%。 2025年，ASHS累涨39.49%，CQQQ涨35.05%，ASHR涨27.13%，KWEB涨23.54%。",
@@ -765,8 +792,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时23分 ~ 23时26分]"
+          "appearance_count": 5,
+          "time_info": "[22时23分 ~ 23时44分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -813,6 +840,17 @@
           "time_info": "[01时21分 ~ 03时40分]"
         },
         {
+          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
+          "url": "https://flash.jin10.com/detail/20260101224323084800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时44分]"
+        },
+        {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
           "url": "https://flash.jin10.com/detail/20260101043557341800",
           "source": "金十数据",
@@ -824,17 +862,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时47分 ~ 06时24分]"
-        },
-        {
-          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
-          "url": "https://flash.jin10.com/detail/20260101224323084800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
         },
         {
           "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
@@ -1017,8 +1044,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[07时42分 ~ 23时26分]"
+          "appearance_count": 28,
+          "time_info": "[07时42分 ~ 23时44分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -1126,8 +1153,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[18时27分 ~ 23时26分]"
+          "appearance_count": 14,
+          "time_info": "[18时27分 ~ 23时44分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -1175,8 +1202,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时36分 ~ 23时26分]"
+          "appearance_count": 6,
+          "time_info": "[21时36分 ~ 23时44分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -1201,8 +1228,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时36分 ~ 23时26分]"
+          "appearance_count": 6,
+          "time_info": "[21时36分 ~ 23时44分]"
         }
       ]
     },
@@ -1219,11 +1246,12 @@
             7,
             9,
             11,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时51分 ~ 23时26分]"
+          "appearance_count": 6,
+          "time_info": "[20时51分 ~ 23时44分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -1232,9 +1260,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时26分 ~ 23时44分]"
         },
         {
           "title": "伊朗总统：伊朗正处于一场全面战争中",
@@ -1248,8 +1276,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时51分 ~ 23时26分]"
+          "appearance_count": 6,
+          "time_info": "[20时51分 ~ 23时44分]"
         },
         {
           "title": "内塔尼亚胡喊话伊朗",
@@ -1272,8 +1300,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时25分 ~ 23时26分]"
+          "appearance_count": 3,
+          "time_info": "[23时25分 ~ 23时44分]"
         }
       ]
     },
