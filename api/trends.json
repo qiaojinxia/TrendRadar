@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T13:51:54.372089+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-01-02T14:39:29.162958+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技 机器人",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "推进科创板上市！ 国产GPU四小龙燧原科技完成IPO辅导",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 13时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "2026中国硬核科技将再次震撼世界",
@@ -70,8 +70,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 14时39分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（1月2日）",
@@ -85,17 +98,17 @@
           "time_info": "07时43分"
         },
         {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
+          "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
+          "url": "https://wallstreetcn.com/articles/3762444",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            11
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时39分]"
         },
         {
           "title": "【2026年第一个交易日，港股高开】香港恒生指数开盘涨0.34%，恒生科技指数涨0.58%。携程集团、网易涨超2%，理想汽车、京东健康等涨超1%。",
@@ -109,17 +122,43 @@
           "time_info": "09时58分"
         },
         {
+          "title": "香港恒生科技指数涨超4%。恒生指数涨超2%。华虹半导体涨超10%，百度集团涨近9%，中芯国际涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3029748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
+          "url": "https://www.cls.cn/detail/2246281",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时39分]"
+        },
+        {
           "title": "恒生指数早盘涨2.18%，恒生科技指数涨3.38%。壁仞科技上市首日涨超72%；华虹半导体涨超9%，百度集团涨超7%，三花智控涨超6%，网易涨超5%，理想汽车涨超4%，中芯国际涨超4%，金风科技涨超17%，德林控股涨超14%。",
           "url": "https://wallstreetcn.com/livenews/3029726",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
             16,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时39分]"
         },
         {
           "title": "“港股GPU第一股”壁仞科技港股上市首日开盘报35.7港元，涨幅82.14%，招股价为19.6港元。",
@@ -144,31 +183,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 05时23分]"
-        },
-        {
-          "title": "新年首个交易日，恒科涨超3%，壁仞科技一度涨近120%，百度大涨7%，人民币继续走强",
-          "url": "https://wallstreetcn.com/articles/3762444",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时51分]"
-        },
-        {
-          "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
-          "url": "https://www.cls.cn/detail/2246281",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时51分]"
         },
         {
           "title": "香港恒生指数涨超2%，恒生科技指数涨3.58%。",
@@ -326,8 +340,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 13时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -357,8 +371,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 13时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "受AI热潮驱动，2025年存储芯片企业闪迪股价飙涨559%",
@@ -387,6 +401,17 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时31分 ~ 07时43分]"
+        },
+        {
+          "title": "新一轮国补点燃消费热",
+          "url": "https://www.douyin.com/hot/2354710",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时39分]"
         },
         {
           "title": "南京：跨年夜当天全市文旅消费金额9.1亿元 同比增长32%",
@@ -419,17 +444,6 @@
           "time_info": "[01时23分 ~ 05时43分]"
         },
         {
-          "title": "新一轮国补点燃消费热",
-          "url": "https://www.douyin.com/hot/2354710",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时51分]"
-        },
-        {
           "title": "SemiAnalysis深度报告：美国电网跟不上，AI数据中心“自建电厂”跟时间赛跑",
           "url": "https://wallstreetcn.com/articles/3762433",
           "source": "华尔街见闻",
@@ -439,8 +453,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "一位普通北京市民的2025年消费记录",
@@ -448,11 +462,26 @@
           "source": "今日头条",
           "ranks": [
             14,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时39分]"
+        },
+        {
+          "title": "冰雪游、温泉微度假成首选，大数据解码元旦假期消费新图鉴",
+          "url": "https://wallstreetcn.com/livenews/3029728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时39分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -483,17 +512,17 @@
           "time_info": "[00时32分 ~ 03时20分]"
         },
         {
-          "title": "冰雪游、温泉微度假成首选，大数据解码元旦假期消费新图鉴",
-          "url": "https://wallstreetcn.com/livenews/3029728",
-          "source": "华尔街见闻-快讯",
+          "title": "一位普通北京市民的2025年消费记录",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BD%8D%E6%99%AE%E9%80%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E7%9A%842025%E5%B9%B4%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            14,
-            18
+            21,
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时39分]"
         },
         {
           "title": "年度比较火的「十大 AI 工具」，都有哪些啊？",
@@ -508,16 +537,15 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
-          "title": "一位普通北京市民的2025年消费记录",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%BD%8D%E6%99%AE%E9%80%9A%E5%8C%97%E4%BA%AC%E5%B8%82%E6%B0%91%E7%9A%842025%E5%B9%B4%E6%B6%88%E8%B4%B9%E8%AE%B0%E5%BD%95",
+          "title": "元旦消费警惕扫码领红包诱导信息",
+          "url": "https://www.baidu.com/s?wd=%E5%85%83%E6%97%A6%E6%B6%88%E8%B4%B9%E8%AD%A6%E6%83%95%E6%89%AB%E7%A0%81%E9%A2%86%E7%BA%A2%E5%8C%85%E8%AF%B1%E5%AF%BC%E4%BF%A1%E6%81%AF",
           "source": "百度热搜",
           "ranks": [
-            21,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时51分]"
+          "time_info": "[13时29分 ~ 14时39分]"
         },
         {
           "title": "终于懂老人分不清ai的无力感了",
@@ -556,17 +584,6 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
-          "title": "元旦消费警惕扫码领红包诱导信息",
-          "url": "https://www.baidu.com/s?wd=%E5%85%83%E6%97%A6%E6%B6%88%E8%B4%B9%E8%AD%A6%E6%83%95%E6%89%AB%E7%A0%81%E9%A2%86%E7%BA%A2%E5%8C%85%E8%AF%B1%E5%AF%BC%E4%BF%A1%E6%81%AF",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时51分]"
-        },
-        {
           "title": "上海消费者一年用国补省了5万",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B6%88%E8%B4%B9%E8%80%85%E4%B8%80%E5%B9%B4%E7%94%A8%E5%9B%BD%E8%A1%A5%E7%9C%81%E4%BA%865%E4%B8%87%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -581,7 +598,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -728,6 +745,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "特朗普承认手上瘀伤是服用药物造成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
@@ -768,11 +796,12 @@
           "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
@@ -839,8 +868,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 13时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -852,8 +881,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时57分 ~ 13时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时57分 ~ 14时39分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -863,11 +892,12 @@
             12,
             9,
             13,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 13时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -891,11 +921,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 14时39分]"
         }
       ]
     },
@@ -913,8 +944,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 13时51分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 14时39分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -966,11 +997,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时29分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 14时39分]"
         }
       ]
     }
