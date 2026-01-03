@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-03T16:32:13.763878+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-01-03T17:25:08.575339+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "通话后，高市都笑裂了，特朗普转头就见美驻华大使",
@@ -44,11 +44,12 @@
             12,
             14,
             19,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[07时23分 ~ 17时25分]"
         },
         {
           "title": "Empire Offshore Wind LLC.起诉美国总统特朗普的内政部，指控后者阻挠其纽约周边海域风电场的行政命令非法、威胁到项目进展。",
@@ -106,8 +107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 16时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时51分 ~ 17时25分]"
         },
         {
           "title": "特朗普发文猛烈抨击乔治·克鲁尼",
@@ -143,6 +144,40 @@
           "time_info": "[00时31分 ~ 07时42分]"
         },
         {
+          "title": "特朗普下令打击委内瑞拉境内目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.douyin.com/hot/2356137",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.toutiao.com/trending/7591020324596564014/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普宣称本土劳工就业市场一片繁荣，数据却无从佐证",
           "url": "https://wallstreetcn.com/livenews/3029899",
           "source": "华尔街见闻-快讯",
@@ -172,6 +207,32 @@
           "time_info": "[12时54分 ~ 15时41分]"
         },
         {
+          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普与高市早苗通话，推进对方首次访美安排",
           "url": "https://news.ifeng.com/c/8pbf7hkGDkK",
           "source": "凤凰网",
@@ -181,17 +242,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时51分 ~ 11时26分]"
-        },
-        {
-          "title": "特朗普下令空袭委内瑞拉",
-          "url": "https://www.toutiao.com/trending/7591020324596564014/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "美方证实：特朗普下令空袭委内瑞拉",
@@ -205,37 +255,61 @@
           "time_info": "[16时31分 ~ 16时32分]"
         },
         {
-          "title": "特朗普下令打击委内瑞拉境内目标",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E6%89%93%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "特朗普下令打击委内瑞拉，首都加拉加斯上空传出多声巨响，哪些信息值得关注？后续可能如何发展？",
+          "url": "https://www.zhihu.com/question/1990788352941769437",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
-          "title": "特朗普下令空袭委内瑞拉",
-          "url": "https://www.douyin.com/hot/2356137",
-          "source": "抖音",
+          "title": "美方证实：是特朗普下的命令",
+          "url": "https://news.ifeng.com/c/8pcChxGY8j9",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "美媒：特朗普几天前就已批准美军在委内瑞拉实施地面打击行动",
+          "url": "https://news.ifeng.com/c/8pcEQ5y0CPJ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
+          "url": "https://wallstreetcn.com/livenews/3029985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时25分]"
         },
         {
           "title": "特朗普下令空袭委内瑞拉",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时25分]"
         },
         {
           "title": "特朗普承认没少吃药，否认开会睡觉",
@@ -250,30 +324,15 @@
           "time_info": "[09时51分 ~ 12时54分]"
         },
         {
-          "title": "骚乱持续蔓延，伊朗高官警告特朗普：干涉之手“必被砍掉”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302834",
-          "source": "澎湃新闻",
+          "title": "特朗普绕过国会袭击委内瑞拉 美军可能对委内瑞拉发起第二轮攻击",
+          "url": "https://wallstreetcn.com/livenews/3029989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            16,
-            13
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 16时32分]"
-        },
-        {
-          "title": "特朗普解释手背瘀青：阿司匹林吃多了，剂量高于医生建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 16时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "李在明为何此时晒特朗普所赠金钥匙",
@@ -297,17 +356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
-        },
-        {
-          "title": "美媒：美国官员证实特朗普已下令对委内瑞拉进行空袭",
-          "url": "https://wallstreetcn.com/livenews/3029985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
@@ -334,6 +382,52 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时25分 ~ 12时08分]"
+        },
+        {
+          "title": "特朗普下令空袭委内瑞拉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普绕过国会袭击委内瑞拉，美军或发起第二轮攻击",
+          "url": "https://news.ifeng.com/c/8pcFEStwSqq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
+        },
+        {
+          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
+          "url": "https://wallstreetcn.com/livenews/3029983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时25分]"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：据两名美国官员透露，特朗普在实际行动发生前几天就批准了美军对委内瑞拉进行陆地打击。",
+          "url": "https://flash.jin10.com/detail/20260103160316191800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时25分]"
         },
         {
           "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
@@ -384,28 +478,6 @@
           "time_info": "[05时41分 ~ 06时24分]"
         },
         {
-          "title": "据美国哥伦比亚广播公司：据两名美国官员透露，特朗普在实际行动发生前几天就批准了美军对委内瑞拉进行陆地打击。",
-          "url": "https://flash.jin10.com/detail/20260103160316191800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美媒称特朗普政府已获悉委内瑞拉首都发生爆炸",
-          "url": "https://wallstreetcn.com/livenews/3029983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "据CBS记者：特朗普政府官员已获悉今晨委内瑞拉首都加拉加斯上空发生爆炸和出现飞机的报告。",
           "url": "https://flash.jin10.com/detail/20260103150823763800",
           "source": "金十数据",
@@ -417,15 +489,48 @@
           "time_info": "15时22分"
         },
         {
+          "title": "特朗普绕过国会袭击委内瑞拉，或对委发起第二轮攻击",
+          "url": "https://flash.jin10.com/detail/20260103165004263800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "美媒：特朗普目前正在海湖庄园，此前曾听取国家安全简报",
+          "url": "https://flash.jin10.com/detail/20260103164629517800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美媒：美官员证实特朗普下令打击委内瑞拉境内目标",
           "url": "https://flash.jin10.com/detail/20260103153558768800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "美媒：特朗普几天前就已批准美军在委内瑞拉实施地面打击行动",
+          "url": "https://flash.jin10.com/detail/20260103163935261800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "唐驳虎：特朗普发现“弹药”不够用了",
@@ -570,8 +675,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[05时41分 ~ 16时32分]"
+          "appearance_count": 24,
+          "time_info": "[05时41分 ~ 17时25分]"
         },
         {
           "title": "展望半导体2026三大关键词：存储、AI、国产化",
@@ -617,8 +722,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时51分 ~ 17时25分]"
         },
         {
           "title": "上海首发各大商圈跨年消费“快报”，有哪些亮眼数据？",
@@ -630,8 +735,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时25分 ~ 16时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 17时25分]"
         },
         {
           "title": "AI魔改翻车,广电出手救名著",
@@ -644,8 +749,21 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时31分 ~ 17时25分]"
+        },
+        {
+          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
+          "url": "https://wallstreetcn.com/articles/3762468",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时36分 ~ 17时25分]"
         },
         {
           "title": "商务部对进口牛肉实施保障措施，将如何影响国内牛肉市场和消费者？",
@@ -723,28 +841,17 @@
           "time_info": "[00时31分 ~ 03时17分]"
         },
         {
-          "title": "AI与电力、新药研发、中国经济复苏.....一文读懂高盛行研团队2026年十大投资主题",
-          "url": "https://wallstreetcn.com/articles/3762468",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时36分 ~ 16时32分]"
-        },
-        {
           "title": "开年第一天，台积电、三星大涨创新高，带动AI股逆市走高",
           "url": "https://wallstreetcn.com/articles/3762467",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[15时22分 ~ 17时25分]"
         },
         {
           "title": "市场消息：委内瑞拉北部重要港口La Guaira冒起浓烟。",
@@ -762,7 +869,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "2026港股开门红，恒科收涨4%，壁仞科技一度涨近120%，百度大涨9%，人民币继续走强",
@@ -796,8 +903,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时31分 ~ 17时25分]"
         },
         {
           "title": "大涨超100%！“港股国产GPU第一股”壁仞科技上市 一手赚近4000港元",
@@ -809,8 +916,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时31分 ~ 17时25分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -824,11 +931,12 @@
             11,
             13,
             18,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[07时23分 ~ 17时25分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -840,8 +948,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时51分 ~ 16时32分]"
+          "appearance_count": 17,
+          "time_info": "[09时51分 ~ 17时25分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -855,8 +963,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时31分 ~ 17时25分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.05%，报26442点。 恒生科技指数主连夜盘收涨0.42%，报5776点。",
@@ -973,6 +1081,18 @@
           "time_info": "[05时41分 ~ 06时46分]"
         },
         {
+          "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302727",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时41分 ~ 17时25分]"
+        },
+        {
           "title": "全球首款基于视觉的AI网球机器人，重新定义AI驱动的网球伙伴",
           "url": "https://wallstreetcn.com/livenews/3029874",
           "source": "华尔街见闻-快讯",
@@ -1000,18 +1120,6 @@
           "time_info": "[00时31分 ~ 01时44分]"
         },
         {
-          "title": "中科院机构调整：新设科技创新发展局等机关，不再设长春、南京分院",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302727",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时32分]"
-        },
-        {
           "title": "纳斯达克金龙中国指数收涨4.38%，报7859.65点，本周累计上涨2.23%。 热门中概股里，百度初步收涨15%，小马智行涨11.1%，文远知行涨8.2%，网易涨7.2%，阿里巴巴涨6.2%，新东方、小米、京东、美团、拼多多、理想、百胜中国至多涨5.3%。 ETF中，中概互联网指数ETF（KWEB）收涨4.64%，中国科技指数ETF（CQQQ）收涨4.48%，德银嘉实沪深300指数ETF（ASHR）收涨1.43%，XtrackersHarvest中证50（ASHS）收涨1.12%。",
           "url": "https://wallstreetcn.com/livenews/3029931",
           "source": "华尔街见闻-快讯",
@@ -1022,6 +1130,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 17时25分]"
         },
         {
           "title": "本周，标普累跌约1%，道指累跌0.8%，纳指累跌1.6%，半导体指数涨2.2%，银行指数累跌0.9%。 标普500指数初步收涨0.1%，能源板块涨1.8%，工业、原材料、公用事业板块至多涨1.7%，科技板块微跌，电信板块跌0.5%，可选消费板块跌1.2%。 纳斯达克100指数初步收跌0.2%，成分股中，Applovin初步收跌8%，Palantir跌5.5%，Intuit、Adobe、TEAM、Workday、汤森路透跌超4%，应用材料、Arm控股、科磊、迈威尔科技、英特尔涨超4%，拉姆研究、西部数据、阿斯麦ADR涨约8%，美光科技涨10%。 波音初步收涨4.6%，卡特彼勒涨4.1%，高盛涨3.8%，雪佛龙涨2%，领跑道指成分股，亚马逊、微软、Salesforce至少跌超1.9%领跌。",
@@ -1059,8 +1178,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时22分 ~ 16时32分]"
+          "appearance_count": 21,
+          "time_info": "[07时22分 ~ 17时25分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -1084,11 +1203,12 @@
             7,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[02时35分 ~ 16时32分]"
+          "appearance_count": 31,
+          "time_info": "[02时35分 ~ 17时25分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
@@ -1300,7 +1420,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗最近有点悬",
@@ -1322,11 +1442,12 @@
             16,
             13,
             11,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时07分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[12时07分 ~ 17时25分]"
         },
         {
           "title": "伊朗骚乱",
@@ -1400,6 +1521,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时07分 ~ 13时47分]"
+        },
+        {
+          "title": "伊朗谴责美国对委内瑞拉发动的军事袭击，称其“公然侵犯委内瑞拉的国家主权和领土完整”。",
+          "url": "https://flash.jin10.com/detail/20260103170549204800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "伊朗骚乱的经济真相",
@@ -1532,8 +1664,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时31分 ~ 16时32分]"
+          "appearance_count": 36,
+          "time_info": "[00时31分 ~ 17时25分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -1566,11 +1698,12 @@
             15,
             17,
             22,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时24分 ~ 16时32分]"
+          "appearance_count": 15,
+          "time_info": "[06时24分 ~ 17时25分]"
         }
       ]
     },
