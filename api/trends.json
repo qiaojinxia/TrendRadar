@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T19:23:31.214820+08:00",
-  "total_titles_processed": 1877,
+  "generated_at": "2026-01-09T19:43:26.461869+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 134,
+      "match_count": 140,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -46,11 +46,12 @@
             12,
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时43分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[12时43分 ~ 19时43分]"
         },
         {
           "title": "特朗普放话“我不需要国际法”",
@@ -61,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时45分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[11时45分 ~ 19时43分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -77,19 +78,6 @@
           "time_info": "[09时58分 ~ 15时48分]"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时58分 ~ 19时23分]"
-        },
-        {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
           "url": "https://wallstreetcn.com/articles/3762899",
           "source": "华尔街见闻",
@@ -99,8 +87,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时45分 ~ 19时23分]"
+          "appearance_count": 16,
+          "time_info": "[11时45分 ~ 19时43分]"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[09时58分 ~ 19时43分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -137,6 +139,17 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时35分 ~ 12时43分]"
+        },
+        {
+          "title": "特朗普：取消对委内瑞拉第二波打击",
+          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
         },
         {
           "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
@@ -232,15 +245,16 @@
           "time_info": "[07时21分 ~ 14时40分]"
         },
         {
-          "title": "特朗普：取消对委内瑞拉第二波打击",
-          "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
-          "source": "凤凰网",
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
           "ranks": [
+            8,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 19时43分]"
         },
         {
           "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
@@ -256,16 +270,15 @@
           "time_info": "[09时58分 ~ 14时40分]"
         },
         {
-          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
-          "url": "https://www.cls.cn/detail/2252966",
-          "source": "财联社热门",
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时23分]"
+          "appearance_count": 8,
+          "time_info": "[15时48分 ~ 19时43分]"
         },
         {
           "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
@@ -308,15 +321,15 @@
           "time_info": "[14时39分 ~ 17时32分]"
         },
         {
-          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
-          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
-          "source": "凤凰网",
+          "title": "特朗普称他认为自己始终会与欧洲相处融洽，拥有格陵兰具有心理层面的重要意义。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3034077",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 19时23分]"
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
         },
         {
           "title": "周四（1月8日），降息赢家指数涨2.69%，报104.68点。 “特朗普关税输家”指数涨2.71%，报119.13点。 “特朗普金融指数”涨0.37%，报179.91点。 散户抱团概念股指数/迷因股（meme stock）指数涨1.97%，报16.42点。",
@@ -354,17 +367,6 @@
           "time_info": "01时54分"
         },
         {
-          "title": "据纽约时报：美国总统特朗普表示，他确实相信外交礼节。",
-          "url": "https://flash.jin10.com/detail/20260109190330044800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：房地美和房利美有工具来执行总统特朗普的住房命令。",
           "url": "https://wallstreetcn.com/livenews/3033456",
           "source": "华尔街见闻-快讯",
@@ -396,17 +398,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普称他认为自己始终会与欧洲相处融洽，拥有格陵兰具有心理层面的重要意义。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3034077",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "特朗普：必须“拥有”整个格陵兰",
@@ -457,6 +448,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "外交部回应特朗普涉台言论",
+          "url": "https://www.douyin.com/hot/2362093",
+          "source": "抖音",
+          "ranks": [
+            8,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
         },
         {
           "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
@@ -631,6 +635,18 @@
           "time_info": "[11时46分 ~ 13时29分]"
         },
         {
+          "title": "据纽约时报：美国总统特朗普表示，他确实相信外交礼节。",
+          "url": "https://flash.jin10.com/detail/20260109190330044800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
+        },
+        {
           "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
           "url": "https://flash.jin10.com/detail/20260109070042711800",
           "source": "金十数据",
@@ -653,19 +669,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时52分 ~ 14时40分]"
-        },
-        {
-          "title": "外交部回应特朗普涉台言论",
-          "url": "https://www.douyin.com/hot/2362093",
-          "source": "抖音",
-          "ranks": [
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普提出，如果他依据紧急授权征收的关税被最高法院驳回，他可以将其重新包装成许可费。",
@@ -1293,6 +1296,39 @@
           "time_info": "11时46分"
         },
         {
+          "title": "据纽约时报：特朗普表示，拥有格陵兰岛在心理层面上具有重要意义。",
+          "url": "https://flash.jin10.com/detail/20260109191404438800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "据纽约时报：特朗普表示，他希望美国拥有格陵兰岛。",
+          "url": "https://flash.jin10.com/detail/20260109191335205800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "据纽约时报：特朗普表示，他想“妥善”处理格陵兰岛问题。",
+          "url": "https://flash.jin10.com/detail/20260109191317301800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "英特尔盘前涨约2%，此前美国总统特朗普声称会见了该公司CEO。",
           "url": "https://wallstreetcn.com/livenews/3033983",
           "source": "华尔街见闻-快讯",
@@ -1313,6 +1349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "据纽约时报：特朗普称他认为自己始终会与欧洲相处融洽。",
+          "url": "https://flash.jin10.com/detail/20260109191240750800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "特朗普称取消对委内瑞拉第二波军事打击",
@@ -1436,6 +1483,17 @@
           "time_info": "17时32分"
         },
         {
+          "title": "美国总统特朗普：非常希望通过一项对所有人都有利的移民政策。",
+          "url": "https://flash.jin10.com/detail/20260109190651166800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "特朗普将于美国东部时间周五下午2点30分（北京时间次日凌晨3点30分）与石油和天然气行业高管会面。",
           "url": "https://flash.jin10.com/detail/20260109104207422800",
           "source": "金十数据",
@@ -1445,6 +1503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "美国总统特朗普：已指示移民与海关执法局放宽对农业工人的驱逐出境措施。",
+          "url": "https://flash.jin10.com/detail/20260109190547315800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉最终会举行选举。委内瑞拉自由和公正的选举还需要一段时间。",
@@ -1626,7 +1695,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "国补新政激发新年消费热情",
@@ -1661,11 +1730,12 @@
             7,
             8,
             10,
-            27
+            27,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时29分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[13时29分 ~ 19时43分]"
         },
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -1724,8 +1794,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -1735,8 +1805,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
         },
         {
           "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
@@ -1750,8 +1820,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时23分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 19时43分]"
         },
         {
           "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
@@ -1778,6 +1848,20 @@
           "time_info": "[04时29分 ~ 05时45分]"
         },
         {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 19时43分]"
+        },
+        {
           "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
           "url": "https://www.cls.cn/detail/2252286",
           "source": "财联社热门",
@@ -1788,6 +1872,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时29分 ~ 06时48分]"
+        },
+        {
+          "title": "供应告急与AI需求共振 伦铜再创历史纪元",
+          "url": "https://flash.jin10.com/detail/20260109193303108800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "“南下”热情高涨，开年首周逾10家A股公司冲刺H股上市",
@@ -1813,19 +1908,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时48分 ~ 17时32分]"
-        },
-        {
-          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
-          "url": "https://www.cls.cn/detail/2253101",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时23分]"
         },
         {
           "title": "金靖章若楠剧宣诡异的像AI",
@@ -1998,6 +2080,17 @@
           "time_info": "[05时26分 ~ 05时45分]"
         },
         {
+          "title": "东方明珠：间接持有超聚变1.3182%股份 公司不直接从事AI业务",
+          "url": "https://wallstreetcn.com/livenews/3034062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
+        },
+        {
           "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
           "url": "https://wallstreetcn.com/livenews/3033950",
           "source": "华尔街见闻-快讯",
@@ -2085,17 +2178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
-        },
-        {
-          "title": "东方明珠：间接持有超聚变1.3182%股份 公司不直接从事AI业务",
-          "url": "https://wallstreetcn.com/livenews/3034062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "A股商业航天概念延续涨势，鲁信创投11天9板，杭萧钢构、巨力索具、中衡设计均2连板，信科移动、富士达、邵阳液压、泰胜风能涨超10%。",
@@ -2274,8 +2356,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
+        },
+        {
+          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
+          "url": "https://www.cls.cn/detail/2252663",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 19时43分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 19时43分]"
         },
         {
           "title": "Paramount SkyDance（派拉蒙天舞）流媒体生产与科技主管将离职。（Business Insider）",
@@ -2331,19 +2438,6 @@
           "time_info": "[03时42分 ~ 05时26分]"
         },
         {
-          "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
-          "url": "https://www.cls.cn/detail/2252663",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时32分 ~ 19时23分]"
-        },
-        {
           "title": "据英国电讯报：马斯克旗下的社交媒体平台“X”可能因人工智能聊天机器人争议在英国被禁。",
           "url": "https://flash.jin10.com/detail/20260109055249345800",
           "source": "金十数据",
@@ -2355,18 +2449,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 07时21分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 19时23分]"
         },
         {
           "title": "香港交易所称推出六只新的股票期权类别，涵盖紫金黄金国际、老铺黄金、地平线机器人等",
@@ -2443,6 +2525,17 @@
           "time_info": "[18时28分 ~ 18时52分]"
         },
         {
+          "title": "杭萧钢构：近日，公司作为联合体成员与湖南建工集团有限公司（联合体牵头人）联合中标杭州箭元航天科技有限公司相关工程项目，公司在该项目中负责部分的合同金额较小，占公司2024年度经审计的营业收入的比例不到1%，对公司全年业绩不产生重大影响。",
+          "url": "https://wallstreetcn.com/livenews/3034067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
+        },
+        {
           "title": "欧盟责令X平台保存聊天机器人数据至年底",
           "url": "https://flash.jin10.com/detail/20260109001607088800",
           "source": "金十数据",
@@ -2464,6 +2557,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 06时48分]"
+        },
+        {
+          "title": "方大炭素：拟注册发行不超过10亿元科技创新债券。",
+          "url": "https://wallstreetcn.com/livenews/3034053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
+        },
+        {
+          "title": "上交所：本周对*ST正平、*ST亚振、国晟科技、航天动力、天普股份等波动幅度较大的股票进行重点监控。",
+          "url": "https://wallstreetcn.com/livenews/3034049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.09%，报7796.71点。 热门中概股里，阿里巴巴初步收涨5.3%，新东方涨5.6%，小鹏涨3.1%，京东涨2.2%，小米、文远知行、百胜中国、小马智行至少涨0.7%，理想跌0.7%，腾讯跌0.8%，蔚来跌1%，美团跌2%，百度跌3.9%。 ETF中，中概互联网指数ETF（KWEB）收涨1.13%，中国科技指数ETF（CQQQ）收涨0.67%。 XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收跌0.03%。",
@@ -2543,17 +2658,6 @@
           "time_info": "18时52分"
         },
         {
-          "title": "杭萧钢构：近日，公司作为联合体成员与湖南建工集团有限公司（联合体牵头人）联合中标杭州箭元航天科技有限公司相关工程项目，公司在该项目中负责部分的合同金额较小，占公司2024年度经审计的营业收入的比例不到1%，对公司全年业绩不产生重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3034067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "智元登顶全球人形机器人出货量榜首",
           "url": "https://wallstreetcn.com/livenews/3033672",
           "source": "华尔街见闻-快讯",
@@ -2609,28 +2713,6 @@
           "time_info": "11时46分"
         },
         {
-          "title": "方大炭素：拟注册发行不超过10亿元科技创新债券。",
-          "url": "https://wallstreetcn.com/livenews/3034053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "上交所：本周对*ST正平、*ST亚振、国晟科技、航天动力、天普股份等波动幅度较大的股票进行重点监控。",
-          "url": "https://wallstreetcn.com/livenews/3034049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "脑再生科技盘中直线跳水跌超30%，此前一度涨超30%。",
           "url": "https://wallstreetcn.com/livenews/3033429",
           "source": "华尔街见闻-快讯",
@@ -2668,6 +2750,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时58分 ~ 13时29分]"
+        },
+        {
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            12,
+            10,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时29分 ~ 19时43分]"
         },
         {
           "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
@@ -2709,22 +2808,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时35分 ~ 12时43分]"
-        },
-        {
-          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
-          "url": "https://www.zhihu.com/question/1992897642179552544",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16,
-            12,
-            10,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时29分 ~ 19时23分]"
         },
         {
           "title": "法国外交消息人士：法国呼吁伊朗当局对示威者保持最大限度的克制。",
@@ -2804,6 +2887,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 03时42分]"
+        },
+        {
+          "title": "哈梅内伊就伊朗多地骚乱表态",
+          "url": "https://www.toutiao.com/trending/7593189459336924691/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
         },
         {
           "title": "布伦特原油向上触及62美元/桶，日内涨2.38%。监控全球上网情况的国际非政府组织“网络区块”称，伊朗正在实施全国性网络管制，这与多地持续的抗议活动相关。",
@@ -2903,7 +2998,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -2928,17 +3023,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        },
-        {
-          "title": "哈梅内伊就伊朗多地骚乱表态",
-          "url": "https://www.toutiao.com/trending/7593189459336924691/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：伊朗不会向破坏行为屈服。",
@@ -2976,8 +3060,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时42分 ~ 19时23分]"
+          "appearance_count": 19,
+          "time_info": "[07时42分 ~ 19时43分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -3084,6 +3168,17 @@
           "time_info": "[06时25分 ~ 07时21分]"
         },
         {
+          "title": "Oklo美股盘前涨超20%，此前Oklo、Meta宣布达成协议，支持在俄亥俄州南部开发1.2吉瓦的核能项目。",
+          "url": "https://wallstreetcn.com/livenews/3034065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时43分]"
+        },
+        {
           "title": "癌症药品生产商Revolution Medicines（RVMD）美股尾盘暂停交易，临时停牌前涨幅5.2%。 Erasca Inc.（ERAS）临时停牌，暂停交易前涨幅扩大至22%。 据英国金融时报，Merck洽谈收购该公司，但双方还没有敲定最终协议。",
           "url": "https://wallstreetcn.com/livenews/3033545",
           "source": "华尔街见闻-快讯",
@@ -3106,24 +3201,13 @@
           "time_info": "[06时25分 ~ 06时48分]"
         },
         {
-          "title": "Oklo美股盘前涨超20%，此前Oklo、Meta宣布达成协议，支持在俄亥俄州南部开发1.2吉瓦的核能项目。",
-          "url": "https://wallstreetcn.com/livenews/3034065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "阿斯麦股价在阿姆斯特丹交易所上涨5%，创历史新高。该股美股盘前涨3.9%。",
           "url": "https://flash.jin10.com/detail/20260109184602011800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -3142,7 +3226,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -3179,8 +3263,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时58分 ~ 19时23分]"
+          "appearance_count": 18,
+          "time_info": "[09时58分 ~ 19时43分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -3215,6 +3299,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 05时45分]"
+        },
+        {
+          "title": "瑞银：再融资窗口期后美债供应将迎来“阶梯式”增长",
+          "url": "https://flash.jin10.com/detail/20260109190943292800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
