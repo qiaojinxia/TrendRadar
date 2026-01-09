@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T01:49:24.433079+08:00",
-  "total_titles_processed": 404,
+  "generated_at": "2026-01-10T02:37:51.013258+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -26,19 +26,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
           "url": "https://wallstreetcn.com/livenews/3034326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 02时37分]"
+        },
+        {
+          "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
+          "url": "https://wallstreetcn.com/livenews/3034346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -48,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -60,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -71,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -82,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
@@ -117,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "美国法官表示，她将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
+          "url": "https://flash.jin10.com/detail/20260110020200642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "白宫顾问哈塞特：在（美国最高法院判决特朗普）关税问题上有非常细致入微的后备计划。",
@@ -172,12 +195,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "乌克兰将一大型锂矿开发权授予特朗普密友",
+          "url": "https://flash.jin10.com/detail/20260110013611649800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -187,8 +221,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -199,8 +233,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
@@ -210,8 +244,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -221,8 +255,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
@@ -232,30 +266,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
           "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -263,11 +299,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "美联储博斯蒂克：高端消费者一直在消费，经济一直具有韧性。",
@@ -279,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时49分]"
+        },
+        {
+          "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
+          "url": "https://wallstreetcn.com/livenews/3034341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         },
         {
           "title": "核能助推AI革命：Meta签下巨额订单 Oklo与Vistra股价齐飙升",
@@ -298,7 +346,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
         }
@@ -316,8 +364,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "英首相府指责聊天机器人“格罗克”整改具“侮辱性”",
@@ -339,8 +387,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "宇树人形机器人空翻踢爆西瓜",
@@ -351,8 +399,20 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
+        },
+        {
+          "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32351786",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "time_info": "[01时26分 ~ 02时37分]"
         },
         {
           "title": "CES 2026有哪些黑科技硬件",
@@ -361,17 +421,6 @@
           "ranks": [
             15,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 01时49分]"
-        },
-        {
-          "title": "上海科技馆回归在即：除了全球最大的LED巨幕影院，还有……",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32351786",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -391,19 +440,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "伊朗指责美以策划动乱",
           "url": "https://www.douyin.com/hot/2362541",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。投资者注意力从委内瑞拉转向伊朗。",
@@ -442,7 +492,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -454,8 +504,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -466,8 +516,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 02时37分]"
+        },
+        {
+          "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
+          "url": "https://wallstreetcn.com/livenews/3034339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
+        },
+        {
+          "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260110013122783800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时37分"
         }
       ]
     },
