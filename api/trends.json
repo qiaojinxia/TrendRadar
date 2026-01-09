@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T22:53:11.017456+08:00",
-  "total_titles_processed": 2279,
+  "generated_at": "2026-01-09T23:28:57.385937+08:00",
+  "total_titles_processed": 2346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 157,
+      "match_count": 161,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
@@ -88,8 +88,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时43分 ~ 22时53分]"
+          "appearance_count": 21,
+          "time_info": "[12时43分 ~ 23时28分]"
         },
         {
           "title": "特朗普放话“我不需要国际法”",
@@ -112,8 +112,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时48分 ~ 22时53分]"
+          "appearance_count": 15,
+          "time_info": "[15时48分 ~ 23时28分]"
         },
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -128,19 +128,6 @@
           "time_info": "[09时58分 ~ 15时48分]"
         },
         {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时45分 ~ 22时53分]"
-        },
-        {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
           "url": "https://wallstreetcn.com/articles/3762893",
           "source": "华尔街见闻",
@@ -153,6 +140,20 @@
           "is_new": false,
           "appearance_count": 24,
           "time_info": "[09时58分 ~ 22时53分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[11时45分 ~ 23时28分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -427,28 +428,6 @@
           "time_info": "07时42分"
         },
         {
-          "title": "墨西哥总统辛鲍姆：在特朗普发表关于通过地面打击遏制毒品走私的言论后，墨西哥将加强与美国的沟通。",
-          "url": "https://flash.jin10.com/detail/20260109224513213800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "意大利总理：在格陵兰岛问题上与特朗普意见不同",
-          "url": "https://wallstreetcn.com/livenews/3034238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "特朗普：必须“拥有”整个格陵兰",
           "url": "https://wallstreetcn.com/livenews/3033587",
           "source": "华尔街见闻-快讯",
@@ -510,6 +489,17 @@
           "time_info": "20时53分"
         },
         {
+          "title": "美国最高法院完成周五披露意见的工作，但并没有公布对特朗普关税的判决结果。",
+          "url": "https://wallstreetcn.com/livenews/3034259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
           "url": "https://flash.jin10.com/detail/20260109032840133800",
           "source": "金十数据",
@@ -536,17 +526,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时45分 ~ 07时21分]"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：如有必要，将与美国总统特朗普对话。",
-          "url": "https://flash.jin10.com/detail/20260109224352118800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "特朗普：希望能访问委内瑞拉",
@@ -766,6 +745,30 @@
           "time_info": "[13时52分 ~ 14时40分]"
         },
         {
+          "title": "墨西哥总统辛鲍姆：在特朗普发表关于通过地面打击遏制毒品走私的言论后，墨西哥将加强与美国的沟通。",
+          "url": "https://flash.jin10.com/detail/20260109224513213800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时28分]"
+        },
+        {
+          "title": "意大利总理：在格陵兰岛问题上与特朗普意见不同",
+          "url": "https://wallstreetcn.com/livenews/3034238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时28分]"
+        },
+        {
           "title": "俄外交部：特朗普已下令释放被扣押油轮上的俄公民",
           "url": "https://wallstreetcn.com/livenews/3034003",
           "source": "华尔街见闻-快讯",
@@ -788,6 +791,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时25分 ~ 07时42分]"
+        },
+        {
+          "title": "墨西哥总统辛鲍姆：如有必要，将与美国总统特朗普对话。",
+          "url": "https://flash.jin10.com/detail/20260109224352118800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时28分]"
         },
         {
           "title": "人事管理办公室（OPM）数据显示：美国总统特朗普第二任期内，已经有超过32.2万名雇员离开联邦机构。 教育部减员39%，财政部流失21%。",
@@ -1443,6 +1458,17 @@
           "time_info": "19时43分"
         },
         {
+          "title": "美国最高法院可能就特朗普关税做出判决之前，通用汽车跌超3.1%刷新日低，Affirm Holdings Inc.跌0.9%，迪尔农机Deere & Co.一度跌0.9%，American Eagle Outfitters Inc.一度转跌。 黑石集团Blackstone Inc.涨幅收窄至不足0.3%，卡特彼勒Caterpillar Inc.涨幅从不足0.4%扩大至超过1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3034250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "据纽约时报：特朗普表示，他想“妥善”处理格陵兰岛问题。",
           "url": "https://flash.jin10.com/detail/20260109191317301800",
           "source": "金十数据",
@@ -1504,7 +1530,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1526,7 +1552,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1559,7 +1585,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1652,6 +1678,17 @@
           "time_info": "19时43分"
         },
         {
+          "title": "白宫顾问哈塞特：特朗普政府在关税问题上有后备计划。 （一旦美国最高法院否决特朗普关税）白宫的那些备选工具几乎立即就会到位。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3034243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "特朗普将于美国东部时间周五下午2点30分（北京时间次日凌晨3点30分）与石油和天然气行业高管会面。",
           "url": "https://flash.jin10.com/detail/20260109104207422800",
           "source": "金十数据",
@@ -1680,7 +1717,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1713,9 +1750,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：特朗普政府已为关税制定了备选方案。几乎可立即启用替代性政策工具。",
+          "url": "https://flash.jin10.com/detail/20260109224717344800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：预计美国总统特朗普将在未来一两个月就房利美和房地美的IPO作出决定。（外媒更正：非下个月）",
@@ -1867,7 +1915,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -1886,7 +1934,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 58,
+      "match_count": 64,
       "titles": [
         {
           "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
@@ -1896,8 +1944,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -1909,8 +1957,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "国补新政激发新年消费热情",
@@ -1997,8 +2045,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时32分 ~ 22时53分]"
+          "appearance_count": 13,
+          "time_info": "[17时32分 ~ 23时28分]"
         },
         {
           "title": "婚前买车买房、恋爱期间消费算彩礼吗",
@@ -2032,17 +2080,6 @@
           "time_info": "[01时31分 ~ 06时48分]"
         },
         {
-          "title": "如何看待A股成交量再上3万亿",
-          "url": "https://www.toutiao.com/trending/7593320160191057414/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时28分 ~ 22时53分]"
-        },
-        {
           "title": "报道：英伟达+OpenAI支持的数据中心公司Nscale考虑融资20亿美元",
           "url": "https://wallstreetcn.com/livenews/3033538",
           "source": "华尔街见闻-快讯",
@@ -2053,6 +2090,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时29分 ~ 05时45分]"
+        },
+        {
+          "title": "如何看待A股成交量再上3万亿",
+          "url": "https://www.toutiao.com/trending/7593320160191057414/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时28分 ~ 23时28分]"
         },
         {
           "title": "OpenAI推出OpenAI for Healthcare。",
@@ -2079,6 +2128,32 @@
           "time_info": "[04时29分 ~ 06时48分]"
         },
         {
+          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时40分 ~ 23时28分]"
+        },
+        {
+          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时40分 ~ 23时28分]"
+        },
+        {
           "title": "供应告急与AI需求共振 伦铜再创历史纪元",
           "url": "https://flash.jin10.com/detail/20260109193303108800",
           "source": "金十数据",
@@ -2103,6 +2178,17 @@
           "time_info": "[06时25分 ~ 07时42分]"
         },
         {
+          "title": "美国1月消费者信心创四个月新高，短期通胀预期持稳，5-10年期通胀预期升至3.4%",
+          "url": "https://wallstreetcn.com/livenews/3034258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
           "url": "https://wallstreetcn.com/articles/3762915",
           "source": "华尔街见闻",
@@ -2113,30 +2199,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时48分 ~ 17时32分]"
-        },
-        {
-          "title": "MiniMax刷新AI公司最快上市纪录背后：“年轻人的事业”在上海生根发芽",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32349158",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时40分 ~ 22时53分]"
-        },
-        {
-          "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325616",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时40分 ~ 22时53分]"
         },
         {
           "title": "金靖章若楠剧宣诡异的像AI",
@@ -2215,6 +2277,30 @@
           "time_info": "[06时25分 ~ 07时42分]"
         },
         {
+          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
+          "url": "https://www.cls.cn/detail/2253184",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时28分 ~ 23时28分]"
+        },
+        {
+          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时28分 ~ 23时28分]"
+        },
+        {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
           "url": "https://wallstreetcn.com/livenews/3033517",
           "source": "华尔街见闻-快讯",
@@ -2261,28 +2347,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时29分 ~ 16时36分]"
-        },
-        {
-          "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
-          "url": "https://www.cls.cn/detail/2253184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时28分 ~ 22时53分]"
-        },
-        {
-          "title": "15连阳后，A股继续上攻！沪指突破4100点关口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32333007",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时28分 ~ 22时53分]"
         },
         {
           "title": "美国11月消费信贷变动 42.29亿美元，预期 100亿美元，前值 91.78亿美元。",
@@ -2388,6 +2452,39 @@
           "time_info": "09时59分"
         },
         {
+          "title": "美国1月密歇根大学消费者信心指数初值 54，预期53.5，前值52.9。",
+          "url": "https://flash.jin10.com/detail/20260109230002327800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者预期指数初值 55，预期 55，前值 54.6。",
+          "url": "https://wallstreetcn.com/livenews/3034256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者信心指数初值 54，预期 53.5，前值 52.9。",
+          "url": "https://wallstreetcn.com/livenews/3034255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-01-09）",
           "url": "https://flash.jin10.com/detail/20260109151959352800",
           "source": "金十数据",
@@ -2454,6 +2551,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国1月密歇根大学消费者现况指数初值 52.4，预期 52，前值 50.4。",
+          "url": "https://wallstreetcn.com/livenews/3034253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "A股商业航天概念延续涨势，鲁信创投11天9板，杭萧钢构、巨力索具、中衡设计均2连板，信科移动、富士达、邵阳液压、泰胜风能涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3033670",
           "source": "华尔街见闻-快讯",
@@ -2474,6 +2582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "美国1月密歇根大学消费者信心指数初值、一年期通胀率预期初值将于十分钟后公布；美联储卡什卡利将于十分钟后参加非正式谈话。",
+          "url": "https://flash.jin10.com/detail/20260109225000002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "马斯克为xAI锁定5台重型燃机",
@@ -2613,8 +2732,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "宇树人形机器人空翻踢爆西瓜",
@@ -2627,11 +2746,12 @@
             14,
             18,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时28分 ~ 22时53分]"
+          "appearance_count": 12,
+          "time_info": "[18时28分 ~ 23时28分]"
         },
         {
           "title": "联想全球创新科技大会集齐英伟达、英特尔、 AMD 、高通四大芯片巨头 CEO 同台，释放了什么信号？",
@@ -2663,17 +2783,6 @@
           "time_info": "[00时35分 ~ 07时42分]"
         },
         {
-          "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时21分]"
-        },
-        {
           "title": "上海：加速商业火箭、人形机器人等创新产品突破产业规模化发展瓶颈",
           "url": "https://www.cls.cn/detail/2253306",
           "source": "财联社热门",
@@ -2683,8 +2792,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时53分 ~ 22时53分]"
+          "appearance_count": 7,
+          "time_info": "[20时53分 ~ 23时28分]"
+        },
+        {
+          "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时48分 ~ 07时21分]"
         },
         {
           "title": "智元第一、宇树第二！中国企业正主宰全球人形机器人市场",
@@ -2840,6 +2960,18 @@
           "time_info": "[18时28分 ~ 18时52分]"
         },
         {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.88%，公用事业ETF涨1.67%，生物科技指数ETF涨0.92%，银行业ETF涨0.72%，半导体ETF、全球科技股指数ETF至多涨0.62%，网络股指数ETF则跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3034235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时28分]"
+        },
+        {
           "title": "杭萧钢构：近日，公司作为联合体成员与湖南建工集团有限公司（联合体牵头人）联合中标杭州箭元航天科技有限公司相关工程项目，公司在该项目中负责部分的合同金额较小，占公司2024年度经审计的营业收入的比例不到1%，对公司全年业绩不产生重大影响。",
           "url": "https://wallstreetcn.com/livenews/3034067",
           "source": "华尔街见闻-快讯",
@@ -2916,17 +3048,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.88%，公用事业ETF涨1.67%，生物科技指数ETF涨0.92%，银行业ETF涨0.72%，半导体ETF、全球科技股指数ETF至多涨0.62%，网络股指数ETF则跌0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3034235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
         },
         {
           "title": "港股收盘，恒生指数收涨0.32%，恒生科技指数收涨0.15%。MiniMax上市首日收涨约109%，智谱收涨超20%。山东黄金涨超6%，老铺黄金涨超5%。",
@@ -3086,7 +3207,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
@@ -3104,8 +3225,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时29分 ~ 22时53分]"
+          "appearance_count": 16,
+          "time_info": "[15时29分 ~ 23时28分]"
         },
         {
           "title": "一觉醒来，伊朗采取极端措施了",
@@ -3160,6 +3281,17 @@
           "time_info": "[00时35分 ~ 12时43分]"
         },
         {
+          "title": "伊朗指责美以策划动乱",
+          "url": "https://www.douyin.com/hot/2362541",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时53分 ~ 23时28分]"
+        },
+        {
           "title": "法国外交消息人士：法国呼吁伊朗当局对示威者保持最大限度的克制。",
           "url": "https://flash.jin10.com/detail/20260109154232458800",
           "source": "金十数据",
@@ -3180,28 +3312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        },
-        {
-          "title": "伊朗检察官：造成破坏的“暴徒”将面临死刑",
-          "url": "https://wallstreetcn.com/livenews/3034240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "伊朗指责美以策划动乱",
-          "url": "https://www.douyin.com/hot/2362541",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时53分 ~ 22时53分]"
         },
         {
           "title": "伊朗最高领袖哈梅内伊敦促伊朗人民维护团结。",
@@ -3247,6 +3357,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时35分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗检察官：造成破坏的“暴徒”将面临死刑",
+          "url": "https://wallstreetcn.com/livenews/3034240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时28分]"
         },
         {
           "title": "伊朗大范围断网",
@@ -3295,6 +3417,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 03时42分]"
+        },
+        {
+          "title": "伊朗最高领袖哈梅内伊：美国总统曾声称，“若伊朗政府采取某些行动，我将站在抗议者一边。”抗议者确实将希望寄托于他。但首先，倘若他有能力的话，请先管理好自己的国家。",
+          "url": "https://flash.jin10.com/detail/20260109223747363800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时28分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：（抗议者的）现状持续下去是不可接受的。",
@@ -3377,17 +3511,6 @@
           "time_info": "17时32分"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：美国总统曾声称，“若伊朗政府采取某些行动，我将站在抗议者一边。”抗议者确实将希望寄托于他。但首先，倘若他有能力的话，请先管理好自己的国家。",
-          "url": "https://flash.jin10.com/detail/20260109223747363800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
           "title": "互联网监控组织Netblocks称，由于多家网络服务提供商的网络连接中断，伊朗德黑兰及其他地区进入网络封锁状态。",
           "url": "https://flash.jin10.com/detail/20260109010552584800",
           "source": "金十数据",
@@ -3460,7 +3583,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -3526,7 +3649,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -3551,12 +3674,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "哈梅内伊呼吁伊朗人民团结",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%91%BC%E5%90%81%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%9B%A2%E7%BB%93%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -3566,8 +3700,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[07时42分 ~ 22时53分]"
+          "appearance_count": 26,
+          "time_info": "[07时42分 ~ 23时28分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -3719,13 +3853,24 @@
           "time_info": "[06时25分 ~ 06时48分]"
         },
         {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20260109223644840800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -3747,7 +3892,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -3769,9 +3914,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
+        },
+        {
+          "title": "非农数据平稳着陆：美股小幅走高 市场静待关税裁决“靴子落地”",
+          "url": "https://flash.jin10.com/detail/20260109225234813800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "阿斯麦股价在阿姆斯特丹交易所上涨5%，创历史新高。该股美股盘前涨3.9%。",
@@ -3813,7 +3969,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         }
@@ -3859,8 +4015,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时58分 ~ 22时53分]"
+          "appearance_count": 25,
+          "time_info": "[09时58分 ~ 23时28分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -3906,6 +4062,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "彭博美元指数涨幅扩大，刷新一个月高位。",
+          "url": "https://wallstreetcn.com/livenews/3034262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "美元指数8日上涨",
+          "url": "https://flash.jin10.com/detail/20260109044102190800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时26分 ~ 06时25分]"
+        },
+        {
+          "title": "美元指数突破99，为去年12月10日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3033853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时48分]"
+        },
+        {
+          "title": "美元指数涨超0.2%",
+          "url": "https://wallstreetcn.com/livenews/3033540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 05时45分]"
+        },
+        {
+          "title": "美元指数DXY突破99，为去年12月10日以来首次，日内涨0.14%。",
+          "url": "https://flash.jin10.com/detail/20260109150214977800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -4008,59 +4228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数8日上涨",
-          "url": "https://flash.jin10.com/detail/20260109044102190800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 06时25分]"
-        },
-        {
-          "title": "美元指数突破99，为去年12月10日以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3033853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时48分]"
-        },
-        {
-          "title": "美元指数涨超0.2%",
-          "url": "https://wallstreetcn.com/livenews/3033540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 05时45分]"
-        },
-        {
-          "title": "美元指数DXY突破99，为去年12月10日以来首次，日内涨0.14%。",
-          "url": "https://flash.jin10.com/detail/20260109150214977800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时29分"
         }
       ]
     },
