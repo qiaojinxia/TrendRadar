@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-11T14:37:28.448489+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-01-11T15:24:53.825365+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普放话：我可不要中俄当邻居",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时29分 ~ 07时43分]"
+        },
+        {
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时24分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -64,15 +75,19 @@
           "time_info": "[00时51分 ~ 07时43分]"
         },
         {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
-          "source": "凤凰网",
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            9,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时37分]"
+          "appearance_count": 20,
+          "time_info": "[03时19分 ~ 15时24分]"
         },
         {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
@@ -86,20 +101,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时29分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[03时19分 ~ 14时37分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -186,8 +187,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时24分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -198,8 +199,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时24分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -213,19 +227,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时46分 ~ 10时07分]"
-        },
-        {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时37分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -265,6 +266,17 @@
           "time_info": "[07时23分 ~ 13时02分]"
         },
         {
+          "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
+          "url": "https://flash.jin10.com/detail/20260111143012383800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
+        },
+        {
           "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
           "url": "https://flash.jin10.com/detail/20260111084513676800",
           "source": "金十数据",
@@ -273,11 +285,58 @@
             14,
             15,
             18,
-            19
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 15时24分]"
+        },
+        {
+          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
+          "url": "https://flash.jin10.com/detail/20260111084158477800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            16,
+            19,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
+          "url": "https://flash.jin10.com/detail/20260111083436451800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16,
+            17,
+            20,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 15时24分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时07分 ~ 14时37分]"
+          "time_info": "[13时02分 ~ 15时24分]"
         },
         {
           "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
@@ -292,36 +351,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时02分 ~ 14时37分]"
-        },
-        {
-          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
-          "url": "https://flash.jin10.com/detail/20260111084158477800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15,
-            16,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 14时37分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
-          "url": "https://flash.jin10.com/detail/20260111083436451800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16,
-            17,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时07分 ~ 14时37分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -347,19 +376,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时02分 ~ 13时50分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时02分 ~ 14时37分]"
         },
         {
           "title": "特朗普宣布进入国家紧急状态",
@@ -421,6 +437,18 @@
           "time_info": "[12时02分 ~ 13时02分]"
         },
         {
+          "title": "意大利总理：不同意特朗普许多做法",
+          "url": "https://www.toutiao.com/trending/7593680373650358291/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
+        },
+        {
           "title": "特朗普再次威胁干涉伊朗",
           "url": "https://www.douyin.com/hot/2363866",
           "source": "抖音",
@@ -455,17 +483,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "意大利总理：不同意特朗普许多做法",
-          "url": "https://www.toutiao.com/trending/7593680373650358291/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "特朗普被曝已听取打击伊朗方案汇报",
           "url": "https://www.toutiao.com/trending/7593910770325261860/",
           "source": "今日头条",
@@ -480,7 +497,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "Neuralink今年大规模生产脑机接口设备！龙头5天4板，产业链价值量占比居前的A股名单及相关业务一览",
@@ -490,8 +507,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 15时24分]"
         },
         {
           "title": "9天新增用户超270万！茅台董事长：i茅台动态投放，让产品直达消费端",
@@ -514,8 +531,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 15时24分]"
+        },
+        {
+          "title": "麦当劳汉堡被吐槽「缩成马卡龙」，尺寸越来越小，你觉得麦当劳汉堡变小了吗？尺寸变化应该提前告知消费者吗？",
+          "url": "https://www.zhihu.com/question/1993325945164166141",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时24分]"
+        },
+        {
+          "title": "消费添“绿” 产业向“新”",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%B7%BB%E2%80%9C%E7%BB%BF%E2%80%9D+%E4%BA%A7%E4%B8%9A%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时24分]"
         },
         {
           "title": "应声涨停！A股年报行情纵深推进，17家上市公司净利最高同比预增超100%",
@@ -527,8 +567,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 15时24分]"
         },
         {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
@@ -544,8 +584,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时21分 ~ 14时37分]"
+          "appearance_count": 24,
+          "time_info": "[01时21分 ~ 15时24分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -557,8 +597,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 15时24分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -627,38 +667,16 @@
           "time_info": "[00时29分 ~ 07时43分]"
         },
         {
-          "title": "麦当劳汉堡被吐槽「缩成马卡龙」，尺寸越来越小，你觉得麦当劳汉堡变小了吗？尺寸变化应该提前告知消费者吗？",
-          "url": "https://www.zhihu.com/question/1993325945164166141",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时37分]"
-        },
-        {
-          "title": "消费添“绿” 产业向“新”",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E6%B7%BB%E2%80%9C%E7%BB%BF%E2%80%9D+%E4%BA%A7%E4%B8%9A%E5%90%91%E2%80%9C%E6%96%B0%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时37分]"
-        },
-        {
           "title": "AI照片竟然拿了摄影比赛第一名",
           "url": "https://s.weibo.com/weibo?q=%23AI%E7%85%A7%E7%89%87%E7%AB%9F%E7%84%B6%E6%8B%BF%E4%BA%86%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时24分]"
         },
         {
           "title": "【早报】我国新增20万颗卫星申请；存储“超级周期”下终端消费电子领域提价潮蔓延",
@@ -669,8 +687,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时24分]"
         },
         {
           "title": "AI每回答一个问题要消耗多少水",
@@ -679,33 +697,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "全国商务工作会议：深入实施提振消费专项行动",
-          "url": "https://wallstreetcn.com/livenews/3034636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "海南启动电影促消费活动",
-          "url": "https://wallstreetcn.com/livenews/3034627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            14
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 14时37分]"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
+        },
+        {
+          "title": "马来西亚计划从1月11日起暂时限制对马斯克旗下Grok AI的访问。",
+          "url": "https://wallstreetcn.com/livenews/3034647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "下周A股还能涨吗",
@@ -716,8 +721,47 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时02分 ~ 15时24分]"
+        },
+        {
+          "title": "海南启动电影促消费活动",
+          "url": "https://wallstreetcn.com/livenews/3034627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            14,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时02分 ~ 14时37分]"
+          "time_info": "[13时02分 ~ 15时24分]"
+        },
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时24分]"
+        },
+        {
+          "title": "全国商务工作会议：深入实施提振消费专项行动",
+          "url": "https://wallstreetcn.com/livenews/3034636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
         },
         {
           "title": "山西发放2026年家电及数码智能产品消费补贴",
@@ -734,6 +778,18 @@
           "time_info": "[12时02分 ~ 14时37分]"
         },
         {
+          "title": "AI时代还有学画画的必要吗",
+          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 15时24分]"
+        },
+        {
           "title": "全球首次！印尼暂时封禁马斯克旗下AI",
           "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%EF%BC%81%E5%8D%B0%E5%B0%BC%E6%9A%82%E6%97%B6%E5%B0%81%E7%A6%81%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8BAI",
           "source": "百度热搜",
@@ -747,27 +803,15 @@
           "time_info": "[10时07分 ~ 13时02分]"
         },
         {
-          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
-          "url": "https://wallstreetcn.com/articles/3763033",
-          "source": "华尔街见闻",
+          "title": "媒体：孤独不该成“精致消费”",
+          "url": "https://www.toutiao.com/trending/7593971053311823410/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            16
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时37分]"
-        },
-        {
-          "title": "AI时代还有学画画的必要吗",
-          "url": "https://www.baidu.com/s?wd=AI%E6%97%B6%E4%BB%A3%E8%BF%98%E6%9C%89%E5%AD%A6%E7%94%BB%E7%94%BB%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 14时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         },
         {
           "title": "消费者买到xiaonnri电视 小米回应",
@@ -784,7 +828,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
@@ -804,6 +848,18 @@
           "time_info": "[03时19分 ~ 14时37分]"
         },
         {
+          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
+          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时24分]"
+        },
+        {
           "title": "伊朗军方：将捍卫国家利益",
           "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
           "source": "凤凰网",
@@ -813,18 +869,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时29分 ~ 07时43分]"
-        },
-        {
-          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
-          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时37分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
@@ -877,11 +921,23 @@
           "url": "https://flash.jin10.com/detail/20260111140007452800",
           "source": "金十数据",
           "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时24分]"
+        },
+        {
+          "title": "伊朗警告美以：若遭攻击必将还击",
+          "url": "https://wallstreetcn.com/livenews/3034650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "15时24分"
         },
         {
           "title": "鲁比奥被曝同内塔尼亚胡通话谈伊朗局势等",
@@ -891,11 +947,12 @@
             5,
             6,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 15时24分]"
         },
         {
           "title": "伊朗官员：这是外部势力策划的混合战争，旨在引发内战",
@@ -1053,8 +1110,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 15时24分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -1095,14 +1152,14 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时24分]"
         }
       ]
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "汉威科技：公司近年来对无创柔性脑机接口材料的研发及用于复杂脑信息协同监测等关键技术有所突破",
@@ -1126,11 +1183,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 14时37分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 15时24分]"
         },
         {
           "title": "中国扫地机器人扫全球",
@@ -1167,6 +1225,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "2025年十大科技突破 中国三项上榜",
+          "url": "https://www.baidu.com/s?wd=2025%E5%B9%B4%E5%8D%81%E5%A4%A7%E7%A7%91%E6%8A%80%E7%AA%81%E7%A0%B4+%E4%B8%AD%E5%9B%BD%E4%B8%89%E9%A1%B9%E4%B8%8A%E6%A6%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时24分"
         }
       ]
     },
