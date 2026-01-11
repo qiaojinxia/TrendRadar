@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T23:24:37.328714+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2026-01-11T23:43:14.027133+08:00",
+  "total_titles_processed": 1464,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时25分 ~ 23时24分]"
+          "appearance_count": 17,
+          "time_info": "[17时25分 ~ 23时43分]"
         },
         {
           "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
@@ -60,6 +60,17 @@
           "time_info": "[00时29分 ~ 07时43分]"
         },
         {
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时23分 ~ 23时43分]"
+        },
+        {
           "title": "总台现场直击丨德黑兰民众生活基本正常，伊朗称将捍卫国家利益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32361627",
           "source": "澎湃新闻",
@@ -71,8 +82,24 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[18时47分 ~ 23时43分]"
+        },
+        {
+          "title": "伊朗警告美以：若遭攻击必将还击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32363273",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[18时47分 ~ 23时24分]"
+          "time_info": "[19时40分 ~ 23时43分]"
         },
         {
           "title": "伊朗警告若遭攻击必将还击",
@@ -180,30 +207,34 @@
           "time_info": "[14时37分 ~ 18时26分]"
         },
         {
-          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
-          "url": "https://news.ifeng.com/c/8ppjl3SwLp5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时23分 ~ 23时24分]"
-        },
-        {
-          "title": "伊朗警告美以：若遭攻击必将还击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32363273",
-          "source": "澎湃新闻",
+          "title": "伊朗“大量人员”在近期骚乱中死亡",
+          "url": "https://www.toutiao.com/trending/7594047712492830730/",
+          "source": "今日头条",
           "ranks": [
             13,
-            12,
-            11,
-            10,
-            9
+            15,
+            17,
+            27,
+            20
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[19时40分 ~ 23时24分]"
+          "time_info": "[20时48分 ~ 23时43分]"
+        },
+        {
+          "title": "伊朗总统：我们将挺过这次危机。",
+          "url": "https://wallstreetcn.com/livenews/3034735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            13,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时48分 ~ 23时43分]"
         },
         {
           "title": "鲁比奥被曝同内塔尼亚胡通话谈伊朗局势等",
@@ -239,6 +270,31 @@
           "time_info": "[17时25分 ~ 19时41分]"
         },
         {
+          "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3034751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时43分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列正紧盯伊朗局势。",
+          "url": "https://wallstreetcn.com/livenews/3034747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时43分]"
+        },
+        {
           "title": "伊朗警告美以：若遭攻击必将还击",
           "url": "https://wallstreetcn.com/livenews/3034650",
           "source": "华尔街见闻-快讯",
@@ -268,21 +324,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时42分 ~ 18时47分]"
-        },
-        {
-          "title": "伊朗总统：我们将挺过这次危机。",
-          "url": "https://wallstreetcn.com/livenews/3034735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            13,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时48分 ~ 23时24分]"
         },
         {
           "title": "伊朗警告美方：若伊朗遭袭 必将对以色列与美国实施打击",
@@ -317,29 +358,31 @@
           "time_info": "[16时32分 ~ 19时20分]"
         },
         {
-          "title": "据以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿卢比奥通话，讨论伊朗局势。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3034751",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/1993777619401929393",
+          "source": "知乎",
           "ranks": [
-            3,
-            5
+            14,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时24分]"
+          "appearance_count": 6,
+          "time_info": "[22时23分 ~ 23时43分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：以色列正紧盯伊朗局势。",
-          "url": "https://wallstreetcn.com/livenews/3034747",
+          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
+          "url": "https://wallstreetcn.com/livenews/3034728",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            6
+            6,
+            11,
+            19,
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时23分 ~ 23时24分]"
+          "appearance_count": 6,
+          "time_info": "[20时48分 ~ 23时43分]"
         },
         {
           "title": "伊朗总统说决心解决好经济困难",
@@ -355,20 +398,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时41分 ~ 22时45分]"
-        },
-        {
-          "title": "伊朗“大量人员”在近期骚乱中死亡",
-          "url": "https://www.toutiao.com/trending/7594047712492830730/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时48分 ~ 23时24分]"
         },
         {
           "title": "伊朗警察总长：骚乱主要参与者已被逮捕",
@@ -412,6 +441,19 @@
           "time_info": "[16时32分 ~ 18时47分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：以色列正密切关注伊朗局势的发展，并希望该国很快就能摆脱“暴政”。",
+          "url": "https://flash.jin10.com/detail/20260111220504551800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时43分]"
+        },
+        {
           "title": "伊朗官员：这是外部势力策划的混合战争，旨在引发内战",
           "url": "https://news.ifeng.com/c/8poxqz20kTm",
           "source": "凤凰网",
@@ -451,6 +493,18 @@
           "time_info": "[19时41分 ~ 22时23分]"
         },
         {
+          "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260111222103786800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时45分 ~ 23时43分]"
+        },
+        {
           "title": "伊朗逮捕一名为以色列摩萨德工作的外国公民",
           "url": "https://wallstreetcn.com/livenews/3034663",
           "source": "华尔街见闻-快讯",
@@ -464,21 +518,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时32分 ~ 18时47分]"
-        },
-        {
-          "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
-          "url": "https://wallstreetcn.com/livenews/3034728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            19,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时48分 ~ 23时24分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬敦促民众与“暴乱和恐怖分子”划清界限。",
@@ -523,19 +562,6 @@
           "time_info": "[10时07分 ~ 13时50分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：以色列正密切关注伊朗局势的发展，并希望该国很快就能摆脱“暴政”。",
-          "url": "https://flash.jin10.com/detail/20260111220504551800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时23分 ~ 23时24分]"
-        },
-        {
           "title": "伊朗警方：8名安全人员在骚乱中殉职",
           "url": "https://wallstreetcn.com/livenews/3034693",
           "source": "华尔街见闻-快讯",
@@ -549,28 +575,30 @@
           "time_info": "[18时47分 ~ 19时41分]"
         },
         {
-          "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/1993777619401929393",
-          "source": "知乎",
+          "title": "伊朗总统：政府认可和平抗议行为，愿与抗议团体会面",
+          "url": "https://wallstreetcn.com/livenews/3034741",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            7
+            6,
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[22时23分 ~ 23时24分]"
+          "time_info": "[22时23分 ~ 23时43分]"
         },
         {
-          "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
-          "url": "https://flash.jin10.com/detail/20260111222103786800",
+          "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
+          "url": "https://flash.jin10.com/detail/20260111212521502800",
           "source": "金十数据",
           "ranks": [
-            5,
-            10
+            8,
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时24分]"
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时43分]"
         },
         {
           "title": "伊朗警方：8名安全人员在骚乱中殉职",
@@ -656,17 +684,16 @@
           "time_info": "[00时29分 ~ 02时34分]"
         },
         {
-          "title": "伊朗总统：政府认可和平抗议行为，愿与抗议团体会面",
-          "url": "https://wallstreetcn.com/livenews/3034741",
-          "source": "华尔街见闻-快讯",
+          "title": "总部位于美国、关注人权状况的媒体机构HRANA称，与抗议活动相关的伊朗死亡人数已升至203人。",
+          "url": "https://flash.jin10.com/detail/20260111222005048800",
+          "source": "金十数据",
           "ranks": [
             6,
-            9,
             11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[22时23分 ~ 23时24分]"
+          "time_info": "[22时45分 ~ 23时43分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬表示，当权机构已准备好倾听民众的声音。",
@@ -706,19 +733,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时41分 ~ 21时33分]"
-        },
-        {
-          "title": "伊朗总统：政府认可和平抗议行为 愿与抗议团体会面",
-          "url": "https://flash.jin10.com/detail/20260111212521502800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬表示，在这场持续12天的冲突之后，伊朗的敌人想要“播下混乱与无序的种子”。",
@@ -769,18 +783,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 13时50分]"
-        },
-        {
-          "title": "总部位于美国、关注人权状况的媒体机构HRANA称，与抗议活动相关的伊朗死亡人数已升至203人。",
-          "url": "https://flash.jin10.com/detail/20260111222005048800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时24分]"
         },
         {
           "title": "消息人士称以军目前没有对伊朗的进攻意图",
@@ -928,8 +930,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[13时02分 ~ 23时24分]"
+          "appearance_count": 25,
+          "time_info": "[13时02分 ~ 23时43分]"
         },
         {
           "title": "从“房贷QE”到“信用卡限价”：当特朗普开始亲自定价利率",
@@ -957,8 +959,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时02分 ~ 23时24分]"
+          "appearance_count": 26,
+          "time_info": "[12时02分 ~ 23时43分]"
         },
         {
           "title": "俄罗斯回应特朗普释放俄船员",
@@ -1068,6 +1070,19 @@
           "time_info": "[00时29分 ~ 06时24分]"
         },
         {
+          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
+          "url": "https://wallstreetcn.com/articles/3763038",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时48分 ~ 23时43分]"
+        },
+        {
           "title": "意大利总理：不同意特朗普许多做法",
           "url": "https://www.toutiao.com/trending/7593680373650358291/",
           "source": "今日头条",
@@ -1080,6 +1095,36 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时37分 ~ 17时45分]"
+        },
+        {
+          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
+          "url": "https://flash.jin10.com/detail/20260111203059463800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            3,
+            13,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时48分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
+          "url": "https://wallstreetcn.com/livenews/3034734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时48分 ~ 23时43分]"
         },
         {
           "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
@@ -1146,19 +1191,15 @@
           "time_info": "[10时07分 ~ 15时42分]"
         },
         {
-          "title": "美国总统特朗普：多年来，古巴一直依靠委内瑞拉的大量石油和资金维持运转。但现在不会再有石油和资金流向古巴了。我强烈建议他们赶紧达成协议，以免为时已晚。",
-          "url": "https://flash.jin10.com/detail/20260111203059463800",
-          "source": "金十数据",
+          "title": "特朗普被曝正考虑多个干涉伊朗方案",
+          "url": "https://wallstreetcn.com/livenews/3034755",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            3,
-            13,
-            21,
-            26
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时48分 ~ 23时24分]"
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时43分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -1184,19 +1225,6 @@
           "time_info": "[00时29分 ~ 02时34分]"
         },
         {
-          "title": "2026最大的交易主题：输不起的特朗普，国际秩序的终结",
-          "url": "https://wallstreetcn.com/articles/3763038",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时48分 ~ 23时24分]"
-        },
-        {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
           "url": "https://wallstreetcn.com/articles/3763006",
           "source": "华尔街见闻",
@@ -1211,19 +1239,32 @@
           "time_info": "[07时23分 ~ 13时02分]"
         },
         {
-          "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
-          "url": "https://wallstreetcn.com/livenews/3034734",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
+          "url": "https://flash.jin10.com/detail/20260111203618040800",
+          "source": "金十数据",
           "ranks": [
             2,
-            6,
-            14,
-            17,
-            19
+            12,
+            20,
+            25
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时48分 ~ 23时24分]"
+          "time_info": "[21时33分 ~ 23时43分]"
+        },
+        {
+          "title": "特朗普：将不会再有石油或资金流入古巴",
+          "url": "https://wallstreetcn.com/livenews/3034737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时33分 ~ 23时43分]"
         },
         {
           "title": "伊朗议会议长警告美国总统特朗普，任何袭击都将导致伊朗将以色列和该地区的美国基地视为“合法目标”并予以打击。",
@@ -1252,15 +1293,32 @@
           "time_info": "[17时25分 ~ 19时20分]"
         },
         {
-          "title": "特朗普被曝正考虑多个干涉伊朗方案",
-          "url": "https://wallstreetcn.com/livenews/3034755",
+          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
+          "url": "https://wallstreetcn.com/livenews/3034723",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            10,
+            15,
+            23,
+            26,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时48分 ~ 23时43分]"
+        },
+        {
+          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
+          "url": "https://flash.jin10.com/detail/20260111220151159800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时43分]"
         },
         {
           "title": "意总理：不同意特朗普的许多做法，国际法必须得到充分捍卫",
@@ -1302,34 +1360,6 @@
           "time_info": "[19时20分 ~ 21时33分]"
         },
         {
-          "title": "特朗普：不会再有委内瑞拉石油与资金流向古巴",
-          "url": "https://flash.jin10.com/detail/20260111203618040800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            12,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时33分 ~ 23时24分]"
-        },
-        {
-          "title": "特朗普：将不会再有石油或资金流入古巴",
-          "url": "https://wallstreetcn.com/livenews/3034737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时33分 ~ 23时24分]"
-        },
-        {
           "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
           "url": "https://wallstreetcn.com/livenews/3034618",
           "source": "华尔街见闻-快讯",
@@ -1342,34 +1372,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时02分 ~ 14时37分]"
-        },
-        {
-          "title": "有网友在社交媒体平台上称，美国国务卿鲁比奥将成为“古巴总统”。 美国总统特朗普随后截图并在自家社交媒体平台评论称：“听起来不错！”",
-          "url": "https://wallstreetcn.com/livenews/3034723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            23,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时48分 ~ 23时24分]"
-        },
-        {
-          "title": "美媒：特朗普政府正考虑多种方案，以支持伊朗抗议活动并削弱该国政权",
-          "url": "https://flash.jin10.com/detail/20260111220151159800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时23分 ~ 23时24分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
@@ -1612,8 +1614,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时29分 ~ 23时24分]"
+          "appearance_count": 46,
+          "time_info": "[00时29分 ~ 23时43分]"
         },
         {
           "title": "麦当劳汉堡被吐槽「缩成马卡龙」，尺寸越来越小，你觉得麦当劳汉堡变小了吗？尺寸变化应该提前告知消费者吗？",
@@ -1626,8 +1628,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时02分 ~ 23时24分]"
+          "appearance_count": 26,
+          "time_info": "[12时02分 ~ 23时43分]"
         },
         {
           "title": "人民日报钟才平：统筹促消费和扩投资，建设强大国内市场",
@@ -1668,8 +1670,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[13时49分 ~ 23时24分]"
+          "appearance_count": 24,
+          "time_info": "[13时49分 ~ 23时43分]"
         },
         {
           "title": "9天新增用户超270万！茅台董事长：i茅台动态投放，让产品直达消费端",
@@ -1697,8 +1699,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时29分 ~ 23时24分]"
+          "appearance_count": 46,
+          "time_info": "[00时29分 ~ 23时43分]"
         },
         {
           "title": "26年优化消费品以旧换新政策实施",
@@ -1729,6 +1731,17 @@
           "time_info": "[13时49分 ~ 19时41分]"
         },
         {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[22时23分 ~ 23时43分]"
+        },
+        {
           "title": "国产龙头大模型捷报“三箭齐发” 技术与资本共振 AI应用加速落地",
           "url": "https://www.cls.cn/detail/2253876",
           "source": "财联社热门",
@@ -1744,8 +1757,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 42,
-          "time_info": "[01时21分 ~ 23时24分]"
+          "appearance_count": 44,
+          "time_info": "[01时21分 ~ 23时43分]"
         },
         {
           "title": "AI时代还有学画画的必要吗",
@@ -1779,11 +1792,12 @@
             24,
             26,
             21,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时37分 ~ 23时24分]"
+          "appearance_count": 22,
+          "time_info": "[14时37分 ~ 23时43分]"
         },
         {
           "title": "【早报】我国新增20万颗卫星申请；存储“超级周期”下终端消费电子领域提价潮蔓延",
@@ -1797,8 +1811,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时07分 ~ 23时24分]"
+          "appearance_count": 27,
+          "time_info": "[10时07分 ~ 23时43分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -1812,8 +1826,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时29分 ~ 23时24分]"
+          "appearance_count": 46,
+          "time_info": "[00时29分 ~ 23时43分]"
         },
         {
           "title": "下周A股还能涨吗",
@@ -1839,8 +1853,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时25分 ~ 23时24分]"
+          "appearance_count": 17,
+          "time_info": "[17时25分 ~ 23时43分]"
         },
         {
           "title": "长三角一体化大模型发布 AI将为区域发展提供决策支撑",
@@ -1891,8 +1905,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时47分 ~ 23时24分]"
+          "appearance_count": 12,
+          "time_info": "[18时47分 ~ 23时43分]"
         },
         {
           "title": "消费者买到xiaonnri电视 小米回应",
@@ -1911,6 +1925,20 @@
           "time_info": "[00时29分 ~ 07时43分]"
         },
         {
+          "title": "商务部：2026年优化消费品以旧换新政策实施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32362999",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时47分 ~ 23时43分]"
+        },
+        {
           "title": "明查｜“俄罗斯前军事顾问巴兰尼科夫”协助抓捕马杜罗？AI编的段子",
           "url": "https://m.thepaper.cn/newsDetail_forward_32349975",
           "source": "澎湃新闻",
@@ -1924,29 +1952,26 @@
           "time_info": "[00时29分 ~ 07时43分]"
         },
         {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
+          "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
+          "url": "https://flash.jin10.com/detail/20260111230441184800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时23分 ~ 23时24分]"
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时43分]"
         },
         {
-          "title": "商务部：2026年优化消费品以旧换新政策实施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32362999",
-          "source": "澎湃新闻",
+          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
+          "url": "https://wallstreetcn.com/livenews/3034757",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            20,
-            17,
-            16
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时47分 ~ 23时24分]"
+          "appearance_count": 2,
+          "time_info": "[23时24分 ~ 23时43分]"
         },
         {
           "title": "媒体：孤独不该成“精致消费”",
@@ -1992,28 +2017,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时24分 ~ 17时25分]"
-        },
-        {
-          "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
-          "url": "https://flash.jin10.com/detail/20260111230441184800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        },
-        {
-          "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
-          "url": "https://wallstreetcn.com/livenews/3034757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时24分"
         },
         {
           "title": "海南启动电影促消费活动",
@@ -2230,8 +2233,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时29分 ~ 23时24分]"
+          "appearance_count": 46,
+          "time_info": "[00时29分 ~ 23时43分]"
         },
         {
           "title": "零下20℃ 谁把机器人送去滑冰了",
@@ -2289,6 +2292,17 @@
           "time_info": "[16时32分 ~ 18时26分]"
         },
         {
+          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
+          "url": "https://wallstreetcn.com/articles/3763040",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时45分 ~ 23时43分]"
+        },
+        {
           "title": "摩根士丹利中国首席经济学家邢自强：未来行业配置展望方面，在当前形势下，高科技行业成为结构性赛道机会。 人工智能、生物制药、人形机器人等领域作为亮点，技术创新动能强劲，有望持续吸引市场关注。",
           "url": "https://wallstreetcn.com/livenews/3034711",
           "source": "华尔街见闻-快讯",
@@ -2300,17 +2314,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时41分 ~ 21时33分]"
-        },
-        {
-          "title": "AI真的来了，经济扛得住吗？——“大空头”、“AI巨头”与“顶尖科技博主”的一场激辩",
-          "url": "https://wallstreetcn.com/articles/3763040",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时45分 ~ 23时24分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -2379,8 +2382,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 44,
-          "time_info": "[00时29分 ~ 23时24分]"
+          "appearance_count": 46,
+          "time_info": "[00时29分 ~ 23时43分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -2441,11 +2444,12 @@
             28,
             24,
             25,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时25分 ~ 23时24分]"
+          "appearance_count": 13,
+          "time_info": "[18时25分 ~ 23时43分]"
         },
         {
           "title": "金价将走向何方",
@@ -2511,6 +2515,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时48分 ~ 23时43分]"
+        },
+        {
           "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
           "url": "https://www.cls.cn/detail/2253716",
           "source": "财联社热门",
@@ -2522,19 +2539,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时29分 ~ 07时43分]"
-        },
-        {
-          "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时48分 ~ 23时24分]"
         }
       ]
     },
