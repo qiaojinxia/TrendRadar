@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T13:54:19.596642+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-01-12T14:42:43.257144+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 44,
+      "match_count": 52,
       "titles": [
         {
           "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
@@ -31,19 +31,6 @@
           "time_info": "[00时29分 ~ 07时43分]"
         },
         {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 13时54分]"
-        },
-        {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
           "url": "https://wallstreetcn.com/livenews/3034757",
           "source": "华尔街见闻-快讯",
@@ -59,6 +46,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 06时45分]"
+        },
+        {
+          "title": "AI登顶LOL韩服,Faker劲敌来袭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            10,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 14时42分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -200,8 +201,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
         },
         {
           "title": "AI21 Labs声明称，任何有关公司与英伟达已经开始洽谈收购事宜的报道都是假的。",
@@ -227,11 +228,58 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
+        },
+        {
+          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
+          "url": "https://www.cls.cn/detail/2254504",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 14时42分]"
+        },
+        {
+          "title": "A股脑机接口概念震荡走高，南京熊猫6天5板，道氏技术涨超18%，创新医疗、诚益通、三博脑科、翔宇医疗、美好医疗、伟思医疗跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3035038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "加快培育服务消费新增长点",
+          "url": "https://www.douyin.com/hot/2365204",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "港股AI应用板块午后持续走强，智谱涨超60%，上市三天累计涨幅超110%；MINIMAX-WP涨近30%。",
+          "url": "https://wallstreetcn.com/livenews/3035033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "龙头11连板 本周披露并购重组进展的A股名单一览",
@@ -243,6 +291,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "近期A股上涨的主要原因是什么",
+          "url": "https://www.toutiao.com/trending/7594289285063265838/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            29,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            10,
+            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
+        },
+        {
+          "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
         },
         {
           "title": "万字解析中国AI产业",
@@ -290,11 +378,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 14时42分]"
         },
         {
           "title": "用户与AI聊黄开发者获刑",
@@ -345,57 +434,6 @@
           "time_info": "[12时02分 ~ 13时05分]"
         },
         {
-          "title": "近期A股上涨的主要原因是什么",
-          "url": "https://www.toutiao.com/trending/7594289285063265838/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            29,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
-        },
-        {
-          "title": "新“易中天”来了！GEO概念爆发 AI投资向应用价值迁移？",
-          "url": "https://www.cls.cn/detail/2254504",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时54分]"
-        },
-        {
-          "title": "十大券商看后市｜A股跨年行情或继续演绎，板块轮动概率上升",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32365239",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
-        },
-        {
           "title": "A股午盘：三大指数集体上涨",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8D%88%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
           "source": "百度热搜",
@@ -415,19 +453,46 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 14时42分]"
         },
         {
           "title": "A股16连阳，港股为何不涨？",
           "url": "https://wallstreetcn.com/articles/3763061",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时54分]"
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 14时42分]"
+        },
+        {
+          "title": "AI会取代演员吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%BC%94%E5%91%98%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 14时42分]"
+        },
+        {
+          "title": "A股公司砸580万年薪返聘 最大近90岁",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%AC%E5%8F%B8%E7%A0%B8580%E4%B8%87%E5%B9%B4%E8%96%AA%E8%BF%94%E8%81%98+%E6%9C%80%E5%A4%A7%E8%BF%9190%E5%B2%81",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时05分 ~ 14时42分]"
         },
         {
           "title": "野村证券：AI网络设备供应商或迎持续强劲需求",
@@ -453,28 +518,15 @@
           "time_info": "[12时01分 ~ 12时02分]"
         },
         {
-          "title": "A股公司砸580万年薪返聘 最大近90岁",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%85%AC%E5%8F%B8%E7%A0%B8580%E4%B8%87%E5%B9%B4%E8%96%AA%E8%BF%94%E8%81%98+%E6%9C%80%E5%A4%A7%E8%BF%9190%E5%B2%81",
-          "source": "百度热搜",
+          "title": "人民币破7 跨境消费怎样花最省钱",
+          "url": "https://www.toutiao.com/trending/7594338329361911337/",
+          "source": "今日头条",
           "ranks": [
-            26,
-            24
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时54分]"
-        },
-        {
-          "title": "AI会取代演员吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E6%BC%94%E5%91%98%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时05分 ~ 13时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "商务部：深入实施提振消费专项行动，打造“购在中国”品牌 发展健康消费",
@@ -486,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "A股三大股指午后均涨超1%，创业板指现涨1.8%，AI应用、文化传媒等板块涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3035027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "志特新材20CM五连板成今年首只翻倍股 盘中创历史新高A股名单一览",
@@ -510,6 +573,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "A股春季行情短期进入主升阶段？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2254098",
           "source": "财联社热门",
@@ -519,6 +593,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "A股成交额连续两个交易日突破3万亿元",
+          "url": "https://wallstreetcn.com/livenews/3035015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "金十数据整理：A股盘前市场要闻速递（2026-01-12）",
@@ -549,7 +645,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         }
@@ -593,8 +689,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 13时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 14时42分]"
+        },
+        {
+          "title": "特朗普，又要“抢东西”？",
+          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -612,6 +719,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -666,17 +784,6 @@
           "time_info": "[00时51分 ~ 07时43分]"
         },
         {
-          "title": "特朗普，又要“抢东西”？",
-          "url": "https://news.ifeng.com/c/8pqT2PyRVmx",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时54分]"
-        },
-        {
           "title": "据耶路撒冷邮报：几位熟悉近日会谈细节的消息人士透露，特朗普基本上已经决定帮助伊朗的抗议者，但他还没有决定“如何做”和“何时做”。",
           "url": "https://flash.jin10.com/detail/20260112043545440800",
           "source": "金十数据",
@@ -703,17 +810,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时47分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
         },
         {
           "title": "特朗普谈古巴：我强烈建议他们趁为时未晚达成协议",
@@ -791,6 +887,19 @@
           "time_info": "[10时04分 ~ 13时05分]"
         },
         {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
+        },
+        {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
           "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
@@ -829,6 +938,17 @@
           "time_info": "10时04分"
         },
         {
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
+        },
+        {
           "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
           "url": "https://flash.jin10.com/detail/20260112092912020800",
           "source": "金十数据",
@@ -851,40 +971,17 @@
           "time_info": "10时04分"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时54分]"
-        },
-        {
-          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
-          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
-        },
-        {
           "title": "特朗普威胁古巴尽快同美国“达成协议”",
           "url": "https://www.cls.cn/detail/2254162",
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
         },
         {
           "title": "特朗普对台问题表态引岛内热议",
@@ -895,8 +992,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
         },
         {
           "title": "美东时间1月11日晚，特朗普在社交平台发帖，自称“委内瑞拉代总统”。（CCTV国际时讯）",
@@ -909,6 +1006,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时05分]"
+        },
+        {
+          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
+          "url": "https://wallstreetcn.com/livenews/3034991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时42分]"
         },
         {
           "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
@@ -988,17 +1097,6 @@
           "time_info": "10时04分"
         },
         {
-          "title": "美媒爆：5名共和党议员“倒戈”后，特朗普“愤怒”向其打电话并发出威胁",
-          "url": "https://wallstreetcn.com/livenews/3034991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "美媒称特朗普政府13日将讨论美对伊朗干预方案",
           "url": "https://wallstreetcn.com/livenews/3034877",
           "source": "华尔街见闻-快讯",
@@ -1049,7 +1147,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1068,7 +1166,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
@@ -1133,8 +1231,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 13时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 14时42分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列正紧盯伊朗局势。",
@@ -1441,6 +1539,18 @@
           "time_info": "[06时23分 ~ 07时43分]"
         },
         {
+          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
+          "url": "https://www.zhihu.com/question/1989482381921518040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
+        },
+        {
           "title": "伊朗德黑兰省省长称抗议群体已大幅减少",
           "url": "https://flash.jin10.com/detail/20260112053102735800",
           "source": "金十数据",
@@ -1465,16 +1575,52 @@
           "time_info": "[06时23分 ~ 07时43分]"
         },
         {
-          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
-          "url": "https://www.zhihu.com/question/1989482381921518040",
-          "source": "知乎",
+          "title": "市场消息：伊朗外长对印度的访问已被推迟，原定于本周进行。",
+          "url": "https://flash.jin10.com/detail/20260112143417293800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            6
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "伊朗政府宣布全国哀悼三天",
+          "url": "https://www.cls.cn/detail/2254259",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时54分]"
+          "time_info": "[12时01分 ~ 14时42分]"
+        },
+        {
+          "title": "伊朗政府宣布全国哀悼三天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
+        },
+        {
+          "title": "伊朗哀悼3天",
+          "url": "https://www.douyin.com/hot/2364835",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
         },
         {
           "title": "内塔尼亚胡：以方正密切关注伊朗局势发展",
@@ -1489,43 +1635,6 @@
           "time_info": "[06时23分 ~ 07时43分]"
         },
         {
-          "title": "伊朗政府宣布全国哀悼三天",
-          "url": "https://www.cls.cn/detail/2254259",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
-        },
-        {
-          "title": "伊朗政府宣布全国哀悼三天",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
-        },
-        {
-          "title": "伊朗哀悼3天",
-          "url": "https://www.douyin.com/hot/2364835",
-          "source": "抖音",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
-        },
-        {
           "title": "伊朗媒体：“大量人员”在近期骚乱中死亡",
           "url": "https://m.thepaper.cn/newsDetail_forward_32364046",
           "source": "澎湃新闻",
@@ -1535,6 +1644,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 10时04分]"
+        },
+        {
+          "title": "美国将讨论干涉伊朗方案",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时42分]"
         },
         {
           "title": "伊朗或很快遭美国以色列攻击",
@@ -1548,17 +1669,6 @@
           "time_info": "[12时01分 ~ 12时02分]"
         },
         {
-          "title": "美国将讨论干涉伊朗方案",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%B9%B2%E6%B6%89%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "伊朗警告若遭攻击必将还击",
           "url": "https://www.douyin.com/hot/2364390",
           "source": "抖音",
@@ -1568,6 +1678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "伊朗哀悼3天",
@@ -1595,7 +1716,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国农民种地科技感拉满",
@@ -1619,8 +1740,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 13时54分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 14时42分]"
         },
         {
           "title": "国内首个海上回收复用火箭基地开工在即！《科创板日报》记者实探杭州箭元科技“超级工厂”",
@@ -1645,17 +1766,6 @@
           "time_info": "10时04分"
         },
         {
-          "title": "A股量子科技概念震荡走强，科大国创午后涨超18%，国盾量子涨超10%创历史新高，格尔软件此前涨停，神州信息、必创科技、吉大正元等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3035003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "A股电池板块震荡下挫，德福科技跌超10%，欣旺达、先导智能、科达利、宁德时代、安孚科技均跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3034886",
           "source": "华尔街见闻-快讯",
@@ -1667,15 +1777,28 @@
           "time_info": "10时04分"
         },
         {
+          "title": "A股量子科技概念震荡走强，科大国创午后涨超18%，国盾量子涨超10%创历史新高，格尔软件此前涨停，神州信息、必创科技、吉大正元等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3035003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时42分]"
+        },
+        {
           "title": "恒生指数午后涨1%，阿里健康涨超8%，恒生科技指数现涨2.17%。",
           "url": "https://wallstreetcn.com/livenews/3034999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 14时42分]"
         },
         {
           "title": "恒生科技指数涨幅扩大至2%，快手、美团涨超6%。",
@@ -1688,6 +1811,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 13时05分]"
+        },
+        {
+          "title": "杭州“六小龙”之一强脑科技据悉以保密形式提交港股IPO申请。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3035029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "A股券商、金融科技股异动拉升，太平洋触及涨停，同花顺涨超7%，指南针、华林证券、天风证券、哈投股份等跟涨。",
@@ -1737,8 +1871,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时01分 ~ 14时42分]"
         },
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -1836,8 +1970,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
         },
         {
           "title": "伊朗局势微妙，鲍威尔被诉，金银再创新高，油价连续走高、美股期货下跌",
@@ -1849,8 +1983,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
