@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T05:25:55.058035+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-01-14T05:45:59.559111+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -50,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -62,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时24分 ~ 05时25分]"
+        },
+        {
+          "title": "周二（1月13日，美国CPI通胀数据发布日），降息赢家指数涨0.53%，报107.28点，出现六波V形走势。 “特朗普关税输家”指数涨0.42%，报120.23点。 “特朗普金融指数”跌1.05%，报174.13点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.44点。",
+          "url": "https://wallstreetcn.com/livenews/3036416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时45分"
         },
         {
           "title": "美国总统特朗普：我们会让油价进一步下降。",
@@ -215,24 +226,25 @@
           "time_info": "[04时31分 ~ 05时25分]"
         },
         {
+          "title": "美国总统特朗普上周在一场活动上称美国的检察官软弱。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3036391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 05时45分]"
+        },
+        {
           "title": "特朗普称将切断“庇护城市”的联邦资金",
           "url": "https://flash.jin10.com/detail/20260114043526447800",
           "source": "金十数据",
           "ranks": [
             3,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时25分]"
-        },
-        {
-          "title": "美国总统特朗普上周在一场活动上称美国的检察官软弱。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3036391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -249,6 +261,62 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时38分]"
+        },
+        {
+          "title": "美国总统特朗普声称：我们将开始通过陆路打击“毒贩”。 摧毁了两艘运载毒品的潜艇。 将冻结向非法移民发放的福利金，立即冻结支付。 2月1日开始，不再向庇护城市支付（来自联邦政府的）款项。 正大规模调查签证欺诈。",
+          "url": "https://wallstreetcn.com/livenews/3036381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 05时45分]"
+        },
+        {
+          "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
+          "url": "https://wallstreetcn.com/livenews/3036380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 05时45分]"
+        },
+        {
+          "title": "美国总统特朗普声称：如果我（已经）得到美联储的帮助，住房成本会更容易控制。 那“混蛋很”（Jerk）快就会走。",
+          "url": "https://wallstreetcn.com/livenews/3036379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 05时45分]"
+        },
+        {
+          "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
+          "url": "https://wallstreetcn.com/livenews/3036378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 05时45分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -276,32 +344,6 @@
           "time_info": "[01时30分 ~ 02时38分]"
         },
         {
-          "title": "美国总统特朗普声称：我们将开始通过陆路打击“毒贩”。 摧毁了两艘运载毒品的潜艇。 将冻结向非法移民发放的福利金，立即冻结支付。 2月1日开始，不再向庇护城市支付（来自联邦政府的）款项。 正大规模调查签证欺诈。",
-          "url": "https://wallstreetcn.com/livenews/3036381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
-          "title": "美国总统特朗普：本周稍晚将公布医疗保健框架。 这将解决可承受能力问题。 “最惠国”医药价格应当就够我在中期选举中胜出了。",
-          "url": "https://wallstreetcn.com/livenews/3036380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
           "url": "https://wallstreetcn.com/livenews/3036313",
           "source": "华尔街见闻-快讯",
@@ -313,32 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时30分 ~ 02时38分]"
-        },
-        {
-          "title": "美国总统特朗普声称：如果我（已经）得到美联储的帮助，住房成本会更容易控制。 那“混蛋很”（Jerk）快就会走。",
-          "url": "https://wallstreetcn.com/livenews/3036379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 05时25分]"
-        },
-        {
-          "title": "美国总统特朗普声称：未来数周将针对经济可承受能力给出更多计划。 （下周）将在达沃斯围绕住房政策提供更多细节信息。 赞赏2000亿美元抵押贷款支持证券（MBS）购买计划的“巨大影响”。",
-          "url": "https://wallstreetcn.com/livenews/3036378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 05时25分]"
         },
         {
           "title": "美国总统特朗普声称：并不认为会（再次迅速）发生美国政府关门事件。",
@@ -404,6 +420,18 @@
           "time_info": "[04时31分 ~ 04时52分]"
         },
         {
+          "title": "美国总统特朗普：（谈对伊朗的援助）经济上我们不会提供帮助。",
+          "url": "https://flash.jin10.com/detail/20260114045823994800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
+        },
+        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -414,6 +442,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 04时52分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）最终目标是取得胜利。",
+          "url": "https://flash.jin10.com/detail/20260114045804177800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
         },
         {
           "title": "美国总统特朗普：住房政策细节将在达沃斯论坛上公布。",
@@ -462,6 +502,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 04时52分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗处决抗议者，“我们将采取非常强硬的行动”。",
+          "url": "https://flash.jin10.com/detail/20260114045418212800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
         },
         {
           "title": "美国总统特朗普：本周晚些时候，我将宣布我们的医疗可负担性框架。",
@@ -640,28 +692,6 @@
           "time_info": "[03时24分 ~ 03时41分]"
         },
         {
-          "title": "美国总统特朗普：（谈对伊朗的援助）经济上我们不会提供帮助。",
-          "url": "https://flash.jin10.com/detail/20260114045823994800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗问题）最终目标是取得胜利。",
-          "url": "https://flash.jin10.com/detail/20260114045804177800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
           "url": "https://flash.jin10.com/detail/20260114020057806800",
           "source": "金十数据",
@@ -695,15 +725,15 @@
           "time_info": "02时38分"
         },
         {
-          "title": "美国总统特朗普：如果伊朗处决抗议者，“我们将采取非常强硬的行动”。",
-          "url": "https://flash.jin10.com/detail/20260114045418212800",
+          "title": "特朗普采访今晨播出，聚焦伊朗、经济与鲍威尔",
+          "url": "https://flash.jin10.com/detail/20260114052048406800",
           "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "05时45分"
         },
         {
           "title": "据AXIOS：特朗普政府国家安全委员会负责人今天就伊朗问题举行了讨论。特朗普没有参加。",
@@ -862,8 +892,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -875,21 +905,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
-        },
-        {
-          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
-          "url": "https://www.zhihu.com/question/1994338886751625788",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -901,11 +918,25 @@
             19,
             11,
             18,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
+        },
+        {
+          "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
+          "url": "https://www.zhihu.com/question/1994338886751625788",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "中方回应美对伊朗贸易伙伴加税25%",
@@ -918,8 +949,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时54分 ~ 04时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时54分 ~ 05时45分]"
         },
         {
           "title": "据AXIOS：美国特使威特科夫周末会见了伊朗流亡王储。",
@@ -984,6 +1015,18 @@
           "time_info": "[03时24分 ~ 04时31分]"
         },
         {
+          "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
+          "url": "https://flash.jin10.com/detail/20260114045620341800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
+        },
+        {
           "title": "加拿大政府敦促其公民“立即离开伊朗”。",
           "url": "https://flash.jin10.com/detail/20260114025939951800",
           "source": "金十数据",
@@ -1042,24 +1085,13 @@
           "time_info": "[03时24分 ~ 03时41分]"
         },
         {
-          "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
-          "url": "https://flash.jin10.com/detail/20260114045620341800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
           "title": "卡塔尔首相与伊朗官员通电话 讨论伊朗局势",
           "url": "https://flash.jin10.com/detail/20260114044130008800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -1111,8 +1143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -1122,8 +1154,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "A股成交再创历史天量！创业板跌2%，商业航天集体回调，新“易中天”延续强势，恒指涨近1%，医药股活跃，碳酸锂逆势涨超7%",
@@ -1133,8 +1165,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -1160,8 +1192,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -1176,8 +1208,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "断网逼消费,移动吃相太下头",
@@ -1187,8 +1219,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "UP主分析AI将如何影响电竞行业",
@@ -1205,8 +1237,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "趣看｜错版“哭哭马”逆袭成爆款，情绪消费马“倒”成功",
@@ -1216,8 +1248,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -1230,11 +1262,12 @@
             19,
             22,
             27,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -1252,11 +1285,12 @@
           "url": "https://wallstreetcn.com/livenews/3036406",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
         },
         {
           "title": "EDG官宣Maokai回归",
@@ -1331,7 +1365,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1344,41 +1378,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
-          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260114050526199800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260114050525340800",
-          "source": "金十数据",
+          "title": "金融业ETF收跌超1.9%，领跌美股行业ETF，标普能源板块涨超1.5%",
+          "url": "https://wallstreetcn.com/livenews/3036413",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 英特尔涨7%",
-          "url": "https://flash.jin10.com/detail/20260114050057786800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "05时45分"
         },
         {
           "title": "美国总统特朗普赞赏美股的表现。",
@@ -1406,6 +1418,30 @@
           "time_info": "[03时24分 ~ 04时31分]"
         },
         {
+          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260114050526199800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
+        },
+        {
+          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260114050525340800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013126429800",
           "source": "金十数据",
@@ -1416,6 +1452,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 02时38分]"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 英特尔涨7%",
+          "url": "https://flash.jin10.com/detail/20260114050057786800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
@@ -1443,8 +1491,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1455,8 +1503,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -1464,11 +1512,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1476,11 +1525,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时38分 ~ 05时25分]"
+          "appearance_count": 11,
+          "time_info": "[02时38分 ~ 05时45分]"
         },
         {
           "title": "苹果联姻谷歌意味着什么",
@@ -1497,7 +1547,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "恒生指数主连夜盘收涨0.21%，报26920点。 恒生科技指数主连夜盘收涨0.25%，报5900点。",
@@ -1517,11 +1567,23 @@
           "url": "https://wallstreetcn.com/livenews/3036399",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 05时45分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.86%，报7874.82点。 热门中概股里，小马智行跌9.6%，拼多多跌超5%，阿里涨0.4%。 ETF中，XtrackersHarvest中证50（ASHS）收跌2.08%，德银嘉实沪深300指数ETF（ASHR）收跌1.40%。 中国科技指数ETF（CQQQ）收跌3.33%，中概互联网指数ETF（KWEB）收跌1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3036402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "05时45分"
         },
         {
           "title": "容百科技：收到上交所问询函，要求核实并补充披露与宁德时代合作相关事项",
@@ -1547,11 +1609,12 @@
           "ranks": [
             1,
             6,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 05时45分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨4.6%，刷新期内高位至4259点上方，北京时间12:00以来平滑地持续走高。 MarketVectorTM数字资产100中盘指数涨3.69%，刷新期内高位至3892点上方。 MarketVector数字资产100指数涨1.8%，报19415.75点。 目前，Solana涨2.31%，狗狗币涨4.25%，XRP涨2.23%。 此外，比特币涨3%，刷新日高至93720美元上方，以太坊涨超3.1%，持稳于日高3194.160美元附近。",
@@ -1590,11 +1653,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -1605,8 +1669,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         }
       ]
     },
@@ -1628,8 +1692,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 05时45分]"
         },
         {
           "title": "金价",
@@ -1642,8 +1706,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 05时25分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 05时45分]"
         }
       ]
     },
@@ -1657,11 +1721,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时52分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[04时52分 ~ 05时45分]"
         }
       ]
     }
