@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T01:31:34.049392+08:00",
-  "total_titles_processed": 389,
+  "generated_at": "2026-01-15T01:54:09.938789+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "时隔两年，融资保证金比例回归100%，历次调整A股走势如何？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "浙江用AI抓出贪官",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
@@ -38,8 +38,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "加州总检察长对xAI和Grok展开调查",
+          "url": "https://wallstreetcn.com/livenews/3037233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
+          "url": "https://wallstreetcn.com/livenews/3037229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
@@ -49,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "A股调整融资保证金有何影响",
@@ -58,11 +80,84 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
+          "url": "https://www.zhihu.com/question/1994712035158619020",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "AI查贪官准确率相当高",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 01时54分]"
+        },
+        {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 01时54分]"
         },
         {
           "title": "美国佛州州长加大对AI与数据中心“现实风险”的警告力度",
@@ -77,61 +172,15 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
+          "title": "花旗CEO弗雷泽：信用卡相关限制措施将对消费支出及美国经济产生影响。",
+          "url": "https://flash.jin10.com/detail/20260115010742473800",
+          "source": "金十数据",
           "ranks": [
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "德勤报告称超 6 成国人的下一辆车预算在 30 万以上，普通人应该怎样看待汽车消费？",
-          "url": "https://www.zhihu.com/question/1994712035158619020",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "time_info": "[01时31分 ~ 01时54分]"
         },
         {
           "title": "谷歌：即日起，符合条件的美国谷歌AI Pro和AI Ultra订阅用户将在未来一周内陆续获得访问权限。",
@@ -145,35 +194,13 @@
           "time_info": "00时37分"
         },
         {
-          "title": "AI查贪官准确率相当高",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
           "title": "浙江用AI抓出贪官",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "花旗CEO弗雷泽：信用卡相关限制措施将对消费支出及美国经济产生影响。",
-          "url": "https://flash.jin10.com/detail/20260115010742473800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
         }
@@ -191,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "沙特带头，劝美国不要对伊朗动武",
@@ -202,8 +229,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -217,28 +257,17 @@
           "time_info": "00时37分"
         },
         {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
           "title": "伊朗：骚乱事件主要幕后人员落网",
           "url": "https://wallstreetcn.com/livenews/3037207",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "伊朗高级将领：伊朗处于最高战备状态",
@@ -249,8 +278,44 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗高级将领：伊朗处于最高战备状态",
+          "url": "https://www.toutiao.com/trending/7595176797369679910/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 01时54分]"
+        },
+        {
+          "title": "美国国务院：确认对伊朗等国暂停签证受理。",
+          "url": "https://wallstreetcn.com/livenews/3037216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "time_info": "[01时31分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗外长重申将维护国家主权，反对任何外来干预",
+          "url": "https://wallstreetcn.com/livenews/3037213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时54分]"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -262,39 +327,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "美国国务院：确认对伊朗等国暂停签证受理。",
-          "url": "https://wallstreetcn.com/livenews/3037216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "伊朗外长重申将维护国家主权，反对任何外来干预",
-          "url": "https://wallstreetcn.com/livenews/3037213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
-        },
-        {
-          "title": "伊朗高级将领：伊朗处于最高战备状态",
-          "url": "https://www.toutiao.com/trending/7595176797369679910/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
         },
         {
           "title": "消息人士：外交官们曾寻求真主党的保证，以确保在伊朗遭受袭击时，该组织不会采取行动。真主党虽未提供保证，但若伊朗遭受的打击并非毁灭性的，该组织并无采取行动的计划。",
@@ -336,18 +368,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
-          "url": "https://www.cls.cn/detail/2257429",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
           "title": "【数据看盘】8.35亿元资金抢筹光迅科技 岩山科技龙虎榜现游资激烈博弈",
           "url": "https://www.cls.cn/detail/2257610",
           "source": "财联社热门",
@@ -356,19 +376,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "“十五五”新开局，我国科技工作的发力点在哪里？科技部部长阴和俊发声",
+          "url": "https://www.cls.cn/detail/2257429",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "上交所：对国晟科技相关投资者采取暂停账户交易等措施",
           "url": "https://www.cls.cn/detail/2257724",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "用马甲账户收受虚拟币买别墅，证监会科技监管司原司长姚前腐败细节披露",
@@ -379,8 +413,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "标普500指数跌幅扩大至1%，科技板块跌超1.8%，可选消费板块跌1.7%，电信板块跌1.2%，能源板块涨1.8%。 道指跌267点跌超0.5%，纳指跌348点跌幅1.5%，半导体指数跌1.5%，银行指数跌1.2%。",
@@ -419,8 +453,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -434,38 +480,27 @@
           "time_info": "00时37分"
         },
         {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
           "title": "美联储卡什卡利拒绝就美国总统特朗普政府购买抵押贷款债券发表评论。",
           "url": "https://flash.jin10.com/detail/20260115012010360800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时54分]"
         },
         {
           "title": "美国特使Witkoff：我们正式宣布启动特朗普关于结束加沙冲突“二十点计划”的第二阶段。",
           "url": "https://wallstreetcn.com/livenews/3037215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时54分]"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -493,8 +528,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -505,8 +540,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -516,8 +551,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         }
       ]
     },
@@ -531,22 +566,24 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时37分 ~ 01时54分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
           "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 01时54分]"
         }
       ]
     },
@@ -588,11 +625,12 @@
           "url": "https://wallstreetcn.com/livenews/3037221",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时54分]"
         }
       ]
     }
