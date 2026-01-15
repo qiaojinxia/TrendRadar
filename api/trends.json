@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T04:31:24.420325+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-16T04:52:46.918955+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -37,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
@@ -48,11 +48,12 @@
             3,
             12,
             17,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 04时52分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普已经与以色列总理内塔尼亚胡通话。",
@@ -62,11 +63,12 @@
             4,
             13,
             18,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 04时52分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普即将会见委内瑞拉“反对派”Machado。 委内瑞拉代总统Rodriguez一直都配合（美方的要求）。 特朗普期待继续与委内瑞拉合作。",
@@ -76,11 +78,12 @@
             5,
             14,
             19,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 04时52分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：关于格陵兰的会议富有成效。 每2-3周会举行一次关于格陵兰的会议。 欧洲军队（部署）不会影响美国总统特朗普有关（企图吞并）格陵兰的目标。",
@@ -89,11 +92,12 @@
           "ranks": [
             4,
             9,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 04时52分]"
         },
         {
           "title": "特朗普发布“伟大医疗计划”：聚焦药价与透明度 大选前夕豪赌医改",
@@ -121,6 +125,34 @@
           "time_info": "[03时28分 ~ 04时31分]"
         },
         {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
+          "url": "https://wallstreetcn.com/livenews/3038171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 04时52分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
+          "url": "https://wallstreetcn.com/livenews/3038168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 04时52分]"
+        },
+        {
           "title": "特朗普直播打瞌睡被小女孩发现",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -131,32 +163,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时36分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
-          "url": "https://wallstreetcn.com/livenews/3038171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 04时31分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将在几周内决定美联储主席的人选。 对于下一任美联储主席，特朗普有几个人选。",
-          "url": "https://wallstreetcn.com/livenews/3038168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 04时31分]"
         },
         {
           "title": "内塔尼亚胡密电特朗普 劝阻特朗普对伊动武",
@@ -207,6 +213,18 @@
           "time_info": "[03时28分 ~ 03时48分]"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特：无论特朗普选择谁担任主席，美联储都将保持独立性。",
+          "url": "https://flash.jin10.com/detail/20260116035008804800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时52分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
           "url": "https://flash.jin10.com/detail/20260116002858964800",
           "source": "金十数据",
@@ -217,6 +235,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时36分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
+          "url": "https://flash.jin10.com/detail/20260116034814439800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时52分]"
         },
         {
           "title": "美国白宫：美国总统特朗普的医疗计划将要求企业公布被拒索赔的百分比，以及在索赔上支付的收入占管理费用的百分比。",
@@ -279,35 +309,13 @@
           "time_info": "[00时47分 ~ 01时36分]"
         },
         {
-          "title": "美国白宫国家经济委员会主任哈塞特：无论特朗普选择谁担任主席，美联储都将保持独立性。",
-          "url": "https://flash.jin10.com/detail/20260116035008804800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普希望美联储独立运作。",
-          "url": "https://flash.jin10.com/detail/20260116034814439800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
           "title": "委反对派领袖会见特朗普，后者拒绝为其掌权背书",
           "url": "https://flash.jin10.com/detail/20260116034634748800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -329,7 +337,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -340,7 +348,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -411,6 +419,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "白宫称特朗普及其团队正密切关注伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3038196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：特朗普已经与以色列总理内塔尼亚胡通话。",
           "url": "https://flash.jin10.com/detail/20260116022949055800",
           "source": "金十数据",
@@ -458,7 +477,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -470,8 +489,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
@@ -483,8 +502,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "“十五五”新开局，我国将如何进一步激活消费主引擎？商务部部长王文涛发声",
@@ -495,8 +514,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "A股成交缩量超1万亿，台积电大幅上调资本开支点燃算力硬件股，商业航天集体大跌，恒科指跌超1%，携程重挫20%",
@@ -506,8 +525,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -519,8 +538,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "刺激消费,专家盯上零负债人群",
@@ -531,8 +550,22 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
+        },
+        {
+          "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
+          "url": "https://www.zhihu.com/question/1995085840762758424",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "复盘苹果AI为何转投谷歌",
@@ -543,24 +576,12 @@
             21,
             17,
             14,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
-        },
-        {
-          "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
-          "url": "https://www.zhihu.com/question/1995085840762758424",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "融资保证金比例回归100%：释放什么信号？A股接下来怎么走？",
@@ -571,8 +592,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "92胜率屠榜,老马AI杀穿韩服",
@@ -583,8 +604,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "韩服登顶账号是AI操作的吗",
@@ -601,15 +622,27 @@
           "time_info": "[00时46分 ~ 03时48分]"
         },
         {
-          "title": "美国1月个人消费支出和个人收入报告改期至3月13日。",
-          "url": "https://wallstreetcn.com/livenews/3038192",
+          "title": "AI编程初创公司Replit接近按90亿美元估值融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3038201",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国1月个人消费支出和个人收入报告改期至3月13日。",
+          "url": "https://wallstreetcn.com/livenews/3038192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时52分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -708,7 +741,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -718,8 +751,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "火药味拉满,美国酝酿搞伊朗",
@@ -729,8 +762,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时52分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -740,8 +773,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
+        },
+        {
+          "title": "美国宣布对伊朗实施新制裁",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
@@ -752,8 +799,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁",
@@ -764,21 +811,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
-        },
-        {
-          "title": "美国宣布对伊朗实施新制裁",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%96%B0%E5%88%B6%E8%A3%81",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
@@ -787,11 +821,12 @@
           "ranks": [
             9,
             14,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -801,8 +836,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "伊朗领空重新开放",
@@ -811,11 +846,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -828,8 +864,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
@@ -838,11 +874,12 @@
           "ranks": [
             16,
             13,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时46分 ~ 03时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "美航母打击群调往中东 伊朗最高战备",
@@ -853,11 +890,12 @@
             27,
             23,
             22,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 04时52分]"
         },
         {
           "title": "美国财政部：制裁“支持伊朗的影子银行网络”。",
@@ -882,6 +920,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时36分]"
+        },
+        {
+          "title": "伊朗外长与联合国秘书长通话 讨论当前形势",
+          "url": "https://wallstreetcn.com/livenews/3038195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "伊拉克强调反对利用该国领土作为对伊朗发动袭击的跳板",
@@ -931,7 +980,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国航天科技集团：2026年要全力突破重复使用火箭技术，大力发展商业航天、低空经济等战新产业",
@@ -941,8 +990,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -953,8 +1002,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -965,8 +1014,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "宇树人形机器人 H2 空中回旋踢将西瓜踢爆，这样高难度的动作完成有多难？有哪些技术值得关注？",
@@ -977,11 +1026,26 @@
             8,
             9,
             10,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.81%，报27150点。 恒生科技指数主连夜盘收涨1.05%，报5895点。",
+          "url": "https://wallstreetcn.com/livenews/3038180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 04时52分]"
         },
         {
           "title": "全球人形机器人市场将迎爆发式增长 投资者如何抢先布局？一文剖析",
@@ -995,19 +1059,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 03时28分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.81%，报27150点。 恒生科技指数主连夜盘收涨1.05%，报5895点。",
-          "url": "https://wallstreetcn.com/livenews/3038180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 04时31分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1032,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时36分]"
+        },
+        {
+          "title": "花旗：将美光科技(MU.O)目标价从330美元上调至385美元，维持买入评级。",
+          "url": "https://flash.jin10.com/detail/20260116041305111800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         }
       ]
     },
@@ -1048,8 +1110,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -1060,8 +1122,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 04时31分]"
+          "appearance_count": 4,
+          "time_info": "[03时28分 ~ 04时52分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
@@ -1110,8 +1172,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         },
         {
           "title": "金价",
@@ -1121,8 +1183,37 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 04时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 04时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周四（1月15日）纽约尾盘，ICE美元指数涨0.28%，报9.337点，日内交投区间为99.086-99.492点，全天处于上涨状态，北京时间20:30过后出现一波上涨行情，22:43刷新日高。 彭博美元指数涨0.07%，报1211.49点，日内交投区间为1210.07-1213.79点。",
+          "url": "https://wallstreetcn.com/livenews/3038199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3038139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 02时42分]"
         }
       ]
     },
@@ -1140,8 +1231,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时31分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 04时52分]"
         }
       ]
     },
@@ -1156,24 +1247,6 @@
           "ranks": [
             1,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
-          "url": "https://wallstreetcn.com/livenews/3038139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
