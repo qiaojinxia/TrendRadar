@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T12:09:04.842882+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-01-17T12:54:05.064690+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时28分 ~ 06时47分]"
+        },
+        {
+          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
+          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 12时54分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -31,17 +44,16 @@
           "time_info": "[00时34分 ~ 07时44分]"
         },
         {
-          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
-          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
+          "title": "特朗普：这是卡尼该做的事，签协议是好事",
+          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
           "source": "凤凰网",
           "ranks": [
-            1,
-            4,
-            5
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 12时09分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 12时54分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
@@ -66,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 12时09分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 12时54分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -80,8 +92,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 12时09分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 12时54分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -95,17 +107,6 @@
           "time_info": "[00时34分 ~ 07时44分]"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时09分]"
-        },
-        {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
@@ -116,8 +117,34 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时43分 ~ 12时54分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时43分 ~ 12时09分]"
+          "time_info": "[09时53分 ~ 12时54分]"
+        },
+        {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 12时54分]"
         },
         {
           "title": "美国总统特朗普在致埃及总统塞西的信中表示，美国已准备好重启在埃及与埃塞俄比亚之间的调解工作，以期“一劳永逸”地解决尼罗河水分配问题。",
@@ -130,18 +157,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时45分 ~ 07时44分]"
-        },
-        {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时09分]"
         },
         {
           "title": "美国法官：Dominion Energy可会恢复被总统特朗普叫停的风电项目。",
@@ -187,6 +202,21 @@
           "time_info": "[05时45分 ~ 07时44分]"
         },
         {
+          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3039055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14,
+            21,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 12时54分]"
+        },
+        {
           "title": "美国财长贝森特：预计将对美国工薪阶层返还1000亿-1500亿美元。 关税通胀是没曾叫唤的狗。 相信最高法院将支持总统特朗普的标志性（关税）政策。",
           "url": "https://wallstreetcn.com/livenews/3039027",
           "source": "华尔街见闻-快讯",
@@ -200,20 +230,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时45分 ~ 07时44分]"
-        },
-        {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时09分]"
         },
         {
           "title": "特朗普扬言接管格陵兰 俄罗斯回应：从国际法看非同寻常 将持续关注局势",
@@ -291,18 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时50分]"
-        },
-        {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时09分]"
         },
         {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
@@ -590,6 +594,17 @@
           "time_info": "[00时34分 ~ 01时28分]"
         },
         {
+          "title": "特朗普称明尼苏达州已完全失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
           "title": "特朗普自称是个有道德的人",
           "url": "https://www.toutiao.com/trending/7595171923328827402/",
           "source": "今日头条",
@@ -769,8 +784,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[03时23分 ~ 12时09分]"
+          "appearance_count": 20,
+          "time_info": "[03时23分 ~ 12时54分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -801,6 +816,18 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时34分 ~ 11时26分]"
+        },
+        {
+          "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
+          "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 12时54分]"
         },
         {
           "title": "伊朗谴责七国集团发表干涉伊朗内政言论",
@@ -859,18 +886,6 @@
           "time_info": "[03时23分 ~ 04时45分]"
         },
         {
-          "title": "伊朗政府向市民发放“电子补贴券”，凤凰记者走访德黑兰连锁超市",
-          "url": "https://news.ifeng.com/c/8pz2QNtwV6g",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时09分]"
-        },
-        {
           "title": "欧洲航空安全局：由于伊朗地区存在并可能使用种类繁多的武器及防空系统，这给在所有高度运行的民用航班带来了极高风险。",
           "url": "https://flash.jin10.com/detail/20260117024228000800",
           "source": "金十数据",
@@ -894,6 +909,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时38分 ~ 04时27分]"
+        },
+        {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://flash.jin10.com/detail/20260117080650894800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时54分]"
         },
         {
           "title": "美总统与以总理被曝再次通话讨论伊朗局势",
@@ -923,6 +952,20 @@
           "time_info": "[06时26分 ~ 07时44分]"
         },
         {
+          "title": "伊朗手机用户发送短信功能恢复",
+          "url": "https://wallstreetcn.com/livenews/3039060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时54分]"
+        },
+        {
           "title": "以官员透露摩萨德局长已抵美，将与美方讨论伊朗局势",
           "url": "https://wallstreetcn.com/livenews/3039013",
           "source": "华尔街见闻-快讯",
@@ -947,32 +990,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时28分 ~ 02时38分]"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://flash.jin10.com/detail/20260117080650894800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时09分]"
-        },
-        {
-          "title": "伊朗手机用户发送短信功能恢复",
-          "url": "https://wallstreetcn.com/livenews/3039060",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时09分]"
         },
         {
           "title": "斯洛伐克驻伊朗大使馆暂时关闭",
@@ -1012,8 +1029,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 12时09分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 12时54分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -1026,8 +1043,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 12时09分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 12时54分]"
         },
         {
           "title": "清华姚班陈立杰加入OpenAI",
@@ -1060,11 +1077,12 @@
           "ranks": [
             20,
             21,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 12时09分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 12时54分]"
         },
         {
           "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
@@ -1090,6 +1108,21 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时26分 ~ 12时09分]"
+        },
+        {
+          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
+          "url": "https://wallstreetcn.com/livenews/3039057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            20,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 12时54分]"
         },
         {
           "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
@@ -1131,18 +1164,18 @@
           "time_info": "[02时38分 ~ 04时27分]"
         },
         {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
+          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
+          "url": "https://wallstreetcn.com/livenews/3039069",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
+            9,
             13,
-            20,
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时09分]"
+          "time_info": "[09时53分 ~ 12时54分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
@@ -1157,19 +1190,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时38分 ~ 04时45分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时09分]"
         },
         {
           "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
@@ -1236,6 +1256,20 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 12时54分]"
+        },
+        {
           "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
           "url": "https://www.cls.cn/detail/2260421",
           "source": "财联社热门",
@@ -1279,18 +1313,15 @@
           "time_info": "[02时38分 ~ 07时44分]"
         },
         {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
+          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3763470",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            8,
-            3,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 12时09分]"
+          "appearance_count": 6,
+          "time_info": "[09时53分 ~ 12时54分]"
         },
         {
           "title": "恒生指数主连夜盘收跌0.70%，报26640点。 恒生科技指数主连夜盘收跌0.70%，报5780点。",
@@ -1304,6 +1335,49 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 04时45分]"
+        },
+        {
+          "title": "安泰科技亮相核聚变能产业大会并签署重大合作协议",
+          "url": "https://wallstreetcn.com/livenews/3039068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时54分]"
+        },
+        {
+          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
+          "url": "https://wallstreetcn.com/livenews/3039052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            24,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 12时54分]"
+        },
+        {
+          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
+          "url": "https://wallstreetcn.com/livenews/3039067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 12时54分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（1月16日），美国科技股七巨头（Magnificent 7）指数跌0.30%，报204.59点，本周累计下跌1.58%。 “超大”市值科技股指数涨0.12%，报392.82点，本周累跌0.54%。",
@@ -1320,19 +1394,6 @@
           "time_info": "[05时45分 ~ 07时24分]"
         },
         {
-          "title": "安泰科技亮相核聚变能产业大会并签署重大合作协议",
-          "url": "https://wallstreetcn.com/livenews/3039068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时09分]"
-        },
-        {
           "title": "特朗普拟推紧急电力拍卖 科技巨头或成最大赢家",
           "url": "https://flash.jin10.com/detail/20260117035703378800",
           "source": "金十数据",
@@ -1345,42 +1406,18 @@
           "time_info": "[04时27分 ~ 04时45分]"
         },
         {
-          "title": "美国FTC调查科技巨头“人才收购”规避反垄断",
-          "url": "https://wallstreetcn.com/livenews/3039067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时09分]"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时53分 ~ 12时09分]"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
+          "title": "美政府推动科技巨头为AI用电买单",
+          "url": "https://flash.jin10.com/detail/20260117082311101800",
+          "source": "金十数据",
           "ranks": [
             6,
-            17,
-            24,
-            28
+            19,
+            20,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时09分]"
+          "time_info": "[09时53分 ~ 12时54分]"
         },
         {
           "title": "中央财经大学刘姝威称福耀科技大学大一学生已被企业抢光，这反映了哪些人才培养趋势？",
@@ -1395,29 +1432,17 @@
           "time_info": "[00时34分 ~ 01时50分]"
         },
         {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时09分]"
-        },
-        {
           "title": "金十数据整理：每日科技要闻速递（1月17日）",
           "url": "https://flash.jin10.com/detail/20260117095130430800",
           "source": "金十数据",
           "ranks": [
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时09分]"
+          "appearance_count": 3,
+          "time_info": "[11时26分 ~ 12时54分]"
         },
         {
           "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
@@ -1647,11 +1672,12 @@
             5,
             16,
             23,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时44分 ~ 12时09分]"
+          "appearance_count": 5,
+          "time_info": "[07时44分 ~ 12时54分]"
         }
       ]
     },
@@ -1685,6 +1711,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT将加入广告",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1693,11 +1736,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时26分 ~ 12时09分]"
+          "appearance_count": 5,
+          "time_info": "[11时26分 ~ 12时54分]"
         }
       ]
     }
