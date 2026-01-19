@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T23:31:56.206321+08:00",
-  "total_titles_processed": 1873,
+  "generated_at": "2026-01-19T23:53:52.435347+08:00",
+  "total_titles_processed": 1907,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时04分 ~ 23时31分]"
+          "appearance_count": 18,
+          "time_info": "[10时04分 ~ 23时53分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -95,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时07分 ~ 23时31分]"
+          "appearance_count": 16,
+          "time_info": "[13时07分 ~ 23时53分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -209,6 +209,20 @@
           "time_info": "[00时29分 ~ 05时42分]"
         },
         {
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时39分 ~ 23时53分]"
+        },
+        {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
           "source": "澎湃新闻",
@@ -312,20 +326,6 @@
           "time_info": "[02时33分 ~ 06时46分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时39分 ~ 23时31分]"
-        },
-        {
           "title": "英镑兑美元报价跌0.3%，投资者关注美国总统特朗普（在吞并格陵兰方面）对欧洲多国发出的关税威胁。",
           "url": "https://wallstreetcn.com/livenews/3039298",
           "source": "华尔街见闻-快讯",
@@ -423,6 +423,28 @@
           "time_info": "[05时22分 ~ 07时43分]"
         },
         {
+          "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
+          "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
+        },
+        {
+          "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
+          "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
+        },
+        {
           "title": "金十整理：从突袭委内瑞拉、威胁伊朗到为格陵兰岛对欧发动关税战，特朗普开年三周的“三连击”将如何搅动市场？",
           "url": "https://flash.jin10.com/detail/20260119182634326800",
           "source": "金十数据",
@@ -445,17 +467,6 @@
           "time_info": "00时51分"
         },
         {
-          "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
-          "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
           "title": "杰富瑞：随着欧美展开谈判 特朗普或将推迟关税征收时间",
           "url": "https://flash.jin10.com/detail/20260119161106127800",
           "source": "金十数据",
@@ -476,17 +487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时51分"
-        },
-        {
-          "title": "克罗地亚总统乱抖包袱：特朗普还不如占领斯瓦尔巴群岛",
-          "url": "https://news.ifeng.com/c/8q2uSgRf3ld",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
         },
         {
           "title": "德国总理默茨：将于周三尝试会见美国总统特朗普。",
@@ -538,17 +538,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时24分 ~ 07时43分]"
-        },
-        {
-          "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
-          "url": "https://wallstreetcn.com/livenews/3039838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
         },
         {
           "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
@@ -679,6 +668,18 @@
           "time_info": "[12时03分 ~ 13时07分]"
         },
         {
+          "title": "美媒爆料：特朗普私下“密集谈论”加拿大",
+          "url": "https://wallstreetcn.com/livenews/3039838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
           "url": "https://www.zhihu.com/question/1996211344383435054",
           "source": "知乎",
@@ -763,6 +764,17 @@
           "time_info": "[00时29分 ~ 01时21分]"
         },
         {
+          "title": "普京被邀请加入特朗普“和平委员会”",
+          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
+        },
+        {
           "title": "欧盟委员会发言人：目前达沃斯尚未安排欧盟委员会主席冯德莱恩与美国总统特朗普会面。",
           "url": "https://flash.jin10.com/detail/20260119191243867800",
           "source": "金十数据",
@@ -796,6 +808,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时07分 ~ 13时56分]"
+        },
+        {
+          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
+          "url": "https://wallstreetcn.com/livenews/3039827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
         },
         {
           "title": "德总理称特朗普关税威胁损害跨大西洋关系",
@@ -865,17 +889,6 @@
           "time_info": "[15时32分 ~ 15时33分]"
         },
         {
-          "title": "普京被邀请加入特朗普“和平委员会”",
-          "url": "https://news.ifeng.com/c/8q2yFHRzsKV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
           "title": "特朗普致信挪威首相 称须完全控制格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260119142307602800",
           "source": "金十数据",
@@ -907,6 +920,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "特朗普“私信”震惊欧洲：“因未获诺贝尔和平奖，我不再只考虑“和平”，美国必须完全控制格陵兰”",
+          "url": "https://wallstreetcn.com/articles/3763623",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美国财长贝森特：认为美国总统特朗普在格陵兰岛问题上的行动是为了诺贝尔和平奖，纯属无稽之谈。",
+          "url": "https://flash.jin10.com/detail/20260119232319162800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
@@ -962,17 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时58分"
-        },
-        {
-          "title": "分析师：若特朗普任命过于听话的美联储主席，债市将迅速惩罚美国",
-          "url": "https://wallstreetcn.com/livenews/3039827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
         },
         {
           "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
@@ -1121,7 +1145,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -1230,8 +1254,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时25分 ~ 23时31分]"
+          "appearance_count": 8,
+          "time_info": "[19时25分 ~ 23时53分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -1256,7 +1280,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时31分"
         },
@@ -1274,6 +1298,19 @@
           "time_info": "[13时07分 ~ 16时38分]"
         },
         {
+          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
+          "url": "https://www.cls.cn/detail/2262334",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 23时53分]"
+        },
+        {
           "title": "A股超3500股上涨",
           "url": "https://www.toutiao.com/trending/7596541352129593350/",
           "source": "今日头条",
@@ -1287,15 +1324,15 @@
           "time_info": "[17时39分 ~ 19时46分]"
         },
         {
-          "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
-          "url": "https://wallstreetcn.com/livenews/3039840",
-          "source": "华尔街见闻-快讯",
+          "title": "加拿大央行季度调查：消费者对近期CPI的预期依然高涨。",
+          "url": "https://flash.jin10.com/detail/20260119233047027800",
+          "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时31分"
+          "time_info": "23时53分"
         },
         {
           "title": "A股哪类板块值得关注",
@@ -1310,19 +1347,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 01时43分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
-          "url": "https://www.cls.cn/detail/2262334",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时57分 ~ 23时31分]"
         },
         {
           "title": "如何评价清华公共管理学院副教授蒙克《春秋战国历史分期的机器学习新证》被网友质疑纯 AI 写作？",
@@ -1399,6 +1423,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时58分 ~ 21时51分]"
+        },
+        {
+          "title": "世界经济论坛公布“AI应用之星” 近半案例来自中国",
+          "url": "https://wallstreetcn.com/livenews/3039840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
         },
         {
           "title": "中证报：服务消费政策支持料加码",
@@ -1522,6 +1558,18 @@
           "time_info": "[21时51分 ~ 22时32分]"
         },
         {
+          "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
+          "url": "https://wallstreetcn.com/livenews/3039833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
+        },
+        {
           "title": "6人消费19元顾客道歉称赔1元",
           "url": "https://s.weibo.com/weibo?q=%236%E4%BA%BA%E6%B6%88%E8%B4%B919%E5%85%83%E9%A1%BE%E5%AE%A2%E9%81%93%E6%AD%89%E7%A7%B0%E8%B5%941%E5%85%83%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -1582,6 +1630,17 @@
           "time_info": "[00时29分 ~ 00时51分]"
         },
         {
+          "title": "贺峻霖力证不是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
+        },
+        {
           "title": "翁家翌谈OpenAI模型跃迁",
           "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
           "source": "bilibili 热搜",
@@ -1594,6 +1653,17 @@
           "time_info": "[02时33分 ~ 03时19分]"
         },
         {
+          "title": "AI芯片初创公司FuriosaAI计划在IPO之前融资5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3039846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "日本自民党官员西田：日本可通过有效运用政府资金降低食品消费税率。",
           "url": "https://flash.jin10.com/detail/20260119092937389800",
           "source": "金十数据",
@@ -1603,6 +1673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3039842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "韩国财政部长：在当前通胀与外汇形势下，稳定消费者通胀是政策优先事项。",
@@ -1647,17 +1728,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
-        },
-        {
-          "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
-          "url": "https://wallstreetcn.com/livenews/3039833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
         },
         {
           "title": "中国12月社会消费品零售总额同比 0.9%，前值 1.3%。",
@@ -1726,6 +1796,17 @@
           "time_info": "20时58分"
         },
         {
+          "title": "人工智能芯片初创公司FuriOSAI计划在上市前完成5亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20260119232001802800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "默克中国与镁睿化学签署合作备忘录，将共同开发定制化AI模型",
           "url": "https://wallstreetcn.com/livenews/3039588",
           "source": "华尔街见闻-快讯",
@@ -1759,6 +1840,17 @@
           "time_info": "18时34分"
         },
         {
+          "title": "美媒：OpenAI计划于2026年推出首款产品",
+          "url": "https://flash.jin10.com/detail/20260119231031345800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "2025年A股退市盘点",
           "url": "https://www.toutiao.com/trending/7596961716810812937/",
           "source": "今日头条",
@@ -1768,6 +1860,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "据AXIOS：OpenAI计划于2026年推出首款设备。",
+          "url": "https://flash.jin10.com/detail/20260119230504546800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "国家统计局局长康义在国新办新闻发布会上介绍，2025年最终消费支出对经济增长贡献率超过五成。",
@@ -1790,17 +1893,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
-        },
-        {
-          "title": "贺峻霖力证不是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%8A%9B%E8%AF%81%E4%B8%8D%E6%98%AFAI%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
         },
         {
           "title": "A股午评：创业板指冲高回落跌0.64%",
@@ -1880,8 +1972,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时34分 ~ 23时31分]"
+          "appearance_count": 9,
+          "time_info": "[18时34分 ~ 23时53分]"
         },
         {
           "title": "镁价底部反弹+全产业链加速卡位 航天与机器人等新需求能否重塑镁行业格局？|行业观察",
@@ -1909,17 +2001,6 @@
           "time_info": "[19时25分 ~ 19时46分]"
         },
         {
-          "title": "随着美国关税威胁进一步扰乱地缘政治局势，法国国防企业泰雷兹、达索航空、埃克赛尔科技和埃克索森斯股价上涨1.2%至2.6%。",
-          "url": "https://flash.jin10.com/detail/20260119160526577800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "独家｜基金经理“差别操作”曝光，自己钱重仓科技大赚，产品配置老登股亏钱，合规但不合情？",
           "url": "https://www.cls.cn/detail/2262432",
           "source": "财联社热门",
@@ -1929,8 +2010,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时57分 ~ 23时31分]"
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 23时53分]"
+        },
+        {
+          "title": "随着美国关税威胁进一步扰乱地缘政治局势，法国国防企业泰雷兹、达索航空、埃克赛尔科技和埃克索森斯股价上涨1.2%至2.6%。",
+          "url": "https://flash.jin10.com/detail/20260119160526577800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "上海“十五五”规划建议：加强量子科技、脑机接口、可控核聚变、生物制造、第六代移动通信等领域敏捷布局",
@@ -2186,11 +2278,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 23时31分]"
+          "appearance_count": 3,
+          "time_info": "[22时32分 ~ 23时53分]"
         },
         {
           "title": "伊朗总统：美以在中东发挥破坏性作用",
@@ -2290,7 +2383,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -2328,6 +2421,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[21时51分 ~ 23时31分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，欧美股齐跌，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
@@ -2396,11 +2500,12 @@
           "url": "https://wallstreetcn.com/livenews/3039830",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时53分]"
         }
       ]
     },
