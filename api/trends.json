@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T18:34:21.123106+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-21T19:28:46.534359+08:00",
+  "total_titles_processed": 1803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 139,
+      "match_count": 141,
       "titles": [
         {
           "title": "特朗普暗示吞并加拿大、格陵兰、委内瑞拉(图)",
@@ -81,6 +81,19 @@
           "time_info": "[11时55分 ~ 17时37分]"
         },
         {
+          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
+          "url": "https://wallstreetcn.com/articles/3763739",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 19时28分]"
+        },
+        {
           "title": "“拿地”的诱惑：格陵兰岛问题替代方案全否定，特朗普想要的是产权",
           "url": "https://m.thepaper.cn/newsDetail_forward_32426007",
           "source": "澎湃新闻",
@@ -91,11 +104,12 @@
             12,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 19时28分]"
         },
         {
           "title": "特朗普称将对法国葡萄酒和香槟征收 200% 的关税，以此迫使马克龙加入「和平委员会」，如何看待此事？",
@@ -163,19 +177,6 @@
           "time_info": "[10时02分 ~ 13时32分]"
         },
         {
-          "title": "桥水达利欧警告：特朗普政策可能引发“资本战”",
-          "url": "https://wallstreetcn.com/articles/3763739",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 18时34分]"
-        },
-        {
           "title": "特朗普关税威胁不留情面，芬兰总统格外尴尬",
           "url": "https://news.ifeng.com/c/8q5VLcoKihU",
           "source": "凤凰网",
@@ -185,6 +186,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时02分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 19时28分]"
         },
         {
           "title": "冯德莱恩回应特朗普：你错了，无论政治还是商业，协议就是协议",
@@ -212,18 +228,29 @@
           "time_info": "[00时40分 ~ 05时45分]"
         },
         {
-          "title": "特朗普：联合国应继续存在，但“和平委员会”或取而代之",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32429423",
-          "source": "澎湃新闻",
+          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
+          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            19,
-            17,
-            15
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时48分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
+        },
+        {
+          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
+          "url": "https://www.cls.cn/detail/2264936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
           "title": "马克龙在达沃斯喊话特朗普",
@@ -251,17 +278,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 06时47分]"
-        },
-        {
-          "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
-          "url": "https://news.ifeng.com/c/8q65PAAxlZG",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时34分]"
         },
         {
           "title": "特朗普晒马克龙私信",
@@ -298,19 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
-        },
-        {
-          "title": "特朗普称“和平委员会”可能取代联合国，中方回应",
-          "url": "https://www.cls.cn/detail/2264936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时34分]"
         },
         {
           "title": "美国总统特朗普：我本该获得诺贝尔和平奖。",
@@ -403,6 +406,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "世界经济论坛：特朗普演讲将按计划于当地时间下午2:30（北京时间晚21:30）开始。",
+          "url": "https://wallstreetcn.com/livenews/3041250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "美媒：美国国会首次正式回应鲍威尔遭调查，民主党要求特朗普官员交出记录",
           "url": "https://flash.jin10.com/detail/20260121044420379800",
           "source": "金十数据",
@@ -487,6 +501,20 @@
           "time_info": "[04时56分 ~ 05时45分]"
         },
         {
+          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
+          "url": "https://www.zhihu.com/question/1996540321803301777",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时32分 ~ 19时28分]"
+        },
+        {
           "title": "美国总统特朗普将参加白宫在美东时间13:00（北京时间02:00）举办的新闻发布会。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3040619",
           "source": "华尔街见闻-快讯",
@@ -560,19 +588,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时55分 ~ 13时32分]"
-        },
-        {
-          "title": "特朗普回归后签署「大而美」法案、开启全球贸易战，真的让制造业回归了吗？重塑了美国国内的经济结构吗？",
-          "url": "https://www.zhihu.com/question/1996540321803301777",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时32分 ~ 18时34分]"
         },
         {
           "title": "美国总统特朗普：我认为北约很好，但有时它被高估了。",
@@ -828,6 +843,17 @@
           "time_info": "[04时56分 ~ 05时45分]"
         },
         {
+          "title": "特朗普刚喊完中俄威胁，转头就否了",
+          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时28分]"
+        },
+        {
           "title": "特朗普证实2027年国防预算增至1.5万亿美元的计划",
           "url": "https://flash.jin10.com/detail/20260121064647036800",
           "source": "金十数据",
@@ -896,17 +922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时37分 ~ 18时34分]"
-        },
-        {
-          "title": "特朗普刚喊完中俄威胁，转头就否了",
-          "url": "https://news.ifeng.com/c/8q61Pub3oAS",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "特朗普和马克龙吵翻",
@@ -1058,7 +1073,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1179,7 +1194,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1289,7 +1304,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1314,6 +1329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "城堡基金CEO格里芬：美国总统特朗普试图鼓励美联储推行的宽松货币政策加大了通胀风险。",
+          "url": "https://flash.jin10.com/detail/20260121185148194800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美国财长暗示特朗普对国防企业的潜在限制未来可能放宽",
@@ -1454,7 +1480,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -1627,7 +1653,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "银行系统内或有 50 万亿天量存款即将到期，其流向或将对我国消费与投资市场带来哪些变化？",
@@ -1640,8 +1666,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时02分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 19时28分]"
         },
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -1651,11 +1677,12 @@
             3,
             1,
             7,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 19时28分]"
         },
         {
           "title": "乡村正在成为消费增长的新主场",
@@ -1667,6 +1694,46 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时55分 ~ 15时33分]"
+        },
+        {
+          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
+          "url": "https://www.cls.cn/detail/2264754",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 19时28分]"
+        },
+        {
+          "title": "UP主带你玩转全球顶级AI现场",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            13,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 19时28分]"
+        },
+        {
+          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
+          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时48分 ~ 19时28分]"
         },
         {
           "title": "A股",
@@ -1683,42 +1750,15 @@
           "time_info": "[11时55分 ~ 15时33分]"
         },
         {
-          "title": "一场A股大V的“清朗行动”！雪球、蚂蚁、抖音、腾讯都在行动",
-          "url": "https://www.cls.cn/detail/2264754",
-          "source": "财联社热门",
+          "title": "消费贷“国补”重磅升级",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%B4%B7%E2%80%9C%E5%9B%BD%E8%A1%A5%E2%80%9D%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            4,
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 18时34分]"
-        },
-        {
-          "title": "UP主带你玩转全球顶级AI现场",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%85%A8%E7%90%83%E9%A1%B6%E7%BA%A7AI%E7%8E%B0%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时48分 ~ 18时34分]"
-        },
-        {
-          "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
-          "url": "https://news.ifeng.com/c/8q5mosOf4dU",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时48分 ~ 18时34分]"
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "A股行情",
@@ -1747,15 +1787,15 @@
           "time_info": "[00时40分 ~ 07时47分]"
         },
         {
-          "title": "消费贷“国补”重磅升级",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E8%B4%B7%E2%80%9C%E5%9B%BD%E8%A1%A5%E2%80%9D%E9%87%8D%E7%A3%85%E5%8D%87%E7%BA%A7",
-          "source": "百度热搜",
+          "title": "激发民间投资、促进消费，财政部公布一揽子扩内需政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32425614",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时34分]"
+          "time_info": "[18时34分 ~ 19时28分]"
         },
         {
           "title": "A股锂矿股震荡拉升，盛新锂能逼近涨停，大中矿业、国城矿业、天华新能、中矿资源、永兴材料涨超5%。",
@@ -1769,28 +1809,18 @@
           "time_info": "10时02分"
         },
         {
-          "title": "激发民间投资、促进消费，财政部公布一揽子扩内需政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32425614",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
           "title": "图灵的猫回应预测韩服AI疑云",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
           "source": "bilibili 热搜",
           "ranks": [
             2,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时37分 ~ 18时34分]"
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
           "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
@@ -1892,7 +1922,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2068,7 +2098,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2090,9 +2120,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "中国的AI+经济",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%9A%84AI%2B%E7%BB%8F%E6%B5%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "郑钦文粉丝把AI天赋点满了",
@@ -2131,7 +2172,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "两位院士提名，韦东奕入围北京市科技奖杰出青年中关村奖候选人",
@@ -2286,6 +2327,18 @@
           "time_info": "[17时37分 ~ 18时34分]"
         },
         {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时28分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.46%，报26341点。 恒生科技指数主连夜盘收跌0.63%，报5638点。",
           "url": "https://wallstreetcn.com/livenews/3040647",
           "source": "华尔街见闻-快讯",
@@ -2350,7 +2403,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2372,7 +2425,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -2388,6 +2441,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "闻泰科技：珠海融林及其一致行动人格力电器拟减持不超过3%。",
+          "url": "https://wallstreetcn.com/livenews/3041241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "纳斯达克100指数跌幅收窄至不足1%。 成分股Strategy目前跌6.6%，FAST跌4%，Shopify跌3.9%，博通跌3.5%跌幅第四大，英伟达跌2.9%、特斯拉跌2.8%、铿腾电子（芯片软件设计/EDA公司）跌2.8%、科磊跌2.8%跌幅居前，美光科技则涨3.3%，西部数据涨3.4%，英特尔涨5.3%。",
           "url": "https://wallstreetcn.com/livenews/3040588",
           "source": "华尔街见闻-快讯",
@@ -2399,17 +2463,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
-          "url": "https://www.cls.cn/detail/2265232",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
           "title": "A股商业航天概念局部异动，巨力索具直线涨停，太力科技、电科芯片、航天电子、苏试试验、海兰信等涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3040970",
           "source": "华尔街见闻-快讯",
@@ -2419,6 +2472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "志特新材：截至目前，公司业务不涉及AI应用、人工智能、量子科技、机器人及商业航天领域，亦未形成相关收入。自上市以来，公司主营业务为铝模、防护平台、装配式预制件等产品的研发、生产与销售，未发生任何变化。",
+          "url": "https://wallstreetcn.com/livenews/3041233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美股存储板块盘前普涨，闪迪(SNDK.O)涨超3%，西部数据(WDC.O)、美光科技(MU.O)涨超2%。",
@@ -2544,8 +2608,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 18时34分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 19时28分]"
         },
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -2687,6 +2751,18 @@
           "time_info": "[06时27分 ~ 07时47分]"
         },
         {
+          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 19时28分]"
+        },
+        {
           "title": "美股收盘：三大股指大跌 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20260121050048735800",
           "source": "金十数据",
@@ -2730,17 +2806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
-        },
-        {
-          "title": "寄望达沃斯“降温地缘局势”，美股指期货齐涨，拼多多盘前涨7%，黄金新高后回落，日债大幅反弹",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -2807,6 +2872,20 @@
           "time_info": "[00时40分 ~ 10时02分]"
         },
         {
+          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
+          "url": "https://www.zhihu.com/question/1997239169450260384",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时33分 ~ 19时28分]"
+        },
+        {
           "title": "国际金价逼近 4700 美元，国内金饰品克价迈向 1500 元，这意味着什么？",
           "url": "https://www.zhihu.com/question/1996659800252118065",
           "source": "知乎",
@@ -2829,19 +2908,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时55分 ~ 14时42分]"
-        },
-        {
-          "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
-          "url": "https://www.zhihu.com/question/1997239169450260384",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时33分 ~ 18时34分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -2935,7 +3001,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "丹麦养老基金AkademikerPension拟清仓美债，称美国信用风险“不可忽视”",
@@ -2949,8 +3015,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时27分 ~ 18时34分]"
+          "appearance_count": 16,
+          "time_info": "[06时27分 ~ 19时28分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -2967,8 +3033,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时40分 ~ 18时34分]"
+          "appearance_count": 24,
+          "time_info": "[00时40分 ~ 19时28分]"
         },
         {
           "title": "美债日债领跌！格陵兰危机与财政压力引发全球债市抛售潮",
@@ -2982,6 +3048,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时40分 ~ 13时32分]"
+        },
+        {
+          "title": "德国商业银行CEO：格陵兰争端下客户态度谨慎 但未听说有意抛美债",
+          "url": "https://wallstreetcn.com/livenews/3041253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "30年期美债收益率涨超7.9个基点",
@@ -3144,11 +3221,12 @@
             9,
             8,
             3,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时55分 ~ 18时34分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 19时28分]"
         }
       ]
     },
