@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T19:27:09.494940+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2026-01-22T19:47:50.647963+08:00",
+  "total_titles_processed": 1835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 187,
+      "match_count": 196,
       "titles": [
         {
           "title": "特朗普大闹达沃斯，全世界哭笑不得",
@@ -127,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时51分 ~ 19时27分]"
+          "appearance_count": 18,
+          "time_info": "[07时51分 ~ 19时47分]"
         },
         {
           "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
@@ -164,8 +164,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时29分 ~ 19时27分]"
+          "appearance_count": 20,
+          "time_info": "[07时29分 ~ 19时47分]"
         },
         {
           "title": "不动武了、也不加税了！特朗普达沃斯上演“格陵兰TACO”",
@@ -178,8 +178,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时32分 ~ 19时27分]"
+          "appearance_count": 12,
+          "time_info": "[13时32分 ~ 19时47分]"
         },
         {
           "title": "“阻击”特朗普，国会横插一脚：中国用三流芯片都能击败我们",
@@ -187,11 +187,12 @@
           "source": "凤凰网",
           "ranks": [
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时40分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时40分 ~ 19时47分]"
         },
         {
           "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
@@ -204,8 +205,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时03分 ~ 19时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时03分 ~ 19时47分]"
         },
         {
           "title": "特朗普达沃斯演讲再提“收购格陵兰岛” 否认会动武强夺 现货黄金短线震荡",
@@ -288,8 +289,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时59分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[11时59分 ~ 19时47分]"
         },
         {
           "title": "在中国大量采购之下，拉美多国挺过特朗普关税冲击",
@@ -299,8 +300,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时27分]"
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时47分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰合作框架",
@@ -326,6 +327,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时03分 ~ 15时31分]"
+        },
+        {
+          "title": "解读特朗普和平委员会宪章",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时47分]"
         },
         {
           "title": "特朗普收回对欧洲8国关税威胁",
@@ -427,15 +440,17 @@
           "time_info": "18时32分"
         },
         {
-          "title": "美国总统特朗普在和平委员会活动上结束讲话。",
-          "url": "https://flash.jin10.com/detail/20260122191056521800",
-          "source": "金十数据",
+          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
+          "url": "https://news.ifeng.com/c/8q7huMODUfi",
+          "source": "凤凰网",
           "ranks": [
-            3
+            6,
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时47分]"
         },
         {
           "title": "特朗普称希望不会对伊朗进一步行动",
@@ -482,18 +497,6 @@
           "time_info": "04时36分"
         },
         {
-          "title": "解读特朗普和平委员会宪章",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E5%AE%AA%E7%AB%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时27分]"
-        },
-        {
           "title": "美国总统特朗普：相信俄乌和平即将到来。",
           "url": "https://flash.jin10.com/detail/20260122181418264800",
           "source": "金十数据",
@@ -503,6 +506,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "特朗普重申：我认为乌克兰和俄罗斯的关系正在逐渐拉近。",
+          "url": "https://wallstreetcn.com/livenews/3042032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "特朗普：正寻求就收购格陵兰岛谈判",
@@ -544,6 +558,17 @@
           "time_info": "[02时56分 ~ 03时55分]"
         },
         {
+          "title": "特朗普达沃斯演讲，被群嘲了",
+          "url": "https://news.ifeng.com/c/8q7oOaAst69",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时47分]"
+        },
+        {
           "title": "特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定",
           "url": "https://flash.jin10.com/detail/20260122063506778800",
           "source": "金十数据",
@@ -555,6 +580,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时56分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普指出西班牙并未承诺达到北约5%的军费开支目标。",
+          "url": "https://wallstreetcn.com/livenews/3041992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时47分]"
         },
         {
           "title": "欧洲军工股普遍收跌，美国总统特朗普在达沃斯改口称“不会武力夺取格陵兰”。 德国上市的WisdomTree Europe Defence UCITS ETF（EUDF.GY）收跌1.08%，报34.84欧元，北京时间22:36刷新日低至34.549999欧元。 英国伦敦上市、对军工股“照收不误”的Future of Defence UCITS ETF（NATO.LN）收跌0.91%。",
@@ -570,18 +608,6 @@
           "time_info": "[02时56分 ~ 03时55分]"
         },
         {
-          "title": "美国底层活不起，特朗普却在达沃斯炫耀“让富人更富”",
-          "url": "https://news.ifeng.com/c/8q7huMODUfi",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时27分]"
-        },
-        {
           "title": "美国总统特朗普：吕特的表态很好，但美国仍然需要格陵兰岛。",
           "url": "https://flash.jin10.com/detail/20260122022842657800",
           "source": "金十数据",
@@ -593,6 +619,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 03时55分]"
+        },
+        {
+          "title": "特朗普重申美国每年1.5万亿美元国防开支的愿望。",
+          "url": "https://wallstreetcn.com/livenews/3041990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时47分]"
         },
         {
           "title": "丹麦外长：丹麦方面拒绝特朗普提出的就收购格陵兰岛进行谈判的要求。",
@@ -643,18 +682,6 @@
           "time_info": "[17时37分 ~ 18时32分]"
         },
         {
-          "title": "特朗普指出西班牙并未承诺达到北约5%的军费开支目标。",
-          "url": "https://wallstreetcn.com/livenews/3041992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
-        },
-        {
           "title": "特朗普称不用武力暂缓加税 丹麦：“夺岛”野心依旧明显",
           "url": "https://flash.jin10.com/detail/20260122061923646800",
           "source": "金十数据",
@@ -666,6 +693,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时56分 ~ 07时52分]"
+        },
+        {
+          "title": "特朗普：结束加沙战争只剩下一些零星的火苗。 必须对真主党和黎巴嫩采取行动。 与委内瑞拉领导人关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3041989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时47分]"
         },
         {
           "title": "美国总统特朗普：我们与埃及有着极好的关系。",
@@ -729,6 +769,18 @@
           "time_info": "[02时56分 ~ 03时55分]"
         },
         {
+          "title": "美国总统特朗普在和平委员会活动上结束讲话。",
+          "url": "https://flash.jin10.com/detail/20260122191056521800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
+        },
+        {
           "title": "美国总统特朗普：批评美联储大楼翻修成本和美联储主席鲍威尔。 如果鲍威尔不离开美联储，他的人生不会很幸福。",
           "url": "https://wallstreetcn.com/livenews/3041506",
           "source": "华尔街见闻-快讯",
@@ -739,18 +791,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普重申美国每年1.5万亿美元国防开支的愿望。",
-          "url": "https://wallstreetcn.com/livenews/3041990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "美国总统特朗普：将观察能否让埃及与埃塞俄比亚达成尼罗河大坝协议。",
@@ -765,18 +805,6 @@
           "time_info": "[00时58分 ~ 01时58分]"
         },
         {
-          "title": "特朗普：结束加沙战争只剩下一些零星的火苗。 必须对真主党和黎巴嫩采取行动。 与委内瑞拉领导人关系良好。",
-          "url": "https://wallstreetcn.com/livenews/3041989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 19时27分]"
-        },
-        {
           "title": "美国总统特朗普：再次谴责市场在出现良好数据之后还下跌。",
           "url": "https://wallstreetcn.com/livenews/3041504",
           "source": "华尔街见闻-快讯",
@@ -787,6 +815,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时32分]"
+        },
+        {
+          "title": "中方回应特朗普达沃斯涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 19时47分]"
         },
         {
           "title": "特朗普称欧洲的“方向不对”",
@@ -800,17 +841,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时31分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲，被群嘲了",
-          "url": "https://news.ifeng.com/c/8q7oOaAst69",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "特朗普称不武夺格陵兰岛",
@@ -900,6 +930,18 @@
           "time_info": "[00时57分 ~ 01时58分]"
         },
         {
+          "title": "特朗普说普京同意了普京说还没",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%99%AE%E4%BA%AC%E5%90%8C%E6%84%8F%E4%BA%86%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%BF%98%E6%B2%A1%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 19时47分]"
+        },
+        {
           "title": "美国加州州长Newsom：总统特朗普的白宫阻挠我前往达沃斯。",
           "url": "https://wallstreetcn.com/livenews/3041535",
           "source": "华尔街见闻-快讯",
@@ -974,18 +1016,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 12时56分]"
-        },
-        {
-          "title": "中方回应特朗普达沃斯涉华言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "美国总统特朗普：美国副总统万斯、美国国务卿鲁比奥、美国总统特使威特科夫以及其他各方将负责谈判。",
@@ -1132,6 +1162,18 @@
           "time_info": "[18时32分 ~ 19时27分]"
         },
         {
+          "title": "特朗普签署和平委员会章程。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3042001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
+        },
+        {
           "title": "北约秘书长吕特对美国总统特朗普说：“你的盟友将与你同在。”",
           "url": "https://flash.jin10.com/detail/20260122022442991800",
           "source": "金十数据",
@@ -1276,6 +1318,18 @@
           "time_info": "[00时58分 ~ 01时58分]"
         },
         {
+          "title": "特朗普：联合国拥有巨大的潜力。",
+          "url": "https://wallstreetcn.com/livenews/3041996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
+        },
+        {
           "title": "摩根士丹利警告：特朗普政府政策可能加速全球去美元化进程",
           "url": "https://www.cls.cn/detail/2265700",
           "source": "财联社热门",
@@ -1345,17 +1399,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普说普京同意了普京说还没",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%99%AE%E4%BA%AC%E5%90%8C%E6%84%8F%E4%BA%86%E6%99%AE%E4%BA%AC%E8%AF%B4%E8%BF%98%E6%B2%A1%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普今天将与北约秘书长吕特会面。",
@@ -1460,6 +1503,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "“我们已没有足够能力”，“特朗普”级战列舰遭唱衰",
+          "url": "https://news.ifeng.com/c/8q7nDFVG9w6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "据福克斯新闻：北约秘书长吕特在被问及格陵兰岛是否会继续归属丹麦时表示，这一问题并未在我与美国总统特朗普的对话中提及。",
           "url": "https://flash.jin10.com/detail/20260122071248487800",
           "source": "金十数据",
@@ -1502,17 +1556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "特朗普签署和平委员会章程。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3042001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
@@ -1570,6 +1613,17 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国总统特朗普今日在达沃斯会见阿塞拜疆代表团。",
+          "url": "https://flash.jin10.com/detail/20260122193245213800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "泽连斯基将于欧洲中部时间下午1点在达沃斯与特朗普会面。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3041932",
           "source": "华尔街见闻-快讯",
@@ -1592,6 +1646,28 @@
           "time_info": "16时38分"
         },
         {
+          "title": "美国总统特朗普：将于周四会见乌克兰总统。",
+          "url": "https://flash.jin10.com/detail/20260122192725775800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "在重要盟友的不满与顾虑下 特朗普正式启动和平委员会",
+          "url": "https://wallstreetcn.com/livenews/3042022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "特朗普一篇贴文 黄金暴跌超80美元",
           "url": "https://flash.jin10.com/detail/20260122034254087800",
           "source": "金十数据",
@@ -1603,15 +1679,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "特朗普：联合国拥有巨大的潜力。",
-          "url": "https://wallstreetcn.com/livenews/3041996",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-22）",
+          "url": "https://flash.jin10.com/detail/20260122192526912800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "19时47分"
         },
         {
           "title": "联合声明：沙特、土耳其、埃及、约旦、印尼、巴基斯坦、卡塔尔接受邀请，加入美国总统特朗普的和平委员会；各国将根据本国法律程序签署加入文件。",
@@ -1724,6 +1800,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "美国总统特朗普：超过50个国家将加入和平委员会。",
+          "url": "https://flash.jin10.com/detail/20260122191809179800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "美国总统特朗普即将在达沃斯会见北约主管吕特。 在那之前，特朗普将在达沃斯对企业主管们讲话。",
           "url": "https://wallstreetcn.com/livenews/3041412",
           "source": "华尔街见闻-快讯",
@@ -1755,6 +1842,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "美国总统特朗普重申，认为乌克兰和俄罗斯正在走近。",
+          "url": "https://flash.jin10.com/detail/20260122191714501800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "白宫经济顾问哈塞特：美国经济增速可能会有两个季度超过5%。 总统特朗普正在搅局一个必须被打乱的（国际）秩序。 预计下一年对（财政/贸易）赤字的削减幅度将更大。",
@@ -2186,6 +2284,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "特朗普自创和平委员会藏着什么心思",
+          "url": "https://www.toutiao.com/trending/7597811815531348009/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "美国总统特朗普：我们稍后会解释这项协议。",
           "url": "https://flash.jin10.com/detail/20260122041724491800",
           "source": "金十数据",
@@ -2200,7 +2309,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
@@ -2213,8 +2322,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时40分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[14时40分 ~ 19时47分]"
         },
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -2376,8 +2485,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时31分 ~ 19时27分]"
+          "appearance_count": 9,
+          "time_info": "[15时31分 ~ 19时47分]"
         },
         {
           "title": "14岁女孩追星数月消费近15万元",
@@ -2391,6 +2500,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时40分 ~ 17时37分]"
+        },
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 19时47分]"
         },
         {
           "title": "xAI工程师因泄密被马斯克解雇",
@@ -2428,17 +2549,6 @@
           "time_info": "10时03分"
         },
         {
-          "title": "落实个人消费贷款最新财政贴息政策 六大行集体公告",
-          "url": "https://wallstreetcn.com/livenews/3042011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-01-22）",
           "url": "https://flash.jin10.com/detail/20260122152559213800",
           "source": "金十数据",
@@ -2448,29 +2558,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
-        },
-        {
-          "title": "居民短期消费贷余额跌至9.5万亿元下方，为三年来最低",
-          "url": "https://wallstreetcn.com/livenews/3042010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时27分]"
         },
         {
           "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
@@ -2534,6 +2621,18 @@
           "time_info": "[11时59分 ~ 12时56分]"
         },
         {
+          "title": "落实个人消费贷款最新财政贴息政策 六大行集体公告",
+          "url": "https://wallstreetcn.com/livenews/3042011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
+        },
+        {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
           "url": "https://wallstreetcn.com/livenews/3041424",
           "source": "华尔街见闻-快讯",
@@ -2544,6 +2643,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时58分]"
+        },
+        {
+          "title": "居民短期消费贷余额跌至9.5万亿元下方，为三年来最低",
+          "url": "https://wallstreetcn.com/livenews/3042010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
+        },
+        {
+          "title": "消费贷有望跌至2字头比房贷便宜",
+          "url": "https://www.toutiao.com/trending/7598118210227064358/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 19时47分]"
         },
         {
           "title": "国际铜研究小组（ICSG）：11月全球精炼铜市场供应过剩9.4万吨，10月供应过剩4.8万吨。 1-11月，全球精炼铜市场累计供应过剩20.6万吨吨，2024年同期供应过剩10.5万吨。 11月全球精炼铜产量237万吨，消费量228万吨。",
@@ -2594,17 +2716,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时37分 ~ 17时37分]"
-        },
-        {
-          "title": "消费贷有望跌至2字头比房贷便宜",
-          "url": "https://www.toutiao.com/trending/7598118210227064358/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "OpenAI创始人奥特曼亲赴中东洽谈500亿美元新融资",
@@ -2741,6 +2852,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "A股“易中天”大涨",
+          "url": "https://www.toutiao.com/trending/7598039639648026630/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "美国众议院监督管理委员会主席James Comer：本委员会将作废2月9日针对Ghislaine Maxwell的安排。 代理律师称Ghislaine Maxwell将保持沉默（在宣誓证词/录取口供时援引宪法第五修正案拒绝回答）。",
           "url": "https://wallstreetcn.com/livenews/3041407",
           "source": "华尔街见闻-快讯",
@@ -2783,12 +2905,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "A股短线仍有红盘可能",
+          "url": "https://www.toutiao.com/trending/7597762493546217499/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "六大行集体公告落实个人消费贷贴息",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AD%E5%A4%A7%E8%A1%8C%E9%9B%86%E4%BD%93%E5%85%AC%E5%91%8A%E8%90%BD%E5%AE%9E%E4%B8%AA%E4%BA%BA%E6%B6%88%E8%B4%B9%E8%B4%B7%E8%B4%B4%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
@@ -2823,22 +2967,12 @@
           "url": "https://www.cls.cn/detail/2266641",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
-        },
-        {
-          "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
-          "url": "https://flash.jin10.com/detail/20260122191404959800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 19时47分]"
         },
         {
           "title": "【苹果计划将 Siri 重塑为内置聊天机器人，以反击 OpenAI】苹果公司计划在今年晚些时候对 Siri 进行重大改组，将其转型为公司首款人工智能聊天机器人，项目代号为“Campos”。该机器人将深度嵌入 iPhone、iPad 和 Mac 操作系统中，并取代现有的 Siri 界面。用户依然可以通过语音指令“Siri”或长按设备侧边键来唤醒这项新服务。这种新方案的能力将远超目前的 Siri，其功能包括：分析屏幕内容、调用个人数据、搜索网页、创作内容、生成图像、总结信息以及分析上传的文件。",
@@ -2909,6 +3043,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 04时36分]"
+        },
+        {
+          "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
+          "url": "https://flash.jin10.com/detail/20260122191404959800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
         },
         {
           "title": "阿里巴巴入股具身智能装卸机器人公司赛那德",
@@ -2995,6 +3141,18 @@
           "time_info": "[05时32分 ~ 06时29分]"
         },
         {
+          "title": "“国产GPU四小龙”之一燧原科技科创板IPO获上交所受理",
+          "url": "https://wallstreetcn.com/livenews/3041997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
+        },
+        {
           "title": "罗永浩所持锤子科技713万元股权被冻结",
           "url": "https://wallstreetcn.com/livenews/3041737",
           "source": "华尔街见闻-快讯",
@@ -3017,6 +3175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时38分 ~ 17时37分]"
+        },
+        {
+          "title": "拓荆科技：国家大基金1月13日至22日减持298万股",
+          "url": "https://wallstreetcn.com/livenews/3042031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.5%，深成指涨0.83%，存储芯片、油气、算力硬件、机器人等方向领涨，沪深京三市上涨个股近3300只。",
@@ -3096,6 +3265,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "宇树科技：2025全年人形机器人实际出货量超5500台",
+          "url": "https://wallstreetcn.com/livenews/3042023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "市场消息：苹果计划改造Siri，将其打造成iPhone和Mac的内置聊天机器人，以与OpenAI抗衡。",
           "url": "https://flash.jin10.com/detail/20260122035053941800",
           "source": "金十数据",
@@ -3116,17 +3296,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "“国产GPU四小龙”之一燧原科技科创板IPO获上交所受理",
-          "url": "https://wallstreetcn.com/livenews/3041997",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "罗永浩所持锤子科技713万元股权被冻结",
@@ -3253,7 +3422,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -3302,8 +3471,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时03分 ~ 19时27分]"
+          "appearance_count": 16,
+          "time_info": "[10时03分 ~ 19时47分]"
         },
         {
           "title": "区域银行ETF收涨超4.6%，银行业ETF涨超3.9%，领跑美股行业ETF",
@@ -3472,6 +3641,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "亮出抗议姿态 格陵兰养老基金考虑是否继续投资美股",
+          "url": "https://wallstreetcn.com/livenews/3042025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
           "title": "阿里巴巴美股夜盘直线拉升，现涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3041923",
           "source": "华尔街见闻-快讯",
@@ -3568,11 +3748,12 @@
           "url": "https://wallstreetcn.com/livenews/3042014",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 19时47分]"
         },
         {
           "title": "伊朗霍尔木兹甘省安全部门抓获15名骚乱参与者",
@@ -3587,6 +3768,17 @@
           "time_info": "[15时31分 ~ 15时52分]"
         },
         {
+          "title": "伊朗近期骚乱超3000人死亡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%BF%91%E6%9C%9F%E9%AA%9A%E4%B9%B1%E8%B6%853000%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时26分 ~ 19时47分]"
+        },
+        {
           "title": "据官方媒体：与伊朗内政部有关联的高级安全机构将与动乱相关的死亡人数定为3117人。",
           "url": "https://flash.jin10.com/detail/20260122022052391800",
           "source": "金十数据",
@@ -3597,17 +3789,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时31分]"
-        },
-        {
-          "title": "伊朗近期骚乱超3000人死亡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%BF%91%E6%9C%9F%E9%AA%9A%E4%B9%B1%E8%B6%853000%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时26分 ~ 19时27分]"
         },
         {
           "title": "伊朗官方：3117人在近期骚乱事件中死亡",
@@ -3685,6 +3866,18 @@
           "time_info": "[00时57分 ~ 07时30分]"
         },
         {
+          "title": "男子趁金价高涨出手500克金条",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 19时47分]"
+        },
+        {
           "title": "黄金价格会崩吗",
           "url": "https://www.toutiao.com/trending/7597976651418308122/",
           "source": "今日头条",
@@ -3697,18 +3890,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时59分 ~ 15时31分]"
-        },
-        {
-          "title": "男子趁金价高涨出手500克金条",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B6%81%E9%87%91%E4%BB%B7%E9%AB%98%E6%B6%A8%E5%87%BA%E6%89%8B500%E5%85%8B%E9%87%91%E6%9D%A1",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时37分 ~ 19时27分]"
         },
         {
           "title": "国际金价屡创新高，专家称回调风险需警惕",
@@ -3806,8 +3987,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时51分 ~ 19时27分]"
+          "appearance_count": 18,
+          "time_info": "[07时51分 ~ 19时47分]"
         },
         {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
