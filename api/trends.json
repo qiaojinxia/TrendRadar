@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T22:31:43.424549+08:00",
-  "total_titles_processed": 2225,
+  "generated_at": "2026-01-23T22:56:20.862454+08:00",
+  "total_titles_processed": 2280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 129,
+      "match_count": 130,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时35分 ~ 22时31分]"
+          "appearance_count": 12,
+          "time_info": "[17时35分 ~ 22时56分]"
         },
         {
           "title": "达沃斯后，特朗普狂发80条帖子…",
@@ -75,8 +75,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[18时29分 ~ 22时56分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -116,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[18时29分 ~ 22时56分]"
         },
         {
           "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
@@ -167,11 +167,25 @@
             15,
             9,
             3,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[18时29分 ~ 22时56分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时55分 ~ 22时56分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -324,28 +338,16 @@
           "time_info": "[00时40分 ~ 07时45分]"
         },
         {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时55分 ~ 22时31分]"
-        },
-        {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
           "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时31分]"
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 22时56分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -848,6 +850,18 @@
           "time_info": "[15时31分 ~ 15时49分]"
         },
         {
+          "title": "美国原油涨3%，报道称特朗普企图阻挠伊拉克出口石油",
+          "url": "https://wallstreetcn.com/livenews/3042982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时56分]"
+        },
+        {
           "title": "美国总统特朗普呼吁起诉美国前特别检察官杰克·史密斯。",
           "url": "https://flash.jin10.com/detail/20260123045616098800",
           "source": "金十数据",
@@ -906,6 +920,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时51分]"
+        },
+        {
+          "title": "特朗普称「美国正调集重兵前往伊朗」，具体情况如何？伊朗局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/1998037091121140500",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时56分]"
         },
         {
           "title": "美国总统特朗普：对任何与伊朗有（贸易）往来的国家征收25%关税的措施将很快生效。",
@@ -1048,15 +1074,15 @@
           "time_info": "04时32分"
         },
         {
-          "title": "美国原油涨3%，报道称特朗普企图阻挠伊拉克出口石油",
-          "url": "https://wallstreetcn.com/livenews/3042982",
-          "source": "华尔街见闻-快讯",
+          "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
+          "url": "https://news.ifeng.com/c/8q9ns1tf1Fj",
+          "source": "凤凰网",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "22时56分"
         },
         {
           "title": "法国外交部长：目前尚无北约秘书长与美国总统特朗普就格陵兰岛达成协议的细节。",
@@ -1156,17 +1182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
-        },
-        {
-          "title": "特朗普称「美国正调集重兵前往伊朗」，具体情况如何？伊朗局势会怎样发展？",
-          "url": "https://www.zhihu.com/question/1998037091121140500",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-23）",
@@ -1296,7 +1311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         },
@@ -1546,7 +1561,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "马斯克：美国AI发展遭电力“卡脖” 中国电力增长十分惊人！",
@@ -1588,8 +1603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[09时58分 ~ 22时31分]"
+          "appearance_count": 25,
+          "time_info": "[09时58分 ~ 22时56分]"
         },
         {
           "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
@@ -1603,8 +1618,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[18时29分 ~ 22时56分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -1648,8 +1663,24 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时48分 ~ 22时31分]"
+          "appearance_count": 16,
+          "time_info": "[15时48分 ~ 22时56分]"
+        },
+        {
+          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
+          "url": "https://www.zhihu.com/question/1997802145714569913",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            19,
+            16,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时35分 ~ 22时56分]"
         },
         {
           "title": "美联储最青睐通胀指标符合预期，美11月PCE物价指数同比2.8%，消费支出稳健",
@@ -1660,8 +1691,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[14时40分 ~ 22时31分]"
+          "appearance_count": 19,
+          "time_info": "[14时40分 ~ 22时56分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -1674,11 +1705,12 @@
             24,
             26,
             10,
-            9
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[15时29分 ~ 22时31分]"
+          "appearance_count": 18,
+          "time_info": "[15时29分 ~ 22时56分]"
         },
         {
           "title": "上海首提打造“入境消费第一城”，底气是什么？新招有哪些？",
@@ -1704,21 +1736,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时40分 ~ 07时45分]"
-        },
-        {
-          "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
-          "url": "https://www.zhihu.com/question/1997802145714569913",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            19,
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时35分 ~ 22时31分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -2180,6 +2197,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "超百股涨停 A股成交额再破3万亿",
+          "url": "https://www.toutiao.com/trending/7598196196918673444/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
           "title": "日本央行行长植田和男：食品消费税下调尚未正式决定。 希望在最终数据公布前掌握利率影响。 在考虑进一步提高利率时，要研究过去加息的影响。 难以精确界定所谓的“中性利率”水平，即政策既不刺激也不抑制经济增长的水平。 财政政策（包括销售税）由议会和政府负责制定。 政府确保财政健康获得市场信任是关键。 上个月获议会批准的经济措施将同时提振经济增长和物价，最新展望反映出这一评估。",
           "url": "https://wallstreetcn.com/livenews/3042678",
           "source": "华尔街见闻-快讯",
@@ -2260,7 +2288,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -2283,8 +2311,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时49分 ~ 22时31分]"
+          "appearance_count": 23,
+          "time_info": "[11时49分 ~ 22时56分]"
         },
         {
           "title": "【数据看盘】6.43亿元资金抢筹金风科技 顶级游资扎堆乾照光电",
@@ -2297,8 +2325,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时29分 ~ 22时31分]"
+          "appearance_count": 11,
+          "time_info": "[18时29分 ~ 22时56分]"
         },
         {
           "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
@@ -2388,17 +2416,6 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
-          "title": "据港交所文件，1月23日，浙江迦智科技股份有限公司向港交所递交上市申请书。",
-          "url": "https://wallstreetcn.com/livenews/3042990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
           "title": "据英国金融时报：英国金融科技公司Revolut放弃美国并购计划，转而寻求独立牌照。",
           "url": "https://flash.jin10.com/detail/20260123130400943800",
           "source": "金十数据",
@@ -2435,6 +2452,31 @@
           "time_info": "05时28分"
         },
         {
+          "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 22时56分]"
+        },
+        {
+          "title": "据港交所文件，1月23日，浙江迦智科技股份有限公司向港交所递交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3042990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时56分]"
+        },
+        {
           "title": "马斯克：特斯拉人形机器人预计2027年底向公众销售",
           "url": "https://flash.jin10.com/detail/20260123023155312800",
           "source": "金十数据",
@@ -2446,19 +2488,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 03时47分]"
-        },
-        {
-          "title": "马斯克首次亮相达沃斯：人形机器人明年底开售，FSD最快有望2月在华获批",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32447461",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时31分]"
         },
         {
           "title": "马斯克：人形机器人或于明年开卖",
@@ -2532,6 +2561,18 @@
           "time_info": "[15时31分 ~ 15时49分]"
         },
         {
+          "title": "蓝思科技：商业航天领域已实现批量供货 针对太空环境极端需求已研发出超薄光伏玻璃模组等",
+          "url": "https://wallstreetcn.com/livenews/3042980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时56分]"
+        },
+        {
           "title": "本周中国科技再迎密集突破",
           "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%86%8D%E8%BF%8E%E5%AF%86%E9%9B%86%E7%AA%81%E7%A0%B4",
           "source": "百度热搜",
@@ -2576,15 +2617,15 @@
           "time_info": "07时45分"
         },
         {
-          "title": "蓝思科技：商业航天领域已实现批量供货 针对太空环境极端需求已研发出超薄光伏玻璃模组等",
-          "url": "https://wallstreetcn.com/livenews/3042980",
+          "title": "美股行业ETF普遍走低，全球航空业ETF跌1.14%，银行业ETF跌0.74%，金融业ETF跌0.71%，生物科技指数ETF跌0.64%，半导体指数跌0.50%，科技行业ETF跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3043000",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "22时56分"
         },
         {
           "title": "恒指高开0.87%，报26861.36点；恒生科技指数高开0.96%。阿里巴巴涨3.9%，京东集团、阿里健康涨超2%。",
@@ -2607,6 +2648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
+        },
+        {
+          "title": "胜宏科技：公司正持续推进10阶30层HDI的研发认证，并拥有100层以上高多层PCB 技术能力",
+          "url": "https://wallstreetcn.com/livenews/3042996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "标普500指数收涨涨37.73点，涨幅0.55%，报6913.35点。 道琼斯工业平均指数收涨306.78点，涨幅0.63%，报49384.01点。 纳斯达克综合指数（纳指）收涨211.195点，涨幅0.91%，报23436.02点。 纳斯达克100指数收涨191.77点，涨幅0.76%，报25518.351点。 纳斯达克生物科技指数收涨1.62%，报6021.61点。 费城半导体指数收涨0.16%，报8055.173点。 费城证交所KBW银行指数收涨0.10%，报168.03点。 道琼斯KBW地区银行指数收跌0.10%，报134.48点。",
@@ -2744,7 +2796,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -2770,6 +2822,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 04时32分]"
+        },
+        {
+          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时55分 ~ 22时56分]"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260123223746516800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时56分"
         },
         {
           "title": "英伟达美股盘前拉升，现涨超2%。台积电涨超1%。",
@@ -2818,19 +2895,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时28分]"
-        },
-        {
-          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时55分 ~ 22时31分]"
         },
         {
           "title": "英特尔(INTC.O)美股盘后跌超4%。",
@@ -2884,6 +2948,18 @@
           "time_info": "[03时28分 ~ 04时32分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
+          "url": "https://flash.jin10.com/detail/20260123215250387800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时56分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨3.78%，报426.08点，时隔一个交易日再创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨2.49%，报2968.32点，也创收盘历史新高，美股开盘之前维持微幅下跌状态、持续交投于2880点下方，随后显著拉升。 （美股）原材料指数收涨1.88%，（美股）金属与矿业指数收跌0.89%。",
           "url": "https://wallstreetcn.com/livenews/3042327",
           "source": "华尔街见闻-快讯",
@@ -2894,6 +2970,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 06时51分]"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3042983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 22时56分]"
         },
         {
           "title": "美股收盘：三大股指收涨 阿里巴巴涨5%",
@@ -2956,26 +3044,15 @@
           "time_info": "[05时49分 ~ 06时28分]"
         },
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
-          "url": "https://flash.jin10.com/detail/20260123215250387800",
+          "title": "美股开盘，道指开跌0.24%，标普500指数跌0.08%，纳指平开。受消息面刺激，英伟达(NVDA.O)涨1.4%，AMD(AMD.O)涨4.3%。英特尔(INTC.O)大跌13%，，创自2024年8月以来最大跌幅，公司2025年Q4营收不及预期。",
+          "url": "https://flash.jin10.com/detail/20260123223026811800",
           "source": "金十数据",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3042983",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "22时56分"
         },
         {
           "title": "斯伦贝谢第四季度营收为97.5 亿美元，预期95.5 亿美元。 第四季度经调整后每股收益0.78美元，预估0.74美元。 第四季度经调整后EBITDA 23.3亿美元，预估23.1亿美元。 第四季度资本支出5.16 亿美元，预估5.763 亿美元。 斯伦贝谢美股盘前涨超1%。",
@@ -3050,11 +3127,28 @@
             14,
             1,
             4,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时48分 ~ 22时31分]"
+          "appearance_count": 16,
+          "time_info": "[15时48分 ~ 22时56分]"
+        },
+        {
+          "title": "外交部回应美调重兵前往伊朗",
+          "url": "https://www.douyin.com/hot/2377210",
+          "source": "抖音",
+          "ranks": [
+            15,
+            12,
+            11,
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[15时48分 ~ 22时56分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
@@ -3082,23 +3176,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时40分 ~ 22时31分]"
-        },
-        {
-          "title": "外交部回应美调重兵前往伊朗",
-          "url": "https://www.douyin.com/hot/2377210",
-          "source": "抖音",
-          "ranks": [
-            15,
-            12,
-            11,
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时48分 ~ 22时31分]"
+          "appearance_count": 17,
+          "time_info": "[14时40分 ~ 22时56分]"
         },
         {
           "title": "以媒称美近日或袭伊朗",
@@ -3126,8 +3205,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时25分 ~ 22时31分]"
+          "appearance_count": 8,
+          "time_info": "[19时25分 ~ 22时56分]"
         },
         {
           "title": "美国地质勘探局：伊朗莫尔东南56公里处发生5.1级地震。",
