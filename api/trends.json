@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T21:46:45.270313+08:00",
-  "total_titles_processed": 2156,
+  "generated_at": "2026-01-23T22:31:43.424549+08:00",
+  "total_titles_processed": 2225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 126,
+      "match_count": 129,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时35分 ~ 21时46分]"
+          "appearance_count": 11,
+          "time_info": "[17时35分 ~ 22时31分]"
         },
         {
           "title": "达沃斯后，特朗普狂发80条帖子…",
@@ -66,6 +66,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时40分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "特朗普180度转折，欧洲懵了",
@@ -97,15 +108,16 @@
           "time_info": "[16时35分 ~ 20时56分]"
         },
         {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
           "ranks": [
-            5
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时29分 ~ 21时46分]"
+          "appearance_count": 10,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "特朗普回应手背再现瘀青：我非常好，手磕到桌子",
@@ -134,18 +146,6 @@
           "time_info": "[11时49分 ~ 19时45分]"
         },
         {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时29分 ~ 21时46分]"
-        },
-        {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
           "url": "https://news.ifeng.com/c/8q8xOf6LCUH",
           "source": "凤凰网",
@@ -157,6 +157,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[11时49分 ~ 17时35分]"
+        },
+        {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            9,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -222,21 +237,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[16时35分 ~ 21时46分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            9,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时29分 ~ 21时46分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -329,11 +329,23 @@
           "source": "抖音",
           "ranks": [
             6,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时55分 ~ 21时46分]"
+          "appearance_count": 8,
+          "time_info": "[18时55分 ~ 22时31分]"
+        },
+        {
+          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
+          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时31分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -347,17 +359,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时48分 ~ 17时35分]"
-        },
-        {
-          "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
-          "url": "https://news.ifeng.com/c/8q9ZlzBzIxe",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时46分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -499,17 +500,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
-        },
-        {
-          "title": "据美媒MS NOW：美国总统特朗普政府计划驱逐至少40名伊朗人，伊朗遣返航班最早将于周日启程。",
-          "url": "https://flash.jin10.com/detail/20260123211920762800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         },
         {
           "title": "特朗普痛批加州州长纽森失职，称其不配竞选总统",
@@ -661,6 +651,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时28分 ~ 04时32分]"
+        },
+        {
+          "title": "据美媒MS NOW：美国总统特朗普政府计划驱逐至少40名伊朗人，伊朗遣返航班最早将于周日启程。",
+          "url": "https://flash.jin10.com/detail/20260123211920762800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时31分]"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -1046,6 +1048,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "美国原油涨3%，报道称特朗普企图阻挠伊拉克出口石油",
+          "url": "https://wallstreetcn.com/livenews/3042982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "法国外交部长：目前尚无北约秘书长与美国总统特朗普就格陵兰岛达成协议的细节。",
           "url": "https://flash.jin10.com/detail/20260123153716040800",
           "source": "金十数据",
@@ -1074,7 +1087,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -1143,6 +1156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普称「美国正调集重兵前往伊朗」，具体情况如何？伊朗局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/1998037091121140500",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-23）",
@@ -1264,6 +1288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "外交部回应特朗普称4月访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B04%E6%9C%88%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "中方回应特朗普达沃斯言论",
@@ -1553,8 +1588,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[09时58分 ~ 21时46分]"
+          "appearance_count": 24,
+          "time_info": "[09时58分 ~ 22时31分]"
+        },
+        {
+          "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
+          "url": "https://www.cls.cn/detail/2268022",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
@@ -1598,8 +1648,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时48分 ~ 21时46分]"
+          "appearance_count": 15,
+          "time_info": "[15时48分 ~ 22时31分]"
         },
         {
           "title": "美联储最青睐通胀指标符合预期，美11月PCE物价指数同比2.8%，消费支出稳健",
@@ -1610,8 +1660,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时40分 ~ 21时46分]"
+          "appearance_count": 18,
+          "time_info": "[14时40分 ~ 22时31分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -1627,8 +1677,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时29分 ~ 21时46分]"
+          "appearance_count": 17,
+          "time_info": "[15时29分 ~ 22时31分]"
         },
         {
           "title": "上海首提打造“入境消费第一城”，底气是什么？新招有哪些？",
@@ -1656,21 +1706,6 @@
           "time_info": "[00时40分 ~ 07时45分]"
         },
         {
-          "title": "一图看懂 | A股掀起“商业航天热”，开年产业重要信息全梳理",
-          "url": "https://www.cls.cn/detail/2268022",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时29分 ~ 21时46分]"
-        },
-        {
           "title": "为什么谷歌 AI 掌门人认为字节是中国最具实力的 AI 公司？",
           "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
@@ -1678,11 +1713,12 @@
             20,
             17,
             19,
-            16
+            16,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时35分 ~ 21时46分]"
+          "appearance_count": 9,
+          "time_info": "[17时35分 ~ 22时31分]"
         },
         {
           "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
@@ -2095,7 +2131,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -2224,7 +2260,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
@@ -2247,8 +2283,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[11时49分 ~ 21时46分]"
+          "appearance_count": 22,
+          "time_info": "[11时49分 ~ 22时31分]"
         },
         {
           "title": "【数据看盘】6.43亿元资金抢筹金风科技 顶级游资扎堆乾照光电",
@@ -2261,8 +2297,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时29分 ~ 21时46分]"
+          "appearance_count": 10,
+          "time_info": "[18时29分 ~ 22时31分]"
         },
         {
           "title": "马斯克突袭达沃斯放预告：人形机器人或于明年年底前开卖",
@@ -2352,6 +2388,17 @@
           "time_info": "[09时58分 ~ 09时59分]"
         },
         {
+          "title": "据港交所文件，1月23日，浙江迦智科技股份有限公司向港交所递交上市申请书。",
+          "url": "https://wallstreetcn.com/livenews/3042990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "据英国金融时报：英国金融科技公司Revolut放弃美国并购计划，转而寻求独立牌照。",
           "url": "https://flash.jin10.com/detail/20260123130400943800",
           "source": "金十数据",
@@ -2406,11 +2453,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时46分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时31分]"
         },
         {
           "title": "马斯克：人形机器人或于明年开卖",
@@ -2526,6 +2574,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "蓝思科技：商业航天领域已实现批量供货 针对太空环境极端需求已研发出超薄光伏玻璃模组等",
+          "url": "https://wallstreetcn.com/livenews/3042980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "恒指高开0.87%，报26861.36点；恒生科技指数高开0.96%。阿里巴巴涨3.9%，京东集团、阿里健康涨超2%。",
@@ -2685,7 +2744,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
@@ -2761,6 +2820,19 @@
           "time_info": "[05时49分 ~ 06时28分]"
         },
         {
+          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时31分]"
+        },
+        {
           "title": "英特尔(INTC.O)美股盘后跌超4%。",
           "url": "https://flash.jin10.com/detail/20260123050245110800",
           "source": "金十数据",
@@ -2784,18 +2856,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时51分 ~ 07时45分]"
-        },
-        {
-          "title": "美股期货跌幅收窄，英伟达盘前直线拉升，美元遭遇半年来最差一周，金银冲高回落",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时46分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
@@ -2896,6 +2956,28 @@
           "time_info": "[05时49分 ~ 06时28分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-23）",
+          "url": "https://flash.jin10.com/detail/20260123215250387800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3042983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "斯伦贝谢第四季度营收为97.5 亿美元，预期95.5 亿美元。 第四季度经调整后每股收益0.78美元，预估0.74美元。 第四季度经调整后EBITDA 23.3亿美元，预估23.1亿美元。 第四季度资本支出5.16 亿美元，预估5.763 亿美元。 斯伦贝谢美股盘前涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3042921",
           "source": "华尔街见闻-快讯",
@@ -2971,24 +3053,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时48分 ~ 21时46分]"
-        },
-        {
-          "title": "美国正调集重兵前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            3,
-            10,
-            12,
-            20,
-            26
-          ],
-          "is_new": false,
           "appearance_count": 15,
-          "time_info": "[14时40分 ~ 20时56分]"
+          "time_info": "[15时48分 ~ 22时31分]"
         },
         {
           "title": "外交部回应美调重兵前往伊朗：希望各方珍惜和平",
@@ -3003,6 +3069,23 @@
           "time_info": "[17时35分 ~ 20时56分]"
         },
         {
+          "title": "美国正调集重兵前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%AD%A3%E8%B0%83%E9%9B%86%E9%87%8D%E5%85%B5%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3,
+            10,
+            12,
+            20,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[14时40分 ~ 22时31分]"
+        },
+        {
           "title": "外交部回应美调重兵前往伊朗",
           "url": "https://www.douyin.com/hot/2377210",
           "source": "抖音",
@@ -3014,8 +3097,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[15时48分 ~ 21时46分]"
+          "appearance_count": 15,
+          "time_info": "[15时48分 ~ 22时31分]"
         },
         {
           "title": "以媒称美近日或袭伊朗",
@@ -3039,11 +3122,12 @@
           "ranks": [
             13,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时25分 ~ 21时46分]"
+          "appearance_count": 7,
+          "time_info": "[19时25分 ~ 22时31分]"
         },
         {
           "title": "美国地质勘探局：伊朗莫尔东南56公里处发生5.1级地震。",
@@ -3098,7 +3182,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         },
@@ -3155,6 +3239,18 @@
           "time_info": "[15时29分 ~ 17时35分]"
         },
         {
+          "title": "贝莱德基金经理做空长期美债和英债 称顽固通胀的风险被低估",
+          "url": "https://wallstreetcn.com/livenews/3042970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时46分 ~ 22时31分]"
+        },
+        {
           "title": "两年期美债收益率涨超2个基点",
           "url": "https://wallstreetcn.com/livenews/3042290",
           "source": "华尔街见闻-快讯",
@@ -3176,17 +3272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "贝莱德基金经理做空长期美债和英债 称顽固通胀的风险被低估",
-          "url": "https://wallstreetcn.com/livenews/3042970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时46分"
         },
         {
           "title": "特朗普威胁欧洲敢抛美债就报复",
@@ -3217,7 +3302,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
         }
