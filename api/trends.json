@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T15:32:01.418363+08:00",
-  "total_titles_processed": 1142,
+  "generated_at": "2026-01-26T16:38:37.937388+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -162,11 +162,27 @@
           "ranks": [
             13,
             5,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 16时38分]"
+        },
+        {
+          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
+          "url": "https://www.cls.cn/detail/2269090",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            7,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 16时38分]"
         },
         {
           "title": "A股2月有望再度迎来核心做多窗口？投资主线有哪些？十大券商策略来了",
@@ -180,29 +196,42 @@
           "time_info": "[12时09分 ~ 13时09分]"
         },
         {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 16时38分]"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时56分 ~ 16时38分]"
+        },
+        {
           "title": "商务部：一视同仁支持外企参与提振消费、政府采购、招投标等",
           "url": "https://wallstreetcn.com/livenews/3043782",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
-          "url": "https://www.cls.cn/detail/2269090",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            7
+            2,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时09分 ~ 15时32分]"
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时38分]"
         },
         {
           "title": "大摩研究：英国受AI影响最深，岗位流失速度达国际平均水平两倍",
@@ -217,41 +246,17 @@
           "time_info": "[13时56分 ~ 14时42分]"
         },
         {
-          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
-          "url": "https://www.cls.cn/detail/2269386",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 15时32分]"
-        },
-        {
-          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时56分 ~ 15时32分]"
-        },
-        {
           "title": "A股又突然跳水了",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "你怎么看iPhone Air降价",
@@ -320,9 +325,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "商务部：将优化实施消费品以旧换新 促进家电等大宗耐用商品消费",
+          "url": "https://wallstreetcn.com/livenews/3043827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "日本首相高市早苗：作为首相，我希望尽早实现食品消费税8%税率暂停两年的目标，并在2026财年向国会提交相关法案。",
@@ -334,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "商务部：深化云计算、生物技术、外商独资医院等领域开放试点，引导外资投向服务消费领域",
+          "url": "https://wallstreetcn.com/livenews/3043821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "腾讯神秘AI项目曝光",
@@ -356,6 +383,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "互联网大厂开启春节AI应用流量大战 AI应用全面加速",
+          "url": "https://www.cls.cn/detail/2269055",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "贝伦贝格：2026年AI仍将是股价关键驱动因素",
+          "url": "https://flash.jin10.com/detail/20260126154144414800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "据悉，加快培育服务消费新增长点相关政策文件近日将推出。（中证金牛座）",
@@ -408,9 +457,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "商务部：2026年将加快国际消费中心城市培育建设",
+          "url": "https://wallstreetcn.com/livenews/3043799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "AI会如何发展",
@@ -422,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "商务部：今年将大力发展服务贸易 出台扩大入境消费政策措施",
+          "url": "https://wallstreetcn.com/livenews/3043791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "A股大金融板块集体走强，财通证券冲击涨停，兴业证券、新华保险、中国太保、宁波银行涨超5%。",
@@ -441,7 +512,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -511,8 +582,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 15时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时38分]"
         },
         {
           "title": "美国财长贝森特：特朗普重视北约。 特朗普高度专注于打造最强大的北约。",
@@ -559,19 +643,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 06时47分]"
-        },
-        {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时32分]"
         },
         {
           "title": "10亿美元一席！特朗普任“主席”",
@@ -759,6 +830,17 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 16时38分]"
+        },
+        {
           "title": "美国总统特朗普敦促国会终止庇护城市政策，并呼吁明尼苏达州州长沃尔兹在执法方面予以合作。",
           "url": "https://flash.jin10.com/detail/20260126064839967800",
           "source": "金十数据",
@@ -769,17 +851,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 07时44分]"
-        },
-        {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请，但之后没有取得任何实质性进展",
@@ -841,7 +912,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
@@ -852,8 +923,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时31分 ~ 15时32分]"
+          "appearance_count": 27,
+          "time_info": "[00时31分 ~ 16时38分]"
         },
         {
           "title": "银河通用成为2026春晚指定具身大模型机器人",
@@ -867,6 +938,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 05时43分]"
+        },
+        {
+          "title": "李想临时召开线上公司全员会：理想一定会做人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3043835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（1月26日）",
@@ -1043,7 +1125,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -1122,8 +1204,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时09分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[13时09分 ~ 16时38分]"
         },
         {
           "title": "美国派出重兵“合围伊朗”",
@@ -1215,6 +1297,17 @@
           "time_info": "[13时09分 ~ 13时56分]"
         },
         {
+          "title": "美与伊朗真会打起来吗",
+          "url": "https://www.toutiao.com/trending/7599564724350504491/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "伊朗警告美国勿发动军事打击",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E5%8B%BF%E5%8F%91%E5%8A%A8%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1229,7 +1322,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -1251,11 +1344,26 @@
           "source": "知乎",
           "ranks": [
             6,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时38分]"
+        },
+        {
+          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时38分]"
         },
         {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
@@ -1275,22 +1383,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        },
-        {
-          "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时32分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -1337,6 +1432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        },
+        {
+          "title": "分析称金价急剧回调可能性正在增加",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%88%86%E6%9E%90%E7%A7%B0%E9%87%91%E4%BB%B7%E6%80%A5%E5%89%A7%E5%9B%9E%E8%B0%83%E5%8F%AF%E8%83%BD%E6%80%A7%E6%AD%A3%E5%9C%A8%E5%A2%9E%E5%8A%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
@@ -1418,8 +1524,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
@@ -1431,6 +1537,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美日干预叠加政府关门预期，黄金站上5100、白银飙涨6%，日元强势反弹，美股汇齐跌，避险资金推高美债",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "假如全世界都不买美债了会怎样",
+          "url": "https://www.toutiao.com/trending/7599450891145449011/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -1448,23 +1582,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 04时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "假如全世界都不买美债了会怎样",
-          "url": "https://www.toutiao.com/trending/7599450891145449011/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
         }
       ]
     },
