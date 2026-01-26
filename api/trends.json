@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T22:33:14.187706+08:00",
-  "total_titles_processed": 1848,
+  "generated_at": "2026-01-26T23:34:33.468527+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 57,
+      "match_count": 61,
       "titles": [
         {
           "title": "多股应声涨停！本周披露并购重组进展的A股名单一览",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时31分 ~ 07时44分]"
+        },
+        {
+          "title": "商务部：今年将大力发展服务贸易 出台扩大入境消费政策措施",
+          "url": "https://www.cls.cn/detail/2269644",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时39分 ~ 23时34分]"
         },
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -43,21 +58,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时31分 ~ 10时09分]"
-        },
-        {
-          "title": "商务部：今年将大力发展服务贸易 出台扩大入境消费政策措施",
-          "url": "https://www.cls.cn/detail/2269644",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时39分 ~ 22时33分]"
         },
         {
           "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
@@ -172,8 +172,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时56分 ~ 22时33分]"
+          "appearance_count": 14,
+          "time_info": "[13时56分 ~ 23时34分]"
         },
         {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
@@ -206,6 +206,17 @@
           "time_info": "[13时56分 ~ 19时45分]"
         },
         {
+          "title": "节前消费市场活力十足",
+          "url": "https://www.toutiao.com/trending/7599351843912351786/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时49分 ~ 23时34分]"
+        },
+        {
           "title": "六大机构A股最新研判来了",
           "url": "https://www.toutiao.com/trending/7598640352895008809/",
           "source": "今日头条",
@@ -235,17 +246,6 @@
           "time_info": "[13时09分 ~ 17时39分]"
         },
         {
-          "title": "节前消费市场活力十足",
-          "url": "https://www.toutiao.com/trending/7599351843912351786/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时33分]"
-        },
-        {
           "title": "A股2月有望再度迎来核心做多窗口？投资主线有哪些？十大券商策略来了",
           "url": "https://www.cls.cn/detail/2268929",
           "source": "财联社热门",
@@ -263,31 +263,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
         {
-          "title": "苹果推出新款AirTag。",
-          "url": "https://wallstreetcn.com/livenews/3044055",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达开源AI气象模型 赋能政企定制化天气预报系统",
+          "url": "https://flash.jin10.com/detail/20260126231453652800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "苹果(AAPL.O)：全新AirTag今日上市，单个AirTag售价29美元，四件装售价99美元。",
-          "url": "https://flash.jin10.com/detail/20260126220730931800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
+          "time_info": "23时34分"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -298,8 +287,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时33分]"
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 23时34分]"
+        },
+        {
+          "title": "苹果(AAPL.O)：全新AirTag今日上市，单个AirTag售价29美元，四件装售价99美元。",
+          "url": "https://flash.jin10.com/detail/20260126220730931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "商务部：一视同仁支持外企参与提振消费、政府采购、招投标等",
@@ -338,6 +338,18 @@
           "time_info": "[17时39分 ~ 18时31分]"
         },
         {
+          "title": "苹果推出新款AirTag。",
+          "url": "https://wallstreetcn.com/livenews/3044055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时34分]"
+        },
+        {
           "title": "A股又突然跳水了",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%88%E7%AA%81%E7%84%B6%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -374,6 +386,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时09分 ~ 14时42分]"
+        },
+        {
+          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
+          "url": "https://wallstreetcn.com/livenews/3044053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时33分 ~ 23时34分]"
         },
         {
           "title": "国家税务总局：2025年新能源汽车消费热度持续上升",
@@ -436,6 +460,17 @@
           "time_info": "[20时56分 ~ 21时49分]"
         },
         {
+          "title": "阶跃星辰印奇谈AI商业化",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%8D%B0%E5%A5%87%E8%B0%88AI%E5%95%86%E4%B8%9A%E5%8C%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "高盛顶级贵金属交易员Binet Laisne离职。",
           "url": "https://flash.jin10.com/detail/20260126210933742800",
           "source": "金十数据",
@@ -445,17 +480,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
-        },
-        {
-          "title": "英伟达推出开源软件和模型，帮助政府和企业更加容易利用AI和复杂数据来构建自己的气象模型。",
-          "url": "https://wallstreetcn.com/livenews/3044053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时33分"
         },
         {
           "title": "2025年我国全年社会消费品零售总额首次突破50万亿元",
@@ -497,7 +521,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -585,7 +609,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -623,6 +647,17 @@
           "time_info": "12时09分"
         },
         {
+          "title": "加拿大总理卡尼：为消费者减免食品杂货费用的首年成本将达31亿加元。",
+          "url": "https://flash.jin10.com/detail/20260126225052556800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "A股收盘：创业板指高开低走跌近1%，贵金属板块逆势大涨",
           "url": "https://wallstreetcn.com/livenews/3043753",
           "source": "华尔街见闻-快讯",
@@ -643,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
+        },
+        {
+          "title": "CoreWeave涨13%，创11月以来盘中新高。 英伟达与CoreWeave宣布扩大长期的互补合作关系，使CoreWeave能够加速到2030年建设超过5吉瓦的人工智能（AI）工厂，推动全球范围内的人工智能应用。英伟达投资20亿美元到CoreWeaveA类普通股。",
+          "url": "https://wallstreetcn.com/livenews/3044071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "AI会如何发展",
@@ -703,7 +749,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "历史学大佬：特朗普“明抢格陵兰”，是为了“暗度伊朗和乌克兰”",
@@ -754,6 +800,17 @@
           "time_info": "[12时09分 ~ 20时56分]"
         },
         {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时39分 ~ 23时34分]"
+        },
+        {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
           "url": "https://news.ifeng.com/c/8qClugB0Wf0",
           "source": "凤凰网",
@@ -765,17 +822,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时31分 ~ 12时09分]"
-        },
-        {
-          "title": "特朗普就加中贸易协定发出威胁，中方回应",
-          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时39分 ~ 22时33分]"
         },
         {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
@@ -995,6 +1041,29 @@
           "time_info": "[05时23分 ~ 07时25分]"
         },
         {
+          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
+          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 23时34分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时56分 ~ 23时34分]"
+        },
+        {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请",
           "url": "https://flash.jin10.com/detail/20260126042756695800",
           "source": "金十数据",
@@ -1034,28 +1103,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 07时25分]"
-        },
-        {
-          "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时33分]"
-        },
-        {
-          "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
-          "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时56分 ~ 22时33分]"
         },
         {
           "title": "大众CEO：若特朗普不削减关税，奥迪美国工厂计划可能搁置",
@@ -1128,13 +1175,24 @@
           "time_info": "13时09分"
         },
         {
+          "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465454",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美国稀土(USAR.O)：美国政府的资金将从今年开始，分阶段拨付，直至2029年特朗普卸任前结束。",
           "url": "https://flash.jin10.com/detail/20260126215948779800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1145,9 +1203,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "稀土概念股USAR涨25.88%——此前一度涨29%创10月13日以来最大盘中涨幅，UUUU涨4.35%，ETF XME涨1.58%，MP材料跌0.09%，NB跌19.5%。 美国总统特朗普的商务部向USA Rare Earth提供13亿美元贷款和2.77亿美元联邦拨款，该公司将对美国商务部发行1610万股普通股和1760万认股权证。",
+          "url": "https://wallstreetcn.com/livenews/3044070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
+          "title": "俄专家称特朗普炫新型武器“纯属政治表态”",
+          "url": "https://wallstreetcn.com/livenews/3044069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "特朗普就移民执法人员枪杀美公民发声",
@@ -1197,7 +1277,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美联储决议+中美数据+科技巨头财报！全球市场进入“风暴眼”",
@@ -1252,8 +1332,34 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时33分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时34分]"
+        },
+        {
+          "title": "丁薛祥：科技革命和产业变革越是深入发展 越要努力抢占国际竞争制高点",
+          "url": "https://www.cls.cn/detail/2270241",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时49分 ~ 23时34分]"
+        },
+        {
+          "title": "宇树成为2026年春晚机器人合作伙伴",
+          "url": "https://www.cls.cn/detail/2270217",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时49分 ~ 23时34分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（1月26日）",
@@ -1287,18 +1393,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
-        },
-        {
-          "title": "丁薛祥：科技革命和产业变革越是深入发展 越要努力抢占国际竞争制高点",
-          "url": "https://www.cls.cn/detail/2270241",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时33分]"
         },
         {
           "title": "QDII基金交出亮眼“成绩单”，后市看好创新药和科技方向",
@@ -1374,16 +1468,16 @@
           "time_info": "[10时09分 ~ 13时09分]"
         },
         {
-          "title": "宇树成为2026年春晚机器人合作伙伴",
-          "url": "https://www.cls.cn/detail/2270217",
-          "source": "财联社热门",
+          "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
+          "url": "https://www.zhihu.com/question/1999208523578512141",
+          "source": "知乎",
           "ranks": [
-            12,
-            10
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时49分 ~ 22时33分]"
+          "time_info": "[22时32分 ~ 23时34分]"
         },
         {
           "title": "首届特种机器人科产融合大会举办",
@@ -1408,17 +1502,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时25分 ~ 19时45分]"
-        },
-        {
-          "title": "由卡普空开发，与机器人女孩一同冒险的游戏 PRAGMATA 即将发售，但还缺正式中文名，你有什么好提案吗？",
-          "url": "https://www.zhihu.com/question/1999208523578512141",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
         },
         {
           "title": "闻泰科技：股东累计减持公司总股本的2.77% 提前终止减持计划",
@@ -1566,6 +1649,17 @@
           "time_info": "10时09分"
         },
         {
+          "title": "网络股指数ETF涨1.07%，能源业ETF涨0.79%，银行业ETF涨0.4%，科技行业ETF大致持平，全球科技股指数ETF跌0.22%，半导体ETF跌0.75%，生物科技指数ETF跌1.02%。",
+          "url": "https://wallstreetcn.com/livenews/3044067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "全国科技工作会议在京召开 丁薛祥出席会议并讲话",
           "url": "https://wallstreetcn.com/livenews/3044008",
           "source": "华尔街见闻-快讯",
@@ -1602,7 +1696,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美日干预叠加政府关门预期，黄金站上5100、白银突破110，日元强势反弹，美股汇齐跌",
@@ -1612,8 +1706,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时39分 ~ 22时33分]"
+          "appearance_count": 9,
+          "time_info": "[17时39分 ~ 23时34分]"
         },
         {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
@@ -1659,7 +1753,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1720,6 +1814,17 @@
           "time_info": "[20时56分 ~ 21时49分]"
         },
         {
+          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2270324",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时32分 ~ 23时34分]"
+        },
+        {
           "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
           "url": "https://wallstreetcn.com/livenews/3043857",
           "source": "华尔街见闻-快讯",
@@ -1730,17 +1835,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时39分 ~ 18时31分]"
-        },
-        {
-          "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2270324",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时32分 ~ 22时33分]"
         },
         {
           "title": "美股盘前，黄金股普涨，泛美白银涨近6%，科尔黛伦矿业涨超4%，哈莫尼黄金涨近3%。",
@@ -1772,7 +1866,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -1874,12 +1968,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
+        },
+        {
+          "title": "英特尔(INTC.O)延续上周五的跌势，美股盘初跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20260126224209981800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "波斯湾的“极限施压”：美国为何总对伊朗“开剧场”？",
@@ -1904,8 +2009,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时09分 ~ 22时33分]"
+          "appearance_count": 15,
+          "time_info": "[13时09分 ~ 23时34分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -1971,8 +2076,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时33分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时34分]"
         },
         {
           "title": "包围伊朗！美国动手只是时间问题？丨Hi，今天怎么看？",
@@ -2116,9 +2221,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
+        },
+        {
+          "title": "伊朗媒体：伊朗外长与美国特使就多项议题交换信息",
+          "url": "https://wallstreetcn.com/livenews/3044076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "美与伊朗真会打起来吗",
@@ -2141,6 +2257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "美航母打击群抵达中东，美大规模军事集结引发伊朗“强硬警告”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32465430",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "伊朗警告美国勿发动军事打击",
@@ -2168,7 +2295,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -2185,8 +2312,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时09分 ~ 22时33分]"
+          "appearance_count": 16,
+          "time_info": "[12时09分 ~ 23时34分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -2227,11 +2354,12 @@
             27,
             24,
             6,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时31分 ~ 22时33分]"
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时34分]"
         },
         {
           "title": "挺进5000美元！金价出现泡沫了吗？丨Hi，今天怎么看？",
@@ -2308,7 +2436,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         },
@@ -2322,6 +2450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "摩根士丹利：黄金价格或升至5700美元",
+          "url": "https://flash.jin10.com/detail/20260126225035115800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         },
         {
           "title": "国际金价疯涨原因",
@@ -2349,7 +2488,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数短线波动不大，现报97.27。",
@@ -2375,13 +2514,24 @@
           "time_info": "[07时25分 ~ 07时44分]"
         },
         {
+          "title": "美国上市新兴市场ETFs资金流入在1月23日当周达到68.3亿美元，连续14周获得流入。 MSCI新兴市场指数2026年迄今累计上涨7.2%。",
+          "url": "https://wallstreetcn.com/livenews/3044081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
+        },
+        {
           "title": "美元指数短线波动不大，现报97.27。现货黄金5分钟内下跌13.28美元/盎司，报5060.87美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044038",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时33分"
         }
@@ -2442,6 +2592,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时34分"
         }
       ]
     },
