@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T04:28:33.606395+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-01-28T04:51:23.807116+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -15,19 +15,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
-          "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
-          "url": "https://flash.jin10.com/detail/20260128035859142800",
+          "title": "土耳其总统办公室：埃尔多安与美国总统特朗普通了电话，强调必须在叙利亚全面落实停火和整合协议。",
+          "url": "https://flash.jin10.com/detail/20260128043928475800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
+          "url": "https://wallstreetcn.com/livenews/3044976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普叫停的玛莎葡萄园岛（Martha' s Vineyard）风力发电项目被法官重启。",
+          "url": "https://flash.jin10.com/detail/20260128043052698800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -122,6 +144,32 @@
           "time_info": "[03时31分 ~ 04时28分]"
         },
         {
+          "title": "美国总统特朗普：听说伊拉克可能会做出非常糟糕的选择，重新任命努里·马利基为总理。如果他当选，美利坚合众国将不再援助伊拉克。",
+          "url": "https://flash.jin10.com/detail/20260128035859142800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时51分]"
+        },
+        {
+          "title": "美国总统特朗普：美方准备支持叙利亚重建。",
+          "url": "https://wallstreetcn.com/livenews/3044943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 04时51分]"
+        },
+        {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
           "url": "https://flash.jin10.com/detail/20260128021631396800",
           "source": "金十数据",
@@ -148,19 +196,6 @@
           "time_info": "[03时31分 ~ 04时28分]"
         },
         {
-          "title": "美国总统特朗普：美方准备支持叙利亚重建。",
-          "url": "https://wallstreetcn.com/livenews/3044943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 04时28分]"
-        },
-        {
           "title": "特朗普疯狂驱赶“非法移民”之际，美国去年人口增幅创2021年以来最慢",
           "url": "https://wallstreetcn.com/livenews/3044937",
           "source": "华尔街见闻-快讯",
@@ -172,6 +207,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 04时28分]"
+        },
+        {
+          "title": "美国法官判定Martha旗下Vineyard风电项目胜诉，此前该国总统特朗普叫停其风电项目。",
+          "url": "https://wallstreetcn.com/livenews/3044972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -276,7 +322,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "2026如何提振消费",
@@ -286,8 +332,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -298,8 +344,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -310,8 +356,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -321,8 +367,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
+        },
+        {
+          "title": "OpenAI推出面向科学家的全新工具Prism",
+          "url": "https://flash.jin10.com/detail/20260128043059691800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
+          "url": "https://wallstreetcn.com/articles/3764225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -362,17 +430,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时45分 ~ 03时51分]"
-        },
-        {
-          "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
-          "url": "https://wallstreetcn.com/articles/3764225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 04时28分]"
         },
         {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
@@ -501,7 +558,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -513,8 +570,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
@@ -526,8 +583,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
@@ -537,8 +594,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "以女子看电视发现自己“死”在伊朗",
@@ -548,11 +605,12 @@
             23,
             28,
             20,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统与沙特王储通话。",
@@ -603,6 +661,39 @@
           "time_info": "[01时32分 ~ 02时45分]"
         },
         {
+          "title": "伊朗与卡塔尔两国外长通话 强调推进外交努力维护地区稳定",
+          "url": "https://flash.jin10.com/detail/20260128042734028800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国被曝向以色列通报对伊朗行动准备进展",
+          "url": "https://wallstreetcn.com/livenews/3044969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国被曝向以色列通报对伊朗行动准备进展",
+          "url": "https://flash.jin10.com/detail/20260128042320434800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
           "title": "伊朗总统与沙特王储通电话 讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260128004951407800",
           "source": "金十数据",
@@ -612,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗与卡塔尔两国外长通话 强调推进外交努力维护地区稳定",
+          "url": "https://wallstreetcn.com/livenews/3044971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         },
         {
           "title": "伊朗媒体称，伊朗总统在与沙特王储的电话通话中表示，德黑兰一直且仍然欢迎任何旨在防止战争的进程。",
@@ -638,8 +740,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -649,8 +751,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -660,8 +762,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.43%，报27186点。 恒生科技指数主连夜盘收涨0.17%，报5748点。",
@@ -670,11 +772,12 @@
           "ranks": [
             5,
             8,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 04时51分]"
         },
         {
           "title": "美国副总统万斯上周在华盛顿特区威胁韩国总理。 万斯警告称，韩方勿要针对美国科技公司。 也不要针对电商Coupang。（华尔街日报）",
@@ -683,11 +786,12 @@
           "ranks": [
             6,
             9,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 04时28分]"
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 04时51分]"
         },
         {
           "title": "美国警告韩国：在贸易争端升级之际不要针对美国科技公司",
@@ -695,11 +799,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 04时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 04时51分]"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -737,8 +842,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -777,6 +882,56 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数日内跌幅达1.0%，报96.0082。",
+          "url": "https://wallstreetcn.com/livenews/3044978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美元指数27日下跌",
+          "url": "https://flash.jin10.com/detail/20260128042630091800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美元指数跌超0.8%，创2022年年初以来新低",
+          "url": "https://wallstreetcn.com/livenews/3044966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/3044896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -788,8 +943,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -799,8 +954,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -811,8 +966,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         }
       ]
     },
@@ -829,8 +984,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 04时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 04时51分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -842,8 +997,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时44分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时44分 ~ 04时51分]"
         }
       ]
     },
@@ -865,19 +1020,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/3044896",
+          "title": "两年期美债收益率跌2个基点，长端美债收益率则涨超3.2个基点",
+          "url": "https://wallstreetcn.com/livenews/3044973",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时32分"
+          "time_info": "04时51分"
         }
       ]
     }
