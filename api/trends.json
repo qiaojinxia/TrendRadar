@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-28T03:31:18.630491+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-01-28T03:51:35.633563+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 21,
       "titles": [
-        {
-          "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
-          "url": "https://flash.jin10.com/detail/20260128030726732800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
         {
           "title": "美媒：特朗普一周内两次妥协",
           "url": "https://news.ifeng.com/c/8qG16xqtXtH",
@@ -26,19 +15,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
-          "url": "https://flash.jin10.com/detail/20260128030532843800",
-          "source": "金十数据",
+          "title": "特朗普称国土安全部部长诺姆不会辞职",
+          "url": "https://wallstreetcn.com/livenews/3044932",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2,
+            18,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时51分]"
         },
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -53,6 +44,19 @@
           "time_info": "[01时32分 ~ 02时45分]"
         },
         {
+          "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3044930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时51分]"
+        },
+        {
           "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
           "url": "https://flash.jin10.com/detail/20260128010748956800",
           "source": "金十数据",
@@ -65,40 +69,41 @@
           "time_info": "[01时32分 ~ 02时45分]"
         },
         {
-          "title": "特朗普称国土安全部部长诺姆不会辞职",
-          "url": "https://wallstreetcn.com/livenews/3044932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时31分]"
-        },
-        {
-          "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3044930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时31分]"
-        },
-        {
           "title": "特朗普就美国明尼苏达州枪击案致死事件发表评论：“你不能带着枪走进去”",
           "url": "https://wallstreetcn.com/livenews/3044928",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            23
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时51分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
+          "url": "https://flash.jin10.com/detail/20260128030726732800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时31分]"
+          "time_info": "[03时31分 ~ 03时51分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
+          "url": "https://flash.jin10.com/detail/20260128030532843800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时51分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -106,33 +111,48 @@
           "source": "金十数据",
           "ranks": [
             6,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时51分]"
         },
         {
           "title": "叙利亚总统府表示，总统沙拉向美国总统特朗普强调，必须统一国际努力，以阻止包括“伊斯兰国”在内的“恐怖组织”卷土重来。",
           "url": "https://flash.jin10.com/detail/20260128024954908800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时51分]"
         },
         {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
           "url": "https://wallstreetcn.com/livenews/3044943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时51分]"
+        },
+        {
+          "title": "特朗普疯狂驱赶“非法移民”之际，美国去年人口增幅创2021年以来最慢",
+          "url": "https://wallstreetcn.com/livenews/3044937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时51分]"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -155,17 +175,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
-        },
-        {
-          "title": "特朗普疯狂驱赶“非法移民”之际，美国去年人口增幅创2021年以来最慢",
-          "url": "https://wallstreetcn.com/livenews/3044937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
         },
         {
           "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
@@ -258,8 +267,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -270,8 +279,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -282,8 +291,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -293,8 +302,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
@@ -302,11 +311,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时51分]"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -314,11 +324,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时51分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -326,11 +337,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时45分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时45分 ~ 03时51分]"
         },
         {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
@@ -482,8 +494,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
+        },
+        {
+          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
+        },
+        {
+          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
+          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统与沙特王储通话。",
@@ -497,28 +533,17 @@
           "time_info": "00时35分"
         },
         {
-          "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32471237",
-          "source": "澎湃新闻",
+          "title": "以女子看电视发现自己“死”在伊朗",
+          "url": "https://www.toutiao.com/trending/7599286725097259071/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            8,
-            10
+            23,
+            28,
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
-        },
-        {
-          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
-          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "伊朗总统与沙特王储通电话。（伊朗媒体IRNA）",
@@ -533,19 +558,6 @@
           "time_info": "[00时35分 ~ 01时32分]"
         },
         {
-          "title": "以女子看电视发现自己“死”在伊朗",
-          "url": "https://www.toutiao.com/trending/7599286725097259071/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            28,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时31分]"
-        },
-        {
           "title": "伊朗总统与沙特王储通电话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3044899",
           "source": "华尔街见闻-快讯",
@@ -558,6 +570,18 @@
           "time_info": "[01时32分 ~ 02时45分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：如果伊朗攻击我们，我们将以它从未见过的力量进行反击。",
+          "url": "https://flash.jin10.com/detail/20260128024018421800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时51分]"
+        },
+        {
           "title": "伊朗总统与沙特王储通电话 讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260128004951407800",
           "source": "金十数据",
@@ -567,17 +591,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：如果伊朗攻击我们，我们将以它从未见过的力量进行反击。",
-          "url": "https://flash.jin10.com/detail/20260128024018421800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
         },
         {
           "title": "伊朗媒体称，伊朗总统在与沙特王储的电话通话中表示，德黑兰一直且仍然欢迎任何旨在防止战争的进程。",
@@ -594,7 +607,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【数据看盘】顶级游资豪掷近10亿买入平潭发展，华天科技龙虎榜资金猛抢",
@@ -604,8 +617,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -615,19 +628,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.43%，报27186点。 恒生科技指数主连夜盘收涨0.17%，报5748点。",
-          "url": "https://wallstreetcn.com/livenews/3044948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "三家A股公司实控人熊海涛被留置 旗下东材科技改制往事曾遭举报",
@@ -637,19 +639,43 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.43%，报27186点。 恒生科技指数主连夜盘收涨0.17%，报5748点。",
+          "url": "https://wallstreetcn.com/livenews/3044948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时51分]"
         },
         {
           "title": "美国副总统万斯上周在华盛顿特区威胁韩国总理。 万斯警告称，韩方勿要针对美国科技公司。 也不要针对电商Coupang。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3044947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 03时51分]"
+        },
+        {
+          "title": "美国警告韩国：在贸易争端升级之际不要针对美国科技公司",
+          "url": "https://flash.jin10.com/detail/20260128031402355800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "03时51分"
         },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
@@ -687,8 +713,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -738,8 +764,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -749,8 +775,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -761,8 +787,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         }
       ]
     },
@@ -779,8 +805,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时31分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 03时51分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -791,8 +817,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时44分 ~ 03时51分]"
         }
       ]
     },
