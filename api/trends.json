@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:27:36.644364+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-01-28T07:47:40.825637+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -15,19 +15,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
-          "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
-          "url": "https://flash.jin10.com/detail/20260128070752669800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
+          "url": "https://wallstreetcn.com/livenews/3045037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
+        },
+        {
+          "title": "拜登再批特朗普",
+          "url": "https://news.ifeng.com/c/8qGeeqb7QRE",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时47分"
         },
         {
           "title": "美国总统特朗普：美元表现很好。 日本一直都向让货币贬值。 可以让美元像一个Yo Yo（悠悠球）一样波动。",
@@ -41,15 +52,16 @@
           "time_info": "04时51分"
         },
         {
-          "title": "美国总统特朗普：希望让现在拥有房屋的人保持较高的财富。强化房利美和房地美的地位。",
-          "url": "https://wallstreetcn.com/livenews/3045037",
+          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3045027",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 07时47分]"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -64,6 +76,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时45分 ~ 04时28分]"
+        },
+        {
+          "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
+          "url": "https://wallstreetcn.com/livenews/3045026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 07时47分]"
         },
         {
           "title": "美国总统特朗普所谓“和平委员会”料将让（开发商出身的）特朗普掌握对加沙的广泛权力。（纽约时报）",
@@ -94,6 +118,18 @@
           "time_info": "[02时45分 ~ 04时28分]"
         },
         {
+          "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
+          "url": "https://flash.jin10.com/detail/20260128070752669800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
+        },
+        {
           "title": "美国总统特朗普：（当被问及提高对韩关税时）我们将与韩国一道找到解决方案。",
           "url": "https://flash.jin10.com/detail/20260128053943397800",
           "source": "金十数据",
@@ -105,6 +141,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时44分 ~ 06时49分]"
+        },
+        {
+          "title": "欧元4年多来首次升破1.2 分析师：特朗普讲话触发大规模止损",
+          "url": "https://flash.jin10.com/detail/20260128062845628800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 07时47分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：（就对伊朗进行先发制人打击的可能性）特朗普总统会做出他想做的决定，以色列也会做出本国想做的决定。",
@@ -156,18 +205,6 @@
           "time_info": "[01时32分 ~ 02时45分]"
         },
         {
-          "title": "欧元4年多来首次升破1.2 分析师：特朗普讲话触发大规模止损",
-          "url": "https://flash.jin10.com/detail/20260128062845628800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时27分]"
-        },
-        {
           "title": "以色列总理内塔尼亚胡未否认曾要求特朗普不要攻击伊朗。",
           "url": "https://flash.jin10.com/detail/20260128030532843800",
           "source": "金十数据",
@@ -205,18 +242,6 @@
           "time_info": "[05时44分 ~ 06时27分]"
         },
         {
-          "title": "周二（1月27日，美联储决议声明发布前夕），降息赢家指数涨0.04%，报104.50点，整体走出W形反转行情。 “特朗普关税输家”指数跌0.75%，报114.22点，盘初显著下挫，随后低位震荡。 “特朗普金融指数”跌0.37%，散户抱团概念股指数/迷因股（meme stock）指数跌0.05%。",
-          "url": "https://wallstreetcn.com/livenews/3045027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时27分]"
-        },
-        {
           "title": "市场消息：美国总统特朗普叫停的玛莎葡萄园岛（Martha' s Vineyard）风力发电项目被法官重启。",
           "url": "https://flash.jin10.com/detail/20260128043052698800",
           "source": "金十数据",
@@ -239,18 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时27分]"
-        },
-        {
-          "title": "美国总统特朗普被问及监管问题，称：将针对卡车采取某些行动。",
-          "url": "https://wallstreetcn.com/livenews/3045026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时27分]"
         },
         {
           "title": "美国总统特朗普：美方准备支持叙利亚重建。",
@@ -318,6 +331,17 @@
           "time_info": "[03时31分 ~ 04时28分]"
         },
         {
+          "title": "美国总统特朗普：农民们将开始感受到贸易协议带来的好处。",
+          "url": "https://wallstreetcn.com/livenews/3045031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
+        },
+        {
           "title": "美国总统特朗普：我们必须利用关税来维护世界和平。如果最高法院废除关税，那将会给各方带来更多不便。",
           "url": "https://flash.jin10.com/detail/20260128053802752800",
           "source": "金十数据",
@@ -342,6 +366,18 @@
           "time_info": "[05时44分 ~ 06时27分]"
         },
         {
+          "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
+          "url": "https://flash.jin10.com/detail/20260128065145858800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
+        },
+        {
           "title": "英镑兑美元涨1.4%，刷新2021年9月以来高位至1.3868，特朗普称不担心美元下跌。",
           "url": "https://wallstreetcn.com/livenews/3044980",
           "source": "华尔街见闻-快讯",
@@ -353,6 +389,18 @@
           "time_info": "[05时22分 ~ 05时44分]"
         },
         {
+          "title": "美国总统特朗普：农业器械公司DEERE & CO将在北卡罗来纳州进行工厂投资。",
+          "url": "https://flash.jin10.com/detail/20260128063616851800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
+        },
+        {
           "title": "特朗普：美元表现很好，不担心美元下跌",
           "url": "https://wallstreetcn.com/livenews/3044976",
           "source": "华尔街见闻-快讯",
@@ -362,6 +410,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 05时44分]"
+        },
+        {
+          "title": "美国总统特朗普兜售在贸易协议中与英国和日本达成的共识。 特朗普称：许多人向我问及乙醇。",
+          "url": "https://wallstreetcn.com/livenews/3045025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
         },
         {
           "title": "美国总统特朗普：如果最高法院否决关税政策，将找到其他方式来处理贸易问题。",
@@ -376,6 +435,28 @@
           "time_info": "[06时27分 ~ 06时49分]"
         },
         {
+          "title": "特朗普，两天内动手？",
+          "url": "https://news.ifeng.com/c/8qGwey6pidp",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普：一支舰队正朝着伊朗驶去。",
+          "url": "https://flash.jin10.com/detail/20260128071622819800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "美国总统特朗普：许多人向我问及乙醇。",
           "url": "https://wallstreetcn.com/livenews/3045025",
           "source": "华尔街见闻-快讯",
@@ -385,28 +466,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
-        },
-        {
-          "title": "美国总统特朗普：正在努力就E15混合燃料达成协议。我会毫不犹豫地签署相关法案。",
-          "url": "https://flash.jin10.com/detail/20260128065145858800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美国总统特朗普：农民们将开始感受到贸易协议带来的好处。",
-          "url": "https://wallstreetcn.com/livenews/3045031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "美国总统特朗普：如果最高法院裁定关税无效，我们会找到其他办法。关税对于我们的成功至关重要。",
@@ -475,17 +534,6 @@
           "time_info": "05时44分"
         },
         {
-          "title": "美国总统特朗普：农业器械公司DEERE & CO将在北卡罗来纳州进行工厂投资。",
-          "url": "https://flash.jin10.com/detail/20260128063616851800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "特朗普谈明尼苏达州：我们将稍微缓和局势。",
           "url": "https://flash.jin10.com/detail/20260128052434783800",
           "source": "金十数据",
@@ -495,17 +543,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        },
-        {
-          "title": "美国总统特朗普兜售在贸易协议中与英国和日本达成的共识。 特朗普称：许多人向我问及乙醇。",
-          "url": "https://wallstreetcn.com/livenews/3045025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "特朗普谈美元：我可以像玩悠悠球一样让它涨跌。",
@@ -697,8 +734,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -709,8 +746,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -721,8 +758,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -733,8 +770,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
@@ -744,8 +781,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "世界大型企业研究会：美国消费者信心“暴跌”",
@@ -754,9 +791,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
         },
         {
           "title": "OpenAI推出面向科学家的全新工具Prism",
@@ -810,6 +847,17 @@
           "time_info": "[02时45分 ~ 03时51分]"
         },
         {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时49分 ~ 07时47分]"
+        },
+        {
           "title": "OpenAI：PRISM将很快面向使用ChatGPT商业版、团队版、企业版和教育版计划的组织开放。",
           "url": "https://flash.jin10.com/detail/20260128021207935800",
           "source": "金十数据",
@@ -832,17 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时31分]"
-        },
-        {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时27分]"
         },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
@@ -959,8 +996,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
@@ -973,19 +1010,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
-        },
-        {
-          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
-          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "以女子看电视发现自己“死”在伊朗",
@@ -997,11 +1023,23 @@
             20,
             29,
             25,
-            18
+            18,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 07时47分]"
+        },
+        {
+          "title": "以色列女子看电视，发现自己“死”在伊朗，照片出现在以媒报道中",
+          "url": "https://news.ifeng.com/c/8qG8qjHMZc1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗总统与沙特王储通话。",
@@ -1036,8 +1074,21 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时47分]"
+        },
+        {
+          "title": "伊朗官员称已对霍尔木兹海峡进行实时监控",
+          "url": "https://flash.jin10.com/detail/20260128060624787800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时27分]"
+          "time_info": "[06时49分 ~ 07时47分]"
         },
         {
           "title": "伊朗总统与沙特王储通电话。（伊朗媒体IRNA）",
@@ -1050,18 +1101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时32分]"
-        },
-        {
-          "title": "伊朗官员称已对霍尔木兹海峡进行实时监控",
-          "url": "https://flash.jin10.com/detail/20260128060624787800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时27分]"
         },
         {
           "title": "美国被曝向以色列通报对伊朗行动准备进展",
@@ -1195,8 +1234,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -1218,8 +1257,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -1230,8 +1269,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时27分]"
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时47分]"
+        },
+        {
+          "title": "“耐心资本+创新保单”两端发力，险资探索服务硬科技新模式",
+          "url": "https://wallstreetcn.com/livenews/3045014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时47分]"
         },
         {
           "title": "希捷科技第二财季营收28.3亿美元，分析师预期27.5亿美元。",
@@ -1258,19 +1310,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时31分 ~ 04时51分]"
-        },
-        {
-          "title": "“耐心资本+创新保单”两端发力，险资探索服务硬科技新模式",
-          "url": "https://wallstreetcn.com/livenews/3045014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时27分]"
         },
         {
           "title": "美国副总统万斯上周在华盛顿特区威胁韩国总理。 万斯警告称，韩方勿要针对美国科技公司。 也不要针对电商Coupang。（华尔街日报）",
@@ -1408,6 +1447,19 @@
           "time_info": "[05时22分 ~ 05时44分]"
         },
         {
+          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3045008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时47分]"
+        },
+        {
           "title": "德州仪器四季度营收44.2亿美元，分析师预期44.3亿美元。 预计一季度营收43.2亿-46.8亿美元，分析师预期44.2亿美元。 德州仪器（TXN）美股盘后涨5%。",
           "url": "https://wallstreetcn.com/livenews/3044985",
           "source": "华尔街见闻-快讯",
@@ -1418,19 +1470,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时22分 ~ 06时27分]"
-        },
-        {
-          "title": "德州仪器（TXN）美股盘后涨幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3045008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时27分]"
         },
         {
           "title": "周二（1月27日），韩元兑美元最终涨0.27%，报1437.78韩元。 美国总统特朗普周一美股盘后威胁将韩国汽车等关税从15%提高至25%，韩元随后低开，全天持续走高。",
@@ -1457,6 +1496,17 @@
           "time_info": "[06时27分 ~ 06时49分]"
         },
         {
+          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
+          "url": "https://www.cls.cn/detail/2271921",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时47分]"
+        },
+        {
           "title": "半导体ETF收涨2.1%，领跑美股行业ETF，标普保健板块跌超1.6%",
           "url": "https://wallstreetcn.com/livenews/3045000",
           "source": "华尔街见闻-快讯",
@@ -1467,17 +1517,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 06时49分]"
-        },
-        {
-          "title": "美股收盘：六巨头走强标普创新高 美光等存储股重拾涨势",
-          "url": "https://www.cls.cn/detail/2271921",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
@@ -1611,8 +1650,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -1623,8 +1662,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         },
         {
           "title": "如何评价 DeepSeek-OCR-2 模型？",
@@ -1634,11 +1673,12 @@
             2,
             3,
             5,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 07时47分]"
         }
       ]
     },
@@ -1657,8 +1697,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时44分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[02时44分 ~ 07时47分]"
         },
         {
           "title": "黄金价格大涨又大跌，是走还是留？",
@@ -1682,8 +1722,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时27分]"
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时47分]"
         }
       ]
     },
