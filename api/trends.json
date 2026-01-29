@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T10:24:01.297389+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-01-29T12:19:02.071540+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -91,8 +91,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 12时19分]"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://wallstreetcn.com/livenews/3046082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
+          "url": "https://www.cls.cn/detail/2273332",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 12时19分]"
         },
         {
           "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
@@ -130,6 +153,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 02时43分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 12时19分]"
         },
         {
           "title": "报道：特朗普司法部针对鲍威尔的调查仍在继续，美联储尚未履行传票要求",
@@ -203,17 +238,6 @@
           "time_info": "[01时36分 ~ 02时43分]"
         },
         {
-          "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
-          "url": "https://www.cls.cn/detail/2273332",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢比尔·阿克曼。",
           "url": "https://wallstreetcn.com/livenews/3045720",
           "source": "华尔街见闻-快讯",
@@ -236,17 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时43分]"
-        },
-        {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
         },
         {
           "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
@@ -283,6 +296,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时43分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
         },
         {
           "title": "特朗普政府将召集高管，讨论加密货币立法。 白宫将于下周一会见银行业高管和加密货币行业高管。（路透）",
@@ -368,7 +403,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -464,7 +499,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "各地年货市场消费火热",
@@ -502,8 +537,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 10时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 12时19分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -583,6 +618,17 @@
           "time_info": "[07时30分 ~ 07时53分]"
         },
         {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
           "title": "美联储主席鲍威尔新闻发布会开场白：美国经济在去年按稳健的速度扩张。 进入2026年的美国经济根基是稳固的。 失业率在一定程度上出现企稳迹象。 消费者开始一直具有韧性。 企业投资继续扩大。",
           "url": "https://wallstreetcn.com/livenews/3045774",
           "source": "华尔街见闻-快讯",
@@ -631,11 +677,12 @@
           "url": "https://wallstreetcn.com/articles/3764410",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 12时19分]"
         },
         {
           "title": "AI还原尼帕病毒传播链",
@@ -707,6 +754,17 @@
           "time_info": "[05时33分 ~ 06时31分]"
         },
         {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
           "title": "特斯拉将投资20亿美元购买XAI公司的E系列优先股。",
           "url": "https://flash.jin10.com/detail/20260129051210358800",
           "source": "金十数据",
@@ -724,7 +782,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -760,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时37分"
+        },
+        {
+          "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3046069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
         },
         {
           "title": "行业咨询公司CRU Group预计，2026年全球铜实际均价将为5.12美元/磅。 关键驱动因素包括中国和全球对精炼铜的消费需求的增长。 预计全球2026年铜消费将增长3%左右。",
@@ -817,6 +886,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "Meta Platforms的CEO扎克伯格：未来的那些AI机会包括广告和订阅。",
           "url": "https://wallstreetcn.com/livenews/3045861",
           "source": "华尔街见闻-快讯",
@@ -842,7 +922,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -910,6 +990,28 @@
           "time_info": "[00时42分 ~ 07时53分]"
         },
         {
+          "title": "北京市第1000台人形机器人下线",
+          "url": "https://wallstreetcn.com/livenews/3046086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "民政部：到2030年民政科技创新体制机制不断健全， 突破一批关键核心技术",
+          "url": "https://wallstreetcn.com/livenews/3046084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（1月28日），美国科技股七巨头（Magnificent 7）指数涨0.22%，报209.62点，整体呈现出V形反转行情，美联储发布决议声明后持续走高。 “超大”市值科技股指数涨0.04%，报398.55点，跳空高开之后持续回吐涨幅并多次转跌。",
           "url": "https://wallstreetcn.com/livenews/3045853",
           "source": "华尔街见闻-快讯",
@@ -927,7 +1029,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -979,6 +1081,17 @@
           "time_info": "[05时33分 ~ 06时31分]"
         },
         {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.32%，报7892.01点。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，中概互联网指数ETF（KWEB）收涨0.53%，中国科技指数ETF（CQQQ）收涨0.10%。 XtrackersHarvest中证50（ASHS）收跌0.12%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%。",
           "url": "https://wallstreetcn.com/livenews/3045827",
           "source": "华尔街见闻-快讯",
@@ -1019,7 +1132,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -1074,7 +1187,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -1107,7 +1220,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -1118,7 +1231,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         }
@@ -1126,7 +1239,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -1191,6 +1304,19 @@
           "time_info": "[06时31分 ~ 07时53分]"
         },
         {
+          "title": "伊朗副外长：做好200%的自卫准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 12时19分]"
+        },
+        {
           "title": "伊朗总统宣布启动紧急状态",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -1202,18 +1328,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时42分 ~ 04时37分]"
-        },
-        {
-          "title": "伊朗副外长：做好200%的自卫准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时29分 ~ 10时24分]"
         },
         {
           "title": "哈梅内伊高级顾问：伊朗对美军事行动的回应将是“史无前例的”",
@@ -1240,13 +1354,24 @@
           "time_info": "[00时43分 ~ 01时36分]"
         },
         {
+          "title": "美媒：伊朗拒绝就民用铀浓缩和导弹项目妥协",
+          "url": "https://wallstreetcn.com/livenews/3046076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
           "title": "伊朗外长称伊朗武装力量“随时准备扣动扳机”",
           "url": "https://wallstreetcn.com/livenews/3046000",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
         },
@@ -1398,11 +1523,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 10时24分]"
+          "appearance_count": 6,
+          "time_info": "[07时52分 ~ 12时19分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -1566,7 +1692,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1620,8 +1746,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 10时24分]"
+          "appearance_count": 19,
+          "time_info": "[00时42分 ~ 12时19分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1648,6 +1774,17 @@
           "time_info": "[02时42分 ~ 07时53分]"
         },
         {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时23分 ~ 12时19分]"
+        },
+        {
           "title": "渣打：金价任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
@@ -1658,17 +1795,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 10时24分]"
-        },
-        {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
         },
         {
           "title": "金价",
@@ -1691,6 +1817,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时52分 ~ 07时53分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
+        },
+        {
+          "title": "金价银价暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时18分 ~ 12时19分]"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
