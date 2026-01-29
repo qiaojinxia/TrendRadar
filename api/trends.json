@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T16:02:24.398325+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-01-29T17:08:19.114247+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 54,
+      "match_count": 59,
       "titles": [
         {
           "title": "各地年货市场消费火热",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 17时08分]"
         },
         {
           "title": "史上最强业绩！SK海力士Q4营业利润翻倍至19.2万亿韩元 ，AI内存需求持续旺盛| 财报见闻",
@@ -125,6 +125,19 @@
           "time_info": "[00时42分 ~ 07时53分]"
         },
         {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时08分]"
+        },
+        {
           "title": "人类基因密码被谷歌AI破解",
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
           "source": "bilibili 热搜",
@@ -135,19 +148,6 @@
             25,
             15,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时02分]"
-        },
-        {
-          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
-          "url": "https://www.cls.cn/detail/2273507",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -174,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "【国务院办公厅印发《加快培育服务消费新增长点工作方案》】国务院办公厅日前印发《加快培育服务消费新增长点工作方案》（以下简称《工作方案》），旨在优化和扩大服务供给，促进服务消费提质惠民，为经济高质量发展提供有力支撑。 《工作方案》提出3方面支持政策。一是聚焦交通服务、家政服务、网络视听服务、旅居服务、汽车后市场服务、入境消费等重点领域，从优化服务供给、推进先行先试、创新消费场景、加强人才培养等方面发力，激发发展活力。二是聚焦演出服务、体育赛事服务、情绪式体验式服务等潜力领域，从健全激励机制、优化安全管理、培育优质品牌、建设平台载体等方面着手，培育发展动能。三是通过健全标准体系、加强信用建设、强化财政金融支持等，加强对培育服务消费新增长点的支持保障。 《工作方案》要求各地区、各有关部门加强政策设计，创新支持举措，优化服务消费环境，根据需要制定出台具体服务消费领域支持政策。",
+          "url": "https://wallstreetcn.com/livenews/3046317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -313,6 +324,18 @@
           "time_info": "[13时29分 ~ 13时31分]"
         },
         {
+          "title": "阿里平头哥新款AI芯片正式亮相！",
+          "url": "https://www.cls.cn/detail/2273750",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时08分]"
+        },
+        {
           "title": "A股油气资源股午后持续冲高，准油股份2连板，石化油服、中曼石油涨停，通源石油涨超15%，科力股份涨超10%，潜能恒信、洲际油气、中油工程、贝肯能源、海油发展跟涨。",
           "url": "https://wallstreetcn.com/livenews/3046114",
           "source": "华尔街见闻-快讯",
@@ -440,17 +463,6 @@
           "time_info": "04时37分"
         },
         {
-          "title": "阿里平头哥新款AI芯片正式亮相！",
-          "url": "https://www.cls.cn/detail/2273750",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "鲍威尔：零售商们说，低收入消费者考虑的是节省开销。",
           "url": "https://wallstreetcn.com/livenews/3045804",
           "source": "华尔街见闻-快讯",
@@ -484,13 +496,24 @@
           "time_info": "12时19分"
         },
         {
+          "title": "A股三大股指涨跌互现",
+          "url": "https://www.toutiao.com/trending/7600659485685907497/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-01-29）",
           "url": "https://flash.jin10.com/detail/20260129152944545800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -504,6 +527,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "据报道，阿里巴巴争取到小鹏汽车为其新AI芯片的客户。",
+          "url": "https://wallstreetcn.com/livenews/3046293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "阿里自研 AI 芯片亮相，由通义实验室、阿里云、平头哥组成的「通云哥」体系，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2000172562634790267",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "A股白酒股持续走强，皇台酒业封涨停，舍得酒业、酒鬼酒、泸州老窖、水井坊、贵州茅台均涨超5%。",
@@ -526,6 +571,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "软银任命首席运营官Jun Shimba为董事长，4月1日起生效。现任董事长Yasuyuki Imai将担任特别顾问。",
+          "url": "https://wallstreetcn.com/livenews/3046285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "从技术突破到价值落地，智能体开启AI进化新格局",
@@ -589,7 +645,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -641,7 +697,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -725,11 +781,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时23分 ~ 16时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时23分 ~ 17时08分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -755,11 +812,12 @@
             10,
             9,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时08分]"
         },
         {
           "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
@@ -771,8 +829,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时08分]"
         },
         {
           "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
@@ -1120,6 +1178,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "特朗普暗示可以操控美元汇率",
+          "url": "https://www.toutiao.com/trending/7600301655842291754/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "美国财长贝森特：总统特朗普希望民主党不要让政府（在1月30日）关门。",
           "url": "https://wallstreetcn.com/livenews/3045679",
           "source": "华尔街见闻-快讯",
@@ -1145,7 +1214,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -1222,8 +1291,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时08分]"
         },
         {
           "title": "北京市第1000台人形机器人下线",
@@ -1340,6 +1409,17 @@
           "time_info": "[05时33分 ~ 06时31分]"
         },
         {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 17时08分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.32%，报7892.01点。 热门中概股里，新东方初步收涨4.9%，比亚迪、理想涨超2%，阿里、网易、小米、美团涨超1%，蔚来跌超0.7%，文远知行跌1.9%，拼多多跌3.8%。 ETF中，中概互联网指数ETF（KWEB）收涨0.53%，中国科技指数ETF（CQQQ）收涨0.10%。 XtrackersHarvest中证50（ASHS）收跌0.12%，德银嘉实沪深300指数ETF（ASHR）收跌0.33%。",
           "url": "https://wallstreetcn.com/livenews/3045827",
           "source": "华尔街见闻-快讯",
@@ -1396,6 +1476,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "市场消息：特斯拉正在加速从电动汽车领域向机器人领域的转型。",
+          "url": "https://flash.jin10.com/detail/20260129170107195800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "特斯拉(TSLA.O)：将进一步投资自主机器人基础设施。",
           "url": "https://flash.jin10.com/detail/20260129050817558800",
           "source": "金十数据",
@@ -1413,7 +1504,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1424,7 +1515,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -1440,15 +1531,26 @@
           "time_info": "07时30分"
         },
         {
-          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
-          "url": "https://www.cls.cn/detail/2273653",
-          "source": "财联社热门",
+          "title": "舜宇光学科技：预计2025年归母净利润同比增长70%-75%",
+          "url": "https://wallstreetcn.com/livenews/3046301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "特斯拉重大战略调整，将停产 Model S 和 X，生产线转向发力 Optimus 机器人，怎样解读？",
+          "url": "https://www.zhihu.com/question/2000138565615576779",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "17时08分"
         },
         {
           "title": "标普500指数收跌0.57点，跌幅0.01%，报5978.03点。 道琼斯工业平均指数收涨12.19点，涨幅0.02%，报49015.60点。 纳斯达克综合指数（纳指）收涨40.349点，涨幅0.17%，报23857.447点。 纳斯达克100指数收涨83.046点，涨幅0.32%，报26022.79点。 纳斯达克生物科技指数收跌1.68%，报5894.92点。 费城半导体指数收涨2.34%，报8306.742点，继续创收盘历史新高。 费城证交所KBW银行指数收跌0.47%，报165.66点。",
@@ -1828,7 +1930,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1890,6 +1992,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "微软(MSFT.O)美股盘前跌5.6%，此前该公司报告第二季度资本支出大幅跃升近66%，但云收入表现不及预期。",
+          "url": "https://flash.jin10.com/detail/20260129170409612800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3046315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "美股三大指数短线波动不大。",
@@ -1960,6 +2084,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时31分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)美股盘前涨7.3%，此前该公司预测第一季度收入高于预期，并上调了年度资本支出计划。",
+          "url": "https://flash.jin10.com/detail/20260129170125268800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -2126,6 +2261,19 @@
           "time_info": "[02时42分 ~ 07时53分]"
         },
         {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时18分 ~ 17时08分]"
+        },
+        {
           "title": "渣打：金价任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
@@ -2136,19 +2284,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时29分 ~ 10时24分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时18分 ~ 16时02分]"
         },
         {
           "title": "金价",
@@ -2179,7 +2314,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -2230,6 +2365,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
+          "url": "https://flash.jin10.com/detail/20260129021221208800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "谷歌DeepMind登Nature封面",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CDeepMind%E7%99%BBNature%E5%B0%81%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -2265,34 +2439,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
-          "url": "https://flash.jin10.com/detail/20260129021221208800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
-        },
-        {
-          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3045867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
         }
       ]
     },
