@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T05:28:56.833939+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-02-02T05:50:24.762863+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -62,8 +62,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -84,8 +84,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -122,26 +122,15 @@
           "time_info": "[00时35分 ~ 03时47分]"
         },
         {
-          "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
-          "url": "https://flash.jin10.com/detail/20260202042610304800",
+          "title": "特朗普：原本可解决拖欠联合国会费的问题",
+          "url": "https://flash.jin10.com/detail/20260202051310002800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "特朗普称希望与伊朗“能够达成协议”",
-          "url": "https://flash.jin10.com/detail/20260202040920171800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "05时50分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -149,11 +138,36 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时32分 ~ 05时50分]"
+        },
+        {
+          "title": "据华盛顿邮报：一位伊朗外交官表示，在目前情况下，任何谈判都不可能。特朗普提出的谈判条件既不切实际，也毫无谈判的余地。",
+          "url": "https://flash.jin10.com/detail/20260202042610304800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时32分 ~ 05时28分]"
+          "time_info": "[05时28分 ~ 05时50分]"
+        },
+        {
+          "title": "特朗普称希望与伊朗“能够达成协议”",
+          "url": "https://flash.jin10.com/detail/20260202040920171800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 05时50分]"
         }
       ]
     },
@@ -169,8 +183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "微信群、朋友圈重现红包雨 腾讯元宝10亿红包「AI入口战」正式开打",
@@ -180,8 +194,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -193,8 +207,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "海外市场持续动荡，A股如何应对？十大券商策略来了",
@@ -207,8 +221,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
@@ -218,8 +232,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "应声20CM涨停！A股年报行情纵深推进，11家上市公司净利最高同比预增超10倍",
@@ -229,8 +243,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
@@ -240,8 +254,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "龙头五连板 本周披露并购重组进展的A股名单一览",
@@ -251,8 +265,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -262,8 +276,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -273,8 +287,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "好想来被消费者质疑「称不准」，回应称系新员工操作失误，这种情况可以要求哪些赔偿？你遇到过类似情况吗？",
@@ -303,8 +317,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
@@ -315,8 +329,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
@@ -326,8 +340,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈，讨论对伊朗打击行动",
@@ -337,8 +351,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
@@ -347,11 +361,12 @@
           "ranks": [
             16,
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈 讨论对伊朗打击行动",
@@ -383,22 +398,24 @@
           "url": "https://flash.jin10.com/detail/20260202044309941800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 05时50分]"
         },
         {
           "title": "美方释放与伊朗谈判信号 双方或在土耳其举行会晤",
           "url": "https://flash.jin10.com/detail/20260202042728495800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 05时50分]"
         },
         {
           "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
@@ -427,8 +444,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "何小鹏回应IRON机器人走猫步时摔倒",
@@ -438,11 +455,12 @@
             27,
             24,
             23,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时29分 ~ 05时50分]"
         }
       ]
     },
@@ -458,8 +476,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -472,8 +490,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 05时28分]"
+          "appearance_count": 9,
+          "time_info": "[01时29分 ~ 05时50分]"
         }
       ]
     },
@@ -489,8 +507,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 05时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 05时50分]"
         }
       ]
     }
