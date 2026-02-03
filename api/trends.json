@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T13:37:19.476368+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-02-03T14:57:42.461447+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 14时57分]"
         },
         {
           "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
@@ -26,7 +26,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -42,6 +42,19 @@
           "time_info": "07时38分"
         },
         {
+          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
+          "url": "https://www.cls.cn/detail/2278350",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
+        },
+        {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
           "url": "https://flash.jin10.com/detail/20260203011746385800",
           "source": "金十数据",
@@ -53,18 +66,6 @@
           "time_info": "01时45分"
         },
         {
-          "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
-          "url": "https://www.cls.cn/detail/2278350",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
-        },
-        {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2278428",
           "source": "财联社热门",
@@ -74,8 +75,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时57分]"
         },
         {
           "title": "据纽约时报：特朗普放弃向哈佛大学追讨2亿美元款项的要求。",
@@ -112,18 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时57分]"
-        },
-        {
-          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2001948735127643511",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时37分]"
         },
         {
           "title": "美国总统特朗普：古巴是个失败国家，他们从委内瑞拉那里拿不到任何钱。",
@@ -291,6 +293,17 @@
           "time_info": "10时30分"
         },
         {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "墨西哥总统辛鲍姆：在与美国总统特朗普的通话中并未讨论和平委员会。",
           "url": "https://flash.jin10.com/detail/20260202231935079800",
           "source": "金十数据",
@@ -407,7 +420,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -492,7 +505,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -533,6 +546,19 @@
           "time_info": "[00时02分 ~ 01时45分]"
         },
         {
+          "title": "SpaceX官宣收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
+        },
+        {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
           "source": "澎湃新闻",
@@ -545,17 +571,17 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
-          "title": "SpaceX官宣收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            8,
+            9,
+            6,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
         },
         {
           "title": "新加坡新预算案或聚焦长期发展 民生及AI支持力度受关注",
@@ -569,19 +595,6 @@
           "time_info": "10时30分"
         },
         {
-          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
-          "url": "https://www.cls.cn/detail/2278467",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
-        },
-        {
           "title": "上海今年新增就业60万人以上，将构建AI对就业影响的研判应对机制",
           "url": "https://wallstreetcn.com/livenews/3048724",
           "source": "华尔街见闻-快讯",
@@ -593,15 +606,30 @@
           "time_info": "10时30分"
         },
         {
-          "title": "A股工程机械板块午后走强，建设机械涨停，中联重科、安徽合力、恒立液压、山推股份、三一重工跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3048835",
-          "source": "华尔街见闻-快讯",
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
+        },
+        {
+          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
+          "url": "https://www.cls.cn/detail/2278442",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至0.8%，OpenAI的CEO Altman“驳斥”媒体关于该公司对英伟达供应速度不满的报道。",
@@ -628,19 +656,6 @@
           "time_info": "[07时09分 ~ 07时38分]"
         },
         {
-          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3764779",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：我们很乐意与英伟达(NVDA.O)合作，他们生产的AI芯片是全球最出色的。我们希望能长期成为他们的大客户。",
           "url": "https://flash.jin10.com/detail/20260203063954637800",
           "source": "金十数据",
@@ -653,17 +668,28 @@
           "time_info": "[07时09分 ~ 07时38分]"
         },
         {
-          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
-          "url": "https://www.cls.cn/detail/2278442",
-          "source": "财联社热门",
+          "title": "A股工程机械板块午后走强，建设机械涨停，中联重科、安徽合力、恒立液压、山推股份、三一重工跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3048835",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9,
-            8
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时57分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时57分]"
         },
         {
           "title": "私募解读A股2月“开门黑”",
@@ -689,6 +715,18 @@
           "time_info": "[10时29分 ~ 12时28分]"
         },
         {
+          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
+          "url": "https://www.zhihu.com/question/2001947312226848988",
+          "source": "知乎",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时57分]"
+        },
+        {
           "title": "OpenAI的CEO Altman：英伟达制造全球最好的人工智能（AI）芯片。 希望在很长的时期内成为“超级大客户”（Gigantic customer）。",
           "url": "https://wallstreetcn.com/livenews/3048577",
           "source": "华尔街见闻-快讯",
@@ -701,16 +739,27 @@
           "time_info": "[07时09分 ~ 07时38分]"
         },
         {
-          "title": "解读SpaceX收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
+          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
+          "url": "https://www.cls.cn/detail/2278753",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            14
+            12,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时37分]"
+          "time_info": "[13时37分 ~ 14时57分]"
+        },
+        {
+          "title": "又一位AI亿万富豪诞生了",
+          "url": "https://www.toutiao.com/trending/7602226721282457650/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时57分]"
         },
         {
           "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
@@ -736,17 +785,6 @@
           "time_info": "[10时29分 ~ 10时30分]"
         },
         {
-          "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
-          "url": "https://www.zhihu.com/question/2001947312226848988",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "XAI已告知投资者，该公司去年前九个月“烧掉了”约95亿美元的现金。",
           "url": "https://flash.jin10.com/detail/20260203101841255800",
           "source": "金十数据",
@@ -764,7 +802,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -780,17 +818,6 @@
           "time_info": "10时30分"
         },
         {
-          "title": "又一位AI亿万富豪诞生了",
-          "url": "https://www.toutiao.com/trending/7602226721282457650/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "消息人士称，XAI与SpaceX已将股份交换比例定为0.1433。",
           "url": "https://flash.jin10.com/detail/20260203101620083800",
           "source": "金十数据",
@@ -802,26 +829,26 @@
           "time_info": "10时30分"
         },
         {
-          "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
-          "url": "https://www.cls.cn/detail/2278753",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "穆迪：印度制药和消费电子此前已免于征收50%的高额关税；不太可能受到关税下调的影响。",
           "url": "https://flash.jin10.com/detail/20260203132319829800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
+          "url": "https://www.zhihu.com/question/2001346637126136295",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "马上评｜上海定制消费，凭啥吸引越来越多“洋面孔”",
@@ -846,13 +873,24 @@
           "time_info": "12时28分"
         },
         {
+          "title": "A股贵金属板块回升，西部黄金撬开跌停，中金黄金跌幅收窄至6%以内。",
+          "url": "https://wallstreetcn.com/livenews/3048844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
           "title": "OpenAI将重点放在ChatGPT的研发上，而非进行更长期的研究，这导致公司高层人员离职。",
           "url": "https://flash.jin10.com/detail/20260203130436001800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -874,7 +912,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -904,7 +942,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
@@ -973,11 +1011,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -1003,17 +1042,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬3日在社交媒体上说，他已指示外交部长阿拉格齐秉持尊严、审慎和务实的原则同美国进行“公平公正谈判”。 (新华社)",
-          "url": "https://wallstreetcn.com/livenews/3048837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
         },
         {
           "title": "乌克兰将伊朗伊斯兰革命卫队列为“恐怖组织”",
@@ -1048,6 +1076,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时29分 ~ 13时37分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬3日在社交媒体上说，他已指示外交部长阿拉格齐秉持尊严、审慎和务实的原则同美国进行“公平公正谈判”。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3048837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时57分]"
         },
         {
           "title": "美国总统特使将与伊朗外长在土耳其会晤",
@@ -1140,12 +1180,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "阿联酋总统外交顾问表示，核问题等关键议题需要与伊朗共同解决。",
+          "url": "https://flash.jin10.com/detail/20260203141639725800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "阿联酋总统外交顾问表示，伊朗需要达成协议并重建其经济。",
+          "url": "https://flash.jin10.com/detail/20260203141559416800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
+        },
+        {
+          "title": "阿联酋总统外交顾问表示，伊朗需要达成协议。",
+          "url": "https://flash.jin10.com/detail/20260203141533913800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         }
       ]
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "红包老奶大战机器人",
@@ -1156,11 +1240,23 @@
             9,
             5,
             8,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 13时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 14时57分]"
+        },
+        {
+          "title": "当硬核科技遇上柔软归途",
+          "url": "https://www.douyin.com/hot/2388109",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时57分]"
         },
         {
           "title": "能生长能上天的中国机器人来了",
@@ -1187,17 +1283,6 @@
           "time_info": "12时28分"
         },
         {
-          "title": "当硬核科技遇上柔软归途",
-          "url": "https://www.douyin.com/hot/2388109",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "恒生科技指数转跌。",
           "url": "https://wallstreetcn.com/livenews/3048721",
           "source": "华尔街见闻-快讯",
@@ -1207,6 +1292,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时30分"
+        },
+        {
+          "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3048828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 14时57分]"
         },
         {
           "title": "险资1月“淘金”科技股 参与调研机构大增超两成",
@@ -1243,17 +1340,6 @@
           "time_info": "12时28分"
         },
         {
-          "title": "A股机器人概念股震荡走强，晋拓股份午后涨停，思看科技、科达制造、丰立智能、长盈精密、联得装备等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3048828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
           "url": "https://flash.jin10.com/detail/20260203010335671800",
           "source": "金十数据",
@@ -1274,6 +1360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "A股算力租赁板块持续拉升，南凌科技盘中创新高，利通电子触及涨停，顺网科技涨超15%，网宿科技涨超10%，光环新网、青云科技、优刻得、创业黑马、首都在线跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3048850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时57分"
         },
         {
           "title": "前阿里高管加入机器人租赁平台擎天租",
@@ -1304,7 +1401,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -1374,6 +1471,17 @@
           "time_info": "[00时02分 ~ 12时28分]"
         },
         {
+          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3764730",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时57分]"
+        },
+        {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -1400,15 +1508,16 @@
           "time_info": "[00时56分 ~ 10时30分]"
         },
         {
-          "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3764730",
-          "source": "华尔街见闻",
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
           "ranks": [
-            1
+            12,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时37分]"
+          "appearance_count": 6,
+          "time_info": "[07时38分 ~ 14时57分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -1420,18 +1529,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时08分 ~ 07时38分]"
-        },
-        {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 13时37分]"
         },
         {
           "title": "AES（美国弗吉尼亚州电力巨头）美股盘后涨9%。",
@@ -1483,8 +1580,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时28分 ~ 13时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 14时57分]"
         },
         {
           "title": "金价银价反弹",
