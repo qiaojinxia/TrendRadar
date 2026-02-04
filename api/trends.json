@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T02:10:15.439742+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-02-05T03:24:41.095255+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -46,11 +46,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -64,17 +65,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3050048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
           "title": "习近平同美国总统特朗普通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
           "source": "澎湃新闻",
@@ -83,19 +73,32 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊计划今天下午会见总统特朗普。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3050048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时24分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时24分]"
         },
         {
           "title": "美国总统特朗普考虑签署关于“加州欺诈工作组”的命令。 副总统万斯将牵头这个工作组的工作。（CBS）",
@@ -132,6 +135,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://wallstreetcn.com/livenews/3050053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
           "title": "市场消息：提交的文件显示，主要汽车制造商希望修改特朗普政府提出的燃油经济性提案，但支持大幅降低严格标准的计划。",
           "url": "https://flash.jin10.com/detail/20260205004123510800",
           "source": "金十数据",
@@ -143,13 +157,24 @@
           "time_info": "01时26分"
         },
         {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://flash.jin10.com/detail/20260205021201236800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
           "url": "https://flash.jin10.com/detail/20260205011600614800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -160,7 +185,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -185,6 +210,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "美国财长贝森特：对特朗普是否有权因政策分歧解雇美联储主席或委员会成员一事不予置评。我认为美联储是一个独立机构。",
+          "url": "https://flash.jin10.com/detail/20260205015923547800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "据Politico：美国众议院议长约翰逊计划今天下午会见美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260205015333473800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -200,8 +247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -212,8 +259,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -224,19 +271,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
           "url": "https://www.zhihu.com/question/2002302871203440223",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -246,8 +294,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "媒体：A股交易生态巨变",
@@ -256,11 +304,12 @@
           "ranks": [
             9,
             10,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -270,8 +319,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "软件股大跌之际，黄仁勋驳斥“AI替代”论：这是世界上最不合逻辑的事",
@@ -282,19 +331,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时24分]"
         },
         {
           "title": "马斯克团队光伏调研消息引爆A股",
           "url": "https://www.toutiao.com/trending/7603022960940551734/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 02时10分]"
+          "appearance_count": 3,
+          "time_info": "[02时09分 ~ 03时24分]"
         },
         {
           "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
@@ -314,7 +364,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -355,18 +405,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -376,19 +427,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
-        },
-        {
-          "title": "伊朗高级官员：美国执意就“非核”问题进行讨论，这可能会危及在阿曼举行的会谈。德黑兰“已做好充分准备，只就核问题与美国举行会谈”。",
-          "url": "https://flash.jin10.com/detail/20260205014818035800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "美国国务卿鲁比奥：如果伊朗方面想在星期五会面，我们已经准备好了。",
@@ -413,6 +453,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "伊朗消息人士：美方泄露谈判取消表明其缺乏诚意",
+          "url": "https://wallstreetcn.com/livenews/3050065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
           "title": "美国国务卿鲁比奥：伊朗谈判的地点仍在商定中。",
           "url": "https://flash.jin10.com/detail/20260204234208690800",
           "source": "金十数据",
@@ -422,6 +473,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗高级官员：美国执意就“非核”问题进行讨论，这可能会危及在阿曼举行的会谈。德黑兰“已做好充分准备，只就核问题与美国举行会谈”。",
+          "url": "https://flash.jin10.com/detail/20260205014818035800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时24分]"
         },
         {
           "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
@@ -464,7 +527,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -497,7 +560,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         }
@@ -507,6 +570,30 @@
       "keyword_group": "科技 机器人",
       "match_count": 6,
       "titles": [
+        {
+          "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
+          "url": "https://www.cls.cn/detail/2280565",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
+        },
+        {
+          "title": "机器人表演碰倒老人 双双倒地不起",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E7%A2%B0%E5%80%92%E8%80%81%E4%BA%BA+%E5%8F%8C%E5%8F%8C%E5%80%92%E5%9C%B0%E4%B8%8D%E8%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
+        },
         {
           "title": "纳斯达克100指数跌幅扩大至2%。成分股AMD跌16.8%，Applovin跌14.2%，Palantir跌12.1%，美光科技跌9.9%、西部数据跌9.3%，应用材料、Strategy跌约7.3%，核电股CEG跌6.5%，星巴克目前涨4%，特许通讯涨5.6%，GEHC涨6.4%，ODFL涨6.6%，安进涨7.3%。 标普500指数跌0.7%，道指涨205点、涨幅0.4%，纳指跌418点跌幅1.8%。 费城半导体指数跌4.8%，银行指数涨1.3%，罗素2000指数跌0.9%。",
           "url": "https://wallstreetcn.com/livenews/3050023",
@@ -520,27 +607,16 @@
           "time_info": "[01时26分 ~ 02时10分]"
         },
         {
-          "title": "南向资金追踪｜净流入约134亿港元创近两周新高 大举加仓多只科技龙头",
-          "url": "https://www.cls.cn/detail/2280565",
-          "source": "财联社热门",
+          "title": "标普500指数下跌1%，科技板块跌超3%，电信板块跌2%。 道指涨幅收窄至0.1%，纳指跌2.29%，纳斯达克100指数跌2.44%，半导体指数重挫超6%。",
+          "url": "https://wallstreetcn.com/livenews/3050044",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            11
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
-        },
-        {
-          "title": "机器人表演碰倒老人 双双倒地不起",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A1%A8%E6%BC%94%E7%A2%B0%E5%80%92%E8%80%81%E4%BA%BA+%E5%8F%8C%E5%8F%8C%E5%80%92%E5%9C%B0%E4%B8%8D%E8%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时24分]"
         },
         {
           "title": "人形机器人表演碰到老人 双双倒地",
@@ -553,17 +629,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时26分]"
-        },
-        {
-          "title": "标普500指数下跌1%，科技板块跌超3%，电信板块跌2%。 道指涨幅收窄至0.1%，纳指跌2.29%，纳斯达克100指数跌2.44%，半导体指数重挫超6%。",
-          "url": "https://wallstreetcn.com/livenews/3050044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
@@ -591,8 +656,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -602,8 +667,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -614,8 +679,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 02时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 03时24分]"
         },
         {
           "title": "金十图示：2026年02月04日（周三）美股热门股票行情一览（美股盘中）",
@@ -624,7 +689,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
@@ -635,7 +700,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         }
@@ -652,7 +717,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         }
@@ -671,8 +736,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 02时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 03时24分]"
         }
       ]
     },
@@ -685,11 +750,12 @@
           "url": "https://wallstreetcn.com/livenews/3050043",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时24分]"
         }
       ]
     },
@@ -702,11 +768,12 @@
           "url": "https://wallstreetcn.com/livenews/3050039",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时24分]"
         }
       ]
     }
