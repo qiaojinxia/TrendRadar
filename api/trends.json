@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:32:45.785156+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-02-04T10:24:57.749597+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 48,
+      "match_count": 55,
       "titles": [
         {
           "title": "2026年首月A股新开492万户，高于2025所有月份，如何看这个数据？",
@@ -37,11 +37,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时24分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -131,6 +132,17 @@
           "time_info": "[00时15分 ~ 04时03分]"
         },
         {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
           "url": "https://flash.jin10.com/detail/20260204015701016800",
           "source": "金十数据",
@@ -153,13 +165,24 @@
           "time_info": "04时03分"
         },
         {
+          "title": "快递小哥代表反对行业春节「不打烊」，快递员想回家过年，消费者想春节收寄件，这俩需求该怎么平衡才合理？",
+          "url": "https://www.zhihu.com/question/2000618546749789504",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "AMD(AMD.O)CEO苏姿丰：不认为公司在下半年扩大AI芯片产能时会面临供应限制。",
           "url": "https://flash.jin10.com/detail/20260204065927401800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -184,6 +207,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时42分 ~ 10时24分]"
         },
         {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
@@ -235,18 +271,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时00分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时32分]"
         },
         {
           "title": "用户报告称，OpenAI出现故障。（DownDetector）",
@@ -380,6 +404,28 @@
           "time_info": "[04时02分 ~ 04时03分]"
         },
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "A股白酒股再度拉升，皇台酒业触及涨停，走出5连板，酒鬼酒、贵州茅台、泸州老窖、山西汾酒等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3049468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
           "url": "https://flash.jin10.com/detail/20260204033430684800",
           "source": "金十数据",
@@ -435,6 +481,28 @@
           "time_info": "04时03分"
         },
         {
+          "title": "创业板指跌超2%，沪指涨0.11%，深成指跌0.84%，算力硬件、半导体芯片、AI应用等方向跌幅居前，沪深京三市下跌个股近2400只。",
+          "url": "https://wallstreetcn.com/livenews/3049455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "美股爆发AI恐慌性抛售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：最终目标是实现全面的人工智能业务。",
           "url": "https://flash.jin10.com/detail/20260204013328056800",
           "source": "金十数据",
@@ -444,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.07%，深成指跌0.45%，半导体芯片、白酒、AI应用等方向跌幅居前，沪深京三市下跌个股近2800只。",
+          "url": "https://wallstreetcn.com/livenews/3049445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "沃尔玛市值首次突破1万亿美元 AI布局与高性价比推动增长",
@@ -570,7 +649,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -630,13 +709,24 @@
           "time_info": "06时00分"
         },
         {
+          "title": "据AXIOS网站：预计美国与伊朗的核谈判将于周五在阿曼举行。特朗普政府同意伊朗将谈判地点从土耳其移出的请求。",
+          "url": "https://flash.jin10.com/detail/20260204100640768800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "特朗普签署拨款法案，结束政府部分“停摆”",
           "url": "https://news.ifeng.com/c/8qRFXQoY4Em",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
         },
@@ -858,6 +948,17 @@
           "time_info": "[06时42分 ~ 07时32分]"
         },
         {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
           "url": "https://wallstreetcn.com/livenews/3049331",
           "source": "华尔街见闻-快讯",
@@ -891,6 +992,17 @@
           "time_info": "02时31分"
         },
         {
+          "title": "特朗普公布120亿美元“金库计划”",
+          "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "美国总统特朗普将于美国东部时间下午4:30（北京时间今日05:30）在椭圆形办公室现场签署政府资金法案。",
           "url": "https://flash.jin10.com/detail/20260204050958631800",
           "source": "金十数据",
@@ -911,6 +1023,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普又被告了 哈德逊河隧道工程陷入政治博弈泥潭",
+          "url": "https://flash.jin10.com/detail/20260204094350872800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "哥伦比亚总统佩特罗：已请求美国总统特朗普协助抓捕居住在海外的主要毒枭。",
@@ -944,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "特朗普称正与伊朗进行谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -1081,7 +1215,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
@@ -1097,6 +1231,17 @@
           "time_info": "[00时15分 ~ 07时32分]"
         },
         {
+          "title": "美军击落伊朗无人机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "【报道称伊朗炮艇逼近悬挂美国旗油轮】据美国媒体2月3日援引英国海上安保公司消息报道称，悬挂美国国旗的“Stena Imperative”号油轮在霍尔木兹海峡“一度遭到6艘伊朗炮艇逼近”。之后该油轮在一艘美国军舰护送下继续航行。报道称，这些炮艇通过无线电呼叫油轮，命令船长“关闭引擎并准备被登船”，但油轮加速并保持航向。预计这艘油轮将于2月5日抵达巴林的锡特拉港。据伊朗法尔斯通讯社报道，有船只“因未经许可进入伊朗领海”而被拦截。(CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3049255",
           "source": "华尔街见闻-快讯",
@@ -1106,6 +1251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        },
+        {
+          "title": "布油、WTI原油期货日内涨超1%。据AXIOS，美国同意伊朗的要求，将周五的会谈移至阿曼举行。",
+          "url": "https://wallstreetcn.com/livenews/3049479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "伊朗外交部：伊朗外长和阿曼外长通话，讨论了双边关系和地区局势，并交换了意见。",
@@ -1191,6 +1347,17 @@
           "time_info": "[02时31分 ~ 04时03分]"
         },
         {
+          "title": "美军击落伊朗无人机",
+          "url": "https://www.douyin.com/hot/2388820",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时24分]"
+        },
+        {
           "title": "伊朗外长同多国外长通电话 讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260204024839482800",
           "source": "金十数据",
@@ -1214,6 +1381,17 @@
           "time_info": "06时00分"
         },
         {
+          "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
+          "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "在美国军方表示击落了一架伊朗无人机之后，伊朗媒体Fars News称，一架伊朗无人机在国际水域完成了“侦察任务”。",
           "url": "https://flash.jin10.com/detail/20260204034020124800",
           "source": "金十数据",
@@ -1223,17 +1401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "英国海事风险管理集团Vanguard：该船只未进入伊朗内陆领海，由美国军舰护航。",
@@ -1346,6 +1513,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美方证实击落一架伊朗无人机",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "持续超3小时 以总理与美特使会晤讨论伊朗问题",
           "url": "https://flash.jin10.com/detail/20260204041251994800",
           "source": "金十数据",
@@ -1357,6 +1535,17 @@
           "time_info": "05时04分"
         },
         {
+          "title": "伊朗称失联无人机曾传回图片",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%A4%B1%E8%81%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9B%BE%E4%BC%A0%E5%9B%9E%E5%9B%BE%E7%89%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "美官员：美军击落一架逼近美国航母的伊朗无人机",
           "url": "https://flash.jin10.com/detail/20260204012457586800",
           "source": "金十数据",
@@ -1366,6 +1555,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "伊朗：一艘船非法进入伊朗领海",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%80%E8%89%98%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E4%BC%8A%E6%9C%97%E9%A2%86%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "油价期货延续涨势，WTI和布伦特原油期货价格均上涨逾1美元，此前有消息称，美军击落一架逼近美国海军航母的伊朗无人机。",
@@ -1426,8 +1626,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时24分]"
+        },
+        {
+          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时24分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -1441,17 +1652,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 05时04分]"
-        },
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "美股延续跌势，道指下跌1.00%。",
@@ -1476,6 +1676,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 06时42分]"
+        },
+        {
+          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
+          "url": "https://www.cls.cn/detail/2279689",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 10时24分]"
         },
         {
           "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
@@ -1545,17 +1757,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时32分"
         },
         {
           "title": "金十图示：2026年02月03日（周二）美股热门股票行情一览（美股盘中）",
@@ -1649,7 +1850,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "小鹏机器人假人疑云后再翻车，线下首秀摔趴被抬走，问题可能出在哪里？双足机器人保持平衡到底有多难？",
@@ -1658,11 +1859,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 07时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 10时24分]"
         },
         {
           "title": "红包老奶大战机器人",
@@ -1733,15 +1935,37 @@
           "time_info": "[03时31分 ~ 05时04分]"
         },
         {
+          "title": "半导体设备&机器人明星股绩后再创新高 财报全面碾压预期",
+          "url": "https://www.cls.cn/detail/2279679",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
           "url": "https://wallstreetcn.com/livenews/3049370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "A股算力硬件股震荡调整，新易盛、中际旭创跌近10%，广合科技、联特科技、东田微、剑桥科技等多股跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3049458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "芯片设计公司芯科科技盘后大涨40%，据英国金融时报报道，德州仪器正就收购芯科科技进行深入谈判，交易金额约70亿美元。",
@@ -1766,6 +1990,17 @@
           "time_info": "06时00分"
         },
         {
+          "title": "恒生科技指数日内跌幅扩大至1.3%。金蝶国际跌超8%，华虹半导体、携程、金山软件跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3049450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "标普500指数收跌58.63点，跌幅0.84%，报6917.81点。 道琼斯工业平均指数收跌166.67点，跌幅0.34%，报49240.99点。 纳斯达克综合指数（纳指）收跌336.922点，跌幅1.43%，报23255.185点。 纳斯达克100指数收跌399.993点，跌幅1.55%，报25338.21点。 纳斯达克生物科技指数收跌0.07%，报5913.46点。 费城半导体指数收跌2.07%，报7966.334点。 费城证交所KBW银行指数收涨0.77%，报171.80点。 道琼斯KBW地区银行指数收涨2.12%，报137.72点。",
           "url": "https://wallstreetcn.com/livenews/3049322",
           "source": "华尔街见闻-快讯",
@@ -1775,6 +2010,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
+        },
+        {
+          "title": "恒指低开0.14%，报26797.05点；恒生科技指数跌0.87%。美团、快手、腾讯控股、华虹半导体、比亚迪股份等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3049437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（2月3日），美国科技股七巨头（Magnificent 7）指数跌1.68%，报203.68点，日内主要低位震荡。 “超大”市值科技股指数跌1.90%，报387.08点，日内大部分时间也低位震荡。",
@@ -1804,8 +2050,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时31分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时31分 ~ 10时24分]"
         },
         {
           "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
