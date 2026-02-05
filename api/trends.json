@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T13:40:34.338949+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2026-02-05T15:04:31.867489+08:00",
+  "total_titles_processed": 1292,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "马斯克团队光伏调研消息引爆A股！多家巨头回应最新进展 合作悬念牵动市场神经",
@@ -68,8 +68,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时26分 ~ 13时40分]"
+          "appearance_count": 15,
+          "time_info": "[01时26分 ~ 15时04分]"
+        },
+        {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时04分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -81,17 +92,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时10分 ~ 07时32分]"
-        },
-        {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时40分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -128,8 +128,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时04分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时04分]"
         },
         {
           "title": "A股大消费板块集体走强，美容护理、旅游、食品、零售、影视等方向纷纷拉升，拉芳家化、安记食品、海欣食品、红棉股份、杭州解百、浙文影业、横店影视等多股涨停。",
@@ -143,17 +157,15 @@
           "time_info": "10时26分"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
+          "title": "A股零售股尾盘再度拉升，三江购物、茂业商业涨停，杭州解百此前封板，东百集团、百大集团、上海九百、国光连锁涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3050423",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            7,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "2025年我国黄金产量同比上升1.09%，消费量同比下降3.57%",
@@ -175,8 +187,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时04分]"
+        },
+        {
+          "title": "三部门：海南自由贸易港岛内居民消费进境商品实行“零关税”政策",
+          "url": "https://www.cls.cn/detail/2281276",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时04分]"
         },
         {
           "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
@@ -228,6 +252,17 @@
           "time_info": "[06时33分 ~ 07时32分]"
         },
         {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 15时04分]"
+        },
+        {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
           "url": "https://wallstreetcn.com/livenews/3050117",
           "source": "华尔街见闻-快讯",
@@ -263,17 +298,6 @@
           "time_info": "[10时25分 ~ 10时26分]"
         },
         {
-          "title": "三部门：海南自由贸易港岛内居民消费进境商品实行“零关税”政策",
-          "url": "https://www.cls.cn/detail/2281276",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
           "title": "财政部等三部门发布《关于海南自由贸易港岛内居民消费的进境商品“零关税”政策的通知》",
           "url": "https://wallstreetcn.com/livenews/3050334",
           "source": "华尔街见闻-快讯",
@@ -283,6 +307,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "A股市场迎来调整",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E8%B0%83%E6%95%B4%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "【每日收评】沪指探底回升重返4100点，太空光伏、煤炭股联袂领涨，AI概念股集体调整",
@@ -313,7 +348,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -324,7 +359,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -340,13 +375,24 @@
           "time_info": "07时32分"
         },
         {
+          "title": "2026年全国服务消费和服务贸易工作会议在京召开",
+          "url": "https://wallstreetcn.com/livenews/3050413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "A股免税概念午后走强，海南发展直线拉升涨超7%，凯撒旅业、珠免集团、中百集团、海峡股份等个股跟涨。",
           "url": "https://wallstreetcn.com/livenews/3050362",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -360,17 +406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
         },
         {
           "title": "德国财政部长：AI中心将增强数字主权",
@@ -434,7 +469,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -448,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "A股证券板块短线拉升，华林证券涨超8%，华鑫股份、国盛证券、中信建投、兴业证券、首创证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3050378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "花旗：智能体AI难以撼动旅游平台 指跨平台比价仍是用户刚需",
@@ -511,8 +557,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时10分 ~ 13时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时10分 ~ 15时04分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -527,8 +573,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时26分 ~ 13时40分]"
+          "appearance_count": 15,
+          "time_info": "[01时26分 ~ 15时04分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时04分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -543,17 +600,6 @@
           "time_info": "[00时10分 ~ 10时26分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时40分]"
-        },
-        {
           "title": "习近平同特朗普通电话",
           "url": "https://www.toutiao.com/trending/7603003215299149878/",
           "source": "今日头条",
@@ -565,6 +611,18 @@
           "time_info": "[07时32分 ~ 10时26分]"
         },
         {
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 15时04分]"
+        },
+        {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
           "source": "凤凰网",
@@ -574,18 +632,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时32分]"
-        },
-        {
-          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
-          "url": "https://www.cls.cn/detail/2281033",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时40分]"
         },
         {
           "title": "美国联邦住房金融局局长Bill Pulte：如果两房（房利美+房地美）公开上市，可能会出售2.5%-5%的股份。 两房已经准备好上市，具体取决于总统特朗普。 在我看来，两房价值5000亿-750亿美元。",
@@ -906,7 +952,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -964,6 +1010,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时04分]"
         },
         {
           "title": "伊朗消息人士：原定6日举行的伊美谈判已取消",
@@ -1052,15 +1110,16 @@
           "time_info": "[04时48分 ~ 05时38分]"
         },
         {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时40分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 15时04分]"
         },
         {
           "title": "伊朗外长：伊美谈判将于6日在阿曼首都马斯喀特举行",
@@ -1098,18 +1157,6 @@
           "time_info": "[03时59分 ~ 04时48分]"
         },
         {
-          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时40分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：与伊朗的谈判若要取得有意义的成果，就必须包括弹道导弹议题。",
           "url": "https://flash.jin10.com/detail/20260204234146798800",
           "source": "金十数据",
@@ -1130,6 +1177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐分别与埃及、阿曼、卡塔尔三国外长通电话，就地区和国际局势最新进展交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260205142631785800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "据AXIOS网站：由于伊朗方面拒绝讨论非核问题，美伊于周五的核谈判取消。",
@@ -1187,13 +1245,24 @@
           "time_info": "05时38分"
         },
         {
+          "title": "伊朗外长与中东三国外长通话讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3050388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "伊朗议员喊话对美以先发制人打击",
           "url": "https://www.toutiao.com/trending/7602104713643474982/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }
@@ -1201,7 +1270,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "机器人表演碰倒老人 双双倒地不起",
@@ -1238,7 +1307,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -1265,6 +1334,17 @@
           "time_info": "07时32分"
         },
         {
+          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
+          "url": "https://wallstreetcn.com/articles/3764989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时25分 ~ 15时04分]"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（2月5日）",
           "url": "https://flash.jin10.com/detail/20260205071621979800",
           "source": "金十数据",
@@ -1276,15 +1356,15 @@
           "time_info": "07时32分"
         },
         {
-          "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
-          "url": "https://wallstreetcn.com/articles/3764989",
-          "source": "华尔街见闻",
+          "title": "恒生科技指数午后转涨，此前一度跌超1.8%，联想集团涨超3%，地平线机器人、小米集团涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3050420",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 13时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%。成分股AMD跌16.8%，Applovin跌14.2%，Palantir跌12.1%，美光科技跌9.9%、西部数据跌9.3%，应用材料、Strategy跌约7.3%，核电股CEG跌6.5%，星巴克目前涨4%，特许通讯涨5.6%，GEHC涨6.4%，ODFL涨6.6%，安进涨7.3%。 标普500指数跌0.7%，道指涨205点、涨幅0.4%，纳指跌418点跌幅1.8%。 费城半导体指数跌4.8%，银行指数涨1.3%，罗素2000指数跌0.9%。",
@@ -1311,6 +1391,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时10分 ~ 07时32分]"
+        },
+        {
+          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
+          "url": "https://www.cls.cn/detail/2281035",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 15时04分]"
         },
         {
           "title": "国民党副主席到访清华看机器人表演",
@@ -1347,17 +1438,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时24分]"
-        },
-        {
-          "title": "2月5日投资避雷针：双良节能、国晟科技等人气股密集澄清 目前未涉及太空光伏业务",
-          "url": "https://www.cls.cn/detail/2281035",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 13时40分]"
         },
         {
           "title": "恒生指数主连夜盘收跌1.17%，报26534点。 恒生科技指数主连夜盘收跌1.53%，报5281点。",
@@ -1401,7 +1481,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -1434,9 +1514,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "A股商业航天概念午后回暖，神剑股份涨停，北摩高科此前涨停，巨力索具、中超控股、七丰精工、臻镭科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3050394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
@@ -1535,8 +1626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时04分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
@@ -1811,6 +1902,46 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3050043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时24分]"
+        },
+        {
+          "title": "长端美债收益率涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3050086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "分析师警示关税滞后效应 美债长端收益率易涨难跌",
+          "url": "https://flash.jin10.com/detail/20260205141144762800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1838,35 +1969,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
-          "url": "https://wallstreetcn.com/livenews/3050043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时24分]"
-        },
-        {
-          "title": "长端美债收益率涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3050086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
         }
       ]
     },
