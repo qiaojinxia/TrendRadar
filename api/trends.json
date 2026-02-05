@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T06:32:40.631452+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-02-06T07:28:08.861685+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -28,6 +28,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "沃什未上任已被特朗普施压",
+          "url": "https://www.douyin.com/hot/2390169",
+          "source": "抖音",
+          "ranks": [
+            24,
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时28分]"
         },
         {
           "title": "美国总统特朗普：如果未来的某个时候租赁协议破裂，我保留以军事手段确保并加强美国在迪戈加西亚存在的权利。",
@@ -111,19 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 02时12分]"
-        },
-        {
-          "title": "沃什未上任已被特朗普施压",
-          "url": "https://www.douyin.com/hot/2390169",
-          "source": "抖音",
-          "ranks": [
-            24,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 03时23分]"
         },
         {
           "title": "苹果CEO库克发誓，要针对美国总统特朗普的移民问题向国会山展开游说。",
@@ -448,23 +449,23 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
-        },
         {
           "title": "A股2026年春节休市安排公布",
           "url": "https://www.cls.cn/detail/2281758",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
+        },
+        {
+          "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -481,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -501,11 +502,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -514,11 +516,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -531,8 +534,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
+        },
+        {
+          "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
+          "url": "https://wallstreetcn.com/articles/3765023",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "一图看懂｜春节消费“热力”图：券商看好三大主线",
@@ -643,6 +657,17 @@
           "time_info": "[05时34分 ~ 06时32分]"
         },
         {
+          "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
+          "url": "https://www.cls.cn/detail/2282247",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
           "title": "高盛上调药明康德A股评级至买入（分析师Ziyi Chen之前所给评级为中性），目标价132.70元人民币（即上涨37%）。",
           "url": "https://wallstreetcn.com/livenews/3050816",
           "source": "华尔街见闻-快讯",
@@ -667,6 +692,28 @@
           "time_info": "[03时23分 ~ 03时59分]"
         },
         {
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
+        },
+        {
+          "title": "亚马逊CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。 计划中的2000亿美元资本支出将主要用于AWS。",
+          "url": "https://wallstreetcn.com/livenews/3050910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
+        },
+        {
           "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
           "url": "https://wallstreetcn.com/livenews/3050813",
           "source": "华尔街见闻-快讯",
@@ -676,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
+          "url": "https://flash.jin10.com/detail/20260206061539402800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时28分"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -711,11 +769,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
@@ -755,6 +814,18 @@
           "time_info": "[03时23分 ~ 03时59分]"
         },
         {
+          "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
+          "url": "https://wallstreetcn.com/livenews/3050896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时28分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
           "url": "https://flash.jin10.com/detail/20260206044050086800",
           "source": "金十数据",
@@ -776,17 +847,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
-        },
-        {
-          "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
-          "url": "https://wallstreetcn.com/livenews/3050896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -868,11 +928,12 @@
             9,
             10,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "宇树机器人在 -47.4°C 阿勒泰自主行走 13 万步，实现了哪些突破？极寒环境对人形机器人有哪些挑战？",
@@ -883,11 +944,12 @@
             6,
             4,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "去年4月以来最大跌幅，纳指“两连跌”：软件“失火”、芯片“遭殃”、科技“跳水”",
@@ -895,11 +957,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
@@ -967,11 +1030,12 @@
           "url": "https://wallstreetcn.com/livenews/3050892",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时28分]"
         },
         {
           "title": "可选消费ETF跌1.39%，能源业ETF跌1.15%，网络股指数ETF跌1.05%，科技行业ETF跌0.59%，在美股盘初领跌行业ETF，生物科技指数ETF涨0.63%。",
@@ -988,7 +1052,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -1013,8 +1077,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -1031,6 +1095,18 @@
           "time_info": "[01时27分 ~ 06时32分]"
         },
         {
+          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
+          "url": "https://wallstreetcn.com/livenews/3050900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时28分]"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260206050531968800",
           "source": "金十数据",
@@ -1041,6 +1117,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时32分]"
+        },
+        {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股收盘）",
@@ -1079,17 +1166,6 @@
           "time_info": "[05时34分 ~ 06时32分]"
         },
         {
-          "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
-          "url": "https://wallstreetcn.com/livenews/3050900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013143448800",
           "source": "金十数据",
@@ -1123,11 +1199,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -1138,8 +1215,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 06时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时08分 ~ 07时28分]"
         }
       ]
     },
@@ -1201,6 +1278,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "贵金属价格剧烈波动，上期所再度对黄金、白银等期货提保扩板",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543462",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时28分]"
         }
       ]
     }
