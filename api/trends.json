@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-06T15:01:47.307545+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-02-06T15:53:37.230451+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时53分]"
+        },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
           "url": "https://news.ifeng.com/c/8qUsyGpiCYu",
@@ -19,26 +31,16 @@
           "time_info": "[00时08分 ~ 07时52分]"
         },
         {
-          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
-          "url": "https://news.ifeng.com/c/8qW59pknpCi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时01分]"
-        },
-        {
           "title": "日本大选前，特朗普发文支持高市",
           "url": "https://news.ifeng.com/c/8qWByeKcHHN",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时53分]"
         },
         {
           "title": "沃什未上任已被特朗普施压",
@@ -66,8 +68,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时53分]"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -131,7 +133,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -450,6 +452,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
+          "url": "https://wallstreetcn.com/livenews/3051213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "美国财长贝森特：全力支持美国总统特朗普将信用卡利率上限定为10%的呼吁。",
           "url": "https://flash.jin10.com/detail/20260205233621698800",
           "source": "金十数据",
@@ -544,7 +557,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -563,7 +576,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -610,22 +623,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 15时01分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时08分 ~ 15时01分]"
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 15时53分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -643,6 +642,21 @@
           "time_info": "[00时08分 ~ 07时52分]"
         },
         {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            27,
+            25,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时08分 ~ 15时53分]"
+        },
+        {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
           "url": "https://www.cls.cn/detail/2282247",
           "source": "财联社热门",
@@ -652,8 +666,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 15时01分]"
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 15时53分]"
         },
         {
           "title": "A股春节休市安排来了",
@@ -670,6 +684,32 @@
           "time_info": "[00时08分 ~ 07时52分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2391220",
+          "source": "抖音",
+          "ranks": [
+            11,
+            1,
+            14,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时53分]"
+        },
+        {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时51分 ~ 15时53分]"
+        },
+        {
           "title": "唐宫奇案剧宣闯入ai赛道",
           "url": "https://www.douyin.com/hot/2390538",
           "source": "抖音",
@@ -684,16 +724,16 @@
           "time_info": "[07时27分 ~ 13时38分]"
         },
         {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
           "source": "财联社热门",
           "ranks": [
-            12,
-            7
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时51分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时53分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -718,18 +758,6 @@
           "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时01分]"
-        },
-        {
           "title": "一图看懂｜春节消费“热力”图：券商看好三大主线",
           "url": "https://www.cls.cn/detail/2281640",
           "source": "财联社热门",
@@ -741,17 +769,16 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2391220",
-          "source": "抖音",
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            1,
-            14
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时53分]"
         },
         {
           "title": "海南全省首批开设5家日用消费品免税店2月11日开业",
@@ -785,18 +812,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时01分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -954,13 +969,35 @@
           "time_info": "12时28分"
         },
         {
+          "title": "商务部：已向消费“三新”试点城市拨付首批财政支持资金86亿元",
+          "url": "https://wallstreetcn.com/livenews/3051217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "消费省钱时代来临了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B6%88%E8%B4%B9%E7%9C%81%E9%92%B1%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "十大奶咖品牌求AI翻牌",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E5%A5%B6%E5%92%96%E5%93%81%E7%89%8C%E6%B1%82AI%E7%BF%BB%E7%89%8C%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -998,6 +1035,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "分析师看好大选波动后的日股机遇 日元走强预期利好特定消费板块",
+          "url": "https://flash.jin10.com/detail/20260206152931757800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "A股零售股震荡调整，百大集团触及跌停，新华百货逼近跌停，三江购物、友好集团、国光连锁、上海九百跌超6%。",
           "url": "https://wallstreetcn.com/livenews/3051019",
           "source": "华尔街见闻-快讯",
@@ -1007,6 +1055,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-02-06）",
+          "url": "https://flash.jin10.com/detail/20260206152458917800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -1062,12 +1121,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "A股三大指数小幅下跌，化工、油气股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3051197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -1088,11 +1158,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时53分]"
         },
         {
           "title": "美伊核谈判在即 伊朗外长称将坚定捍卫伊朗权利",
@@ -1112,9 +1183,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "贝森特：看到伊朗啥样了吧，我们干的",
+          "url": "https://news.ifeng.com/c/8qWIKuTzdj9",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
@@ -1122,11 +1204,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时53分]"
         },
         {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
@@ -1152,6 +1235,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时27分 ~ 13时38分]"
+        },
+        {
+          "title": "中方阐明在伊朗问题上的原则立场",
+          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时53分]"
         },
         {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
@@ -1213,17 +1307,6 @@
           "time_info": "13时38分"
         },
         {
-          "title": "中方阐明在伊朗问题上的原则立场",
-          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
           "title": "美政府发布安全警告 敦促美国公民尽快离开伊朗",
           "url": "https://wallstreetcn.com/livenews/3051040",
           "source": "华尔街见闻-快讯",
@@ -1241,9 +1324,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "伊朗外交部：伊朗将捍卫自身权益，抵制美国“任何过分的要求或冒险行为”。",
+          "url": "https://flash.jin10.com/detail/20260206153816123800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "伊朗军事战略转向主动威慑",
@@ -1263,9 +1357,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗外长会见了阿曼外长，赞扬了该国支持并强调了伊朗的外交努力和捍卫主权的决心。 阿曼外长对伊朗的诚意表示欢迎，并希望会谈能够促成美伊之间达成持久的谅解。",
+          "url": "https://flash.jin10.com/detail/20260206153747190800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "美政府发布安全警告 敦促美国公民尽快离开伊朗",
@@ -1285,9 +1390,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "伊朗与中俄进行了磋商？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3051215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "伊朗特使：即将举行的美伊谈判仅聚焦核问题",
+          "url": "https://flash.jin10.com/detail/20260206153254409800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "据伊朗Press TV：伊朗最先进的远程弹道导弹之一——“霍拉姆沙赫尔-4”导弹已部署至地下导弹城。该导弹的射程为2000公里，可携带1500公斤的弹头。",
@@ -1362,7 +1489,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -1384,7 +1511,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -1406,7 +1533,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -1417,7 +1544,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -1425,7 +1552,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
@@ -1484,6 +1611,19 @@
           "time_info": "[00时08分 ~ 07时52分]"
         },
         {
+          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
+          "url": "https://www.cls.cn/detail/2282354",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时53分]"
+        },
+        {
           "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
           "url": "https://www.cls.cn/detail/2281879",
           "source": "财联社热门",
@@ -1497,17 +1637,15 @@
           "time_info": "[00时08分 ~ 06时32分]"
         },
         {
-          "title": "白银、科技股、比特币！华尔街哪里最拥挤 哪里踩踏就最惨烈……",
-          "url": "https://www.cls.cn/detail/2282354",
-          "source": "财联社热门",
+          "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            3,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时01分]"
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时53分]"
         },
         {
           "title": "生数科技完成超6亿元A+轮融资 创国内视频生成领域最大单笔融资",
@@ -1532,17 +1670,6 @@
           "time_info": "05时34分"
         },
         {
-          "title": "科技股抛压暂缓，金银V形反弹，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币止跌",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
           "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
           "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
@@ -1553,6 +1680,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时27分 ~ 13时38分]"
+        },
+        {
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时53分]"
         },
         {
           "title": "恒生指数主连夜盘收跌1.38%，报26510点。 恒生科技指数主连夜盘收跌1.28%，报5335点。",
@@ -1590,19 +1731,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时32分]"
-        },
-        {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时01分]"
         },
         {
           "title": "科技股崩跌余波席卷亚太",
@@ -1646,9 +1774,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "港股科技板块卖空显著升温 快手卖空金额增超10倍",
+          "url": "https://www.cls.cn/detail/2282576",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
@@ -1690,7 +1829,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -1766,8 +1905,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时27分 ~ 15时01分]"
+          "appearance_count": 10,
+          "time_info": "[07时27分 ~ 15时53分]"
         },
         {
           "title": "美股",
@@ -1805,11 +1944,12 @@
           "ranks": [
             8,
             10,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 15时53分]"
         },
         {
           "title": "美股、金银、比特币、石油 全崩了",
@@ -1919,8 +2059,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时53分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -1954,7 +2094,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -1968,6 +2108,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数涨超0.2%",
+          "url": "https://wallstreetcn.com/livenews/3050872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时46分 ~ 05时34分]"
+        },
+        {
+          "title": "美元指数5日上涨",
+          "url": "https://flash.jin10.com/detail/20260206043959949800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时32分]"
+        },
+        {
+          "title": "就业疲软难阻美元指数企稳 市场焦点转向延迟发布的非农报告",
+          "url": "https://flash.jin10.com/detail/20260206153502361800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     },
@@ -2001,36 +2182,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时08分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数涨超0.2%",
-          "url": "https://wallstreetcn.com/livenews/3050872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时34分]"
-        },
-        {
-          "title": "美元指数5日上涨",
-          "url": "https://flash.jin10.com/detail/20260206043959949800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时32分]"
         }
       ]
     },
