@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T12:28:15.176971+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-02-06T13:38:59.698505+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时08分 ~ 07时52分]"
         },
         {
+          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
+          "url": "https://news.ifeng.com/c/8qW59pknpCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
+        },
+        {
           "title": "沃什未上任已被特朗普施压",
           "url": "https://www.douyin.com/hot/2390169",
           "source": "抖音",
@@ -34,17 +45,6 @@
           "time_info": "[01时27分 ~ 07时52分]"
         },
         {
-          "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
-          "url": "https://news.ifeng.com/c/8qW59pknpCi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
-        },
-        {
           "title": "日本大选前，特朗普发文支持高市",
           "url": "https://news.ifeng.com/c/8qWByeKcHHN",
           "source": "凤凰网",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -160,6 +160,19 @@
           "time_info": "[00时09分 ~ 01时27分]"
         },
         {
+          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
+        },
+        {
           "title": "贝森特：特朗普向IRS索赔的100亿美元可能会来自美国纳税人",
           "url": "https://wallstreetcn.com/livenews/3050802",
           "source": "华尔街见闻-快讯",
@@ -196,18 +209,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 04时46分]"
-        },
-        {
-          "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
         },
         {
           "title": "特朗普：《新削减战略武器条约》应被改进而非延长",
@@ -539,7 +540,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "A股2026年春节休市安排公布",
@@ -575,19 +576,6 @@
           "time_info": "[00时08分 ~ 06时32分]"
         },
         {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时08分 ~ 12时28分]"
-        },
-        {
           "title": "A股三大股指齐跌，太空光伏、贵金属掀跌停潮，贵州茅台四连涨，恒科指尾盘翻红，科网股普遍回暖，沪银大跌超10%",
           "url": "https://wallstreetcn.com/articles/3765013",
           "source": "华尔街见闻",
@@ -599,8 +587,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时08分 ~ 12时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时08分 ~ 13时38分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时08分 ~ 13时38分]"
         },
         {
           "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
@@ -641,8 +643,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 12时28分]"
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 13时38分]"
+        },
+        {
+          "title": "唐宫奇案剧宣闯入ai赛道",
+          "url": "https://www.douyin.com/hot/2390538",
+          "source": "抖音",
+          "ranks": [
+            29,
+            19,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 13时38分]"
         },
         {
           "title": "AI恐慌蔓延，就业数据疲软加剧抛售，美三大股指跌超1%，白银暴跌19%，比特币崩跌",
@@ -667,19 +683,6 @@
           "time_info": "[07时51分 ~ 07时52分]"
         },
         {
-          "title": "唐宫奇案剧宣闯入ai赛道",
-          "url": "https://www.douyin.com/hot/2390538",
-          "source": "抖音",
-          "ranks": [
-            29,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 12时28分]"
-        },
-        {
           "title": "一图看懂｜春节消费“热力”图：券商看好三大主线",
           "url": "https://www.cls.cn/detail/2281640",
           "source": "财联社热门",
@@ -689,6 +692,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 00时09分]"
+        },
+        {
+          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
+          "url": "https://www.cls.cn/detail/2282228",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 13时38分]"
         },
         {
           "title": "海南全省首批开设5家日用消费品免税店2月11日开业",
@@ -702,6 +717,18 @@
           "time_info": "10时26分"
         },
         {
+          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
+          "url": "https://www.cls.cn/detail/2282565",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
+        },
+        {
           "title": "高通(QCOM.O)首席执行官：消费者需求非常旺盛。",
           "url": "https://flash.jin10.com/detail/20260206005842056800",
           "source": "金十数据",
@@ -713,28 +740,28 @@
           "time_info": "01时27分"
         },
         {
+          "title": "A股光伏设备板块震荡走高，正泰电源涨停，泽润新能涨超10%，协鑫集成、奥特维、亚玛顿、晶科能源、迈为股份、拉普拉斯等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3051128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "A股",
           "url": "https://www.douyin.com/hot/2391220",
           "source": "抖音",
           "ranks": [
             11,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
-        },
-        {
-          "title": "软件股抛售“导火索”又发新品：AI代理组团上班 更擅长白领工作",
-          "url": "https://www.cls.cn/detail/2282228",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时51分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
         },
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -749,6 +776,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时23分 ~ 05时34分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
         },
         {
           "title": "Anthropic发布新AI 金融服务公司承压",
@@ -775,18 +814,6 @@
           "time_info": "[04时46分 ~ 05时34分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
-        },
-        {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
           "url": "https://wallstreetcn.com/livenews/3050847",
           "source": "华尔街见闻-快讯",
@@ -798,17 +825,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 04时46分]"
-        },
-        {
-          "title": "不到3小时下单100万单 阿里用奶茶拉开AI普及战序幕 30亿大项目开启前马云现身",
-          "url": "https://www.cls.cn/detail/2282565",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：5.3-Codex是我们首个在网络安全准备框架中达到“高”级别标准的模型。我们正在试行一个“可信访问”框架，并投入1000万美元的API信用额度以加快网络安全防御工作。",
@@ -910,7 +926,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -943,7 +959,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1017,7 +1033,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股大跌蔓延，存储芯片巨头遭“集体踩踏”！闪迪跌超10%",
@@ -1094,11 +1110,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
         },
         {
           "title": "生数科技完成超6亿元A+轮融资 创国内视频生成领域最大单笔融资",
@@ -1121,6 +1138,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
         },
         {
           "title": "恒生指数主连夜盘收跌1.38%，报26510点。 恒生科技指数主连夜盘收跌1.28%，报5335点。",
@@ -1160,15 +1189,28 @@
           "time_info": "[05时34分 ~ 06时32分]"
         },
         {
-          "title": "科技股抛压暂缓，亚太股市止跌企稳，韩股跌幅收窄，日股转涨，比特币、金银V形反弹",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
+          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
+        },
+        {
+          "title": "科技股崩跌余波席卷亚太",
+          "url": "https://www.toutiao.com/trending/7603558814855466547/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
         },
         {
           "title": "微芯科技第三财季净销售11.9亿美元，分析师预期11.8亿美元。 第三财季调整后EPS为0.44美元，分析师预期0.42美元。 预计第四财季净销售12.4亿-12.8亿美元，分析师预期12.3亿美元。 预计第四财季调整后EPS为0.48-0.52美元，分析师预期0.48美元。",
@@ -1183,26 +1225,15 @@
           "time_info": "[06时32分 ~ 07时28分]"
         },
         {
-          "title": "机器人商场表演时一脚踢飞路过大爷，之后双双倒地不起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32541813",
-          "source": "澎湃新闻",
+          "title": "花旗：看好韩国科技巨头在政策红利下领跑",
+          "url": "https://flash.jin10.com/detail/20260206125926150800",
+          "source": "金十数据",
           "ranks": [
-            15
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "科技股崩跌余波席卷亚太",
-          "url": "https://www.toutiao.com/trending/7603558814855466547/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "2月6日午间收评：创业板指低开高走涨0.65%，化工、机器人概念股集体走强",
@@ -1211,7 +1242,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1222,7 +1253,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1277,7 +1308,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -1285,7 +1316,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -1301,6 +1332,29 @@
           "time_info": "[00时08分 ~ 07时52分]"
         },
         {
+          "title": "美伊核谈判在即 伊朗外长称将坚定捍卫伊朗权利",
+          "url": "https://flash.jin10.com/detail/20260206130935729800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "美国伊朗谈判今日举行",
+          "url": "https://www.douyin.com/hot/2391128",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
+        },
+        {
           "title": "伊朗外长率团赴阿曼，将与美国进行核问题谈判",
           "url": "https://wallstreetcn.com/livenews/3050845",
           "source": "华尔街见闻-快讯",
@@ -1314,15 +1368,28 @@
           "time_info": "[03时23分 ~ 04时46分]"
         },
         {
-          "title": "美国伊朗谈判今日举行",
-          "url": "https://www.douyin.com/hot/2391128",
-          "source": "抖音",
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
           "ranks": [
-            7
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
         },
         {
           "title": "伊朗外长率团赴阿曼与美国进行核问题谈判",
@@ -1337,17 +1404,6 @@
           "time_info": "[03时23分 ~ 03时59分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
           "url": "https://wallstreetcn.com/livenews/3050838",
           "source": "华尔街见闻-快讯",
@@ -1358,17 +1414,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时23分 ~ 03时59分]"
-        },
-        {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
           "title": "伊朗外长率核问题谈判代表团抵达阿曼首都",
@@ -1395,6 +1440,17 @@
           "time_info": "[05时34分 ~ 06时32分]"
         },
         {
+          "title": "伊朗展示先进弹道导弹",
+          "url": "https://www.toutiao.com/trending/7602741866300293126/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "美政府发布安全警告 敦促美国公民尽快离开伊朗",
           "url": "https://wallstreetcn.com/livenews/3051040",
           "source": "华尔街见闻-快讯",
@@ -1404,6 +1460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "伊朗军事战略转向主动威慑",
+          "url": "https://www.toutiao.com/trending/7603228774960037934/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         },
         {
           "title": "美政府发布安全警告 敦促美国公民尽快离开伊朗",
@@ -1467,7 +1534,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -1500,7 +1567,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -1522,6 +1589,20 @@
           "time_info": "[00时08分 ~ 06时32分]"
         },
         {
+          "title": "美股收盘：纳指连续三天均跌超1%",
+          "url": "https://www.cls.cn/detail/2282258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时27分 ~ 13时38分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1535,19 +1616,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时08分 ~ 07时52分]"
-        },
-        {
-          "title": "美股收盘：纳指连续三天均跌超1%",
-          "url": "https://www.cls.cn/detail/2282258",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时27分 ~ 12时28分]"
         },
         {
           "title": "美股三大指数集体低开 纳指跌超1%",
@@ -1564,6 +1632,17 @@
           "time_info": "[01时27分 ~ 06时32分]"
         },
         {
+          "title": "美股、金银、比特币、石油 全崩了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌6.25%，报372.66点。 （全球时段）纽约证交所ARCA金矿开采商指数跌6.03%，报2660.11点。 （美股）原材料指数收跌3.87%，金属与矿业指数收跌2.95%。",
           "url": "https://wallstreetcn.com/livenews/3050900",
           "source": "华尔街见闻-快讯",
@@ -1577,26 +1656,16 @@
           "time_info": "[06时32分 ~ 07时52分]"
         },
         {
-          "title": "美股、金银、比特币、石油 全崩了",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
-        },
-        {
           "title": "美股三大指数集体收跌",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时38分]"
         },
         {
           "title": "金十图示：2026年02月05日（周四）美股热门股票行情一览（美股收盘）",
@@ -1682,8 +1751,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 13时38分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
