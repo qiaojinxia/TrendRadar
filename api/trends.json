@@ -1,8 +1,366 @@
 {
-  "generated_at": "2026-02-07T03:58:16.203676+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-02-07T04:43:01.933671+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 31,
+      "titles": [
+        {
+          "title": "年货市场消费升温",
+          "url": "https://www.toutiao.com/trending/7602960394990731310/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "消费“六注意” 欢乐过大年",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E2%80%9C%E5%85%AD%E6%B3%A8%E6%84%8F%E2%80%9D+%E6%AC%A2%E4%B9%90%E8%BF%87%E5%A4%A7%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
+          "url": "https://www.cls.cn/detail/2283033",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "UP主们用AI办了场春晚",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            21,
+            20,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 03时58分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
+          "url": "https://flash.jin10.com/detail/20260207004458170800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "报道：苹果车载迎来战略转变，计划开放第三方语音AI助手",
+          "url": "https://wallstreetcn.com/livenews/3051609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
+          "url": "https://flash.jin10.com/detail/20260207040516386800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3051561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时22分]"
+        },
+        {
+          "title": "美国12月消费信贷变动 240.45亿美元，预期 80亿美元，前值 42.29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
+          "url": "https://www.cls.cn/detail/2283020",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "AI 能救得了 SaaS 么？",
+          "url": "https://www.zhihu.com/question/658582077",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 02时09分]"
+        },
+        {
+          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
+          "url": "https://wallstreetcn.com/articles/3765130",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 02时09分]"
+        },
+        {
+          "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
+          "url": "https://flash.jin10.com/detail/20260207023122582800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 03时58分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3051568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时09分 ~ 03时22分]"
+        },
+        {
+          "title": "媒体：AI之争又打成了奶茶大战",
+          "url": "https://www.toutiao.com/trending/7603738226825645604/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 03时22分]"
+        },
+        {
+          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
+          "url": "https://flash.jin10.com/detail/20260207040013468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "调查显示美国消费者信心小幅回升 通胀与就业担忧仍存",
+          "url": "https://flash.jin10.com/detail/20260206232724254800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "「雪地代写」服务火了，北方年轻人 0 成本卖雪月入过万，如何看待这一现象？反应了怎样的消费诉求？",
+          "url": "https://www.zhihu.com/question/2002743590741352833",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：Anthropic和OpenAI受限于计算机（性能）。",
+          "url": "https://flash.jin10.com/detail/20260207013334791800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者预期指数初值 56.6，预期 55.1，前值 57。",
+          "url": "https://wallstreetcn.com/livenews/3051523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者现况指数初值 58.3，预期 53.7，前值 55.4。",
+          "url": "https://wallstreetcn.com/livenews/3051519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3051561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者信心指数初值 57.3，预期 55，前值 56.4。",
+          "url": "https://wallstreetcn.com/livenews/3051520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "AI基建概念股反弹，英伟达涨5.6%，Sandisk涨超6%，CoreWeave涨超9%，中概指数涨2%",
+          "url": "https://wallstreetcn.com/livenews/3051518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：Anthropic和OpenAI都正在盈利。",
+          "url": "https://flash.jin10.com/detail/20260207012842326800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者信心指数初值录得57.3，为6个月高点。",
+          "url": "https://flash.jin10.com/detail/20260206230233050800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "密歇根大学消费者信心调查：美国1年期通胀预期从4%降至13个月低点3.5%。",
+          "url": "https://flash.jin10.com/detail/20260206230139418800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "脉脉：AI红包大战烧至人才端，元宝、千问百万年薪挖人",
+          "url": "https://wallstreetcn.com/livenews/3051513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 28,
@@ -15,8 +373,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
         },
         {
           "title": "美国再发警告，敦促本国公民尽快离开伊朗",
@@ -26,8 +384,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
         },
         {
           "title": "伊朗就美伊核谈判发表声明",
@@ -37,8 +395,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 04时43分]"
         },
         {
           "title": "罕见！伊朗强硬派对美伊谈判态度克制",
@@ -48,8 +406,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 03时58分]"
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 04时43分]"
         },
         {
           "title": "美财长承认在伊朗制造美元短缺",
@@ -60,19 +418,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "伊朗向地区外交官通报情况：会谈中未讨论德黑兰的导弹能力。",
-          "url": "https://flash.jin10.com/detail/20260207014437095800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
         },
         {
           "title": "美国宣布制裁伊朗相关实体及个人",
@@ -84,8 +431,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 03时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 04时43分]"
+        },
+        {
+          "title": "伊朗向地区外交官通报情况：会谈中未讨论德黑兰的导弹能力。",
+          "url": "https://flash.jin10.com/detail/20260207014437095800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时09分"
         },
         {
           "title": "伊朗向地区外交官通报情况：德黑兰排除停止铀浓缩的可能性，但表示愿意就铀浓缩的“丰度和纯度”或建立区域联合体进行讨论。",
@@ -323,322 +681,8 @@
       ]
     },
     {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "年货市场消费升温",
-          "url": "https://www.toutiao.com/trending/7602960394990731310/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "消费“六注意” 欢乐过大年",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%88%E8%B4%B9%E2%80%9C%E5%85%AD%E6%B3%A8%E6%84%8F%E2%80%9D+%E6%AC%A2%E4%B9%90%E8%BF%87%E5%A4%A7%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "节前最后一周！A股能否迎“红包行情”，近10年数据这样说",
-          "url": "https://www.cls.cn/detail/2283033",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "UP主们用AI办了场春晚",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BB%AC%E7%94%A8AI%E5%8A%9E%E4%BA%86%E5%9C%BA%E6%98%A5%E6%99%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            21,
-            20,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：看到GPT-5.3-Codex版本如此受欢迎真是太好了。自最初的GPT-4发布以来，我们似乎还没有感受到对哪个模型如此兴奋过。",
-          "url": "https://flash.jin10.com/detail/20260207004458170800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3051561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
-          "url": "https://www.cls.cn/detail/2282989",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 03时22分]"
-        },
-        {
-          "title": "AI 能救得了 SaaS 么？",
-          "url": "https://www.zhihu.com/question/658582077",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时06分 ~ 02时09分]"
-        },
-        {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 02时09分]"
-        },
-        {
-          "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
-          "url": "https://www.cls.cn/detail/2283020",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "Gen Digital首席执行官：在人工智能威胁之下，消费者既需要网络安全工具，也需要个人理财工具。",
-          "url": "https://flash.jin10.com/detail/20260207023122582800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时58分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：市场需求极为火爆。 大规模人工智能（AI）资本开支是适宜的、必要的。 建设AI（这个过程）还将持续好几年，预计将需要7-8年。 Anthropic和OpenAI都在赚钱。 英伟达与OpenAI之间并不存在（投资）闹剧。 OpenAI需要英伟达的新一代芯片。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3051568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时09分 ~ 03时22分]"
-        },
-        {
-          "title": "媒体：AI之争又打成了奶茶大战",
-          "url": "https://www.toutiao.com/trending/7603738226825645604/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 03时22分]"
-        },
-        {
-          "title": "调查显示美国消费者信心小幅回升 通胀与就业担忧仍存",
-          "url": "https://flash.jin10.com/detail/20260206232724254800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "「雪地代写」服务火了，北方年轻人 0 成本卖雪月入过万，如何看待这一现象？反应了怎样的消费诉求？",
-          "url": "https://www.zhihu.com/question/2002743590741352833",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：Anthropic和OpenAI受限于计算机（性能）。",
-          "url": "https://flash.jin10.com/detail/20260207013334791800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国2月密歇根大学消费者预期指数初值 56.6，预期 55.1，前值 57。",
-          "url": "https://wallstreetcn.com/livenews/3051523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "美国2月密歇根大学消费者现况指数初值 58.3，预期 53.7，前值 55.4。",
-          "url": "https://wallstreetcn.com/livenews/3051519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3051561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国2月密歇根大学消费者信心指数初值 57.3，预期 55，前值 56.4。",
-          "url": "https://wallstreetcn.com/livenews/3051520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "AI基建概念股反弹，英伟达涨5.6%，Sandisk涨超6%，CoreWeave涨超9%，中概指数涨2%",
-          "url": "https://wallstreetcn.com/livenews/3051518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：Anthropic和OpenAI都正在盈利。",
-          "url": "https://flash.jin10.com/detail/20260207012842326800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时09分"
-        },
-        {
-          "title": "美国2月密歇根大学消费者信心指数初值录得57.3，为6个月高点。",
-          "url": "https://flash.jin10.com/detail/20260206230233050800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "密歇根大学消费者信心调查：美国1年期通胀预期从4%降至13个月低点3.5%。",
-          "url": "https://flash.jin10.com/detail/20260206230139418800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "脉脉：AI红包大战烧至人才端，元宝、千问百万年薪挖人",
-          "url": "https://wallstreetcn.com/livenews/3051513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -648,8 +692,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -660,19 +704,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -687,8 +720,30 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 01时13分]"
+        },
+        {
+          "title": "特朗普“下场”支持日本首相",
+          "url": "https://www.douyin.com/hot/2391219",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时22分 ~ 04时43分]"
         },
         {
           "title": "美媒：特朗普特使在阿曼与伊朗外长进行了直接会面",
@@ -696,11 +751,25 @@
           "source": "金十数据",
           "ranks": [
             1,
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时43分]"
+        },
+        {
+          "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
+          "url": "https://wallstreetcn.com/livenews/3051594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时43分]"
         },
         {
           "title": "美联储副主席杰斐逊：当前的货币政策对诸多风险准备就绪。 劳动力市场大致平衡，但仍然存在下行风险。 一旦（美国总统特朗普挑起的）关税的影响过去，通胀有望再次放缓。 强劲的生产力增速可能会推高中性利率。 生产力增速可能有助于遏制通胀。 我已经将自己对2026年经济增长速度的预期上修至2.2%。",
@@ -715,29 +784,18 @@
           "time_info": "[01时13分 ~ 02时09分]"
         },
         {
-          "title": "贝森特驳斥关于他与特朗普美元言论存在分歧的说法",
-          "url": "https://wallstreetcn.com/livenews/3051594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时58分]"
-        },
-        {
           "title": "贝森特重申：特朗普有关解雇沃什的言论是个玩笑",
           "url": "https://wallstreetcn.com/livenews/3051579",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
             19,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 04时43分]"
         },
         {
           "title": "美国财长贝森特：“特朗普账户”（Trump accounts）可能会成为他最大的政治遗产。（CNBC）",
@@ -746,22 +804,12 @@
           "ranks": [
             7,
             20,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时09分 ~ 03时58分]"
-        },
-        {
-          "title": "特朗普“下场”支持日本首相",
-          "url": "https://www.douyin.com/hot/2391219",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[02时09分 ~ 04时43分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -769,11 +817,38 @@
           "source": "金十数据",
           "ranks": [
             6,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时43分]"
+        },
+        {
+          "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
+          "url": "https://wallstreetcn.com/livenews/3051588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时43分]"
+        },
+        {
+          "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3051586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时43分]"
         },
         {
           "title": "美国纽约-新泽西隧道项目被迫停工，此前特朗普政府冻结资金",
@@ -786,30 +861,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 01时13分]"
-        },
-        {
-          "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
-          "url": "https://wallstreetcn.com/livenews/3051588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时58分]"
-        },
-        {
-          "title": "一名官员称，美国总统特朗普下令，从阿根廷进口的牛肉将增加三倍。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3051586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时58分]"
         },
         {
           "title": "美媒：特朗普将下令将从阿根廷进口的牛肉数量增至四倍",
@@ -834,6 +885,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时09分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
+          "url": "https://flash.jin10.com/detail/20260207034858058800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "美国财长贝森特：花旗银行将为员工向“特朗普账户”的捐款提供等额配捐。",
@@ -883,7 +945,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
@@ -904,8 +966,30 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
+        },
+        {
+          "title": "苹果计划允许第三方语音控制AI聊天机器人接入CarPlay",
+          "url": "https://flash.jin10.com/detail/20260207040949574800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
+          "url": "https://flash.jin10.com/detail/20260207040250896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "恒生指数主连夜盘收涨1.80%，报27053点。 恒生科技指数主连夜盘收涨2.07%，报5469点。",
@@ -913,11 +997,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[03时22分 ~ 04时43分]"
         },
         {
           "title": "美银策略师认定科技巨头失宠，美国中期选举前看好中小盘股",
@@ -936,11 +1021,12 @@
           "url": "https://flash.jin10.com/detail/20260207032751728800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 04时43分]"
         },
         {
           "title": "美国银行：从轻资产模式转向重资产模式意味着所谓美股科技七巨头的主导地位面临“重大威胁”。 今年大型科技公司在人工智能领域的资本开支预计约为6700亿美元，相当于其现金流的96%，而2023年这一比例仅为40%。 不再是拥有最佳资产负债表的公司，也不再是进行大规模股票回购的公司。",
@@ -967,8 +1053,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
         },
         {
           "title": "逢低买盘撑美股大幅反弹，道指新高，英伟达大涨7%，金银V形反弹，比特币涨11%",
@@ -978,8 +1064,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 04时43分]"
         },
         {
           "title": "美股人工智能相关股多数上涨，超微电脑(SMCI.O)、Arm(ARM.O)大涨10%，AMD(AMD.O)涨超8%，英伟达(NVDA.O)涨超7%。",
@@ -1018,8 +1104,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数本周涨超0.6%",
+          "url": "https://wallstreetcn.com/livenews/3051608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
         {
           "title": "道指飙涨超1000点，半导体指数目前涨5.4%。 Strategy涨24.6%，诺和诺德ADR涨8.3%，英伟达涨7.5%，蔚来涨7.1%，西部数据涨6.8%，英特尔涨5.7%，台积电涨5.4%，特斯拉涨4.2%，Sandisk涨3.5%，阿里巴巴涨2.5%。 现货白银日内涨幅达9.0%，报77.07美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3051576",
@@ -1048,7 +1145,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
@@ -1061,6 +1158,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时06分 ~ 01时13分]"
+        },
+        {
+          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
+          "url": "https://flash.jin10.com/detail/20260207035802693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     },
@@ -1073,11 +1181,12 @@
           "url": "https://flash.jin10.com/detail/20260207032258342800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时58分 ~ 04时43分]"
         }
       ]
     },
@@ -1093,8 +1202,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 03时58分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 04时43分]"
         }
       ]
     }
