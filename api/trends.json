@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T14:43:12.491322+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-02-09T15:59:33.167059+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -181,11 +181,23 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 15时59分]"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时43分]"
+          "time_info": "[14时42分 ~ 15时59分]"
         },
         {
           "title": "本周机构最为关注的A股行业板块一览",
@@ -212,15 +224,30 @@
           "time_info": "[00时36分 ~ 04时32分]"
         },
         {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
+          "url": "https://wallstreetcn.com/articles/3765259",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 15时59分]"
+        },
+        {
+          "title": "OpenClaw走红，个人AI代理时代真的来了",
+          "url": "https://wallstreetcn.com/articles/3765254",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 15时59分]"
         },
         {
           "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
@@ -240,7 +267,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -256,19 +283,6 @@
           "time_info": "[01时31分 ~ 03时49分]"
         },
         {
-          "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
-          "url": "https://wallstreetcn.com/articles/3765259",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 14时43分]"
-        },
-        {
           "title": "看好A股春节假期前后“红包行情”，机构称“持股过节或为上策”",
           "url": "https://wallstreetcn.com/livenews/3051877",
           "source": "华尔街见闻-快讯",
@@ -279,19 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时35分]"
-        },
-        {
-          "title": "OpenClaw走红，个人AI代理时代真的来了",
-          "url": "https://wallstreetcn.com/articles/3765254",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时33分 ~ 14时43分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -309,11 +310,12 @@
           "url": "https://www.zhihu.com/question/2003997015852482602",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时59分]"
         },
         {
           "title": "A股行情",
@@ -336,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-02-09）",
+          "url": "https://flash.jin10.com/detail/20260209152521565800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "券商开年以来共计“拜访”685家A股公司",
@@ -366,7 +379,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -380,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "国家体育总局局长：优化体育产业发展结构，扩大体育消费规模",
+          "url": "https://www.cls.cn/detail/2284075",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
@@ -435,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "A股春节红包行情要来了吗",
+          "url": "https://www.toutiao.com/trending/7604044799993774123/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     },
@@ -476,8 +511,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 14时43分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 15时59分]"
         },
         {
           "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -487,8 +522,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时33分 ~ 15时59分]"
+        },
+        {
+          "title": "见证地下400米深处的科技力量",
+          "url": "https://www.douyin.com/hot/2394591",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时33分 ~ 14时43分]"
+          "time_info": "[13时04分 ~ 15时59分]"
         },
         {
           "title": "知名科技记者古尔曼：料新款iPhone 17e搭载A19芯片和MagSafe充电功能，还将采用苹果最新的自研蜂窝网络和无线芯片。苹果计划将售价维持在599美元不变。",
@@ -502,17 +548,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 05时31分]"
-        },
-        {
-          "title": "见证地下400米深处的科技力量",
-          "url": "https://www.douyin.com/hot/2394591",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时43分]"
         },
         {
           "title": "知名科技记者古尔曼：苹果(AAPL.O)面向开发者的首个iOS26.4测试版（计划包含新版Siri的部分功能）定于2月23日当周发布。此外，苹果还计划在3月2日当周发布新产品，包括iPhone 17e、新款iPad和全新Mac电脑。",
@@ -572,6 +607,31 @@
           "time_info": "[06时32分 ~ 07时35分]"
         },
         {
+          "title": "习近平在北京考察科技创新工作",
+          "url": "https://www.cls.cn/detail/2284369",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时59分]"
+        },
+        {
+          "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 15时59分]"
+        },
+        {
           "title": "锚定“硬科技”赛道 公募踊跃参与上市公司定增项目",
           "url": "https://wallstreetcn.com/livenews/3051873",
           "source": "华尔街见闻-快讯",
@@ -582,29 +642,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时35分]"
-        },
-        {
-          "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
-        },
-        {
-          "title": "习近平在北京考察科技创新工作",
-          "url": "https://www.cls.cn/detail/2284369",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
         },
         {
           "title": "中国财政部部长蓝佛安：中方呼吁新兴市场经济体和发展中国家以科技创新驱动发展",
@@ -647,7 +684,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -680,7 +717,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -702,7 +739,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -713,7 +750,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -732,7 +769,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -811,6 +848,28 @@
           "time_info": "[14时42分 ~ 14时43分]"
         },
         {
+          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3052163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
+          "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260209153806428800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
+        },
+        {
           "title": "唯一能治住特朗普的生物出现了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%94%AF%E4%B8%80%E8%83%BD%E6%B2%BB%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E7%94%9F%E7%89%A9%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -850,11 +909,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 15时59分]"
         },
         {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
@@ -867,6 +927,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时32分]"
+        },
+        {
+          "title": "如何看待特朗普怒喷第 60 届超级碗中场秀「史上最烂」，因表演中几乎完全没有说英文？",
+          "url": "https://www.zhihu.com/question/2004153656694503218",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         },
         {
           "title": "日本首相高市早苗：我由衷感谢美国总统特朗普的暖心之言。",
@@ -894,7 +965,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗外长：伊美核谈判开局良好",
@@ -943,6 +1014,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时04分"
+        },
+        {
+          "title": "伊朗称已向中俄通报伊美谈判情况",
+          "url": "https://www.toutiao.com/trending/7604403113240952895/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时59分"
         }
       ]
     },
@@ -1014,7 +1096,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
@@ -1043,7 +1125,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
@@ -1060,7 +1142,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
