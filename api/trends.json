@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T15:59:33.167059+08:00",
-  "total_titles_processed": 1067,
+  "generated_at": "2026-02-09T17:05:51.952519+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -182,11 +182,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时59分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 17时05分]"
         },
         {
           "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
@@ -196,8 +197,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时59分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时05分]"
         },
         {
           "title": "本周机构最为关注的A股行业板块一览",
@@ -233,8 +234,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 17时05分]"
         },
         {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
@@ -246,8 +247,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 15时59分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 17时05分]"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            16,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时05分]"
         },
         {
           "title": "机构：A股市场存在显著的春节“日历效应”，持股过节或是更优选择",
@@ -306,16 +320,16 @@
           "time_info": "[00时36分 ~ 01时31分]"
         },
         {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
+          "title": "国家体育总局局长：优化体育产业发展结构，扩大体育消费规模",
+          "url": "https://www.cls.cn/detail/2284075",
+          "source": "财联社热门",
           "ranks": [
-            16,
-            9
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时59分]"
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 17时05分]"
         },
         {
           "title": "A股行情",
@@ -327,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时42分 ~ 14时43分]"
+        },
+        {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "这会是改变视频行业的AI吗",
@@ -346,7 +371,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -373,6 +398,17 @@
           "time_info": "10时33分"
         },
         {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
           "url": "https://wallstreetcn.com/livenews/3052101",
           "source": "华尔街见闻-快讯",
@@ -393,17 +429,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
-        },
-        {
-          "title": "国家体育总局局长：优化体育产业发展结构，扩大体育消费规模",
-          "url": "https://www.cls.cn/detail/2284075",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时59分"
         },
         {
           "title": "近190亿元“春节红包”来袭，34家A股公司节前排队派息",
@@ -467,7 +492,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
@@ -475,7 +500,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "下周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
@@ -502,6 +527,17 @@
           "time_info": "[00时36分 ~ 10时33分]"
         },
         {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 17时05分]"
+        },
+        {
           "title": "美银Hartnett：小盘股比科技股更值得押注，科技巨头不再是赢家",
           "url": "https://wallstreetcn.com/articles/3765250",
           "source": "华尔街见闻",
@@ -513,17 +549,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时36分 ~ 15时59分]"
-        },
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 15时59分]"
         },
         {
           "title": "见证地下400米深处的科技力量",
@@ -595,6 +620,20 @@
           "time_info": "13时04分"
         },
         {
+          "title": "习近平在北京考察科技创新工作",
+          "url": "https://www.cls.cn/detail/2284369",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时05分]"
+        },
+        {
           "title": "外资调研透露市场方向，高端制造与科技创新成焦点",
           "url": "https://wallstreetcn.com/livenews/3051874",
           "source": "华尔街见闻-快讯",
@@ -605,19 +644,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时35分]"
-        },
-        {
-          "title": "习近平在北京考察科技创新工作",
-          "url": "https://www.cls.cn/detail/2284369",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时59分]"
         },
         {
           "title": "创业板涨3%，CPO暴涨、“易中天”飙升，光伏掀涨停潮，恒科指涨1%，半导体大涨、澜起科技IPO首日涨超50%",
@@ -654,6 +680,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时35分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "正邦科技：1月销售生猪92.75万头（其中仔猪53.05万头，商品猪39.70万头），环比下降9.82%，同比上升62.33%；销售收入8.16亿元，环比下降10.68%，同比上升19.69%。商品猪（扣除仔猪后）销售均价12.45元/公斤，较上月上升6.41%。",
+          "url": "https://wallstreetcn.com/livenews/3052214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "阿里云计算入股自变量机器人科技公司",
@@ -700,6 +748,17 @@
           "time_info": "10时33分"
         },
         {
+          "title": "源杰科技：拟投资建设光电通讯半导体芯片和器件研发生产基地二期项目，投资总额约为12.51亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3052195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "AI应用端开盘大涨，荣信文化、中文在线、掌阅科技、海看股份、风语筑等多股竞价涨停，当虹科技涨超10%，消息面上，开源证券发布研报称，字节跳动在即梦平台上线Seedance2.0视频生成模型，引发AI产业界广泛测评与讨论，且实测效果惊艳。",
           "url": "https://wallstreetcn.com/livenews/3051971",
           "source": "华尔街见闻-快讯",
@@ -742,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "港股收盘：恒生指数涨1.76%，澜起科技首日涨超63%",
+          "url": "https://wallstreetcn.com/livenews/3052182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         },
         {
           "title": "AI应用概念股午后持续拉升，A股方面，东方国信直线涨停，荣信文化、中文在线此前封板，壹网壹创、万兴科技、安诺其跟涨；港股方面，智谱涨超26%，金山云涨超10%，MINIMAX-WP涨近10%。",
@@ -854,7 +924,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -865,7 +935,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -879,6 +949,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 17时05分]"
         },
         {
           "title": "特朗普的财政部长建议：司法部调查与参议院启动凯文·沃什的提名听证会同时推进",
@@ -905,18 +987,6 @@
           "time_info": "[05时31分 ~ 06时32分]"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 15时59分]"
-        },
-        {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
           "url": "https://wallstreetcn.com/livenews/3051847",
           "source": "华尔街见闻-快讯",
@@ -935,7 +1005,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         },
@@ -1022,7 +1092,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时59分"
         }
@@ -1030,7 +1100,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -1059,6 +1129,17 @@
           "time_info": "[05时31分 ~ 06时32分]"
         },
         {
+          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
+          "url": "https://www.cls.cn/detail/2284121",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
           "title": "美股三大股指期货周一盘初均涨0.2%。",
           "url": "https://flash.jin10.com/detail/20260209070343004800",
           "source": "金十数据",
@@ -1068,6 +1149,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
+          "url": "https://wallstreetcn.com/livenews/3052107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
+          "url": "https://flash.jin10.com/detail/20260209161349055800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
+        },
+        {
+          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
+          "url": "https://wallstreetcn.com/livenews/3052196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时05分"
         }
       ]
     },
@@ -1124,23 +1244,6 @@
           "source": "金十数据",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
-          "url": "https://wallstreetcn.com/livenews/3052107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
           ],
           "is_new": false,
           "appearance_count": 1,
