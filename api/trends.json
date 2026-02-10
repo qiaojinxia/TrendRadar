@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T10:42:03.767492+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-02-10T13:08:09.027375+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "A股大举提升再融资吸引力！哪些公司受益？划定哪些红线？",
@@ -80,8 +80,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时07分 ~ 10时42分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 13时08分]"
         },
         {
           "title": "不要对AI说谢谢",
@@ -90,11 +90,12 @@
           "ranks": [
             16,
             2,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 10时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 13时08分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -112,8 +113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 10时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 13时08分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -145,11 +146,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%AF%B9AI%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
         },
         {
           "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
@@ -169,7 +171,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -180,9 +182,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "千问APP接入大麦 测试AI买电影票能力",
+          "url": "https://wallstreetcn.com/livenews/3052722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "零售商塔吉特（Target）加大对门店员工的投资力度，在其他岗位砍掉500人来帮助解决消费者体验。",
@@ -210,6 +223,17 @@
           "time_info": "[06时41分 ~ 07时41分]"
         },
         {
+          "title": "Seedance2.0 对AI应用意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765320",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
+        },
+        {
           "title": "OpenAI：我们今天开始在美国向部分免费和Go计划订阅用户推出ChatGPT广告的测试。",
           "url": "https://wallstreetcn.com/livenews/3052484",
           "source": "华尔街见闻-快讯",
@@ -234,6 +258,28 @@
           "time_info": "[01时07分 ~ 02时13分]"
         },
         {
+          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
+          "url": "https://wallstreetcn.com/articles/3765297",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
+        },
+        {
+          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
+          "url": "https://www.cls.cn/detail/2285182",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
+        },
+        {
           "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
           "url": "https://www.cls.cn/detail/2284501",
           "source": "财联社热门",
@@ -245,37 +291,26 @@
           "time_info": "[01时07分 ~ 02时13分]"
         },
         {
-          "title": "Seedance2.0 对AI应用意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765320",
-          "source": "华尔街见闻",
+          "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
+          "url": "https://www.cls.cn/detail/2285532",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
-        },
-        {
-          "title": "美软件股危机未除！花旗：AI冲击或让终端价值蒸发三分之一",
-          "url": "https://wallstreetcn.com/articles/3765297",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
-        },
-        {
-          "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
-          "url": "https://www.cls.cn/detail/2285182",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "AI 恐怖",
@@ -348,6 +383,17 @@
           "time_info": "[10时41分 ~ 10时42分]"
         },
         {
+          "title": "AI短剧",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
           "title": "OpenAI推出首个在网络安全方面设定为高等级的模型GPT-5.3-Codex",
           "url": "https://wallstreetcn.com/livenews/3052487",
           "source": "华尔街见闻-快讯",
@@ -365,7 +411,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -403,6 +449,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "A股影视股持续拉升，中国电影、光线传媒、上海电影、横店影视、博纳影业、浙文影业等多股涨停，光线传媒、万达电影逼近涨停，幸福蓝海、华策影视涨超15%。多只影视ETF涨超9%，年初至今涨超30%。",
+          "url": "https://wallstreetcn.com/livenews/3052684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
           "url": "https://wallstreetcn.com/livenews/3052393",
           "source": "华尔街见闻-快讯",
@@ -427,312 +484,8 @@
       ]
     },
     {
-      "keyword_group": "科技 机器人",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 07时41分]"
-        },
-        {
-          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
-          "url": "https://www.cls.cn/detail/2285089",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 10时42分]"
-        },
-        {
-          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
-          "url": "https://wallstreetcn.com/articles/3765271",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 10时42分]"
-        },
-        {
-          "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
-        },
-        {
-          "title": "习近平在北京考察科技创新工作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32565800",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时40分 ~ 10时42分]"
-        },
-        {
-          "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "AI应用端涨势扩大，读客文化冲击20cm涨停，捷成股份、荣信文化、风语筑、人民网、掌阅科技等十余股封涨停板。",
-          "url": "https://wallstreetcn.com/livenews/3052662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "云深处科技新专利可提高人形机器人跌倒恢复能力",
-          "url": "https://wallstreetcn.com/livenews/3052660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "外资机构密集调研A股公司，科技赛道成关注重点",
-          "url": "https://wallstreetcn.com/livenews/3052553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
-          "url": "https://wallstreetcn.com/articles/3765328",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.39%，报27221点。 恒生科技指数主连夜盘收涨0.48%，报5458点。",
-          "url": "https://wallstreetcn.com/livenews/3052479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 04时44分]"
-        },
-        {
-          "title": "科技行业收涨超1.5%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3052518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "加皇银行：警惕科技行业重新定价冲击债市",
-          "url": "https://flash.jin10.com/detail/20260210054520696800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 07时41分]"
-        },
-        {
-          "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3052510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时41分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨0.12%，报7817.64点。 热门中概股里，世纪互联初步收涨5.8%，大全新能源涨5.8%，阿特斯太阳能涨5.7%，亚朵涨5.6%，B站则跌2.4%，蔚来跌3.1%，理想跌3.1%，新东方跌4.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.72%，德银嘉实沪深300指数ETF（ASHR）收涨1.25%。 中国科技指数ETF（CQQQ）收涨0.54%，中概互联网指数ETF（KWEB）收涨0.09%。",
-          "url": "https://wallstreetcn.com/livenews/3052514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
-          "url": "https://wallstreetcn.com/livenews/3052512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
-          "url": "https://flash.jin10.com/detail/20260210065424099800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "冠盛股份澄清：当前机器人智能仿生关节臂产品无订单且未产生营业收入",
-          "url": "https://wallstreetcn.com/livenews/3052413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
-        },
-        {
-          "title": "恒指日内涨幅扩大至1%，恒生生物科技指数涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3052641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "恒生科技指数日内涨幅扩大至1.3%，快手涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/3052635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "近一个月调研逾560家上市公司，科技股成券商“春耕”重点",
-          "url": "https://wallstreetcn.com/livenews/3052537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
-        },
-        {
-          "title": "A股算力概念股盘初上扬，大位科技2连板，特发信息涨停，亚康股份、江苏有线、光环新网、城地香江、亿田智能跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3052628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "AI应用端延续强势，荣信文化、掌阅科技2连板，中文在线接近涨停，捷成股份涨超10%，人民网、视觉中国等多股高开。",
-          "url": "https://wallstreetcn.com/livenews/3052623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "高盛给予壁仞科技和沐曦股份买入评级，料中国云厂商支出将驱动增长",
-          "url": "https://wallstreetcn.com/livenews/3052618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "恒指高开0.65%，报27202.96点；恒生科技指数涨0.82%。紫金矿业涨2.9%，泡泡玛特、网易涨超2%，中芯国际、京东、阿里巴巴等涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3052614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -747,6 +500,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时01分 ~ 07时41分]"
+        },
+        {
+          "title": "特朗普：我犯了大错",
+          "url": "https://news.ifeng.com/c/8qctqBdiVbv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普：如果美联储主席提名人凯文·沃什能够发挥自己的能力，美国经济可以增长15%。（福克斯商业新闻）",
@@ -766,9 +542,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "美媒：丹麦另一领地或成特朗普的新目标",
+          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
         },
         {
           "title": "美国总统特朗普：如果沃什能胜任他的工作，美国经济可以增长15%。",
@@ -794,26 +581,37 @@
           "time_info": "[03时46分 ~ 05时42分]"
         },
         {
-          "title": "美媒：丹麦另一领地或成特朗普的新目标",
-          "url": "https://news.ifeng.com/c/8qcjl7IoRYq",
-          "source": "凤凰网",
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
-          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
-          "url": "https://www.cls.cn/detail/2285295",
-          "source": "财联社热门",
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
           "ranks": [
-            9
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时41分 ~ 10时42分]"
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "特朗普再威胁加拿大",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E5%A8%81%E8%83%81%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         },
         {
           "title": "美民调：多数人不认可特朗普关税政策",
@@ -833,7 +631,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -877,7 +675,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
         },
@@ -1016,6 +814,333 @@
       ]
     },
     {
+      "keyword_group": "科技 机器人",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 07时41分]"
+        },
+        {
+          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
+          "url": "https://www.cls.cn/detail/2285089",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 13时08分]"
+        },
+        {
+          "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
+          "url": "https://wallstreetcn.com/articles/3765271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时01分 ~ 13时08分]"
+        },
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
+        },
+        {
+          "title": "习近平在北京考察科技创新工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32565800",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时40分 ~ 13时08分]"
+        },
+        {
+          "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "AI应用端涨势扩大，读客文化冲击20cm涨停，捷成股份、荣信文化、风语筑、人民网、掌阅科技等十余股封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3052662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "云深处科技新专利可提高人形机器人跌倒恢复能力",
+          "url": "https://wallstreetcn.com/livenews/3052660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "外资机构密集调研A股公司，科技赛道成关注重点",
+          "url": "https://wallstreetcn.com/livenews/3052553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "北京人形机器人创新中心发布具身天工3.0",
+          "url": "https://wallstreetcn.com/livenews/3052725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "习近平：建设社会主义现代化强国，关键在科技自立自强",
+          "url": "https://wallstreetcn.com/articles/3765328",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时41分 ~ 13时08分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.39%，报27221点。 恒生科技指数主连夜盘收涨0.48%，报5458点。",
+          "url": "https://wallstreetcn.com/livenews/3052479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 04时44分]"
+        },
+        {
+          "title": "科技行业收涨超1.5%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3052518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "加皇银行：警惕科技行业重新定价冲击债市",
+          "url": "https://flash.jin10.com/detail/20260210054520696800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时41分]"
+        },
+        {
+          "title": "周一（2月9日）美股尾盘，彭博电动汽车价格回报指数涨2.11%，报3593.84点，整体持续走高。 成分股中，欧股意法半导体收涨9.76%，阿内卡矿业股份涨4.8%，中创新航科技集团H股收涨4.81%，蔚来集团H股则收跌0.51%，雅迪集团H股收跌1.56%，智利化工矿业公司（SQM）跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3052510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时41分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.12%，报7817.64点。 热门中概股里，世纪互联初步收涨5.8%，大全新能源涨5.8%，阿特斯太阳能涨5.7%，亚朵涨5.6%，B站则跌2.4%，蔚来跌3.1%，理想跌3.1%，新东方跌4.4%。 ETF中，XtrackersHarvest中证50（ASHS）收涨1.72%，德银嘉实沪深300指数ETF（ASHR）收涨1.25%。 中国科技指数ETF（CQQQ）收涨0.54%，中概互联网指数ETF（KWEB）收涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3052514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "标普500指数收涨32.52点，涨幅0.47%，报6964.82点。 道琼斯工业平均指数收涨20.20点，涨幅0.04%，报50135.87点。 纳斯达克综合指数（纳指）收涨207.457点，涨幅0.90%，报23238.67点。 纳斯达克100指数收涨192.369点，涨幅0.77%，报25268.141点。 纳斯达克生物科技指数收跌0.17%，报5970.10点。 费城半导体指数收涨1.42%，报8162.58点。 费城证交所KBW银行指数收涨0.16%，报176.40点。 道琼斯KBW地区银行指数收跌0.34%，报141.82点。",
+          "url": "https://wallstreetcn.com/livenews/3052512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "亚洲股市周二有望再度走高 追随美股科技股反弹势头",
+          "url": "https://flash.jin10.com/detail/20260210065424099800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "冠盛股份澄清：当前机器人智能仿生关节臂产品无订单且未产生营业收入",
+          "url": "https://wallstreetcn.com/livenews/3052413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时01分"
+        },
+        {
+          "title": "恒指日内涨幅扩大至1%，恒生生物科技指数涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3052641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "恒生科技指数日内涨幅扩大至1.3%，快手涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3052635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "近一个月调研逾560家上市公司，科技股成券商“春耕”重点",
+          "url": "https://wallstreetcn.com/livenews/3052537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "A股算力概念股盘初上扬，大位科技2连板，特发信息涨停，亚康股份、江苏有线、光环新网、城地香江、亿田智能跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3052628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "蚂蚁集团领投 大晓机器人完成天使轮融资",
+          "url": "https://wallstreetcn.com/livenews/3052697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
+          "title": "AI应用端延续强势，荣信文化、掌阅科技2连板，中文在线接近涨停，捷成股份涨超10%，人民网、视觉中国等多股高开。",
+          "url": "https://wallstreetcn.com/livenews/3052623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "高盛给予壁仞科技和沐曦股份买入评级，料中国云厂商支出将驱动增长",
+          "url": "https://wallstreetcn.com/livenews/3052618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "恒指高开0.65%，报27202.96点；恒生科技指数涨0.82%。紫金矿业涨2.9%，泡泡玛特、网易涨超2%，中芯国际、京东、阿里巴巴等涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3052614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -1034,6 +1159,19 @@
           "time_info": "[00时01分 ~ 10时42分]"
         },
         {
+          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
+          "url": "https://www.cls.cn/detail/2285220",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时41分 ~ 13时08分]"
+        },
+        {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260210013148662800",
           "source": "金十数据",
@@ -1043,18 +1181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
-        },
-        {
-          "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
-          "url": "https://www.cls.cn/detail/2285220",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时41分 ~ 10时42分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）热门中概股行情一览（美股盘中）",
@@ -1252,7 +1378,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -1275,6 +1401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3052699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求，势必募集200亿美元。（彭博）",
