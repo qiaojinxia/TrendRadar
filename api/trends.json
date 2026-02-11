@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:58:02.116656+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-02-11T18:01:46.881551+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -46,11 +46,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 16时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 18时01分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -64,6 +65,17 @@
           "time_info": "[11时36分 ~ 16时58分]"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://news.ifeng.com/c/8qetZSIVPBA",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
           "url": "https://wallstreetcn.com/livenews/3053536",
           "source": "华尔街见闻-快讯",
@@ -73,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -505,6 +528,17 @@
           "time_info": "11时37分"
         },
         {
+          "title": "外交部回应特朗普涉中加合作言论",
+          "url": "https://www.toutiao.com/trending/7605448481570897961/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
           "url": "https://flash.jin10.com/detail/20260211122756306800",
           "source": "金十数据",
@@ -662,7 +696,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -684,8 +718,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 16时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 18时01分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -696,8 +730,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 16时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 18时01分]"
+        },
+        {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 18时01分]"
         },
         {
           "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
@@ -711,18 +757,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时36分 ~ 16时58分]"
-        },
-        {
-          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
-          "url": "https://www.cls.cn/detail/2286740",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 16时58分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -759,6 +793,22 @@
           "time_info": "[00时09分 ~ 08时04分]"
         },
         {
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7,
+            6,
+            5,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 18时01分]"
+        },
+        {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
@@ -768,11 +818,12 @@
             18,
             22,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时09分 ~ 16时58分]"
+          "appearance_count": 21,
+          "time_info": "[00时09分 ~ 18时01分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -785,21 +836,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时09分 ~ 07时10分]"
-        },
-        {
-          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
-          "url": "https://www.zhihu.com/question/2004629058894389561",
-          "source": "知乎",
-          "ranks": [
-            12,
-            7,
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 16时58分]"
         },
         {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
@@ -825,8 +861,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 16时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 18时01分]"
         },
         {
           "title": "0%！美国12月零售销售意外停滞，假日季尾声消费疲软",
@@ -837,8 +873,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时36分 ~ 16时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时36分 ~ 18时01分]"
         },
         {
           "title": "六组数据读懂大国消费新气象",
@@ -848,8 +884,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 18时01分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -857,11 +893,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 16时58分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 18时01分]"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-02-11）",
@@ -885,6 +922,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时09分 ~ 05时12分]"
+        },
+        {
+          "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32580860",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 18时01分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -973,17 +1023,28 @@
           "time_info": "[13时29分 ~ 14时42分]"
         },
         {
-          "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32580860",
-          "source": "澎湃新闻",
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
           "ranks": [
             14,
-            13,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时42分 ~ 16时58分]"
+          "time_info": "[15时57分 ~ 18时01分]"
+        },
+        {
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 18时01分]"
         },
         {
           "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
@@ -991,18 +1052,6 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 16时58分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            14,
             11
           ],
           "is_new": false,
@@ -1023,16 +1072,15 @@
           "time_info": "[03时10分 ~ 05时12分]"
         },
         {
-          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
-          "url": "https://www.zhihu.com/question/2004509950915868142",
-          "source": "知乎",
+          "title": "国补资金625亿元就位！春节消费“三重大礼包”请查收",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581784",
+          "source": "澎湃新闻",
           "ranks": [
-            15,
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时57分 ~ 16时58分]"
+          "time_info": "[16时57分 ~ 18时01分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -1045,17 +1093,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时09分]"
-        },
-        {
-          "title": "国补资金625亿元就位！春节消费“三重大礼包”请查收",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581784",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
         },
         {
           "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
@@ -1101,6 +1138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
+          "url": "https://www.cls.cn/detail/2286766",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -1208,7 +1256,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1241,7 +1289,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
@@ -1249,7 +1297,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -1443,7 +1491,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1481,6 +1529,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "中国机器人亮相 外交官们举手机拍照",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8+%E5%A4%96%E4%BA%A4%E5%AE%98%E4%BB%AC%E4%B8%BE%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%85%A7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
           "title": "人形机器人创业者的未来狂想",
           "url": "https://www.douyin.com/hot/2396123",
           "source": "抖音",
@@ -1495,7 +1554,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "沙特驻伊朗大使：支持地区局势降温",
@@ -1629,9 +1688,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "中方送伊朗歼-20模型传递何种信号",
+          "url": "https://www.toutiao.com/trending/7605520149600292406/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
+        },
+        {
+          "title": "伊朗最高领袖顾问访问卡塔尔",
+          "url": "https://wallstreetcn.com/livenews/3053604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时01分"
         },
         {
           "title": "以总理访美，就伊朗弹道导弹问题与美沟通",
@@ -1810,17 +1891,6 @@
           "time_info": "[00时09分 ~ 08时04分]"
         },
         {
-          "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
-          "url": "https://flash.jin10.com/detail/20260211073639412800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
           "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
           "source": "澎湃新闻",
@@ -1830,8 +1900,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 16时58分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 18时01分]"
+        },
+        {
+          "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
+          "url": "https://flash.jin10.com/detail/20260211073639412800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
         },
         {
           "title": "金价波动",
