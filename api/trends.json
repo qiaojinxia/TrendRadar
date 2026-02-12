@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T19:43:17.748376+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-02-12T21:16:59.360243+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时36分 ~ 19时43分]"
+          "appearance_count": 13,
+          "time_info": "[07时36分 ~ 21时16分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时33分 ~ 19时43分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 21时16分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -100,8 +100,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时08分 ~ 19时43分]"
+          "appearance_count": 23,
+          "time_info": "[00时08分 ~ 21时16分]"
         },
         {
           "title": "经济日报谈预制菜：只要明明白白把选择权交给消费者，就能吃个安心",
@@ -144,8 +144,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时08分 ~ 19时43分]"
+          "appearance_count": 24,
+          "time_info": "[00时08分 ~ 21时16分]"
         },
         {
           "title": "国补资金625亿元就位！春节消费“三重大礼包”请查收",
@@ -323,6 +323,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "从严整治传播无AI标识虚假信息问题",
+          "url": "https://www.toutiao.com/trending/7605939603580898867/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "消费内存短缺何时会反转",
           "url": "https://search.bilibili.com/all?keyword=%E6%B6%88%E8%B4%B9%E5%86%85%E5%AD%98%E7%9F%AD%E7%BC%BA%E4%BD%95%E6%97%B6%E4%BC%9A%E5%8F%8D%E8%BD%AC",
           "source": "bilibili 热搜",
@@ -351,9 +362,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
+        },
+        {
+          "title": "新春福利上线：上海多区发放消费券，活动时间覆盖整个春节假期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590051",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时16分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -428,6 +452,18 @@
           "time_info": "[04时04分 ~ 05时06分]"
         },
         {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://www.cls.cn/detail/2288655",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时16分]"
+        },
+        {
           "title": "中美AI“隔空开打”",
           "url": "https://www.toutiao.com/trending/7605571340929601066/",
           "source": "今日头条",
@@ -453,17 +489,17 @@
           "time_info": "[16时54分 ~ 17时55分]"
         },
         {
-          "title": "新春福利上线：上海多区发放消费券，活动时间覆盖整个春节假期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590051",
-          "source": "澎湃新闻",
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
           "ranks": [
-            20,
-            19,
-            17
+            15,
+            25,
+            26
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时54分 ~ 19时43分]"
+          "time_info": "[18时52分 ~ 21时16分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -488,18 +524,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 01时35分]"
-        },
-        {
-          "title": "哈尔滨小哥为早回家过年找AI替班",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时43分]"
         },
         {
           "title": "用AI解锁吴克群将军令",
@@ -585,6 +609,18 @@
           "time_info": "[03时08分 ~ 04时04分]"
         },
         {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 21时16分]"
+        },
+        {
           "title": "德国总理默茨：由于复杂监管制度的缘故，欧盟（辖区内）公司在AI问题上落后。",
           "url": "https://wallstreetcn.com/livenews/3053881",
           "source": "华尔街见闻-快讯",
@@ -624,7 +660,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -646,7 +682,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -662,6 +698,17 @@
           "time_info": "17时55分"
         },
         {
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
           "url": "https://wallstreetcn.com/livenews/3054196",
           "source": "华尔街见闻-快讯",
@@ -673,15 +720,15 @@
           "time_info": "14时12分"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://www.cls.cn/detail/2288655",
-          "source": "财联社热门",
+          "title": "沙特皇家法令：任命阿勒赛义夫（Fahd Bin Abduljalil Bin Ali Al Saif）为新任投资大臣。",
+          "url": "https://flash.jin10.com/detail/20260212205501194800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "21时16分"
         },
         {
           "title": "蚂蚁阿福开启春节支付宝红包活动 AI医疗行业有望再度站上风口",
@@ -693,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
+          "url": "https://www.cls.cn/detail/2288560",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "金十数据整理：A股每日市场要闻回顾（2026-02-12）",
@@ -745,7 +803,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -827,15 +885,26 @@
           "time_info": "18时53分"
         },
         {
-          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
-          "url": "https://www.zhihu.com/question/2004603319558042744",
-          "source": "知乎",
+          "title": "整治传播无AI标识的虚假不实信息",
+          "url": "https://www.baidu.com/s?wd=%E6%95%B4%E6%B2%BB%E4%BC%A0%E6%92%AD%E6%97%A0AI%E6%A0%87%E8%AF%86%E7%9A%84%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
           "ranks": [
             20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "21时16分"
+        },
+        {
+          "title": "A股收评：三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7605818516108771347/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "新加坡公布2026年预算案 将加码扶持本地企业、押注AI与国际贸易",
@@ -921,8 +990,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时34分 ~ 19时43分]"
+          "appearance_count": 23,
+          "time_info": "[01时34分 ~ 21时16分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -932,8 +1001,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时16分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -948,18 +1017,6 @@
           "time_info": "[00时08分 ~ 07时37分]"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时43分]"
-        },
-        {
           "title": "特朗普否认了，仅拒邀两人",
           "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
           "source": "凤凰网",
@@ -971,6 +1028,46 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[15时36分 ~ 19时43分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时16分]"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时16分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时01分 ~ 21时16分]"
         },
         {
           "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
@@ -987,33 +1084,6 @@
           "time_info": "[13时01分 ~ 18时53分]"
         },
         {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时43分]"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时01分 ~ 19时43分]"
-        },
-        {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
           "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
           "source": "凤凰网",
@@ -1021,8 +1091,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时16分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -1035,6 +1105,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时54分 ~ 19时43分]"
+        },
+        {
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时16分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -1058,6 +1142,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 21时16分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -1132,21 +1229,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             10,
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时43分]"
+          "time_info": "[17时55分 ~ 21时16分]"
         },
         {
           "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
@@ -1199,19 +1296,6 @@
           "time_info": "[05时06分 ~ 06时01分]"
         },
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时43分]"
-        },
-        {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
           "url": "https://wallstreetcn.com/livenews/3053939",
           "source": "华尔街见闻-快讯",
@@ -1246,18 +1330,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 06时42分]"
-        },
-        {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时43分]"
         },
         {
           "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
@@ -1560,7 +1632,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时43分"
         },
@@ -1714,6 +1786,19 @@
           "time_info": "[00时08分 ~ 07时37分]"
         },
         {
+          "title": "【每日收评】科技股全线回暖！创业板指与科创50双双涨超1%，算力产业链强势领涨",
+          "url": "https://www.cls.cn/detail/2288516",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时55分 ~ 21时16分]"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.07%，报27206点。 恒生科技指数主连夜盘收跌0.33%，报5474点。",
           "url": "https://wallstreetcn.com/livenews/3053925",
           "source": "华尔街见闻-快讯",
@@ -1761,19 +1846,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时53分 ~ 19时43分]"
-        },
-        {
-          "title": "【每日收评】科技股全线回暖！创业板指与科创50双双涨超1%，算力产业链强势领涨",
-          "url": "https://www.cls.cn/detail/2288516",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时55分 ~ 19时43分]"
         },
         {
           "title": "小米开源首代机器人VLA大模型",
@@ -2051,7 +2123,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -2200,6 +2272,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "伊朗最高领袖顾问否认曾致信美国",
+          "url": "https://wallstreetcn.com/livenews/3054515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗外长重申就和平核计划达成协议是可能的",
           "url": "https://wallstreetcn.com/livenews/3053990",
           "source": "华尔街见闻-快讯",
@@ -2225,7 +2308,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -2307,11 +2390,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时43分]"
+          "appearance_count": 4,
+          "time_info": "[18时52分 ~ 21时16分]"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -2323,6 +2407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2288812",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
@@ -2404,18 +2499,6 @@
           "time_info": "[00时08分 ~ 19时43分]"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时08分 ~ 19时43分]"
-        },
-        {
           "title": "DeepSeek新模型来了？",
           "url": "https://wallstreetcn.com/articles/3765514",
           "source": "华尔街见闻",
@@ -2441,6 +2524,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时08分 ~ 10时34分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时08分 ~ 21时16分]"
         },
         {
           "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
@@ -2523,7 +2619,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
@@ -2537,6 +2633,17 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时08分 ~ 07时37分]"
+        },
+        {
+          "title": "现在金价这么高，把「三金」卖了，以后金价跌了再买合适吗？",
+          "url": "https://www.zhihu.com/question/1964981998281036870",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）上海金午盘价为1123.27元/克，较国际金价(1121.65元/克)，高1.62元/克",
