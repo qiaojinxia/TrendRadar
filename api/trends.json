@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T15:33:30.980978+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-02-13T16:50:39.242123+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 62,
+      "match_count": 70,
       "titles": [
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -33,6 +33,17 @@
           "time_info": "[06时36分 ~ 15时33分]"
         },
         {
+          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
+        },
+        {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -55,15 +66,18 @@
           "time_info": "[01时05分 ~ 06时36分]"
         },
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
+          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            6,
+            4,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -101,19 +115,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时05分 ~ 10时35分]"
-        },
-        {
-          "title": "Moltbook百万条评论分析：AI如何集体“吐槽”人类？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549741",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
         },
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -187,6 +188,18 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
+          "url": "https://wallstreetcn.com/articles/3765622",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
+        },
+        {
           "title": "A股4000点上方持续震荡，今年春节假期持股还是持币？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32591293",
           "source": "澎湃新闻",
@@ -223,16 +236,15 @@
           "time_info": "07时34分"
         },
         {
-          "title": "AI冲击货运江湖！罗素3000卡车运输指数盘中重挫9%",
-          "url": "https://wallstreetcn.com/articles/3765622",
-          "source": "华尔街见闻",
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
           "ranks": [
-            9,
-            10
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -274,9 +286,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "Yelp与OpenAI构建合作伙伴关系。",
@@ -339,6 +362,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 03时36分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时56分 ~ 16时50分]"
         },
         {
           "title": "哈尔滨小哥为早回家过年找AI替班",
@@ -436,6 +471,64 @@
           "time_info": "[04时39分 ~ 05时38分]"
         },
         {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
+        },
+        {
+          "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
+          "url": "https://www.cls.cn/detail/2289134",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
+        },
+        {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
+        },
+        {
+          "title": "券商：A股节后新一轮行情值得期待",
+          "url": "https://www.toutiao.com/trending/7606186421723860534/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
+        },
+        {
           "title": "让AI集体翻车的洗车难题",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
@@ -456,17 +549,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时56分 ~ 12时57分]"
         },
         {
           "title": "AI寒流来袭：全球风险资产撤退 美债成避风港",
@@ -502,15 +584,15 @@
           "time_info": "02时31分"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "瑞典央行副行长扬松：近期国内生产总值和消费数据略显疲软。",
+          "url": "https://flash.jin10.com/detail/20260213161827593800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时50分"
         },
         {
           "title": "阿里、谷歌接连“出手” AI购物元年将至？",
@@ -522,6 +604,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "AI算力催生电力需求 核聚变行业资本开支进入上行周期",
+          "url": "https://www.cls.cn/detail/2289093",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "市场消息：OpenAI推出首款采用Cerebras芯片的AI模型。",
@@ -546,15 +650,26 @@
           "time_info": "02时31分"
         },
         {
-          "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
-          "url": "https://www.cls.cn/detail/2289134",
+          "title": "A股蛇年收官",
+          "url": "https://www.toutiao.com/trending/7606243229087960622/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "券商晨会精华：Agentic AI发展驱动需求 CPU的AI时刻已经来临",
+          "url": "https://www.cls.cn/detail/2289082",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时50分"
         },
         {
           "title": "OpenAI CEO：马斯克攻击我们很荒唐",
@@ -574,7 +689,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -590,28 +705,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "券商：A股节后新一轮行情值得期待",
-          "url": "https://www.toutiao.com/trending/7606186421723860534/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "A股",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
           "title": "Anthropic：本轮融资的重要投资方包括Accel、Addition、Alpha Wave Global、Altimeter Capital、AMP、Appaloosa LP以及Baillie Gifford。",
           "url": "https://flash.jin10.com/detail/20260213030259152800",
           "source": "金十数据",
@@ -623,15 +716,15 @@
           "time_info": "03时36分"
         },
         {
-          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时50分"
         },
         {
           "title": "谷歌：全新深度思考现已通过Gemini应用向Google AI Ultra订阅用户开放，并通过Gemini API向精选研究人员开放。",
@@ -662,7 +755,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -706,7 +799,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -717,7 +810,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -725,7 +818,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -779,22 +872,24 @@
           "url": "https://news.ifeng.com/c/8qhfIw9PImo",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
           "url": "https://news.ifeng.com/c/8qhMxrkOBrZ",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -825,6 +920,20 @@
           "time_info": "[10时35分 ~ 15时33分]"
         },
         {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时50分]"
+        },
+        {
           "title": "中方回应“特朗普将于4月初访华”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
           "source": "百度热搜",
@@ -851,6 +960,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "派拉蒙天舞（Paramount SkyDance）高管Ellison上周会见了美国总统特朗普。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3054631",
           "source": "华尔街见闻-快讯",
@@ -862,17 +982,15 @@
           "time_info": "01时06分"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
+          "title": "UP主在白宫向特朗普提问",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%9C%A8%E7%99%BD%E5%AE%AB%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E9%97%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            11,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
         },
         {
           "title": "美国总统特朗普：（1月非农）就业报告在特定方面是惊人的。",
@@ -940,11 +1058,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时50分]"
         },
         {
           "title": "美国总统特朗普：就业报告在某些方面非常出色。",
@@ -1315,8 +1434,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -1327,8 +1446,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1364,8 +1483,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时50分]"
         },
         {
           "title": "美股存储芯片指数收涨不到1.4%",
@@ -1438,6 +1557,17 @@
           "time_info": "[10时35分 ~ 12时57分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
+        },
+        {
           "title": "周四（2月12日）美股尾盘，彭博电动汽车价格回报指数跌0.69%，报3636.68点。 美股盘初刷新日高至3697.22点——亚太盘初以来持续交投于3690点附近，随后持续下挫，00:00过后持续交投于3640点附近。",
           "url": "https://wallstreetcn.com/livenews/3054722",
           "source": "华尔街见闻-快讯",
@@ -1462,15 +1592,15 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
           "ranks": [
-            8
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
@@ -1493,17 +1623,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创去年4月份以来最差单日表现",
@@ -1542,18 +1661,19 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
           "url": "https://news.ifeng.com/c/8qhwigwSERf",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时56分 ~ 15时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时56分 ~ 16时50分]"
         },
         {
           "title": "雷军公布小米机器人最新进展：兼具视觉语言理解与实时执行能力",
@@ -1588,8 +1708,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时35分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 16时50分]"
         },
         {
           "title": "周四（2月12日），信息科技指数跌2.27%，报269.21点，成分股Applovin收跌19.68%，思科跌12.32%，Astera Labs股份跌11.92%跌幅第三大。 人工智能（AI）赢家指数跌1.54%，AI软件先驱指数跌1.44%。",
@@ -1694,6 +1814,28 @@
           "time_info": "05时38分"
         },
         {
+          "title": "智元发布新一代全尺寸人形机器人远征A3",
+          "url": "https://wallstreetcn.com/livenews/3055006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "湛逸飞将出任理想人形机器人业务负责人",
+          "url": "https://wallstreetcn.com/livenews/3054998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
           "title": "恒指低开1.45%，恒生科技指数跌1.59%",
           "url": "https://wallstreetcn.com/livenews/3054821",
           "source": "华尔街见闻-快讯",
@@ -1749,8 +1891,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时05分 ~ 15时33分]"
+          "appearance_count": 16,
+          "time_info": "[01时05分 ~ 16时50分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1766,8 +1908,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时05分 ~ 15时33分]"
+          "appearance_count": 16,
+          "time_info": "[01时05分 ~ 16时50分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1783,37 +1925,39 @@
           "time_info": "[10时35分 ~ 14时03分]"
         },
         {
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
+        },
+        {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
           "source": "百度热搜",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "DeepSeek回应被指变冷淡",
-          "url": "https://www.toutiao.com/trending/7606192815403437609/",
-          "source": "今日头条",
-          "ranks": [
+            29,
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时50分]"
         }
       ]
     },
