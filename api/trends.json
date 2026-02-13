@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T04:52:59.303161+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-02-14T05:40:14.290517+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时00分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[04时00分 ~ 05时40分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -27,11 +27,12 @@
             16,
             19,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -47,15 +48,79 @@
           "time_info": "[00时09分 ~ 02时05分]"
         },
         {
-          "title": "特朗普证实美军将向中东地区派出第二艘航母",
-          "url": "https://wallstreetcn.com/livenews/3055352",
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时00分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：不希望伊朗有任何铀浓缩。",
+          "url": "https://wallstreetcn.com/livenews/3055375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "05时40分"
+        },
+        {
+          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
+          "url": "https://flash.jin10.com/detail/20260214031056570800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普重申：与北约关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3055341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时40分]"
         },
         {
           "title": "美国总统特朗普：我会访问委内瑞拉，但还没决定具体时间。",
@@ -67,6 +132,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3055338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时40分]"
         },
         {
           "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
@@ -83,32 +162,6 @@
           "time_info": "[02时05分 ~ 04时52分]"
         },
         {
-          "title": "美国总统特朗普重申：与北约关系良好。",
-          "url": "https://wallstreetcn.com/livenews/3055341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时52分]"
-        },
-        {
-          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
-          "url": "https://flash.jin10.com/detail/20260214031056570800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时52分]"
-        },
-        {
           "title": "美国总统特朗普：当前谈判格陵兰问题。",
           "url": "https://wallstreetcn.com/livenews/3055307",
           "source": "华尔街见闻-快讯",
@@ -122,43 +175,16 @@
           "time_info": "[01时25分 ~ 03时25分]"
         },
         {
-          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
-          "url": "https://wallstreetcn.com/livenews/3055338",
+          "title": "特朗普证实美军将向中东地区派出第二艘航母",
+          "url": "https://wallstreetcn.com/livenews/3055352",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            9,
-            12
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时52分]"
-        },
-        {
-          "title": "美国总统特朗普：希望与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030526351800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时52分]"
-        },
-        {
-          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
-          "url": "https://flash.jin10.com/detail/20260214030421669800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时52分]"
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时40分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -210,15 +236,30 @@
           "time_info": "[02时05分 ~ 04时52分]"
         },
         {
-          "title": "特朗普将访问委内瑞拉",
-          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
-          "source": "凤凰网",
+          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
+          "url": "https://flash.jin10.com/detail/20260214023919171800",
+          "source": "金十数据",
           "ranks": [
-            6
+            13,
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时00分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时40分]"
+        },
+        {
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 05时40分]"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
@@ -271,32 +312,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时01分]"
-        },
-        {
-          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
-          "url": "https://flash.jin10.com/detail/20260214023919171800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时52分]"
-        },
-        {
-          "title": "美国总统特朗普：通胀报告非常棒。",
-          "url": "https://flash.jin10.com/detail/20260214023609797800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时52分]"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -598,7 +613,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "小伙5个月用AI做120多个App",
@@ -608,8 +623,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -619,8 +634,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "1月金融数据出炉：春节前消费支撑个贷增长，政府债融资增量占比刷新2021年来同期新高",
@@ -631,8 +646,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -643,8 +658,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "AI整活无底线,赛文演员急了",
@@ -655,8 +670,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -666,8 +681,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -680,8 +695,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -697,6 +712,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 04时52分]"
+        },
+        {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时25分 ~ 05时40分]"
+        },
+        {
+          "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
+          "url": "https://wallstreetcn.com/livenews/3055377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时25分 ~ 05时40分]"
         },
         {
           "title": "FTC升级对微软反垄断调查，向竞争对手质询云与AI业务",
@@ -724,17 +772,6 @@
           "time_info": "[02时05分 ~ 04时52分]"
         },
         {
-          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时25分 ~ 04时52分]"
-        },
-        {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
           "url": "https://wallstreetcn.com/livenews/3055282",
           "source": "华尔街见闻-快讯",
@@ -745,17 +782,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时25分]"
-        },
-        {
-          "title": "澎湃AI晚新闻丨2026年2月13日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时25分 ~ 04时52分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -796,6 +822,17 @@
           "time_info": "[00时09分 ~ 01时25分]"
         },
         {
+          "title": "OpenSpec 最近火了，规范驱动开发是 AI 编程的未来吗？",
+          "url": "https://www.zhihu.com/question/1969140298404853132",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 05时40分]"
+        },
+        {
           "title": "美国劳工部督促雇主加强员工AI使用培训",
           "url": "https://wallstreetcn.com/livenews/3055273",
           "source": "华尔街见闻-快讯",
@@ -831,8 +868,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -843,8 +880,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -855,8 +892,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
@@ -867,8 +904,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -879,8 +916,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -890,8 +927,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
         },
         {
           "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
@@ -952,6 +989,82 @@
       ]
     },
     {
+      "keyword_group": "科技 机器人",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
+        },
+        {
+          "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
+          "url": "https://www.cls.cn/detail/2289721",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.11%，报26560点。 恒生科技指数主连夜盘收涨0.39%，报5369点。",
+          "url": "https://wallstreetcn.com/livenews/3055342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 05时40分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
+          "url": "https://wallstreetcn.com/livenews/3055367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.10%，报7591.86点，本周累计下跌2.77%，周一至周三高位持稳，周四美股盘初显著下跌，后续低位震荡，整体形成Z形走势。 热门中概股里，新东方初步收跌2.3%，阿里巴巴跌2.1%，小马智行跌2%，理想、京东、比亚迪、百度至多跌1.8%，蔚来大致收平，腾讯涨0.9%，小鹏、文远知行、网易至多涨1.8%，小米涨2.1%，百胜中国涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收平，本周累跌4.44%，延续此前两周先后跌1.44%和3.02%的表现； 中国科技指数ETF（CQQQ）收1.06%，本周累跌1.19%，此前两周先后跌3.39%和3.58%。",
+          "url": "https://wallstreetcn.com/livenews/3055365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        },
+        {
+          "title": "标普500指数收涨3.41点，涨幅0.05%，报6836.17点。 道琼斯工业平均指数收涨48.95点，涨幅0.10%，报49500.93点。 纳斯达克综合指数（纳指）收跌50.477点，跌幅0.22%，报22546.671点。 纳斯达克100指数收涨45.12点，涨幅0.18%，报24732.732点。 纳斯达克生物科技指数收涨0.97%，报5917.24点。 费城半导体指数收涨0.66%，报8137.859点。 费城证交所KBW银行指数收涨0.29%，报166.39点。 道琼斯KBW地区银行指数收涨0.69%，报137.88点。",
+          "url": "https://wallstreetcn.com/livenews/3055363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
@@ -1002,47 +1115,6 @@
       ]
     },
     {
-      "keyword_group": "科技 机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
-        },
-        {
-          "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
-          "url": "https://www.cls.cn/detail/2289721",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.11%，报26560点。 恒生科技指数主连夜盘收涨0.39%，报5369点。",
-          "url": "https://wallstreetcn.com/livenews/3055342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 04时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1051,11 +1123,12 @@
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时00分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[04时00分 ~ 05时40分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)和谷歌(GOOG.O)再次在针对美国专利审查政策的法庭挑战中败诉。",
@@ -1091,11 +1164,29 @@
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时09分 ~ 04时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 05时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
+          "url": "https://wallstreetcn.com/livenews/3055361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         }
       ]
     },
@@ -1108,11 +1199,12 @@
           "url": "https://wallstreetcn.com/livenews/3055354",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时40分]"
         }
       ]
     }
