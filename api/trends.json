@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-02-14T02:05:26.024841+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-14T03:25:42.860939+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "文件显示，美国纽约州和新泽西州在特朗普政府尚未解冻“Gateway”项目资金后，已寻求举行法院听证会。",
+          "url": "https://flash.jin10.com/detail/20260214031056570800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "美国总统特朗普重申：与北约关系良好。",
+          "url": "https://wallstreetcn.com/livenews/3055341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596885",
@@ -21,15 +43,37 @@
           "time_info": "[00时09分 ~ 02时05分]"
         },
         {
-          "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
-          "url": "https://wallstreetcn.com/livenews/3055323",
+          "title": "美国总统特朗普：希望与伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030526351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "美国总统特朗普宣扬股市表现和通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3055338",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗一直很难达成协议。",
+          "url": "https://flash.jin10.com/detail/20260214030421669800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "03时25分"
         },
         {
           "title": "美国总统特朗普：我会访问委内瑞拉，但还没决定具体时间。",
@@ -38,7 +82,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -48,11 +92,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时05分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 03时25分]"
+        },
+        {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
@@ -79,15 +135,16 @@
           "time_info": "[01时25分 ~ 02时05分]"
         },
         {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
+          "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
+          "url": "https://wallstreetcn.com/livenews/3055323",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -96,11 +153,12 @@
           "ranks": [
             30,
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -127,6 +185,18 @@
           "time_info": "[01时25分 ~ 02时05分]"
         },
         {
+          "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
+          "url": "https://wallstreetcn.com/livenews/3055319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
+        },
+        {
           "title": "美国总统特朗普：（谈委内瑞拉）我们关系非常好。",
           "url": "https://flash.jin10.com/detail/20260214005802211800",
           "source": "金十数据",
@@ -137,6 +207,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时05分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
+          "url": "https://wallstreetcn.com/livenews/3055318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普：与古巴关系非常好。",
@@ -151,6 +233,18 @@
           "time_info": "[01时25分 ~ 02时05分]"
         },
         {
+          "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
+          "url": "https://wallstreetcn.com/livenews/3055317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
+        },
+        {
           "title": "美国总统特朗普：目前正在就格陵兰岛问题进行谈判。",
           "url": "https://flash.jin10.com/detail/20260214005621423800",
           "source": "金十数据",
@@ -161,6 +255,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时05分]"
+        },
+        {
+          "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
+          "url": "https://wallstreetcn.com/livenews/3055316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
         },
         {
           "title": "美国总统特朗普：（谈欧洲）我们相处得很好；我们正在谈判。",
@@ -199,13 +305,37 @@
           "time_info": "[01时25分 ~ 02时05分]"
         },
         {
+          "title": "美国总统特朗普：美国是北约内强大的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3055310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
+        },
+        {
+          "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
+          "url": "https://wallstreetcn.com/livenews/3055309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉领导人做得非常出色，石油正在被出售。",
           "url": "https://flash.jin10.com/detail/20260214012839397800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -216,18 +346,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
-          "url": "https://wallstreetcn.com/livenews/3055319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -238,20 +357,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
-          "url": "https://wallstreetcn.com/livenews/3055318",
+          "title": "特朗普称将访问委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/3055332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "03时25分"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判会成功。如果失败，对伊朗来说将是糟糕的一天。",
@@ -260,18 +379,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯想要达成协议，乌克兰总统泽连斯基必须行动起来。",
-          "url": "https://wallstreetcn.com/livenews/3055317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -282,18 +390,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
-          "url": "https://wallstreetcn.com/livenews/3055316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -304,7 +401,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -315,7 +412,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -326,9 +423,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
+          "url": "https://flash.jin10.com/detail/20260214023919171800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
@@ -359,18 +467,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "美国总统特朗普：美国是北约内强大的一部分。",
-          "url": "https://wallstreetcn.com/livenews/3055310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -381,20 +478,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
         {
-          "title": "美国总统特朗普：（被攫取的）石油流出委内瑞拉，仅仅美国能提炼。",
-          "url": "https://wallstreetcn.com/livenews/3055309",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：通胀报告非常棒。",
+          "url": "https://flash.jin10.com/detail/20260214023609797800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "03时25分"
         },
         {
           "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
@@ -417,12 +514,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美国法官下令特朗普政府协助一名因违反法院命令而被驱逐至洪都拉斯的大学生返美。",
+          "url": "https://flash.jin10.com/detail/20260214022214783800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普称将访问委内瑞拉",
+          "url": "https://flash.jin10.com/detail/20260214021300671800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         }
       ]
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "小伙5个月用AI做120多个App",
@@ -432,8 +551,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -443,8 +562,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "1月金融数据出炉：春节前消费支撑个贷增长，政府债融资增量占比刷新2021年来同期新高",
@@ -455,19 +574,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
-        },
-        {
-          "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
-          "url": "https://wallstreetcn.com/livenews/3055325",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "老码农裁员理由+1:被AI优化",
@@ -478,8 +586,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "FTC升级对微软反垄断调查，向竞争对手质询云与AI业务",
@@ -491,6 +599,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "软件股风声鹤唳之际，高盛推出“抗AI替代”主题股票篮子",
+          "url": "https://wallstreetcn.com/livenews/3055325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时05分 ~ 03时25分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "报道：法律AI初创公司Legora计划融资，估值或升至60亿美元",
@@ -505,18 +637,6 @@
           "time_info": "[00时09分 ~ 01时25分]"
         },
         {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
-        },
-        {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
           "url": "https://wallstreetcn.com/articles/3765637",
           "source": "华尔街见闻",
@@ -524,8 +644,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "一个2.6万亿AI独角兽诞生",
@@ -537,8 +657,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -550,8 +670,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
@@ -566,6 +686,39 @@
           "time_info": "[00时09分 ~ 01时25分]"
         },
         {
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
+          "url": "https://wallstreetcn.com/livenews/3055331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
+          "title": "高盛美国定制篮子团队副总裁Faris Mourad在致客户报告中指出：我们预计“抗AI替代”主题股票篮子的做多部分将从近期软件板块抛售中复苏，而做空部分将滞后。",
+          "url": "https://wallstreetcn.com/livenews/3055330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
+        },
+        {
           "title": "美国劳工部督促雇主加强员工AI使用培训",
           "url": "https://wallstreetcn.com/livenews/3055273",
           "source": "华尔街见闻-快讯",
@@ -575,6 +728,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "澎湃AI晚新闻丨2026年2月13日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32603983",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时25分"
         },
         {
           "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
@@ -601,8 +765,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
@@ -612,19 +776,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
-        },
-        {
-          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260214013115651800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
@@ -635,8 +788,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260214013115651800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         },
         {
           "title": "金十图示：2026年02月13日（周五）热门中概股行情一览（美股盘中）",
@@ -645,7 +809,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -658,8 +822,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -670,8 +834,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
@@ -681,8 +845,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "中概指数在美股早盘实现V形反转",
@@ -783,8 +947,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         },
         {
           "title": "【数据看盘】一线游资扎堆深科技，多路资金联手抢筹光线传媒",
@@ -794,8 +958,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         }
       ]
     },
@@ -840,8 +1004,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 03时25分]"
         }
       ]
     }
