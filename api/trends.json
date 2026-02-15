@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T19:49:48.239366+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-02-15T20:58:52.165712+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "本周披露并购重组进展的A股名单一览 1200亿算力概念股在列",
@@ -97,11 +97,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 19时49分]"
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 20时58分]"
         },
         {
           "title": "财晓得丨Seedance爆火背后：4分钟读懂中国AI的突围逻辑",
@@ -129,8 +130,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时57分 ~ 19时49分]"
+          "appearance_count": 12,
+          "time_info": "[12时57分 ~ 20时58分]"
+        },
+        {
+          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 20时58分]"
         },
         {
           "title": "杭州一创业者开 1 人公司，团队完全由 AI 智能体组成，月入 200 万，真能挣这么多钱吗？",
@@ -173,25 +189,12 @@
             9,
             10,
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时35分 ~ 19时49分]"
-        },
-        {
-          "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32608237",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 19时49分]"
+          "appearance_count": 29,
+          "time_info": "[00时35分 ~ 20时58分]"
         },
         {
           "title": "年轻人整顿年货，已从为家人准备转向「爱你老己」的悦己消费，如何看待这一转变？",
@@ -204,11 +207,12 @@
             5,
             9,
             10,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时01分 ~ 19时49分]"
+          "appearance_count": 11,
+          "time_info": "[14时01分 ~ 20时58分]"
         },
         {
           "title": "如何理解开年全球市场？“可负担性”才是 2026 的总叙事：“主街”要赢一次，AI叙事巨变，日元是“关键”",
@@ -233,11 +237,12 @@
             13,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时35分 ~ 19时49分]"
+          "appearance_count": 29,
+          "time_info": "[00时35分 ~ 20时58分]"
         },
         {
           "title": "马上评｜AI时代，让我们更懂年味",
@@ -364,11 +369,12 @@
             13,
             15,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时57分 ~ 19时49分]"
+          "appearance_count": 8,
+          "time_info": "[15时57分 ~ 20时58分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -380,8 +386,22 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时42分 ~ 19时49分]"
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 20时58分]"
+        },
+        {
+          "title": "AI遇上最强春节档 Token通胀已成必然？",
+          "url": "https://www.cls.cn/detail/2290600",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "你认为 AI 编程未来真的会取代程序员吗？",
@@ -436,19 +456,6 @@
           "time_info": "[04时31分 ~ 07时51分]"
         },
         {
-          "title": "AI遇上最强春节档 Token通胀已成必然？",
-          "url": "https://www.cls.cn/detail/2290600",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 19时49分]"
-        },
-        {
           "title": "网文行业在未来二三十年真的会被 AI 给废掉吗？",
           "url": "https://www.zhihu.com/question/1997776604575864283",
           "source": "知乎",
@@ -487,6 +494,17 @@
           "time_info": "[10时35分 ~ 12时57分]"
         },
         {
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
           "url": "https://wallstreetcn.com/articles/3765726",
           "source": "华尔街见闻",
@@ -498,6 +516,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
+          "url": "https://www.cls.cn/detail/2290580",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "今年的年货都是AI一手包办",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%B9%B4%E8%B4%A7%E9%83%BD%E6%98%AFAI%E4%B8%80%E6%89%8B%E5%8C%85%E5%8A%9E%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -507,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "美国AI大牛盛赞杨丽萍千问节目",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDAI%E5%A4%A7%E7%89%9B%E7%9B%9B%E8%B5%9E%E6%9D%A8%E4%B8%BD%E8%90%8D%E5%8D%83%E9%97%AE%E8%8A%82%E7%9B%AE%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美媒：五角大楼威胁要切断与Anthropic的AI合作",
@@ -556,8 +596,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时36分 ~ 19时49分]"
+          "appearance_count": 7,
+          "time_info": "[17时36分 ~ 20时58分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -620,6 +660,20 @@
           "time_info": "[00时36分 ~ 06时54分]"
         },
         {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时42分 ~ 20时58分]"
+        },
+        {
           "title": "特朗普：北约看在我的份上付了5%国防支出",
           "url": "https://news.ifeng.com/c/8qk233NwWlu",
           "source": "凤凰网",
@@ -640,19 +694,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 03时27分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时42分 ~ 19时49分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -676,11 +717,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时58分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -726,6 +768,18 @@
           "time_info": "[16时42分 ~ 18时57分]"
         },
         {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 20时58分]"
+        },
+        {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
           "url": "https://www.toutiao.com/trending/7606051537617649691/",
           "source": "今日头条",
@@ -737,17 +791,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时03分 ~ 16时42分]"
-        },
-        {
-          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 19时49分]"
         },
         {
           "title": "奥巴马回应被特朗普恶搞成猴",
@@ -822,11 +865,12 @@
             8,
             9,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时57分 ~ 19时49分]"
+          "appearance_count": 8,
+          "time_info": "[15时57分 ~ 20时58分]"
         },
         {
           "title": "灵宝机器人乐队确认登陆北京卫视春晚",
@@ -846,6 +890,18 @@
           "time_info": "[15时03分 ~ 19时49分]"
         },
         {
+          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3055619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 20时58分]"
+        },
+        {
           "title": "群核科技拿下境外备案，“杭州六小龙”首家上市公司渐近",
           "url": "https://wallstreetcn.com/articles/3765739",
           "source": "华尔街见闻",
@@ -856,17 +912,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时57分 ~ 18时31分]"
-        },
-        {
-          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
-          "url": "https://wallstreetcn.com/livenews/3055619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时49分"
         },
         {
           "title": "抖音机器人联欢会先演上了",
@@ -932,7 +977,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗副外长：伊美已将经贸领域议题纳入谈判文本",
@@ -942,11 +987,12 @@
             1,
             2,
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时49分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时58分]"
         },
         {
           "title": "伊朗官员证实第二轮美伊谈判将于周二举行",
@@ -956,11 +1002,28 @@
             2,
             3,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 19时49分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时58分]"
+        },
+        {
+          "title": "伊朗副外长：伊美已将石油天然气、矿产投资乃至飞机采购等领域的议题纳入谈判文本中",
+          "url": "https://wallstreetcn.com/livenews/3055609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            6,
+            9,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时36分 ~ 20时58分]"
         },
         {
           "title": "英媒：若美国愿意解除制裁 伊朗将考虑就核谈判做出妥协",
@@ -995,31 +1058,39 @@
           "time_info": "[15时03分 ~ 19时29分]"
         },
         {
-          "title": "伊朗副外长：伊美已将石油天然气、矿产投资乃至飞机采购等领域的议题纳入谈判文本中",
-          "url": "https://wallstreetcn.com/livenews/3055609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            6,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时36分 ~ 19时49分]"
-        },
-        {
           "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
           "url": "https://wallstreetcn.com/livenews/3055618",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时49分]"
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时58分]"
+        },
+        {
+          "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
+          "url": "https://flash.jin10.com/detail/20260215194121768800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
+          "url": "https://wallstreetcn.com/livenews/3055621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "伊朗重申和平利用核能权利不可剥夺",
@@ -1069,8 +1140,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时35分 ~ 19时49分]"
+          "appearance_count": 13,
+          "time_info": "[10时35分 ~ 20时58分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -1169,11 +1240,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时28分 ~ 19时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时28分 ~ 20时58分]"
         }
       ]
     },
@@ -1234,8 +1306,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时35分 ~ 19时49分]"
+          "appearance_count": 29,
+          "time_info": "[00时35分 ~ 20时58分]"
         }
       ]
     }
