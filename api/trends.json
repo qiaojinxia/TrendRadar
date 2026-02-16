@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T07:31:41.348919+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-02-16T10:32:13.670837+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
@@ -31,6 +31,21 @@
           "time_info": "[00时36分 ~ 07时31分]"
         },
         {
+          "title": "千问县城钟点房订单激增约 300%，返乡青年去钟点房都能干啥？反映出哪些过年消费趋势？",
+          "url": "https://www.zhihu.com/question/2006395761227686554",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
+        },
+        {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
           "url": "https://www.cls.cn/detail/2290600",
           "source": "财联社热门",
@@ -40,33 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
-        },
-        {
-          "title": "千问县城钟点房订单激增约 300%，返乡青年去钟点房都能干啥？反映出哪些过年消费趋势？",
-          "url": "https://www.zhihu.com/question/2006395761227686554",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
-        },
-        {
-          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
-          "url": "https://wallstreetcn.com/articles/3765760",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
@@ -80,8 +70,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
+        },
+        {
+          "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
+          "url": "https://wallstreetcn.com/articles/3765760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "国铁集团：“春运绿皮车严重超员视频”不实，系历史画面拼凑加AI",
@@ -94,8 +96,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "国美控股退出厦门金美信消费金融",
@@ -103,11 +105,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 13,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -143,11 +146,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -158,8 +162,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -167,11 +171,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "AI“卷”春节？智能点单、做拜年视频、抢红包，各凭本事吸引用户",
@@ -191,22 +196,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350710&amp;topic_name=AI%E5%A5%B3%E5%89%AF%E6%80%BB%E5%9B%A0%E5%8F%8D%E8%89%B2%E6%83%85%E8%A2%AB%E7%82%92%E9%B1%BF%E9%B1%BC",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350684&amp;topic_name=AI%E6%97%A0%E8%A7%86%E7%89%88%E6%9D%83%2C%E8%80%81%E5%A4%96%E9%9B%86%E7%81%AB%E5%9B%B4%E6%AE%B4",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -222,6 +229,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时29分 ~ 07时31分]"
+        },
+        {
+          "title": "OpenClaw之父加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=OpenClaw%E4%B9%8B%E7%88%B6%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "【阿里除夕夜将开源新一代千问Qwen3.5模型】消息人士透露，阿里今晚除夕夜将开源新一代千问大模型Qwen3.5，该模型实现了模型架构的全面创新，有望实现国产模型新的里程碑。去年，阿里在除夕深夜发布Qwen2.5-Max。（硬AI）",
+          "url": "https://wallstreetcn.com/livenews/3055664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "OpenAI宣布聘请OpenClaw创始人 以推动下一代个人智能体的研发",
@@ -255,17 +284,51 @@
           "url": "https://www.cls.cn/detail/2290650",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 10时32分]"
+        },
+        {
+          "title": "AI定制祝福语惊艳你的朋友圈",
+          "url": "https://www.baidu.com/s?wd=AI%E5%AE%9A%E5%88%B6%E7%A5%9D%E7%A6%8F%E8%AF%AD%E6%83%8A%E8%89%B3%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "OpenClaw之父加入OpenAI",
+          "url": "https://s.weibo.com/weibo?q=%23OpenClaw%E4%B9%8B%E7%88%B6%E5%8A%A0%E5%85%A5OpenAI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "仅凭 AI 真的能做好复杂项目吗？",
+          "url": "https://www.zhihu.com/question/1999041081275355787",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：（谈及伊朗时表示）我们在和激进的什叶派神职人员打交道、在和那些基于纯粹神学做出地缘政治决策的人打交道。没有人能和伊朗成功达成协议，但我们会尝试。",
@@ -358,6 +421,17 @@
           "time_info": "[00时36分 ~ 04时32分]"
         },
         {
+          "title": "伊朗外长启程赴会，以总理预设四项条件",
+          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
           "title": "伊朗外长及代表团已出发前往日内瓦 准备与美国开展新一轮会谈",
           "url": "https://flash.jin10.com/detail/20260216050609770800",
           "source": "金十数据",
@@ -391,33 +465,36 @@
           "url": "https://wallstreetcn.com/livenews/3055641",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时32分]"
         },
         {
           "title": "美官员称美军情报部门讨论支持以色列空袭伊朗",
           "url": "https://wallstreetcn.com/livenews/3055640",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时32分]"
         },
         {
           "title": "伊朗外长启程参加第二轮伊美谈判",
           "url": "https://wallstreetcn.com/livenews/3055639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 10时32分]"
         },
         {
           "title": "美国务卿：向中东派兵是为防御，仍尝试与伊朗达成协议",
@@ -429,12 +506,159 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时29分 ~ 07时31分]"
+        },
+        {
+          "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
+          "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技 机器人",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "抖音机器人联欢会先演上了",
+          "url": "https://www.douyin.com/hot/2401648",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            20,
+            18,
+            19,
+            14,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时36分 ~ 07时31分]"
+        },
+        {
+          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3055619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 07时31分]"
+        },
+        {
+          "title": "港股半导体板块涨跌不一，兆易创新(03986.HK)强势大涨14%，澜起科技(06809.HK)涨9.19%，中芯国际(00981.HK)微跌0.5%，英诺赛科(02577.HK)跌1.57%。",
+          "url": "https://flash.jin10.com/detail/20260216102432961800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3055661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "英国首相斯塔默：将收紧现有网络安全法规，确保人工智能聊天机器人提供商被牢牢纳入监管范围。",
+          "url": "https://flash.jin10.com/detail/20260216062831291800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时31分]"
+        },
+        {
+          "title": "杨鸣被美女机器人调侃爱好蹦高",
+          "url": "https://www.toutiao.com/trending/7607082679909613594/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（2月16日）",
+          "url": "https://flash.jin10.com/detail/20260216065605815800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "英国拟收紧在线安全法规 将人工智能聊天机器人纳入监管范围",
+          "url": "https://flash.jin10.com/detail/20260216065258172800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "英国首相斯塔默收紧人工智能监管，将强制聊天机器人遵守在线安全法案",
+          "url": "https://wallstreetcn.com/livenews/3055650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "恒生科技指数跌幅扩大至1%，小米集团(01810.HK)、阿里巴巴(09988.HK)、比亚迪电子(00285.HK)跌超2%，哔哩哔哩(09626.HK)跌1.58%。",
+          "url": "https://flash.jin10.com/detail/20260216093529349800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "港股AI应用股走强，阜博集团（03738.HK）领涨14.38%、海致科技集团（02706.HK）涨12.1%、智谱(02513.HK)涨超7%、阅文集团(00772.HK)涨2.53%。",
+          "url": "https://flash.jin10.com/detail/20260216092812837800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
@@ -470,11 +694,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
@@ -482,11 +707,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -574,76 +800,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时29分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技 机器人",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "抖音机器人联欢会先演上了",
-          "url": "https://www.douyin.com/hot/2401648",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22,
-            20,
-            18,
-            19,
-            14,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
         },
         {
-          "title": "据港交所文件，2月15日，上海商米科技集团股份有限公司通过港交所上市聆讯。",
-          "url": "https://wallstreetcn.com/livenews/3055619",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 07时31分]"
-        },
-        {
-          "title": "英国首相斯塔默：将收紧现有网络安全法规，确保人工智能聊天机器人提供商被牢牢纳入监管范围。",
-          "url": "https://flash.jin10.com/detail/20260216062831291800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时31分]"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（2月16日）",
-          "url": "https://flash.jin10.com/detail/20260216065605815800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
-        },
-        {
-          "title": "英国拟收紧在线安全法规 将人工智能聊天机器人纳入监管范围",
-          "url": "https://flash.jin10.com/detail/20260216065258172800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
+          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     },
@@ -661,8 +828,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -696,8 +863,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 07时31分]"
+          "appearance_count": 16,
+          "time_info": "[00时36分 ~ 10时32分]"
         }
       ]
     },
