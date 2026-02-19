@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T15:33:38.351352+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-02-19T16:52:28.273041+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -58,6 +58,19 @@
           "time_info": "[00时36分 ~ 10时31分]"
         },
         {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
+        },
+        {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
           "url": "https://wallstreetcn.com/articles/3765833",
           "source": "华尔街见闻",
@@ -71,16 +84,15 @@
           "time_info": "[03时01分 ~ 10时31分]"
         },
         {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
           "ranks": [
-            7,
-            6
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时52分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -92,11 +104,12 @@
             14,
             16,
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "新春走基层｜两场电影“怒省80”：消费更理性，幸福不降级",
@@ -139,22 +152,12 @@
             20,
             22,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -164,11 +167,12 @@
             2,
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 16时52分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -236,11 +240,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 15时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 16时52分]"
         },
         {
           "title": "印度AI峰会大学展示泡沫塑料版无人机",
@@ -434,6 +439,17 @@
           "time_info": "12时33分"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
           "title": "新西兰联储主席布雷曼：家庭消费开始增加，但与历史模式相比，增长相对疲弱。",
           "url": "https://flash.jin10.com/detail/20260219033646340800",
           "source": "金十数据",
@@ -528,7 +544,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         },
@@ -579,8 +595,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 15时33分]"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 16时52分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -590,8 +606,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时52分]"
         },
         {
           "title": "特朗普、拜登、奥巴马、克林顿齐发声",
@@ -623,8 +639,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时52分]"
         },
         {
           "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
@@ -763,6 +779,18 @@
           "time_info": "[03时01分 ~ 03时53分]"
         },
         {
+          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
+          "url": "https://wallstreetcn.com/livenews/3056582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时52分]"
+        },
+        {
           "title": "美国总统特朗普：英国首相斯塔默无论如何都不应失去对迪戈加西亚的控制，尤其是通过一项充其量只是脆弱的百年租约来实现。",
           "url": "https://flash.jin10.com/detail/20260219024506455800",
           "source": "金十数据",
@@ -854,17 +882,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "美多家团体起诉特朗普政府撤销气候危害认定",
-          "url": "https://wallstreetcn.com/livenews/3056582",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
         },
         {
           "title": "白宫新闻处宣布，美国总统特朗普将于2月24日向参议院和众议院发表国情咨文。",
@@ -1046,7 +1063,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -1086,8 +1103,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -1100,19 +1117,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时30分 ~ 15时33分]"
-        },
-        {
-          "title": "美以或对伊朗发动大规模袭击",
-          "url": "https://www.douyin.com/hot/2405517",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
+          "appearance_count": 7,
+          "time_info": "[10时30分 ~ 16时52分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -1121,11 +1127,24 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时52分]"
+        },
+        {
+          "title": "美以或对伊朗发动大规模袭击",
+          "url": "https://www.douyin.com/hot/2405517",
+          "source": "抖音",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时52分]"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -1157,11 +1176,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 15时33分]"
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 16时52分]"
+        },
+        {
+          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
+          "url": "https://wallstreetcn.com/livenews/3056574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时03分 ~ 16时52分]"
         },
         {
           "title": "美国白宫：伊朗方面预计将在未来几周内带来更详细的信息。",
@@ -1176,16 +1209,17 @@
           "time_info": "[03时01分 ~ 03时53分]"
         },
         {
-          "title": "伊朗政府发言人：伊国防部队已进入全面战备状态",
-          "url": "https://wallstreetcn.com/livenews/3056574",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            19
+            22,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 15时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时52分]"
         },
         {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
@@ -1225,18 +1259,6 @@
           "time_info": "[10时31分 ~ 14时03分]"
         },
         {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时33分]"
-        },
-        {
           "title": "美国白宫：在伊朗问题上取得了一些进展。",
           "url": "https://flash.jin10.com/detail/20260219024728278800",
           "source": "金十数据",
@@ -1260,6 +1282,30 @@
           "time_info": "[14时02分 ~ 14时03分]"
         },
         {
+          "title": "伊朗备战",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%87%E6%88%98%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时52分]"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时33分 ~ 16时52分]"
+        },
+        {
           "title": "美国务院称对18名伊朗人实施签证限制措施",
           "url": "https://wallstreetcn.com/livenews/3056522",
           "source": "华尔街见闻-快讯",
@@ -1269,6 +1315,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "俄外长：要求伊朗彻底放弃铀浓缩权利“不恰当”",
+          "url": "https://wallstreetcn.com/livenews/3056598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291663",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "德国地学研究中心：伊朗南部发生5.47级地震。",
@@ -1282,15 +1350,37 @@
           "time_info": "12时33分"
         },
         {
-          "title": "伊朗备战",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%87%E6%88%98%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.douyin.com/hot/2405773",
+          "source": "抖音",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时33分"
+          "time_info": "16时52分"
+        },
+        {
+          "title": "伊朗和俄罗斯举行联合海军演习",
+          "url": "https://flash.jin10.com/detail/20260219161436509800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "美国白宫：有许多理由可以对伊朗发动打击。达成协议是伊朗的明智之举。",
@@ -1302,6 +1392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "伊朗首都附近发生火灾，靠近军事设施",
@@ -1387,18 +1488,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时33分"
-        },
-        {
-          "title": "俄外长：美国若打击伊朗后果严重",
-          "url": "https://www.douyin.com/hot/2405736",
-          "source": "抖音",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
         }
@@ -1406,7 +1496,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -1426,11 +1516,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "今年春晚，机器人刷屏了",
@@ -1463,8 +1554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时37分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[06时37分 ~ 16时52分]"
         },
         {
           "title": "外网如何评价春晚机器人",
@@ -1476,11 +1567,12 @@
             24,
             30,
             19,
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "岛国纯幻想!国产科技已杀疯",
@@ -1492,11 +1584,12 @@
             9,
             11,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "机器人变印度造,三哥真敢吹",
@@ -1507,11 +1600,12 @@
             10,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "春晚机器人厉害在哪里",
@@ -1551,11 +1645,12 @@
             12,
             20,
             25,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "科技为何成为春晚主旋律",
@@ -1664,6 +1759,19 @@
           "time_info": "[05时39分 ~ 07时34分]"
         },
         {
+          "title": "春晚的主角变成了科技公司有何意味",
+          "url": "https://www.toutiao.com/trending/7608420453043932699/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时02分 ~ 16时52分]"
+        },
+        {
           "title": "爱尔兰（欧盟科技中心）考虑禁止青少年使用社交媒体。",
           "url": "https://wallstreetcn.com/livenews/3056443",
           "source": "华尔街见闻-快讯",
@@ -1675,18 +1783,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时01分 ~ 04时44分]"
-        },
-        {
-          "title": "春晚的主角变成了科技公司有何意味",
-          "url": "https://www.toutiao.com/trending/7608420453043932699/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时02分 ~ 15时33分]"
         },
         {
           "title": "印度一大学因将购买的宇树科技机器人据为己有而遭抨击",
@@ -1768,12 +1864,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "春晚机器人如何完成高难度动作",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A6%82%E4%BD%95%E5%AE%8C%E6%88%90%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "机器人跳舞摔倒 小伙查看时脸被踢伤",
+          "url": "https://www.toutiao.com/trending/7607645107097288767/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "机器人跳舞摔倒小伙查看时脸被踢破",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E6%91%94%E5%80%92%E5%B0%8F%E4%BC%99%E6%9F%A5%E7%9C%8B%E6%97%B6%E8%84%B8%E8%A2%AB%E8%B8%A2%E7%A0%B4%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -1797,8 +1926,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1806,11 +1935,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 15时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 16时52分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -1846,6 +1976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         },
         {
           "title": "Doordash美股盘后涨10%。",
