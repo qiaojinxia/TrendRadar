@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T01:37:20.922484+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-02-26T03:11:49.903092+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
+        },
+        {
+          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
+          "url": "https://www.zhihu.com/question/2009666916382421190",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时11分]"
         },
         {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
@@ -36,18 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
-          "url": "https://www.zhihu.com/question/2009666916382421190",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         },
@@ -58,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         },
@@ -70,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -79,11 +79,24 @@
           "source": "百度热搜",
           "ranks": [
             13,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
+        },
+        {
+          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时11分]"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -108,24 +121,13 @@
           "time_info": "[00时07分 ~ 00时08分]"
         },
         {
-          "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3059000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
           "title": "据华尔街日报：知情人士称，Thrive行使了一项被称为“看涨期权”的投资权利。Thrive以远低于当前估值的价格收购了OpenAI的股份。",
           "url": "https://flash.jin10.com/detail/20260226011101407800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         },
@@ -136,7 +138,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         },
@@ -147,9 +149,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "美联储穆萨莱姆：将通胀降至目标水平将有助于提振消费和经济增长，并可能降低10年期国债收益率。",
+          "url": "https://flash.jin10.com/detail/20260226024042158800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "戴尔发布适用于Cloud RAN与边缘AI的户外服务器，是首款液冷户外服务器",
@@ -169,7 +182,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         }
@@ -177,18 +190,19 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
         },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -198,8 +212,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
+        },
+        {
+          "title": "美国商务部将于3月10日举办美国机器人制造活动。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3059025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "德国总理默茨抵京访华，约 30 家德企高管随访，将访问宇树科技，如何看待此行？还有哪些信息值得关注？",
@@ -214,16 +239,40 @@
           "time_info": "[00时07分 ~ 01时37分]"
         },
         {
+          "title": "据美国财经媒体Semafor：美国政府将与机器人制造商举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260226024549547800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
           "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
           "url": "https://www.zhihu.com/question/2009924225859805232",
           "source": "知乎",
           "ranks": [
             9,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
+        },
+        {
+          "title": "美国白宫将召集Meta等科技公司开会，讨论电力成本问题。 Anthropic、微软将于3月份前往白宫。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3058999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时37分 ~ 03时11分]"
         },
         {
           "title": "美国一人形机器人企业倒闭",
@@ -246,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "美国白宫将召集Meta等科技公司开会，讨论电力成本问题。 Anthropic、微软将于3月份前往白宫。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3058999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时37分"
         },
         {
           "title": "科技股在英伟达财报前上涨，标普500指数走高",
@@ -309,16 +347,110 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
+      "keyword_group": "特朗普",
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
+        },
+        {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
+        },
+        {
+          "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
+          "url": "https://flash.jin10.com/detail/20260226024823938800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3059016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：目前没有安排普京和特朗普之间的对话。",
+          "url": "https://flash.jin10.com/detail/20260226023258257800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
+          "url": "https://wallstreetcn.com/livenews/3058987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "白宫官员：特朗普和泽连斯基通电话。",
+          "url": "https://flash.jin10.com/detail/20260226022519108800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗外交部证实，伊朗代表团和外长已抵达日内瓦。",
+          "url": "https://flash.jin10.com/detail/20260226024150889800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
         {
           "title": "美国副总统万斯：希望伊朗人认真对待周四的谈判。",
           "url": "https://flash.jin10.com/detail/20260225234806993800",
@@ -373,51 +505,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
         },
         {
-          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
-          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
-          "source": "凤凰网",
+          "title": "据CGTN：伊朗外长抵达日内瓦。",
+          "url": "https://flash.jin10.com/detail/20260226021939626800",
+          "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
-        },
-        {
-          "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
-          "url": "https://wallstreetcn.com/livenews/3058987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时37分"
+          "time_info": "03时11分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
@@ -440,6 +544,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时11分"
         }
       ]
     },
@@ -456,8 +582,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
         }
       ]
     },
@@ -474,8 +600,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 01时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 03时11分]"
         }
       ]
     }
