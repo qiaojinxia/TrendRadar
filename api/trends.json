@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:43:52.094299+08:00",
-  "total_titles_processed": 1128,
+  "generated_at": "2026-02-26T15:05:39.122930+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -57,6 +57,45 @@
           "time_info": "[00时07分 ~ 07时32分]"
         },
         {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时05分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时05分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时05分]"
+        },
+        {
           "title": "美联储Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
           "url": "https://wallstreetcn.com/livenews/3058971",
           "source": "华尔街见闻-快讯",
@@ -96,7 +135,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -112,19 +151,6 @@
           "time_info": "01时37分"
         },
         {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时43分]"
-        },
-        {
           "title": "AI短片 马上好",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%20%E9%A9%AC%E4%B8%8A%E5%A5%BD",
           "source": "bilibili 热搜",
@@ -136,6 +162,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时37分 ~ 10时25分]"
+        },
+        {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时05分]"
         },
         {
           "title": "河北女子到胖东来1小时消费近15万",
@@ -174,30 +213,6 @@
           "time_info": "[06时38分 ~ 07时32分]"
         },
         {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时43分]"
-        },
-        {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时43分]"
-        },
-        {
           "title": "三星Galaxy S26系列发布：AI三引擎融合+隐私屏首发，两款机型涨价100美元",
           "url": "https://wallstreetcn.com/livenews/3059063",
           "source": "华尔街见闻-快讯",
@@ -208,6 +223,32 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "大理市第一人民医院违规收取消费者164万余元：公告期满无人要求退款，被认定为违法所得",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32652678",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 15时05分]"
+        },
+        {
+          "title": "AI圈爆火的FARS是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时05分]"
         },
         {
           "title": "美联储穆萨莱姆：将通胀降至目标水平将有助于提振消费和经济增长，并可能降低10年期国债收益率。",
@@ -223,19 +264,6 @@
           "time_info": "[03时11分 ~ 04时49分]"
         },
         {
-          "title": "大理市第一人民医院违规收取消费者164万余元：公告期满无人要求退款，被认定为违法所得",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32652678",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时43分]"
-        },
-        {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
           "url": "https://www.zhihu.com/question/1916645420085514580",
           "source": "知乎",
@@ -248,28 +276,15 @@
           "time_info": "[04时49分 ~ 05时42分]"
         },
         {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
+          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
+          "url": "https://www.zhihu.com/question/2009656278029456894",
+          "source": "知乎",
           "ranks": [
-            8,
-            6
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时43分]"
-        },
-        {
-          "title": "AI圈爆火的FARS是什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时05分]"
         },
         {
           "title": "消息人士称，乔什·库什纳旗下的Thrive Capital近期以2850亿美元估值投资了OpenAI。 Thrive将其新基金中的约10亿美元投资于OpenAI。 Thrive的投资已于12月份完成。（华尔街日报）",
@@ -316,17 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时07分 ~ 00时08分]"
-        },
-        {
-          "title": "如何看待字节、阿里、腾讯春节耗资数十亿推广 AI 应用？当补贴退潮，还有多少用户会主动打开这些应用？",
-          "url": "https://www.zhihu.com/question/2009656278029456894",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 13时43分]"
         },
         {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
@@ -494,6 +498,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "Lightspeed的联合创始人称 2026年将成为AI从演示走向大规模部署之年",
+          "url": "https://wallstreetcn.com/livenews/3059339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "IMF：预计美国核心个人消费支出（PCE）物价指数将在2027年年初降至2%。由于非居民资金流入和外部借款不断增加，未来几年美国经常项目赤字仍将维持在占国内生产总值3.5%至4%的高位。",
           "url": "https://flash.jin10.com/detail/20260226060327137800",
           "source": "金十数据",
@@ -514,6 +529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "A股低空经济概念异动拉升，万丰奥威、中信海直、宗申动力、莱斯信息、深城交、上工申贝等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3059332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "英伟达CEO黄仁勋：客户竞相投资AI计算。 计算需求迅猛增长。 企业对代理的应用飙升。 Grace Blackwell搭配NVLink是推理的王者。",
@@ -571,13 +597,24 @@
           "time_info": "10时25分"
         },
         {
+          "title": "马年春节聊金子和AI的多了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B9%B4%E6%98%A5%E8%8A%82%E8%81%8A%E9%87%91%E5%AD%90%E5%92%8CAI%E7%9A%84%E5%A4%9A%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
           "url": "https://wallstreetcn.com/livenews/3059270",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -596,7 +633,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -625,6 +662,17 @@
           "time_info": "[00时07分 ~ 13时43分]"
         },
         {
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时05分]"
+        },
+        {
           "title": "德国总理默茨抵京访华，约 30 家德企高管随访，将访问宇树科技，如何看待此行？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2009313404062561093",
           "source": "知乎",
@@ -638,17 +686,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时07分 ~ 10时25分]"
-        },
-        {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时43分]"
         },
         {
           "title": "专家称未来 10 年机器人数量会超过人类数量，人们一周只需工作 2 天，是这样吗？有哪些证据支撑？",
@@ -665,6 +702,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时07分 ~ 07时32分]"
+        },
+        {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 15时05分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（2月26日）",
@@ -684,9 +733,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "上海电气成立机器人公司 含智能机器人研发业务",
+          "url": "https://wallstreetcn.com/livenews/3059353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "为什么全球都在盯中国机器人",
@@ -700,18 +760,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 06时38分]"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时43分]"
         },
         {
           "title": "美国商务部将于3月10日举办美国机器人制造活动。（Semafor）",
@@ -815,7 +863,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -848,7 +896,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -859,7 +907,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -873,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "恒生指数跌1%，恒生科技指数跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3059330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "瑞银财富管理美洲首席投资官建议，AI热潮中弃科技奔实体",
@@ -928,12 +987,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "德国总理默茨专程参观宇树科技",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%B7%E5%9B%BD%E6%80%BB%E7%90%86%E9%BB%98%E8%8C%A8%E4%B8%93%E7%A8%8B%E5%8F%82%E8%A7%82%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：伊朗坚持不讨论弹道导弹是一个“非常非常严重的问题”。",
@@ -945,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：最高领袖禁止核武器，就意味着伊朗不会发展核武器。",
+          "url": "https://flash.jin10.com/detail/20260226145442873800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "美国国务卿卢比奥：当前伊朗形势非常令人担忧。",
@@ -1126,6 +1207,17 @@
           "time_info": "12时29分"
         },
         {
+          "title": "尽管白宫警告称伊朗可能在几天内就能生产武器级核材料，但核专家和联合国官员表示，自去年6月美国和以色列对关键设施进行打击以来，伊朗的核计划基本停滞。",
+          "url": "https://flash.jin10.com/detail/20260226142001095800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
           "title": "伊朗外长：伊朗已将导弹射程限制在2000公里以内",
           "url": "https://wallstreetcn.com/livenews/3059224",
           "source": "华尔街见闻-快讯",
@@ -1154,7 +1246,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1176,7 +1268,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1187,7 +1279,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -1195,7 +1287,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -1227,8 +1319,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 15时05分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -1295,6 +1387,18 @@
           "time_info": "[03时11分 ~ 04时49分]"
         },
         {
+          "title": "特朗普把国情咨文演讲开成吹牛大会",
+          "url": "https://www.toutiao.com/trending/7611003629566168602/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 15时05分]"
+        },
+        {
           "title": "被批“脱离群众”，特朗普演讲后民调出炉",
           "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
           "source": "凤凰网",
@@ -1315,6 +1419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         },
         {
           "title": "美媒：特朗普告诉泽连斯基让冲突一个月内结束",
@@ -1381,17 +1496,93 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
+          "url": "https://wallstreetcn.com/livenews/3058967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
         },
         {
-          "title": "特朗普把国情咨文演讲开成吹牛大会",
-          "url": "https://www.toutiao.com/trending/7611003629566168602/",
-          "source": "今日头条",
+          "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
+          "url": "https://flash.jin10.com/detail/20260225235511423800",
+          "source": "金十数据",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22,
             24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 04时49分]"
+        },
+        {
+          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3059009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 04时49分]"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
+          "time_info": "15时05分"
+        },
+        {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时05分"
         }
       ]
     },
@@ -1417,11 +1608,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 15时05分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -1482,60 +1674,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌：Chat现在成为Gemini APP的一个数据源。",
-          "url": "https://wallstreetcn.com/livenews/3058967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：聊天功能现已作为数据源在Gemini应用中可用。",
-          "url": "https://flash.jin10.com/detail/20260225235511423800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3059014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时49分]"
-        },
-        {
-          "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3059009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 04时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1558,11 +1696,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 15时05分]"
         }
       ]
     },
@@ -1604,11 +1743,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 15时05分]"
         }
       ]
     },
