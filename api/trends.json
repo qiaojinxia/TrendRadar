@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T04:33:09.283138+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-02-28T05:33:36.005008+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -28,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -40,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "美国总统特朗普：（对购房者）再等等，你们会得到一个非常低的利率。",
@@ -53,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260228041113668800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时33分"
         },
         {
           "title": "美国总统特朗普谈及买房人，宣称：（为了）节省资金，（可以）等待更长时间。 （再）等等，你们将有一个“非常低的”（抵押贷款）利率。",
@@ -97,6 +86,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普政府表示，在额外获得2亿美元资金后，对新型农业实践研究的投入将超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228041113668800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时33分 ~ 05时33分]"
         },
         {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
@@ -306,6 +307,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "特朗普下令：所有联邦政府机构将立即停用Anthropic",
+          "url": "https://flash.jin10.com/detail/20260228045153490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
           "title": "美国总统特朗普：伊朗没有说出那句“金句”，即“不会有核武器”。",
           "url": "https://flash.jin10.com/detail/20260228014042817800",
           "source": "金十数据",
@@ -337,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普：Anthropic做错了，要求所有部门停止采用Anthropic的技术",
+          "url": "https://wallstreetcn.com/livenews/3060501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "美国总统特朗普：（谈爱泼斯坦案）我已被完全洗清罪名。",
@@ -584,7 +607,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -594,20 +617,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
-        },
-        {
-          "title": "提醒在伊朗的中国公民尽快撤离",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -617,8 +628,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "伊朗危!提醒中国公民撤离",
@@ -628,8 +639,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -640,8 +651,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
+        },
+        {
+          "title": "提醒在伊朗的中国公民尽快撤离",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E6%92%A4%E7%A6%BB%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -650,11 +674,12 @@
           "ranks": [
             13,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -666,8 +691,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
@@ -679,8 +704,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "美国 伊朗",
@@ -690,8 +715,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "IAEA：无法确认伊朗核活动",
@@ -705,16 +742,26 @@
           "time_info": "[00时02分 ~ 04时33分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
+          "url": "https://flash.jin10.com/detail/20260228051256394800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            22
+            1
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "美国国务院：伊朗政权必须停止扣押人质，并立即释放所有在伊朗被不公正拘留的美国公民。伊朗采取措施将有助于解除美国当前对它的制裁指定及相关行动。",
+          "url": "https://flash.jin10.com/detail/20260228051242645800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "中国驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
@@ -728,6 +775,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国国务卿卢比奥宣称：美国人无论处于任何原因都不应该前往伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3060514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
           "title": "实拍伊朗德黑兰现状",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E4%BC%8A%E6%9C%97%E5%BE%B7%E9%BB%91%E5%85%B0%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
@@ -737,6 +795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国国务院：伊朗被认定为支持非法拘禁的国家。",
+          "url": "https://flash.jin10.com/detail/20260228051156294800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -756,11 +825,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时33分]"
         },
         {
           "title": "中国公民暂勿前往伊朗",
@@ -887,7 +957,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
         },
@@ -972,7 +1042,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -984,8 +1054,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "从春运变化看消费业态升级",
@@ -995,8 +1065,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
@@ -1007,8 +1077,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "AI的未来，马克思已经预言了？",
@@ -1018,8 +1088,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "人均消费1块5,不夜城白忙活",
@@ -1030,8 +1100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -1042,8 +1112,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
@@ -1054,19 +1124,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1078,8 +1149,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时04分 ~ 04时33分]"
+          "appearance_count": 8,
+          "time_info": "[01时04分 ~ 05时33分]"
         },
         {
           "title": "三星之后是苹果！谷歌Gemini智能体API优先 AI手机入口之争将破局？",
@@ -1090,8 +1161,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时02分 ~ 04时33分]"
+          "appearance_count": 7,
+          "time_info": "[02时02分 ~ 05时33分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -1105,8 +1176,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 03时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时33分]"
+        },
+        {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 05时33分]"
         },
         {
           "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
@@ -1122,18 +1205,6 @@
           "time_info": "[03时11分 ~ 04时33分]"
         },
         {
-          "title": "中国AI调用量超越美国",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 04时33分]"
-        },
-        {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3060477",
           "source": "华尔街见闻-快讯",
@@ -1144,6 +1215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时33分]"
+        },
+        {
+          "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
+          "url": "https://wallstreetcn.com/articles/3766389",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
@@ -1237,7 +1319,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "你如何看待机器人发展对人类的影响",
@@ -1250,8 +1332,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 04时33分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 05时33分]"
+        },
+        {
+          "title": "戴尔科技收涨22%，创2024年3月份以来最大单日涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3060510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "戴尔科技涨幅扩大至20%。",
@@ -1271,11 +1364,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时33分]"
         },
         {
           "title": "美国政府机构对使用马斯克旗下的Grok聊天机器人发出警告。（华尔街日报）",
@@ -1299,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 03时11分]"
+        },
+        {
+          "title": "标普500指数收跌29.98点，跌幅0.43%，报6878.88点。 道琼斯工业平均指数收跌521.28点，跌幅1.05%，报48977.92点。 纳斯达克综合指数（纳指）收跌210.171点，跌幅0.92%，报22668.212点。 纳斯达克100指数收跌74.335点，跌幅0.30%，报24960.035。 纳斯达克生物科技指数收涨0.89，报6041.31点。 费城半导体指数收跌1.21%，报8098.371点。 费城证交所KBW银行指数收跌4.85%，报159.18点。",
+          "url": "https://wallstreetcn.com/livenews/3060503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         },
         {
           "title": "特朗普媒体科技集团考虑将“Truth Social”分拆出来",
@@ -1428,11 +1533,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时33分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.2%，2月份累涨0.6%",
+          "url": "https://wallstreetcn.com/livenews/3060498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时33分"
         }
       ]
     }
