@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T15:00:06.903067+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-02-27T15:52:56.803881+08:00",
+  "total_titles_processed": 1306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -61,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时00分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 15时52分]"
         },
         {
           "title": "A股分化，沪指微跌，算力硬件集体爆发，人民币升破6.83关口，恒科指大跌近3%，科网股普跌",
@@ -75,8 +75,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 15时00分]"
+          "appearance_count": 17,
+          "time_info": "[01时05分 ~ 15时52分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 10时25分]"
+          "appearance_count": 13,
+          "time_info": "[01时05分 ~ 15时52分]"
         },
         {
           "title": "椭圆变速版see you again",
@@ -100,11 +100,12 @@
             13,
             11,
             15,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 15时00分]"
+          "appearance_count": 17,
+          "time_info": "[01时05分 ~ 15时52分]"
         },
         {
           "title": "春节消费市场人气旺活力足",
@@ -126,8 +127,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 15时00分]"
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 15时52分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -141,6 +142,20 @@
           "time_info": "06时39分"
         },
         {
+          "title": "演员王劲松发文怒斥被AI盗用",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            5,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 15时52分]"
+        },
+        {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3059831",
           "source": "华尔街见闻-快讯",
@@ -150,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
@@ -164,17 +190,30 @@
           "time_info": "[13时37分 ~ 15时00分]"
         },
         {
-          "title": "演员王劲松发文怒斥被AI盗用",
-          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%8F%91%E6%96%87%E6%80%92%E6%96%A5%E8%A2%ABAI%E7%9B%97%E7%94%A8",
-          "source": "百度热搜",
+          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
+          "url": "https://www.zhihu.com/question/2010325819092903282",
+          "source": "知乎",
           "ranks": [
-            26,
-            5,
-            14
+            10,
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时00分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 15时52分]"
+        },
+        {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 15时52分]"
         },
         {
           "title": "美国国防部公开设下最后期限：要求不受限使用Anthropic AI工具",
@@ -202,18 +241,6 @@
           "time_info": "[05时57分 ~ 06时39分]"
         },
         {
-          "title": "魅族回应退市传闻，宣布暂停国内手机新产品自研硬件项目，全面转型 AI 及软件生态，为什么会走到这一步？",
-          "url": "https://www.zhihu.com/question/2010325819092903282",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时00分]"
-        },
-        {
           "title": "霍华德·马克斯：伟大投资者在AI最薄弱的领域展现强势",
           "url": "https://wallstreetcn.com/livenews/3059753",
           "source": "华尔街见闻-快讯",
@@ -236,18 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时37分 ~ 15时00分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 15时00分]"
         },
         {
           "title": "AI圈爆火的FARS是什么",
@@ -309,6 +324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时26分]"
+        },
+        {
+          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
+          "url": "https://www.cls.cn/detail/2296693",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 15时52分]"
         },
         {
           "title": "谷歌公司：在AI MAX的文本指引中扩大测试人员的接入权限。 在谷歌翻译中推出全新人工智能驱动功能。",
@@ -379,6 +406,17 @@
           "time_info": "12时26分"
         },
         {
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "A股小金属板块延续强势，有色钨方向领涨，翔鹭钨业直线涨停，章源钨业、中钨高新、厦门钨业、锡业股份等纷纷走强。",
           "url": "https://wallstreetcn.com/livenews/3059910",
           "source": "华尔街见闻-快讯",
@@ -401,17 +439,6 @@
           "time_info": "13时37分"
         },
         {
-          "title": "芯片涨价潮持续席卷！A股半导体龙头集体提价",
-          "url": "https://www.cls.cn/detail/2296693",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
           "title": "谷歌公司在谷歌翻译中推出基于人工智能（AI）的功能。 谷歌与Mass. AI启动新款训练试点。",
           "url": "https://wallstreetcn.com/livenews/3059781",
           "source": "华尔街见闻-快讯",
@@ -423,6 +450,28 @@
           "time_info": "06时39分"
         },
         {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-02-27）",
+          "url": "https://flash.jin10.com/detail/20260227150710907800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "泰国1月民间投资指数较前月增长2.7%。泰国1月民间消费指数较前月增长1.0%。",
+          "url": "https://flash.jin10.com/detail/20260227150447605800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "爱奇艺龚宇：2—3年内将出现AI主导生成的商业大片",
           "url": "https://wallstreetcn.com/livenews/3059813",
           "source": "华尔街见闻-快讯",
@@ -432,6 +481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "A股收盘：沪指低开高走涨0.39%，有色、稀土板块集体走强",
+          "url": "https://wallstreetcn.com/livenews/3060064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "晨星：AI红利释放无需以裁员为代价 企业应聚焦价值创造",
@@ -465,6 +525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "谷歌：谷歌翻译App在美国和印度上线AI驱动的新功能，网页版也将很快推出。",
@@ -503,7 +574,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "白宫官员希望以色列先打击伊朗",
@@ -563,11 +634,12 @@
             16,
             17,
             19,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 15时00分]"
+          "appearance_count": 17,
+          "time_info": "[01时05分 ~ 15时52分]"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -578,8 +650,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时00分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 15时52分]"
         },
         {
           "title": "据i24NEWS：熟悉日内瓦美伊核谈判的消息人士称，美国和伊朗之间的分歧仍然很大，形势不容乐观。",
@@ -665,6 +737,18 @@
           "time_info": "[03时26分 ~ 05时04分]"
         },
         {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时52分]"
+        },
+        {
           "title": "库什纳与美国特使Witkoff对2月26日早间与伊朗的磋商情况感到失望。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059722",
           "source": "华尔街见闻-快讯",
@@ -725,17 +809,6 @@
           "time_info": "[01时05分 ~ 02时10分]"
         },
         {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
-        },
-        {
           "title": "伊朗石油出货量为何突然飙升",
           "url": "https://www.toutiao.com/trending/7611366925066571302/",
           "source": "今日头条",
@@ -767,6 +840,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "市场消息：伊朗敦促美国放弃“过分的要求”以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260227152714694800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗警告：将让侵略者付出惨重代价",
+          "url": "https://www.toutiao.com/trending/7610045179701624886/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "据以色列媒体：美国国务卿鲁比奥关于伊朗导弹的言论未能说服国会民主党领导层。",
@@ -981,7 +1076,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "机器人加快走进百姓生活",
@@ -1032,11 +1127,12 @@
             20,
             16,
             5,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时05分 ~ 15时00分]"
+          "appearance_count": 17,
+          "time_info": "[01时05分 ~ 15时52分]"
         },
         {
           "title": "日本一大学把宇树机器人改成僧侣",
@@ -1078,8 +1174,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时00分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 15时52分]"
         },
         {
           "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
@@ -1089,11 +1185,24 @@
             20,
             18,
             15,
-            19
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 15时52分]"
+        },
+        {
+          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
+          "url": "https://www.cls.cn/detail/2296619",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时34分 ~ 15时00分]"
+          "time_info": "[10时24分 ~ 15时52分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（2月27日）",
@@ -1105,17 +1214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
-          "url": "https://www.cls.cn/detail/2296619",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时00分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达是美光科技的最大客户。",
@@ -1167,6 +1265,18 @@
           "time_info": "[04时02分 ~ 05时57分]"
         },
         {
+          "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
+          "url": "https://www.zhihu.com/question/536760105",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时52分]"
+        },
+        {
           "title": "华富基金沈成：短期市场波动不会改变人形机器人板块长期向上趋势",
           "url": "https://wallstreetcn.com/livenews/3059703",
           "source": "华尔街见闻-快讯",
@@ -1203,17 +1313,6 @@
           "time_info": "[04时02分 ~ 05时04分]"
         },
         {
-          "title": "未来战争如果机器人完全取代了人类士兵，是否会出现到人类的意志对战争形势无法起到任何影响的情况?",
-          "url": "https://www.zhihu.com/question/536760105",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
-        },
-        {
           "title": "奔驰宝马高管围观宇树机器人",
           "url": "https://www.baidu.com/s?wd=%E5%A5%94%E9%A9%B0%E5%AE%9D%E9%A9%AC%E9%AB%98%E7%AE%A1%E5%9B%B4%E8%A7%82%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "百度热搜",
@@ -1245,6 +1344,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "MSCI中国指数2月季度调整将于2月27日收盘后生效，部分调入股尾盘异动，麦格米特、利欧股份、岩山科技、万向钱潮等股拉升。",
+          "url": "https://wallstreetcn.com/livenews/3060069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "菜菜子re评机器人小品",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8F%9C%E8%8F%9C%E5%AD%90re%E8%AF%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%8F%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "机构2月调研近240家上市公司，人形机器人等投资机遇获重视",
@@ -1330,7 +1451,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -1341,7 +1462,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时00分"
         },
@@ -1459,7 +1580,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -1502,17 +1623,6 @@
           "time_info": "[01时05分 ~ 07时34分]"
         },
         {
-          "title": "特朗普2026国会演讲全解析",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
-        },
-        {
           "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
           "url": "https://flash.jin10.com/detail/20260227015004327800",
           "source": "金十数据",
@@ -1535,6 +1645,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时26分 ~ 15时00分]"
+        },
+        {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时52分]"
         },
         {
           "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
@@ -1599,6 +1721,18 @@
           "time_info": "[12时26分 ~ 13时37分]"
         },
         {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时52分]"
+        },
+        {
           "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
           "url": "https://wallstreetcn.com/livenews/3059705",
           "source": "华尔街见闻-快讯",
@@ -1623,17 +1757,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时02分 ~ 05时57分]"
-        },
-        {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -1735,6 +1858,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         },
         {
           "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
@@ -1909,6 +2043,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "谷歌的“豆包手机”来了？",
+          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时59分 ~ 15时52分]"
+        },
+        {
           "title": "谷歌推出 Nano Banana 2，有哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2010521633262101357",
           "source": "知乎",
@@ -1919,17 +2064,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时26分 ~ 13时37分]"
-        },
-        {
-          "title": "谷歌的“豆包手机”来了？",
-          "url": "https://news.ifeng.com/c/8r5Hb8yN4Fm",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "谷歌：推出更快版本的最新图像模型Nano Banana 2，并将在谷歌旗下各产品中逐步上线。",
@@ -2002,7 +2136,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
@@ -2102,6 +2236,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "瑞银下调美股配置至中性 资金全球化分散趋势渐显",
+          "url": "https://flash.jin10.com/detail/20260227151220024800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "戴尔(DELL.N)美股盘后涨幅扩大至12%。",
           "url": "https://flash.jin10.com/detail/20260227053003552800",
           "source": "金十数据",
@@ -2170,6 +2315,46 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周五，全球基金抛售了创纪录的韩国股票（近50亿美元），这表明在今年韩国股市基准指数上涨近50%之后出现了获利回吐的迹象。",
+          "url": "https://flash.jin10.com/detail/20260227153351294800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
+          "url": "https://wallstreetcn.com/livenews/3059747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时04分 ~ 05时57分]"
+        },
+        {
+          "title": "新兴市场外汇指数回吐涨幅，哥伦比亚比索等跌幅突出，美元走高。",
+          "url": "https://wallstreetcn.com/livenews/3059666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -2225,35 +2410,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（2月26日）纽约尾盘，ICE美元指数涨0.08%，报97.775点，日内交投区间为97.489-97.984点。 彭博美元指数涨0.08%，报1188.39点，日内交投区间为1185.03-1190.69点。",
-          "url": "https://wallstreetcn.com/livenews/3059747",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 05时57分]"
-        },
-        {
-          "title": "新兴市场外汇指数回吐涨幅，哥伦比亚比索等跌幅突出，美元走高。",
-          "url": "https://wallstreetcn.com/livenews/3059666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
         }
       ]
     },
