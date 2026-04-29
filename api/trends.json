@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:22:05.851613+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-04-29T22:39:58.343951+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时58分 ~ 20时22分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 22时39分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时58分 ~ 20时22分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 22时39分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
@@ -107,6 +108,20 @@
           "time_info": "[11时49分 ~ 16时39分]"
         },
         {
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 22时39分]"
+        },
+        {
           "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
           "url": "https://www.zhihu.com/question/2030222424457703714",
           "source": "知乎",
@@ -168,6 +183,17 @@
           "time_info": "11时50分"
         },
         {
+          "title": "A股放量上涨 全市场超百股涨停",
+          "url": "https://www.toutiao.com/trending/7633785740467683354/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "东方证券给予比亚迪A股买进的初始评级，目标价125.28元人民币。",
           "url": "https://wallstreetcn.com/livenews/3096264",
           "source": "华尔街见闻-快讯",
@@ -179,17 +205,15 @@
           "time_info": "14时27分"
         },
         {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
           "ranks": [
-            10,
-            8,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 20时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "如何评价红果下架播放量 8 亿的 AI 短剧《菩提临世》？问题出在哪？AI 短剧创作要注意什么？",
@@ -234,11 +258,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33072106",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时39分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            20,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时22分]"
+          "time_info": "[20时21分 ~ 22时39分]"
         },
         {
           "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
@@ -312,17 +349,6 @@
           "time_info": "[06时33分 ~ 07时59分]"
         },
         {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
           "title": "在异环中演奏See you again",
           "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
           "source": "bilibili 热搜",
@@ -387,6 +413,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2360001",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33075663",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -477,6 +525,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "美克家居：公司股票将于2026年4月30日停牌1天，2026年5月6日起实施风险警示，实施后A股简称为ST美克。",
+          "url": "https://wallstreetcn.com/livenews/3096752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "A股千味央厨午后闪崩跌停，此前早盘涨近6%。",
           "url": "https://flash.jin10.com/detail/20260429135400112800",
           "source": "金十数据",
@@ -497,6 +556,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "恒天海龙：公司股票将于2026年4月30日停牌一天，于2026年5月6日开市起复牌并被实施其他风险警示，实施后A股简称为ST海龙。",
+          "url": "https://wallstreetcn.com/livenews/3096749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "抖音“五一”消费预测：小城游火热 多地吃喝游玩团购订单增长超6成",
@@ -532,6 +602,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "加拿大央行：伊朗冲突对加拿大GDP增长的影响预计会很小。 密切关注通胀的广度和长期通胀预期。 冲突推高加拿大石油价值，但挤压消费者和企业。 货币政策取决于美墨加协定谈判及中东冲突。 预计2026年加拿大经济增长1.2%，2027年增长1.6%，2028年增长1.7%。 预计加拿大中性利率维持在2.25%-3.25%不变。",
+          "url": "https://wallstreetcn.com/livenews/3096754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "A股有色板块持续走强，中钨高新午后涨停，翔鹭钨业此前封板，恒邦股份、厦门钨业、西部矿业、金钼股份涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3096236",
           "source": "华尔街见闻-快讯",
@@ -552,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "标准股份：公司股票将于2026年4月30日停牌1天，2026年5月6日起实施其他风险警示，实施后A股简称为ST标准。",
+          "url": "https://wallstreetcn.com/livenews/3096739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "A股迎大反转",
@@ -601,7 +693,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -653,8 +745,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时39分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -664,8 +756,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时39分]"
         },
         {
           "title": "美国总统特朗普：伊朗无法达成一致意见。他们不知道如何签署无核协议。他们最好尽快明智起来！",
@@ -701,6 +793,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "特朗普60天战争权限即将耗尽！美国会山风向悄然生变",
+          "url": "https://flash.jin10.com/detail/20260429221600609800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
           "url": "https://www.cls.cn/detail/2358925",
           "source": "财联社热门",
@@ -712,6 +815,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时49分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
+          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国参议院否决限制特朗普对古巴动武的决议",
@@ -867,6 +981,17 @@
           "time_info": "[14时27分 ~ 16时39分]"
         },
         {
+          "title": "伊朗战争丨特朗普：可能延长对伊封锁，迫使其达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国情报机构研判伊朗将如何回应特朗普单方面宣布胜利",
           "url": "https://flash.jin10.com/detail/20260429031029178800",
           "source": "金十数据",
@@ -999,6 +1124,17 @@
           "time_info": "11时50分"
         },
         {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国总统特朗普：德国总理默茨不知道自己在伊朗问题上说的啥。",
           "url": "https://wallstreetcn.com/livenews/3095963",
           "source": "华尔街见闻-快讯",
@@ -1109,6 +1245,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "德国总理默茨：与特朗普的私人关系仍然“良好”。",
           "url": "https://wallstreetcn.com/livenews/3096508",
           "source": "华尔街见闻-快讯",
@@ -1123,7 +1270,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -1131,11 +1278,12 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 20时22分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 22时39分]"
         },
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -1187,6 +1335,18 @@
           "time_info": "[07时58分 ~ 20时22分]"
         },
         {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时27分 ~ 22时39分]"
+        },
+        {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
           "url": "https://www.cls.cn/detail/2358468",
           "source": "财联社热门",
@@ -1197,18 +1357,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时54分 ~ 07时59分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时27分 ~ 20时22分]"
         },
         {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
@@ -1269,6 +1417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美媒：巴基斯坦预计伊朗修订版和平提案将于今日或最迟周五提交",
+          "url": "https://flash.jin10.com/detail/20260429221536126800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "美国军方表示，部队将继续执行对伊朗港口的封锁行动。",
@@ -1421,6 +1580,17 @@
           "time_info": "[05时10分 ~ 06时33分]"
         },
         {
+          "title": "伊朗：将以前所未有的军事行动回应美",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
           "url": "https://wallstreetcn.com/articles/3771035",
           "source": "华尔街见闻",
@@ -1441,6 +1611,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "伊朗：将以前所未有军事行动回应美",
+          "url": "https://www.toutiao.com/trending/7633112393258172443/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗里亚尔兑美元跌至180万的历史新低。",
@@ -1542,6 +1723,17 @@
           "time_info": "18时59分"
         },
         {
+          "title": "伊朗货币里亚尔兑美元汇率跌至历史新低，目前汇率已突破1美元兑181万里亚尔的水平。",
+          "url": "https://wallstreetcn.com/livenews/3096746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "美国宣布对35个伊朗相关实体及个人实施制裁",
           "url": "https://flash.jin10.com/detail/20260429023352830800",
           "source": "金十数据",
@@ -1570,9 +1762,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
+        },
+        {
+          "title": "伊朗货币里亚尔汇率跌至历史新低",
+          "url": "https://flash.jin10.com/detail/20260429215412381800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "伊朗重申：有权采取措施维护霍尔木兹海峡安全",
@@ -1600,7 +1803,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "PCB龙头胜宏科技一季度营收突破55亿、净利增近四成 | 财报见闻",
@@ -1723,11 +1926,12 @@
           "url": "https://wallstreetcn.com/articles/3771194",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 20时22分]"
+          "appearance_count": 4,
+          "time_info": "[18时59分 ~ 22时39分]"
         },
         {
           "title": "从爆火出圈到重组出海，再到收购被要求撤销，Manus 这段跌宕历程，给中国科技企业合规出海带来什么启示？",
@@ -1785,6 +1989,17 @@
           "time_info": "18时59分"
         },
         {
+          "title": "蔚来李斌：不急于入局具身智能机器人，先观望再入场",
+          "url": "https://wallstreetcn.com/livenews/3096767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "存储芯片龙头希捷科技(STX.O)美股盘前涨近18%，公司2026年第三财季营收31.1亿美元高于预期。",
           "url": "https://flash.jin10.com/detail/20260429160351141800",
           "source": "金十数据",
@@ -1794,6 +2009,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "宝馨科技：公司股票自5月6日起被实施退市风险警示及其他风险警示",
+          "url": "https://flash.jin10.com/detail/20260429220657050800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         },
         {
           "title": "宇树科技全国首家直营店开业",
@@ -1994,6 +2220,28 @@
           "time_info": "06时33分"
         },
         {
+          "title": "闻泰科技：第一季度净亏损1.89亿元",
+          "url": "https://wallstreetcn.com/livenews/3096735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
+          "title": "闻泰科技：2025年净利润亏损87.48亿元",
+          "url": "https://wallstreetcn.com/livenews/3096734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
+        },
+        {
           "title": "晶澳科技全年净亏损46.1亿元人民币，预估亏损42.7亿元。 第一季度净亏损10.7亿元人民币。",
           "url": "https://wallstreetcn.com/livenews/3095917",
           "source": "华尔街见闻-快讯",
@@ -2014,12 +2262,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "闻泰科技：公司股票被实施退市风险警示并叠加其他风险警示",
+          "url": "https://wallstreetcn.com/livenews/3096732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
@@ -2039,11 +2298,12 @@
           "ranks": [
             4,
             14,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时39分]"
         },
         {
           "title": "6家券商抢先部署DeepSeek V4，2小时接入、24小时上线，新一轮竞速开始",
@@ -2054,19 +2314,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时39分 ~ 20时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时39分 ~ 22时39分]"
         },
         {
           "title": "揭秘DeepSeekV4背后的黑科技",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98DeepSeekV4%E8%83%8C%E5%90%8E%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 3,
+          "time_info": "[20时21分 ~ 22时39分]"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -2089,6 +2350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "阿里云百炼宣布DeepSeek-V4-Pro模型隐式缓存降价",
+          "url": "https://wallstreetcn.com/livenews/3096738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     },
@@ -2136,7 +2408,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时22分"
         },
@@ -2270,6 +2542,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普拟将伊朗封锁持续数月，美债应声下跌",
+          "url": "https://flash.jin10.com/detail/20260429220644603800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时39分"
         }
       ]
     }
