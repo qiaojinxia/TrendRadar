@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T00:23:19.964680+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-01T01:52:28.774090+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
+          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -41,17 +53,6 @@
           "time_info": "00时23分"
         },
         {
-          "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
-          "url": "https://news.ifeng.com/c/8skYq26ZNlk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
           "url": "https://wallstreetcn.com/articles/3771344",
           "source": "华尔街见闻",
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
@@ -70,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
@@ -81,8 +82,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
@@ -92,8 +93,96 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "美国众议院投票，批准对国土安全部（DHS）预算拨款的主要条款，草案将移交给总统特朗普（签字为法律）。",
+          "url": "https://wallstreetcn.com/livenews/3097651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时52分"
+        },
+        {
+          "title": "市场消息：美国众议院通过法案，为美国国土安全部大部分部门提供资金，该法案将提交给特朗普。",
+          "url": "https://flash.jin10.com/detail/20260501010911115800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3097647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普今天将签署一项行政命令，以扩大没有雇主提供退休计划的美国人对退休储蓄账户的使用。",
+          "url": "https://flash.jin10.com/detail/20260501005927939800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
+          "url": "https://flash.jin10.com/detail/20260501005757572800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国联邦通信管理局（FCC）：我们针对迪士尼采取的（提前数年审查新闻）许可行动并没有得到总统特朗普的授意。",
+          "url": "https://wallstreetcn.com/livenews/3097640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
+          "url": "https://flash.jin10.com/detail/20260501005752668800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "特朗普：我提名妮可·B·萨菲尔博士（NICOLE B. SAPHIER）出任美国下一任卫生局长。",
+          "url": "https://flash.jin10.com/detail/20260501004451357800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "特朗普再次对德国总理涉伊朗言论表达不满",
@@ -110,7 +199,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "“五一”叠加春假催热消费",
@@ -120,8 +209,88 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
+          "url": "https://wallstreetcn.com/livenews/3097659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时52分"
+        },
+        {
+          "title": "假如AI能模拟去世亲人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
+          "url": "https://wallstreetcn.com/livenews/3097630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://www.cls.cn/detail/2361143",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -135,77 +304,89 @@
           "time_info": "00时23分"
         },
         {
-          "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
-          "url": "https://wallstreetcn.com/livenews/3097630",
+          "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
+          "url": "https://www.zhihu.com/question/2032183066840360184",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "美国消费者金融监管机构敲定小企业贷款数据新规",
+          "url": "https://wallstreetcn.com/livenews/3097636",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时52分"
         },
         {
-          "title": "假如AI能模拟去世亲人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "深圳14岁男孩用AI备考押中奥赛题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            8
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时52分"
         },
         {
-          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2361477",
-          "source": "财联社热门",
+          "title": "马斯克再次重返证人席，接受OpenAI律师反询问",
+          "url": "https://wallstreetcn.com/livenews/3097631",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时52分"
         },
         {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
+          "title": "英伟达高管：现在AI比雇人干活还贵",
+          "url": "https://www.toutiao.com/trending/7634535560127712787/",
+          "source": "今日头条",
           "ranks": [
-            9
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
-          "url": "https://www.cls.cn/detail/2361143",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时52分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "24小时接收6500吨装备 以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://flash.jin10.com/detail/20260501012244092800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "后继乏力，美国对伊朗已使出最后手段？",
+          "url": "https://v.ifeng.com/c/8skrO0EzSbj",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
         {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
@@ -218,15 +399,26 @@
           "time_info": "00时23分"
         },
         {
-          "title": "后继乏力，美国对伊朗已使出最后手段？",
-          "url": "https://v.ifeng.com/c/8skrO0EzSbj",
+          "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：全世界已见证了伊朗的宽容与和解。当前在‘海上封锁’幌子下所采取的行动，实则是针对一个正为自身抵抗与独立付出代价的国家所发动的军事行动的延伸。这种压迫性手段的持续是绝不可容忍的。",
+          "url": "https://flash.jin10.com/detail/20260501010753117800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "01时52分"
         },
         {
           "title": "美国国防部长赫格塞思：我们今天面临的最大危险是那些试图破坏我们对抗伊朗努力的失败主义民主党人。",
@@ -238,6 +430,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
+          "url": "https://flash.jin10.com/detail/20260501005408136800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时52分"
         },
         {
           "title": "乳胶制造商Synthomer预计第二季度表现强劲，伊朗战争对亚洲竞争对手造成干扰",
@@ -297,19 +500,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
           "url": "https://www.zhihu.com/question/2031352480852915686",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -319,8 +523,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -330,8 +534,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         }
       ]
     },
@@ -344,11 +548,36 @@
           "url": "https://wallstreetcn.com/livenews/3097626",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "金价“跳水”背后藏着什么博弈",
+          "url": "https://www.toutiao.com/trending/7634525215950638633/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
+        },
+        {
+          "title": "金价突涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "影响金价的关键因素是什么",
@@ -356,28 +585,6 @@
           "source": "抖音",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金价“跳水”背后藏着什么博弈",
-          "url": "https://www.toutiao.com/trending/7634525215950638633/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金价突涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E6%B6%A8%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -397,8 +604,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -408,19 +615,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
           "url": "https://www.toutiao.com/trending/7634557457460629035/",
           "source": "今日头条",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         }
       ]
     },
@@ -433,22 +641,24 @@
           "url": "https://wallstreetcn.com/livenews/3097635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
           "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         },
         {
           "title": "谷歌A创约8个月最大盘中涨幅",
@@ -475,8 +685,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         }
       ]
     },
@@ -492,8 +702,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时52分]"
         }
       ]
     }
