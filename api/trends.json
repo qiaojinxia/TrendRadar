@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T04:42:31.146062+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-05-01T05:59:36.934704+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -40,8 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -55,6 +55,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国总统特朗普签署许可，授权通过输油管线Bridger Pipeline将加拿大石油供应到怀俄明州。 这将在美国联邦政府层面为跨境的Bridger项目建设、衔接、运营扫清障碍。",
+          "url": "https://wallstreetcn.com/livenews/3097732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "美国总统特朗普的助手表示，特朗普将签署授权跨境管道的许可证。",
           "url": "https://flash.jin10.com/detail/20260501025910710800",
           "source": "金十数据",
@@ -66,15 +77,15 @@
           "time_info": "03时27分"
         },
         {
-          "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
-          "url": "https://flash.jin10.com/detail/20260501042353967800",
+          "title": "特朗普：可能减少驻西班牙和意大利的美军规模",
+          "url": "https://flash.jin10.com/detail/20260501052721339800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时59分"
         },
         {
           "title": "特朗普，居然这都能搞错？",
@@ -132,6 +143,52 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "美国白宫：特朗普总统许可授权布里杰管道扩建项目，内容包括在蒙大拿州菲利普斯县边界处的该管道区域进行管道设施的建设、连接、运营及维护工作，该区域位于美国与加拿大之间。许可方获准在美国和加拿大之间运输原油及石油产品。",
+          "url": "https://flash.jin10.com/detail/20260501042353967800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时59分]"
+        },
+        {
           "title": "特朗普60天战争权限将于5月1日到期",
           "url": "https://wallstreetcn.com/livenews/3097676",
           "source": "华尔街见闻-快讯",
@@ -144,37 +201,15 @@
           "time_info": "[03时27分 ~ 04时42分]"
         },
         {
-          "title": "美国对伊战争已花掉250亿美元，特朗普欲推出“海上自由联盟”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33082398",
-          "source": "澎湃新闻",
+          "title": "还是不解气，特朗普又炮轰默茨",
+          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
+          "source": "凤凰网",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
-          "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33081850",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 3,
+          "time_info": "[03时27分 ~ 05时59分]"
         },
         {
           "title": "特朗普决定取消某些威士忌关税",
@@ -189,15 +224,15 @@
           "time_info": "[03时27分 ~ 04时42分]"
         },
         {
-          "title": "还是不解气，特朗普又炮轰默茨",
-          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
-          "source": "凤凰网",
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时27分 ~ 04时42分]"
+          "time_info": "[04时42分 ~ 05时59分]"
         },
         {
           "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
@@ -212,6 +247,17 @@
           "time_info": "[01时52分 ~ 03时27分]"
         },
         {
+          "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "市场消息：美国总统特朗普举行新闻发布会时吹嘘大选以来股市的上涨。",
           "url": "https://flash.jin10.com/detail/20260501025252974800",
           "source": "金十数据",
@@ -221,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：不在乎鲍威尔是否留任理事",
+          "url": "https://flash.jin10.com/detail/20260501051602569800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美国众议院投票，批准对国土安全部（DHS）预算拨款的主要条款，草案将移交给总统特朗普（签字为法律）。",
@@ -265,17 +322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
         },
         {
           "title": "美国总统特朗普向伊拉克候任总理表示祝贺。",
@@ -355,13 +401,24 @@
           "time_info": "01时52分"
         },
         {
+          "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
+          "url": "https://wallstreetcn.com/livenews/3097712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "美国总统特朗普：我们在发动伊朗战争方面并不曾需要（来自北约的）任何帮助。",
           "url": "https://wallstreetcn.com/livenews/3097682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -372,7 +429,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -386,6 +443,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "美国总统特朗普：我们对霍尔木兹海峡的封锁百分之百有效。",
+          "url": "https://wallstreetcn.com/livenews/3097705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "特朗普：我提名妮可·B·萨菲尔博士（NICOLE B. SAPHIER）出任美国下一任卫生局长。",
@@ -416,7 +484,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -446,7 +514,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "24小时接收6500吨装备 以防长称或“很快恢复”对伊朗军事行动",
@@ -460,15 +528,38 @@
           "time_info": "01时52分"
         },
         {
-          "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
-          "url": "https://wallstreetcn.com/livenews/3097704",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
+          "url": "https://flash.jin10.com/detail/20260501052857915800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时42分"
+          "time_info": "05时59分"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
+          "url": "https://flash.jin10.com/detail/20260501052348245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
+          "url": "https://wallstreetcn.com/livenews/3097704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时59分]"
         },
         {
           "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
@@ -516,6 +607,17 @@
           "time_info": "01时52分"
         },
         {
+          "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3097721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "伊朗总统和议长寻求撤换外长，理由是他“屈从于革命卫队”",
           "url": "https://flash.jin10.com/detail/20260501023932622800",
           "source": "金十数据",
@@ -533,7 +635,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -544,7 +646,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -555,7 +657,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -615,6 +717,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "【德黑兰传出防空系统拦截声，或为拦截小型无人机】据伊朗媒体4月30日晚报道，伊朗首都德黑兰南部和中部城区传出防空系统拦截声。塔斯尼姆通讯社说，防空系统可能是在拦截德黑兰上空出现的小型无人机。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3097707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "市场消息：伊朗股票市场交易将暂停至2026年5月4日星期一，其重新开放取决于对情况的持续评估。",
           "url": "https://flash.jin10.com/detail/20260501021336302800",
           "source": "金十数据",
@@ -651,7 +764,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "“五一”叠加春假催热消费",
@@ -661,8 +774,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "假如AI能模拟去世亲人",
@@ -674,8 +787,55 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://www.cls.cn/detail/2361143",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
@@ -690,63 +850,18 @@
           "time_info": "[01时52分 ~ 03时27分]"
         },
         {
-          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2361477",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
-          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
-          "url": "https://www.cls.cn/detail/2361143",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时52分 ~ 04时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时52分 ~ 05时59分]"
         },
         {
           "title": "高通CEO表示：新型AI芯片业务将在2027年贡献显著营收。",
@@ -778,9 +893,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
+        },
+        {
+          "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
+          "url": "https://www.cls.cn/detail/2361533",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -851,9 +977,128 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "分析师分析师电话会：苹果公司预计第三财季营收将同比增长14%-17%，分析师预期增长9.1%。 预计第三财季服务营收增幅将与第二财季（至3月的三个月）类似。 预计第三财季毛利润率为47.5%-48.5%。 本公司不再追求净现金中性立场。 苹果公司美股盘后上涨3.45%。",
+          "url": "https://wallstreetcn.com/livenews/3097728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "Roblox美股盘后跌28%，该公司下调全年预定预期。",
+          "url": "https://wallstreetcn.com/livenews/3097703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时42分 ~ 05时59分]"
+        },
+        {
+          "title": "金十图示：2026年04月30日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260501040538457800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "金十图示：2026年04月30日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260501040532985800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指涨0.89%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260501040155496800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时42分"
+        },
+        {
+          "title": "Sandisk第三财季营收59.5亿美元，分析师预期47.2亿美元。第三财季调整后每股收益（EPS）为23.41美元，分析师预期14.51美元。预计第四财季营收77.5亿-82.5亿美元，分析师预期66.5亿美元。预计第四财季调整后EPS为30-33美元，分析师预期24.6美元。Sandisk美股盘后跌8%。",
+          "url": "https://wallstreetcn.com/livenews/3097714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元；iPhone 17“需求极其强劲”。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3097708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "西部数据第三财季净营收33.4亿美元，同比增长45%，分析师预期32.3亿美元。 第三财季GAAP毛利润率50.2%，非GAAP毛利率50.5%。 预计第四财季营收将同比增长36%-44%。 预计第四财季运营开支3.85亿-3.95亿美元，预计调整后毛利润率51%-52%。 西部数据（WDC）美股盘后跌超6.44%。",
+          "url": "https://wallstreetcn.com/livenews/3097700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
           "url": "https://wallstreetcn.com/livenews/3097635",
@@ -867,25 +1112,13 @@
           "time_info": "[00时23分 ~ 01时52分]"
         },
         {
-          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
-          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
           "title": "谷歌A收涨10%，创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3097696",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -907,7 +1140,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         },
@@ -925,68 +1158,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
-          "title": "Roblox美股盘后跌28%，该公司下调全年预定预期。",
-          "url": "https://wallstreetcn.com/livenews/3097703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "金十图示：2026年04月30日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260501040538457800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "金十图示：2026年04月30日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260501040532985800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        },
-        {
-          "title": "美股收盘，道指初步收涨1.62%、标普500指数涨1.02%、纳指涨0.89%。Alphabet(GOOG.O)收涨9.95%，创历史新高；高通(QCOM.O)涨超15%。纳斯达克中国金龙指数涨2.1%，阿里巴巴(BABA.N)涨超1%。",
-          "url": "https://flash.jin10.com/detail/20260501040155496800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -998,21 +1169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
-        },
-        {
-          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
-          "url": "https://www.zhihu.com/question/2031352480852915686",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -1023,8 +1181,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1032,6 +1190,20 @@
           "source": "bilibili 热搜",
           "ranks": [
             11,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
+          "url": "https://www.zhihu.com/question/2031352480852915686",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
             14
           ],
           "is_new": false,
@@ -1052,8 +1224,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1064,8 +1236,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
+        },
+        {
+          "title": "闻泰科技将变更为*ST闻泰",
+          "url": "https://www.toutiao.com/trending/7634557457460629035/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            18,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "恒生指数主连夜盘收涨1.44%，报25992点。 恒生科技指数主连夜盘收涨1.62%，报4955点。",
@@ -1078,19 +1264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时27分 ~ 04时42分]"
-        },
-        {
-          "title": "闻泰科技将变更为*ST闻泰",
-          "url": "https://www.toutiao.com/trending/7634557457460629035/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
         }
       ]
     },
@@ -1105,11 +1278,12 @@
           "ranks": [
             13,
             17,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "金价突涨",
@@ -1121,8 +1295,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -1162,8 +1336,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 04时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 05时59分]"
         }
       ]
     },
@@ -1178,7 +1352,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
         }
