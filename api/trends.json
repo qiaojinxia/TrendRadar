@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T08:02:13.549366+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-05-12T12:24:27.665107+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -73,11 +73,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 12时24分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -91,15 +92,16 @@
           "time_info": "[01时34分 ~ 06时34分]"
         },
         {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
           "ranks": [
+            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时24分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -127,26 +129,27 @@
           "time_info": "[01时34分 ~ 08时02分]"
         },
         {
-          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
-          "url": "https://www.cls.cn/detail/2368498",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
           "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
           "url": "https://flash.jin10.com/detail/20260512074149753800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时24分]"
         },
         {
           "title": "媒体频频泄密如列席战情室 特朗普要求展开调查",
@@ -160,6 +163,17 @@
           "time_info": "06时34分"
         },
         {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
           "url": "https://flash.jin10.com/detail/20260512010045688800",
           "source": "金十数据",
@@ -169,6 +183,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时24分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 12时24分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -181,28 +219,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
-          "url": "https://www.cls.cn/detail/2368480",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
         },
         {
           "title": "多个团体就特朗普政府可能削减住房项目发出警告",
@@ -246,7 +262,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -279,7 +295,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -312,7 +328,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -334,9 +350,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美国总统特朗普：许多人认为油价会达到250或300美元/桶，但并没有发生。",
@@ -378,7 +405,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -400,7 +427,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -414,6 +441,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "特朗普发文称非常期待中国之行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -460,6 +498,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "美国议员撺掇特朗普对华强硬",
+          "url": "https://www.toutiao.com/trending/7637780467634192420/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "特朗普：“停火协议已岌岌可危”，正处于“生命维持”状态",
           "url": "https://wallstreetcn.com/livenews/3101771",
           "source": "华尔街见闻-快讯",
@@ -473,8 +522,434 @@
       ]
     },
     {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "把AI用到了最有意义的场合",
+          "url": "https://www.douyin.com/hot/2495756",
+          "source": "抖音",
+          "ranks": [
+            5,
+            8,
+            7,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 12时24分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            23,
+            20,
+            15,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 12时24分]"
+        },
+        {
+          "title": "AI时代如何评价各专业",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19,
+            22,
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 12时24分]"
+        },
+        {
+          "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 08时02分]"
+        },
+        {
+          "title": "快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段",
+          "url": "https://flash.jin10.com/detail/20260512121155180800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "Bain & Co.投资OpenAI Deployment Company。",
+          "url": "https://wallstreetcn.com/livenews/3101802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "快手：正在评估拟议重组可灵AI之相关资产及业务的方案，拟议方案仍处于初步阶段",
+          "url": "https://wallstreetcn.com/livenews/3102020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "A股史诗级爆发原因",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 08时02分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            29,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 08时02分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "学者：A股涨说明经济真的在复苏",
+          "url": "https://www.toutiao.com/trending/7638599674026266139/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时21分]"
+        },
+        {
+          "title": "AI正把韩国推成全球最疯狂牛市",
+          "url": "https://www.toutiao.com/trending/7638535831472311827/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 08时02分]"
+        },
+        {
+          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3101858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时34分]"
+        },
+        {
+          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
+          "url": "https://flash.jin10.com/detail/20260512044813399800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时34分]"
+        },
+        {
+          "title": "A股连续4天百股涨停",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%9E%E7%BB%AD4%E5%A4%A9%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 03时54分]"
+        },
+        {
+          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
+          "url": "https://wallstreetcn.com/livenews/3101797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3101831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
+          "url": "https://www.zhihu.com/question/2037128887558207003",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "演员张静初带货优思益翻车，47 名消费者退款无门拟集体起诉，对张静初影响有多大？起诉能拿回钱吗？",
+          "url": "https://www.zhihu.com/question/2036793564118480454",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "大摩：预计本周公布的消费者价格数据将“更加劲爆”",
+          "url": "https://wallstreetcn.com/livenews/3101790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "A股券商板块异动拉升，长城证券涨停，锦龙股份、长江证券、东方证券、财通证券、财达证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3102000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
+          "url": "https://flash.jin10.com/detail/20260512024009408800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "缺乏AI企业和估值吸引力 外国投资者创纪录撤资印度股市",
+          "url": "https://flash.jin10.com/detail/20260512114935128800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
+          "url": "https://flash.jin10.com/detail/20260512065650611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "OpenAI冲刺IPO之际 其CEO奥尔特曼恐面临严厉审查",
+          "url": "https://flash.jin10.com/detail/20260512113842509800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "A股午评：沪指跌0.4% 电力板块逆市走强",
+          "url": "https://flash.jin10.com/detail/20260512113612272800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "A股资产备受基金青睐，“专业买手”连续加仓6个月",
+          "url": "https://wallstreetcn.com/livenews/3101887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "上海AI实验室联合团队攻克芯片核心材料光刻胶稳定制备难题",
+          "url": "https://wallstreetcn.com/livenews/3101983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "市场消息：美国得州起诉奈飞(NFLX.O)，指控其未经消费者同意监视并收集用户数据。",
+          "url": "https://flash.jin10.com/detail/20260512002407292800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "A股电网设备板块持续走高，大连电瓷、汉缆股份双双涨停，通光线缆、通达股份、太阳电缆、远东股份等多股封板，温州宏丰涨超15%。",
+          "url": "https://wallstreetcn.com/livenews/3101976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "美媒：马斯克的Grok在AI竞赛中正节节败退",
+          "url": "https://flash.jin10.com/detail/20260512112729019800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "创业板第二只千元股诞生，光模块龙头中际旭创涨超6%，股价突破1000元，成为创业板历史上第二只千元股，也是A股史上第十只千元股，该股自2025年5月12日以来累计上涨超970%，今年累计上涨超63%。",
+          "url": "https://wallstreetcn.com/livenews/3101967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "CORTIS新歌ACAI的MV来了",
+          "url": "https://www.douyin.com/hot/2495749",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "微消费模式兴起 韩国小份食品热卖",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E6%B6%88%E8%B4%B9%E6%A8%A1%E5%BC%8F%E5%85%B4%E8%B5%B7+%E9%9F%A9%E5%9B%BD%E5%B0%8F%E4%BB%BD%E9%A3%9F%E5%93%81%E7%83%AD%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "据华尔街日报：美国众议院监督委员会已启动一项调查，以探究有关OpenAI CEO奥尔特曼潜在的利益冲突，同时多位共和党州检察长呼吁美国证交会（SEC）进行审查。",
+          "url": "https://flash.jin10.com/detail/20260512112222106800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -484,8 +959,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时34分 ~ 12时24分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -511,13 +986,35 @@
           "time_info": "[01时34分 ~ 08时02分]"
         },
         {
+          "title": "德国极右翼政党AfD批评伊朗战争后支持率飙升",
+          "url": "https://flash.jin10.com/detail/20260512121045683800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美国悬赏1500万美元 打击伊朗革命卫队资金网络",
           "url": "https://wallstreetcn.com/livenews/3101907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -621,7 +1118,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -643,7 +1140,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -731,7 +1228,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -848,278 +1345,20 @@
       ]
     },
     {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "把AI用到了最有意义的场合",
-          "url": "https://www.douyin.com/hot/2495756",
-          "source": "抖音",
-          "ranks": [
-            5,
-            8,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
-        },
-        {
-          "title": "十大券商看后市｜A股向上趋势不改，以波段思维应对事件窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33153911",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
-        },
-        {
-          "title": "Bain & Co.投资OpenAI Deployment Company。",
-          "url": "https://wallstreetcn.com/livenews/3101802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            23,
-            20,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
-        },
-        {
-          "title": "A股史诗级爆发原因",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E7%88%86%E5%8F%91%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
-        },
-        {
-          "title": "AI时代如何评价各专业",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%90%84%E4%B8%93%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            29,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 08时02分]"
-        },
-        {
-          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2367918",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "学者：A股涨说明经济真的在复苏",
-          "url": "https://www.toutiao.com/trending/7638599674026266139/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时34分 ~ 05时21分]"
-        },
-        {
-          "title": "AI正把韩国推成全球最疯狂牛市",
-          "url": "https://www.toutiao.com/trending/7638535831472311827/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时54分 ~ 08时02分]"
-        },
-        {
-          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3101858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时34分]"
-        },
-        {
-          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
-          "url": "https://flash.jin10.com/detail/20260512044813399800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时34分]"
-        },
-        {
-          "title": "A股连续4天百股涨停",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E8%BF%9E%E7%BB%AD4%E5%A4%A9%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时54分]"
-        },
-        {
-          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
-          "url": "https://wallstreetcn.com/livenews/3101797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
-          "url": "https://wallstreetcn.com/livenews/3101831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "大摩：预计本周公布的消费者价格数据将“更加劲爆”",
-          "url": "https://wallstreetcn.com/livenews/3101790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
-          "url": "https://flash.jin10.com/detail/20260512024009408800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
-          "url": "https://flash.jin10.com/detail/20260512065650611800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "A股资产备受基金青睐，“专业买手”连续加仓6个月",
-          "url": "https://wallstreetcn.com/livenews/3101887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "市场消息：美国得州起诉奈飞(NFLX.O)，指控其未经消费者同意监视并收集用户数据。",
-          "url": "https://flash.jin10.com/detail/20260512002407292800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "CORTIS新歌ACAI的MV来了",
-          "url": "https://www.douyin.com/hot/2495749",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "微消费模式兴起 韩国小份食品热卖",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%AE%E6%B6%88%E8%B4%B9%E6%A8%A1%E5%BC%8F%E5%85%B4%E8%B5%B7+%E9%9F%A9%E5%9B%BD%E5%B0%8F%E4%BB%BD%E9%A3%9F%E5%93%81%E7%83%AD%E5%8D%96",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 12时24分]"
+        },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2368275",
@@ -1134,6 +1373,18 @@
           "time_info": "[01时34分 ~ 08时02分]"
         },
         {
+          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
+          "url": "https://www.cls.cn/detail/2368457",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时34分 ~ 12时24分]"
+        },
+        {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
@@ -1145,27 +1396,16 @@
           "time_info": "[01时34分 ~ 05时21分]"
         },
         {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 08时02分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 08时02分]"
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 12时24分]"
         },
         {
           "title": "Hims & Hers Health美股盘后跌9.7%。",
@@ -1204,15 +1444,15 @@
           "time_info": "[05时21分 ~ 06时34分]"
         },
         {
-          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
-          "url": "https://www.cls.cn/detail/2368431",
+          "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
+          "url": "https://www.cls.cn/detail/2368550",
           "source": "财联社热门",
           "ranks": [
-            13
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时34分"
+          "time_info": "12时24分"
         },
         {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
@@ -1273,7 +1513,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
@@ -1322,6 +1562,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时34分]"
+        },
+        {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.37%，报26421点。 恒生科技指数主连夜盘收涨0.53%，报5144点。",
@@ -1381,6 +1632,45 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "瑞银仍预计金价年底达到每盎司5600美元 银价料达到100美元",
+          "url": "https://wallstreetcn.com/livenews/3102015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "莫迪一句话砸落金价？真正元凶另有其人！",
+          "url": "https://flash.jin10.com/detail/20260512120126499800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3101773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1420,19 +1710,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货白银日内涨幅扩大至7%，报85.97美元/盎司。现货黄金价格涨0.35%，报4731.85美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3101773",
-          "source": "华尔街见闻-快讯",
+          "title": "Deepseek分析145斤怎么瘦到100斤",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E5%88%86%E6%9E%90145%E6%96%A4%E6%80%8E%E4%B9%88%E7%98%A6%E5%88%B0100%E6%96%A4&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时34分"
+          "time_info": "12时24分"
         }
       ]
     }
