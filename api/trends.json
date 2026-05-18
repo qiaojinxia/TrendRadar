@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T09:29:31.300299+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-05-18T13:50:27.641869+08:00",
+  "total_titles_processed": 852,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时50分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
@@ -54,24 +54,25 @@
           "time_info": "[01时01分 ~ 09时29分]"
         },
         {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时50分]"
+        },
+        {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
           "url": "https://www.cls.cn/detail/2373254",
           "source": "财联社热门",
           "ranks": [
             11,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时29分]"
-        },
-        {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -350,7 +351,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -399,20 +400,43 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 13时50分]"
         },
         {
           "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
           "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
           "source": "凤凰网",
           "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 13时50分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "13时50分"
         },
         {
           "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
@@ -565,7 +589,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -660,8 +684,255 @@
       ]
     },
     {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2373180",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 09时29分]"
+        },
+        {
+          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
+          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时50分]"
+        },
+        {
+          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
+          "url": "https://www.cls.cn/detail/2373131",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 07时03分]"
+        },
+        {
+          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
+          "url": "https://wallstreetcn.com/articles/3772446",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时50分]"
+        },
+        {
+          "title": "AI全员娘化,豆包变呆瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时50分]"
+        },
+        {
+          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
+          "url": "https://wallstreetcn.com/livenews/3104897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时03分]"
+        },
+        {
+          "title": "博主：中国AI算力产业链正在全面腾飞",
+          "url": "https://www.toutiao.com/trending/7640853095961857599/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 06时00分]"
+        },
+        {
+          "title": "维也纳、希尔顿欢朋等多家知名酒店被曝床单、枕套等未落实一客一换，有哪些健康风险？消费者能要求哪些赔偿？",
+          "url": "https://www.zhihu.com/question/2039043927185912802",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 13时50分]"
+        },
+        {
+          "title": "浦发银行行长谢伟：商业银行应加快构建企业级AI平台和大模型体系",
+          "url": "https://flash.jin10.com/detail/20260518134556474800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-05-18）",
+          "url": "https://flash.jin10.com/detail/20260518090446353800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "商务部等6部门发布关于加力优化离境退税措施扩大入境消费的通知",
+          "url": "https://wallstreetcn.com/livenews/3104979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "A股中际旭创日内成交额超200亿元，现跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20260518133704174800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "商务部等6部门发布关于加力优化离境退税措施扩大入境消费的通知。",
+          "url": "https://flash.jin10.com/detail/20260518090106741800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "上市未“满月”成为A股“新股王”，联讯仪器回应",
+          "url": "https://wallstreetcn.com/livenews/3105103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "腾讯AI设计智能体协作平台Ardot正式开启公测",
+          "url": "https://flash.jin10.com/detail/20260518132411653800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "英伟达正洽谈领投印度AI初创公司Simplismart总额2000万美元的融资。（印度《经济时报》）",
+          "url": "https://wallstreetcn.com/livenews/3104964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "AI预测世界杯西班牙夺冠",
+          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "OpenAI为何造手机",
+          "url": "https://www.toutiao.com/trending/7641048300560338438/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "机构：A股将再起夏季攻势行情",
+          "url": "https://www.toutiao.com/trending/7640642770335547419/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科技 机器人",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -671,8 +942,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 13时50分]"
         },
         {
           "title": "如何看待长鑫科技 2026 年 Q1 净利润狂飙至 330 亿，营收暴增 719%？",
@@ -739,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时03分]"
+        },
+        {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -813,15 +1095,37 @@
           "time_info": "[01时02分 ~ 02时06分]"
         },
         {
+          "title": "机器人有了国家级训练场 这一具身智能应用中试基地揭牌",
+          "url": "https://www.cls.cn/detail/2373468",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "深交所公告，港股通标的证券名单发生调整并自2026年5月18日起生效，调入胜宏科技。",
           "url": "https://wallstreetcn.com/livenews/3104970",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "A股人形机器人概念午后表现活跃，华培动力涨停，三花智控、中大力德、步科股份、卧龙电驱、长盛轴承、浙江荣泰跟涨。",
+          "url": "https://flash.jin10.com/detail/20260518132156883800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "深交所：港股通标的证券名单调整，调入胜宏科技，5月18日起生效。",
@@ -830,166 +1134,92 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "A股PCB概念股午后拉升，广信材料直线拉升20cm涨停，温州宏丰涨超10%，生益科技、赛意信息、奕东电子、兴森科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260518131037650800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "阳光电源、芯联集成等成立新公司 含AI及机器人业务",
+          "url": "https://wallstreetcn.com/livenews/3105086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 13,
+      "keyword_group": "金价",
+      "match_count": 5,
       "titles": [
         {
-          "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2373180",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时29分]"
-        },
-        {
-          "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
-          "url": "https://news.ifeng.com/c/8tCYxqxYOCE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时29分]"
-        },
-        {
-          "title": "中国顶流私募Q1调仓揭秘：重仓AI和半导体 中概核心稳中有调",
-          "url": "https://www.cls.cn/detail/2373131",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时03分]"
-        },
-        {
-          "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
-          "url": "https://wallstreetcn.com/articles/3772446",
+          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
+          "url": "https://wallstreetcn.com/articles/3772448",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时29分]"
-        },
-        {
-          "title": "AI全员娘化,豆包变呆瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354319&amp;topic_name=AI%E5%85%A8%E5%91%98%E5%A8%98%E5%8C%96%2C%E8%B1%86%E5%8C%85%E5%8F%98%E5%91%86%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 09时29分]"
-        },
-        {
-          "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
-          "url": "https://wallstreetcn.com/livenews/3104897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时03分]"
-        },
-        {
-          "title": "博主：中国AI算力产业链正在全面腾飞",
-          "url": "https://www.toutiao.com/trending/7640853095961857599/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 06时00分]"
-        },
-        {
-          "title": "维也纳、希尔顿欢朋等多家知名酒店被曝床单、枕套等未落实一客一换，有哪些健康风险？消费者能要求哪些赔偿？",
-          "url": "https://www.zhihu.com/question/2039043927185912802",
-          "source": "知乎",
-          "ranks": [
-            3
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "13时50分"
         },
         {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-05-18）",
-          "url": "https://flash.jin10.com/detail/20260518090446353800",
+          "title": "高盛：央行要“加码”买黄金了，金价年底看5400",
+          "url": "https://flash.jin10.com/detail/20260518133210893800",
           "source": "金十数据",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "13时50分"
         },
         {
-          "title": "商务部等6部门发布关于加力优化离境退税措施扩大入境消费的通知",
-          "url": "https://wallstreetcn.com/livenews/3104979",
+          "title": "高盛称各国央行料将加大力度购买黄金 预估金价年底可达5400美元",
+          "url": "https://wallstreetcn.com/livenews/3105111",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "13时50分"
         },
         {
-          "title": "商务部等6部门发布关于加力优化离境退税措施扩大入境消费的通知。",
-          "url": "https://flash.jin10.com/detail/20260518090106741800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "英伟达正洽谈领投印度AI初创公司Simplismart总额2000万美元的融资。（印度《经济时报》）",
-          "url": "https://wallstreetcn.com/livenews/3104964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "AI预测世界杯西班牙夺冠",
-          "url": "https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=20&Refer=top",
+          "title": "金价银价大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时29分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3105091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -1040,7 +1270,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         }
@@ -1068,9 +1298,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 13时50分]"
         },
         {
           "title": "伊朗威胁掐断霍尔木兹海峡海底光缆，要对谷歌、微软收“海底买路钱”",
@@ -1079,7 +1309,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         }
@@ -1087,7 +1317,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -1110,8 +1340,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 09时29分]"
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 13时50分]"
+        },
+        {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -1126,7 +1367,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         }
