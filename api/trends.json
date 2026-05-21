@@ -1,11 +1,394 @@
 {
-  "generated_at": "2026-05-21T12:02:30.383985+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-05-21T16:02:47.215700+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
+          "url": "https://flash.jin10.com/detail/20260521113142876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "颠覆AI公司“烧钱”逻辑 Anthropic预计二季度营收将爆炸性增长",
+          "url": "https://flash.jin10.com/detail/20260521052959976800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3106958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时49分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
+        },
+        {
+          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
+          "url": "https://www.zhihu.com/question/2040425345606578251",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
+        },
+        {
+          "title": "面对高油价与消费疲软，美妆品牌e.l.f. Beauty计划下调部分受关税驱动的提价",
+          "url": "https://wallstreetcn.com/livenews/3106956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3106863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
+          "url": "https://wallstreetcn.com/livenews/3106952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
+          "url": "https://www.cls.cn/detail/2377170",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
+          "url": "https://wallstreetcn.com/livenews/3106951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：将招聘更多人AI人才，减少银行家人数。",
+          "url": "https://wallstreetcn.com/livenews/3107123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
+          "url": "https://flash.jin10.com/detail/20260521051358120800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "高盛：百度AI云业务持续强劲 料AI业务年底占比过半",
+          "url": "https://flash.jin10.com/detail/20260521111134104800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
+          "url": "https://wallstreetcn.com/livenews/3106974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "A股跌破4100",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B7%8C%E7%A0%B44100%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
+          "url": "https://wallstreetcn.com/livenews/3106972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "摩根士丹利：AI并购潮呈现“全谱系”发展趋势",
+          "url": "https://flash.jin10.com/detail/20260521032106844800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "数读我国消费增长新动能",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%95%BF%E6%96%B0%E5%8A%A8%E8%83%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
+          "url": "https://flash.jin10.com/detail/20260521030904258800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
+          "url": "https://flash.jin10.com/detail/20260521063630853800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3106852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "杨梅协会会长恳求消费者给果农生路",
+          "url": "https://www.toutiao.com/trending/7641029230679064612/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "据彭博计算，4月外资净流入A股逾2000亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3107106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "AI模型提示欧元区核心通胀预测存在显著上行风险",
+          "url": "https://wallstreetcn.com/livenews/3107246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "A股收盘：三大指数冲高回落均跌超2%，全市场下跌个股超4700只",
+          "url": "https://wallstreetcn.com/livenews/3107245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "A股半导体板块午盘前短线走低，上海合晶跌超10%，东芯股份跌超8%，赛微电子、利扬芯片、大为股份纷纷下挫。",
+          "url": "https://flash.jin10.com/detail/20260521110144764800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "英伟达：（CFO在分析师电话会议上表示）需求正在加速。 预计到这个十年（2021-2030年）末尾，年度AI开支将达到3万亿-4万亿美元。 今年的CPU收入有望达到200亿美元。 相信公司能获得供应来支持增长。 AI行业将研发、投资列为优先事项。",
+          "url": "https://wallstreetcn.com/livenews/3106934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "金十数据整理：A股每日市场要闻回顾（2026-05-21）",
+          "url": "https://flash.jin10.com/detail/20260521151601269800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "谷歌在AI模型推出更有用的广告。",
+          "url": "https://wallstreetcn.com/livenews/3106842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗外交部发言人：美国的威胁不会影响德黑兰的决策。",
@@ -74,6 +457,18 @@
           "time_info": "[01时40分 ~ 01时41分]"
         },
         {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
+        },
+        {
           "title": "美国军方：美国海军陆战队周三登上了一艘悬挂伊朗国旗的商业油轮。",
           "url": "https://flash.jin10.com/detail/20260521010117547800",
           "source": "金十数据",
@@ -83,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "伊朗公布霍尔木兹海峡管辖范围",
+          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "伊朗外交部发言人：我们强调伊朗对霍尔木兹海峡的主权问题。",
@@ -105,17 +511,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040565738411221984",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
@@ -149,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "巴基斯坦总理访华会讨论伊朗问题吗？外交部：支持巴方发挥公正平衡的斡旋作用",
+          "url": "https://flash.jin10.com/detail/20260521152845766800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "【沙特媒体：伊美将在朝觐季结束后举行新一轮谈判】沙特阿拉伯阿拉比亚电视台20日援引消息人士的话报道，伊朗和美国将在5月底伊斯兰教朝觐季结束后于巴基斯坦首都伊斯兰堡举行新一轮谈判。（新华社）",
@@ -234,7 +640,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -305,6 +711,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美媒：美国情报显示伊朗迅速重建军力，若重启轰炸仍构成重大威胁",
+          "url": "https://flash.jin10.com/detail/20260521151839309800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
           "url": "https://wallstreetcn.com/livenews/3106964",
           "source": "华尔街见闻-快讯",
@@ -333,7 +750,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -351,279 +768,8 @@
       ]
     },
     {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "OpenAI最快本周秘密递表，不想让华尔街的钱全流向马斯克？",
-          "url": "https://flash.jin10.com/detail/20260521113142876800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "颠覆AI公司“烧钱”逻辑 Anthropic预计二季度营收将爆炸性增长",
-          "url": "https://flash.jin10.com/detail/20260521052959976800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "亚太盘初，纳指期货跌超0.4%，标普股指期货跌0.3%。 当前（美股盘后），AMD跌1.2%，英伟达跌1.2%，高通跌0.8%，英特尔跌0.7%，C3.ai跌0.7%，美光跌0.5%，闪迪涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3106958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 07时49分]"
-        },
-        {
-          "title": "面对高油价与消费疲软，美妆品牌e.l.f. Beauty计划下调部分受关税驱动的提价",
-          "url": "https://wallstreetcn.com/livenews/3106956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3106863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
-          "url": "https://wallstreetcn.com/livenews/3106952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "贝索斯：太空数据中心短期难落地 无需担心AI泡沫",
-          "url": "https://www.cls.cn/detail/2377170",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "周三（5月20日），美股人工智能（AI）赢家指数涨2.95%，报386.53点。 成分股Astera Labs收涨17.69%，Arm控股涨15.05%，核电股Oklo涨11.99%表现第三、CEG涨7.90%，闪迪涨0.67%表现第九，谷歌A涨0.32%涨幅最小，Lumentum跌2.47%Nebius集团跌2.99%。",
-          "url": "https://wallstreetcn.com/livenews/3106951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "Meta 或将裁员 10% 约 7800 人，另 7000 人转岗奔赴 AI 新主场，如何解读？",
-          "url": "https://www.zhihu.com/question/2040425345606578251",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：将招聘更多人AI人才，减少银行家人数。",
-          "url": "https://wallstreetcn.com/livenews/3107123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "英伟达(NVDA.O)CFO：Anthropic和OpenAI的模型层增长势头尤为强劲。",
-          "url": "https://flash.jin10.com/detail/20260521051358120800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "高盛：百度AI云业务持续强劲 料AI业务年底占比过半",
-          "url": "https://flash.jin10.com/detail/20260521111134104800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
-          "url": "https://wallstreetcn.com/livenews/3106974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
-          "url": "https://wallstreetcn.com/livenews/3106972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "摩根士丹利：AI并购潮呈现“全谱系”发展趋势",
-          "url": "https://flash.jin10.com/detail/20260521032106844800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "据The Information：白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
-          "url": "https://flash.jin10.com/detail/20260521030904258800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "马斯克：最近与AnthropicAI扩展的合作关系表明，SpaceX正在大规模提供人工智能计算服务。",
-          "url": "https://flash.jin10.com/detail/20260521063630853800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
-          "url": "https://wallstreetcn.com/livenews/3106852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "杨梅协会会长恳求消费者给果农生路",
-          "url": "https://www.toutiao.com/trending/7641029230679064612/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "据彭博计算，4月外资净流入A股逾2000亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3107106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "A股半导体板块午盘前短线走低，上海合晶跌超10%，东芯股份跌超8%，赛微电子、利扬芯片、大为股份纷纷下挫。",
-          "url": "https://flash.jin10.com/detail/20260521110144764800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "英伟达：（CFO在分析师电话会议上表示）需求正在加速。 预计到这个十年（2021-2030年）末尾，年度AI开支将达到3万亿-4万亿美元。 今年的CPU收入有望达到200亿美元。 相信公司能获得供应来支持增长。 AI行业将研发、投资列为优先事项。",
-          "url": "https://wallstreetcn.com/livenews/3106934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时12分"
-        },
-        {
-          "title": "谷歌在AI模型推出更有用的广告。",
-          "url": "https://wallstreetcn.com/livenews/3106842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技 机器人",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
@@ -656,8 +802,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 16时02分]"
         },
         {
           "title": "机器人穿上皮肤 正处在爆发前夜",
@@ -685,6 +831,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "韩股涨到“熔断”！三星最后关头避免罢工 韩国科技股集体暴涨",
+          "url": "https://www.cls.cn/detail/2377510",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（5月21日）",
           "url": "https://flash.jin10.com/detail/20260521071811883800",
           "source": "金十数据",
@@ -696,6 +853,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "如何看待当前的恒生科技",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E5%89%8D%E7%9A%84%E6%81%92%E7%94%9F%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "路透调查：三分之一的日本企业正在使用或考虑使用AI机器人。交通运输设备制造商引领日本AI机器人应用热潮。",
           "url": "https://flash.jin10.com/detail/20260521070434459800",
           "source": "金十数据",
@@ -705,6 +873,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
+          "url": "https://www.cls.cn/detail/2377385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
+        },
+        {
+          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
+          "url": "https://www.cls.cn/detail/2377373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
         },
         {
           "title": "标普500指数初步收涨1%，可选消费、科技、原材料、金融、工业、房地产板块至少涨约1%，能源板块跌2.3%。 纳斯达克100指数初步收涨1.6%，成分股中，Arm控股初步收涨15%，核电股CEG涨7.9%，AMD、英特尔、拉姆研究、德康医疗、阿斯麦ADR、迈威尔科技至少涨5.7%，Workday则跌2.1%，Lumentum跌2.5%，沃尔玛跌2.8%，财捷INTU跌3.6%，ADI跌4.2%。 高盛初步收涨5.6%，耐克、波音、SHW、家得宝、亚马逊、摩根大通涨超2%，领跑道指成分股，联合健康跌1.6%，雪佛龙跌2.8%，与沃尔玛表现最差。 半导体指数涨4.5%。",
@@ -729,35 +921,13 @@
           "time_info": "06时12分"
         },
         {
-          "title": "5月21日投资避雷针：4连板人气股公告 不涉及液冷及机器人相关元器件的生产",
-          "url": "https://www.cls.cn/detail/2377385",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "全国首个面向家庭场景的通用机器人在武汉发布：会做饭、洗衣服、叠衣服，武汉家庭可免费申请",
-          "url": "https://www.cls.cn/detail/2377373",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
           "title": "张雪机车5冠背后黑科技曝光",
           "url": "https://www.toutiao.com/trending/7641960121714626089/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -806,13 +976,24 @@
           "time_info": "06时12分"
         },
         {
+          "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
+          "url": "https://www.zhihu.com/question/2040569394959491641",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "国家发展改革委：将完善公平竞争、投融资、促进科技创新、规范经营等方面政策举措",
           "url": "https://wallstreetcn.com/livenews/3107113",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -823,7 +1004,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -867,7 +1048,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -878,7 +1059,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
@@ -886,7 +1067,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -926,11 +1107,12 @@
           "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
         },
         {
           "title": "特朗普，“退了一万亿”",
@@ -939,9 +1121,20 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "16时02分"
         },
         {
           "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
@@ -952,19 +1145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 12时02分]"
-        },
-        {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 16时02分]"
         },
         {
           "title": "特朗普：不要中国学生，那可太冒犯了",
@@ -973,20 +1155,65 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
         },
         {
           "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
           "url": "https://www.cls.cn/detail/2377369",
           "source": "财联社热门",
           "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 16时02分]"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "特朗普称将与赖清德谈对台军售 外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://flash.jin10.com/detail/20260521152819644800",
+          "source": "金十数据",
+          "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "16时02分"
         },
         {
           "title": "特朗普：不认为古巴局势会升级，将很快就石油禁运问题发表声明",
@@ -1000,6 +1227,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普称卸任后不排除去竞选以总理",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8D%B8%E4%BB%BB%E5%90%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8E%BB%E7%AB%9E%E9%80%89%E4%BB%A5%E6%80%BB%E7%90%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普淡化升级对古巴行动的必要性",
           "url": "https://flash.jin10.com/detail/20260521033103701800",
           "source": "金十数据",
@@ -1011,13 +1249,24 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33203925",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
           "title": "特朗普回应中俄元首会晤",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -1179,8 +1428,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时49分 ~ 12时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时49分 ~ 16时02分]"
         },
         {
           "title": "美债收益率至少跌超7个基点，美股盘初显著走低",
@@ -1328,7 +1577,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }
