@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T05:58:17.392177+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-05-29T07:24:30.829465+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国副总统万斯：（谈及伊朗）尚未达成协议，但已非常接近。",
@@ -14,18 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "美国副总统万斯：我们还没有与伊朗达成协议，但已经很接近了。",
-          "url": "https://wallstreetcn.com/livenews/3110960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -58,7 +47,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -83,19 +72,32 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "美国副总统万斯：我们还没有与伊朗达成协议，但已经很接近了。",
+          "url": "https://wallstreetcn.com/livenews/3110960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时24分]"
         },
         {
           "title": "贝森特：放松制裁取决于伊朗在核问题让步程度",
@@ -115,7 +117,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -137,7 +139,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -159,7 +161,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -186,13 +188,24 @@
           "time_info": "03时38分"
         },
         {
+          "title": "美国中央司令部：伊朗国家电视台声称伊朗军队在布什尔附近击落了一架美国飞机为不实消息。事实上没有美国飞机被击落，所有美国空中资产无一损失。",
+          "url": "https://flash.jin10.com/detail/20260529065130382800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "伊媒：伊朗自南部地区向“特定目标”发射导弹",
           "url": "https://wallstreetcn.com/livenews/3110941",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -203,9 +216,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
+          "url": "https://wallstreetcn.com/livenews/3110963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美国财长贝森特：将继续在伊朗采取防御行动，但对伊朗的耐心并非无止境。",
@@ -225,9 +249,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗在谈判中带着诚意。 美国与伊朗正在讨论某些措辞。（记者团播报Pool Report）",
+          "url": "https://wallstreetcn.com/livenews/3110962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "知情人士称伊朗方面尚未同意任何谅解备忘录",
@@ -258,9 +293,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗外交部谴责美国对阿曼的威胁",
+          "url": "https://flash.jin10.com/detail/20260529061116002800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "伊朗国家媒体：Bushehr听到爆炸声。",
@@ -269,7 +315,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -283,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
+          "url": "https://flash.jin10.com/detail/20260529060346329800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美或至少3年才能补齐在伊朗消耗弹药",
@@ -313,7 +370,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -321,7 +378,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 20,
+      "match_count": 27,
       "titles": [
         {
           "title": "多元业态融合 拓展夏季消费新空间",
@@ -331,8 +388,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "欧盟严阵以待，将与Anthropic就获取Mythos AI模型展开谈判",
@@ -373,11 +430,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -388,8 +446,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "A股进入2025年年度分红密集实施期",
+          "url": "https://wallstreetcn.com/livenews/3110979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -401,8 +470,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
@@ -413,8 +482,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
@@ -424,8 +493,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
@@ -436,8 +505,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
@@ -447,8 +516,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -458,8 +527,30 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "广东90后女生用AI接了400万大单",
@@ -474,37 +565,60 @@
           "time_info": "[00时40分 ~ 05时58分]"
         },
         {
-          "title": "小说AI直出?8u评论区吵翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
-        },
-        {
-          "title": "野生vs养殖,AI大战鲤鱼图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
-        },
-        {
           "title": "美国消费者保护监管机构召回全国所有员工至华盛顿总部",
           "url": "https://wallstreetcn.com/livenews/3110951",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时24分]"
+        },
+        {
+          "title": "证券日报：A股券商板块估值修复潜力凸显",
+          "url": "https://wallstreetcn.com/livenews/3110978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "07时24分"
+        },
+        {
+          "title": "AI算力需求增加，多家公司加速布局高端电子电路铜箔领域",
+          "url": "https://wallstreetcn.com/livenews/3110977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
+          "url": "https://wallstreetcn.com/livenews/3110974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "美光、SK海力士等入局！Anthropic新一轮融资后估值达9650亿美元，超越OpenAI",
@@ -529,6 +643,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "A股进入2025年年度分红密集实施期",
+          "url": "https://flash.jin10.com/detail/20260529065124908800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
           "url": "https://flash.jin10.com/detail/20260529023507958800",
           "source": "金十数据",
@@ -549,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "A股集体大涨原因",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8%E5%8E%9F%E5%9B%A0&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         }
       ]
     },
@@ -564,8 +700,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
+          "url": "https://wallstreetcn.com/articles/3773378",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "特朗普的两张稀土王牌，先打上“内战”了",
@@ -575,20 +724,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
-        },
-        {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "特朗普调侃赫格塞思：他热衷战争",
@@ -598,8 +735,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "据福克斯新闻记者：美国消息人士向白宫记者团证实，美国和伊朗已达成一项初步协议，但该协议尚待特朗普总统批准。",
@@ -674,7 +811,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -696,7 +833,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -726,8 +863,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "大基金出手！沪硅产业、德邦科技等遭减持",
@@ -738,8 +875,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "【焦点复盘】沪指午后深V回升小幅收涨，科技权重股全线发力，“易中天”三巨头齐创历史新高",
@@ -750,8 +887,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "最亮的星致敬中国科技工作者",
@@ -761,8 +898,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         },
         {
           "title": "戴尔科技美股盘后涨幅扩大至27%。",
@@ -771,7 +908,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -782,7 +919,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -793,7 +930,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -804,7 +941,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -815,7 +952,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -823,7 +960,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -843,9 +980,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时24分]"
         },
         {
           "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股盘中）",
@@ -867,8 +1004,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
+        },
+        {
+          "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
+          "url": "https://wallstreetcn.com/livenews/3110972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
         },
         {
           "title": "惠与（HPE）美股盘后涨9%。",
@@ -877,7 +1025,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -899,7 +1047,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -910,7 +1058,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -918,7 +1066,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
@@ -943,13 +1091,24 @@
           "time_info": "00时40分"
         },
         {
+          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
+          "url": "https://wallstreetcn.com/livenews/3110968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
           "title": "阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片",
           "url": "https://wallstreetcn.com/livenews/3110939",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         }
@@ -964,11 +1123,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 07时24分]"
         }
       ]
     },
