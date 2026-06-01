@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-02T06:13:19.791587+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-06-02T07:52:14.494652+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
+          "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
           "url": "https://news.ifeng.com/c/8taubWZltKg",
@@ -25,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -47,9 +58,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "为保美伊和谈，特朗普爆粗痛骂内塔尼亚胡！",
+          "url": "https://flash.jin10.com/detail/20260602071639017800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "特朗普：协议有望在未来一周内达成 今天只是小插曲",
@@ -58,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -67,11 +89,35 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
+        },
+        {
+          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
+          "url": "https://wallstreetcn.com/articles/3773555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "time_info": "[06时13分 ~ 07时52分]"
+        },
+        {
+          "title": "美媒称特朗普斥以色列总理疯了",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%A5%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E7%96%AF%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "据ABC新闻：美国总统特朗普称，他认为在“未来一周内”，他将与伊朗达成一项协议，以延长停火期限并重新开放霍尔木兹海峡。",
@@ -80,7 +126,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -102,7 +148,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -127,17 +173,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
         },
         {
           "title": "特朗普：与伊朗的谈判正“快速推进”",
@@ -250,6 +285,17 @@
           "time_info": "02时42分"
         },
         {
+          "title": "特朗普用F开头词汇怒斥内塔尼亚胡",
+          "url": "https://flash.jin10.com/detail/20260602062637245800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "以色列媒体：真主党告诉特朗普“他们将同意停火”",
           "url": "https://wallstreetcn.com/livenews/3112585",
           "source": "华尔街见闻-快讯",
@@ -278,9 +324,42 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国财经媒体Semafor：联合太平洋公司高管私下否认曾就15%股权与特朗普进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260602061754781800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "【特朗普称美伊或于一周内达成协议 延长停火并重开霍尔木兹海峡】美国总统特朗普表示，他预计将在“未来一周内”与伊朗达成协议，延长当前停火安排并重新开放霍尔木兹海峡。特朗普称，相关谈判进展顺利，并对达成协议表示乐观。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3112663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "美国总统特朗普：我认为会在未来一周发生（达成）伊朗协议。 伊朗相关的磋商“看起来不错，看起来很好”。 和平协议可能会比取得军事胜利更好。 在谅解备忘录（MoU）上还需要再敲定几点，将在下周完成。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3112661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "以总理告诉特朗普：以军将继续按计划在黎南部开展行动",
@@ -289,7 +368,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -297,29 +376,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3773592",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
           "url": "https://www.cls.cn/detail/2387611",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
@@ -330,19 +411,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
-          "url": "https://flash.jin10.com/detail/20260602054738014800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
@@ -352,8 +422,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
@@ -363,8 +433,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260602054738014800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "伊朗暂停通过中间人同美国对话",
@@ -372,22 +453,24 @@
           "source": "微博",
           "ranks": [
             20,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "伊朗计划彻底封锁霍尔木兹海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "伊朗：彻底封锁霍尔木兹海峡",
@@ -398,8 +481,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "伊朗谈判团队暂停通过中间人同美国对话",
@@ -410,8 +493,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
+        },
+        {
+          "title": "伊朗：美对以违反停火协议负直接责任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%AF%B9%E4%BB%A5%E8%BF%9D%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E8%B4%9F%E7%9B%B4%E6%8E%A5%E8%B4%A3%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "伊朗总统：要么强硬前行，要么牺牲",
@@ -475,7 +569,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -491,13 +585,24 @@
           "time_info": "02时42分"
         },
         {
+          "title": "伊朗：必要情况下“动用一切能力捍卫自身利益”",
+          "url": "https://flash.jin10.com/detail/20260602065235445800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "【伊朗伊斯兰革命卫队称对美以船只实施打击】当地时间6月1日晚，伊朗伊斯兰革命卫队宣布，在美国军队对伊朗位于阿曼湾的船只发动侵略性袭击后，伊朗伊斯兰革命卫队海军采取报复行动，使用巡航导弹击中了属于美以势力的“萨里斯卡”（Sariska）号船只。伊朗伊斯兰革命卫队海军强调，任何美国军队在该地区的任何侵略行为都将遭到坚决回应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3112641",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -530,7 +635,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -541,7 +646,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -549,7 +654,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
@@ -559,8 +664,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
@@ -574,16 +679,39 @@
           "time_info": "[02时41分 ~ 06时13分]"
         },
         {
+          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
           "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
           "url": "https://wallstreetcn.com/articles/3773561",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
+        },
+        {
+          "title": "AI软件指数涨超8.7%，MongoDB涨超20.3%，HubSpot涨超18.8%",
+          "url": "https://wallstreetcn.com/livenews/3112692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "AI坑健身小白买20kg哑铃",
@@ -593,8 +721,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -602,11 +730,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "4家A股公司，撤销风险警示",
@@ -614,11 +743,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "亚马逊已停止跟踪员工 Token 消耗榜单，你所在公司「为了用 AI 而用 AI」的情况严重吗？",
@@ -626,11 +756,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "为什么说AI下一个爆发点在智能终端",
@@ -650,9 +781,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "3家港股AI企业正在“回A”辅导，“A+H”持续扩容",
+          "url": "https://wallstreetcn.com/livenews/3112679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "Alphabet(GOOG.O)：AI需求已超出公司现有供应能力。公司正面临来自企业和消费者对人工智能解决方案的强劲需求。",
@@ -661,7 +803,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -672,9 +814,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "端侧AI驱动下一轮增长，国产存储芯片迎新机遇",
+          "url": "https://wallstreetcn.com/livenews/3112670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "Alphabet(GOOG.O)募资以扩建AI基础设施及算力。",
@@ -683,7 +836,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -699,13 +852,24 @@
           "time_info": "02时42分"
         },
         {
+          "title": "Anthropic抢跑IPO的先发优势将扩大其对OpenAI的领先地位",
+          "url": "https://wallstreetcn.com/livenews/3112665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
           "title": "黄仁勋和刘强东都反对借AI名义裁员",
           "url": "https://www.toutiao.com/trending/7646333345659358729/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -713,7 +877,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
@@ -723,8 +887,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "73天！宇树科技科创板IPO过会 A股人形机器人第一股将至",
@@ -734,8 +898,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "黄仁勋联手宇树打造1.8米机器人",
@@ -745,30 +909,65 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "黄仁勋联手宇树打造1.8米机器人",
           "url": "https://www.toutiao.com/trending/7645827395598057508/",
           "source": "今日头条",
           "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
+        },
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "长鑫科技",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "周一（6月1日），美股信息科技指数涨3.20%，报450.89点，继续创收盘历史新高。 成分股中，MongoDB涨20.36%，Nebius集团涨14.46%，发行垃圾债融资的CoreWeave涨13.96%，Datadog涨12.19%，Cloudflare涨11.99%，戴尔科技涨10.70%，铿腾电子涨10.46%表现第七，Credo则收跌4.2%跌幅第四大，英特尔跌4.67%，Astera Lab跌6.64%，高通跌8.78%。",
+          "url": "https://wallstreetcn.com/livenews/3112689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "宇树科技科创板IPO过会，从受理到上会用时仅73天",
           "url": "https://m.thepaper.cn/newsDetail_forward_33280884",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
         },
         {
           "title": "日企黑科技:塑料变石油",
@@ -778,8 +977,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 06时13分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 07时52分]"
+        },
+        {
+          "title": "宇树科技科创板IPO过会",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%A7%91%E5%88%9B%E6%9D%BFIPO%E8%BF%87%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
         },
         {
           "title": "宇树科技体验馆亚洲首店来了",
@@ -799,7 +1009,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -810,9 +1020,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "微芯科技因数据中心业务营收利好消息股价上涨",
+          "url": "https://wallstreetcn.com/livenews/3112669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.47%，报6683.46点。 热门中概股里，盛大科技初步收涨25%，金山云涨8.6%，小马智行涨7.3%，蔚来涨6.8%，拼多多涨3.6%，阿里巴巴涨1%，理想跌3.1%。 ETF中，中概互联网指数ETF（KWEB）收涨2.36%，中国科技指数ETF（CQQQ）收跌0.93%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.60%，XtrackersHarvest中证50（ASHS）收跌1.09%，德银嘉实沪深300指数ETF（ASHR）收跌1.36%。",
@@ -821,7 +1042,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -829,7 +1050,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
@@ -843,13 +1064,35 @@
           "time_info": "[02时41分 ~ 06时13分]"
         },
         {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
+          "title": "美股收盘：芯片股多涨 英伟达涨超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时51分 ~ 07时52分]"
+        },
+        {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
           "url": "https://wallstreetcn.com/livenews/3112654",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -860,9 +1103,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美股存储芯片指数收涨约3.5%，成分股美光涨超6.6%",
+          "url": "https://wallstreetcn.com/livenews/3112686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
@@ -871,7 +1125,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -882,7 +1136,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -893,7 +1147,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -901,8 +1155,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "周一（6月1日），美股超大规模云服务商（Hyperscalers）跌0.02%，报105.79点，尾盘刷新盘中历史最高位至106.56点。 成分股亚马逊跌3.47%，谷歌A跌1.04%，微软涨2.28%，Meta跌5.07%，甲骨文涨9.91%。",
+          "url": "https://wallstreetcn.com/livenews/3112690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
           "url": "https://flash.jin10.com/detail/20260602050830269800",
@@ -910,7 +1175,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -921,7 +1186,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -936,11 +1201,12 @@
           "url": "https://wallstreetcn.com/livenews/3112662",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时52分]"
         }
       ]
     }
