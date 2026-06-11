@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T10:02:30.565886+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-06-11T15:15:42.340134+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 75,
+      "match_count": 81,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
         },
         {
           "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -96,6 +96,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "市场消息：伊朗德黑兰市传出爆炸声，防空系统启动。",
           "url": "https://flash.jin10.com/detail/20260611052008104800",
           "source": "金十数据",
@@ -124,7 +135,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -214,9 +225,33 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
+        },
+        {
+          "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2396606",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗西部洛雷斯坦省部分地区听到的战斗机声音与友军飞行有关。",
@@ -247,7 +282,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -280,7 +315,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -305,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2396606",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "伊朗最高联合军事指挥部：美国此前关于船只通过霍尔木兹海峡的说法是虚假的。",
@@ -357,7 +381,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -382,6 +406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "一名印度官员表示，三名印度海员在一艘因涉嫌违反美国对伊朗封锁而遭美军袭击的油轮上遇难。",
+          "url": "https://flash.jin10.com/detail/20260611145849399800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "伊朗Kangan港口传来多次爆炸声。（伊朗媒体MEHR）",
@@ -428,6 +463,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "伊朗代表：美国军事恐吓只会适得其反",
+          "url": "https://wallstreetcn.com/livenews/3117950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "伊朗最高联合军事指挥部：任何试图通过的船只将成为目标。",
           "url": "https://flash.jin10.com/detail/20260611064502429800",
           "source": "金十数据",
@@ -437,17 +483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "美军袭击致伊朗逾2万人供水中断",
@@ -599,9 +634,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "据伊朗学生通讯社，在美国发动袭击后，伊朗也袭击了在巴林的美国第五舰队。",
+          "url": "https://wallstreetcn.com/livenews/3117940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "伊朗更多地区传出爆炸声",
@@ -610,9 +656,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "科威特民航局：因伊朗袭击而暂停的航班已恢复。",
+          "url": "https://wallstreetcn.com/livenews/3117939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "WTI原油期货高开大约3%。 周四亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.5%。 据新华社报道，美军于美东时间10日17时15分开始对伊朗境内多个目标实施“自卫性”打击。",
@@ -624,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "知情人士：卡塔尔谈判代表于周四离开德黑兰，与伊朗官员的谈判持续到周四凌晨。",
+          "url": "https://flash.jin10.com/detail/20260611144613339800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "伊朗媒体IRNA：Bandar Abbas周边的机场和空军基地传出若干次爆炸声。",
@@ -698,7 +766,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -742,7 +810,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -775,7 +843,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -808,7 +876,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -838,7 +906,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -849,8 +917,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时02分]"
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 15时15分]"
         },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
@@ -883,9 +951,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "于娜看到已故老公AI形象崩溃大哭",
+          "url": "https://www.toutiao.com/trending/7649760127175904777/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 15时15分]"
         },
         {
           "title": "A股宽基指数样本即将大调整，近9000亿元规模指数基金同步调仓",
@@ -897,17 +978,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -935,16 +1005,16 @@
           "time_info": "[02时32分 ~ 10时02分]"
         },
         {
-          "title": "于娜看到已故老公AI形象崩溃大哭",
-          "url": "https://www.toutiao.com/trending/7649760127175904777/",
-          "source": "今日头条",
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
           "ranks": [
-            13,
-            19
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时02分]"
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
         },
         {
           "title": "世界杯开幕在即 消费品公司迎来赛事营销热潮",
@@ -977,9 +1047,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "马斯克旗下xAI联合创始人Babuschkin自立门户，宣布与特斯拉旧部成立新公司River AI，主攻颠覆性“全个性化AI智能体”。",
@@ -993,6 +1074,28 @@
           "time_info": "05时26分"
         },
         {
+          "title": "A股又遇 “世界杯魔咒”？多家券商亮观点：短期情绪镜子",
+          "url": "https://www.cls.cn/detail/2396928",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "理想汽车：某公司利用AI工具批量生成涉理想汽车不实内容",
+          "url": "https://wallstreetcn.com/livenews/3117956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
           "url": "https://wallstreetcn.com/livenews/3117653",
           "source": "华尔街见闻-快讯",
@@ -1004,13 +1107,24 @@
           "time_info": "02时33分"
         },
         {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "A股氦气概念连日走强，和远气体涨停，杭氧股份涨超5%，水发燃气、凯美特气、广钢气体等个股跟涨。",
           "url": "https://flash.jin10.com/detail/20260611093005169800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1021,9 +1135,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "海信“当裁判” 华帝送青瓷：A股公司掘金世界杯",
+          "url": "https://www.cls.cn/detail/2396985",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
@@ -1043,7 +1168,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1054,7 +1179,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1087,9 +1212,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指跌0.5%，深成指跌1.35%。游戏传媒、软件服务、泛消费、工程机械等方向跌幅居前，沪深京三市下跌个股超4300只。",
+          "url": "https://wallstreetcn.com/livenews/3117948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "配套20余场重点活动 2026消费名品全国行启动",
@@ -1098,7 +1245,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1123,12 +1270,284 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "A股锂矿股午后冲高，永杉锂业触达涨停，国城矿业、盛新锂能双双涨超7%，天华新能、融捷股份、西藏矿业、永兴材料、赣锋锂业、天齐锂业等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3117932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "A股超4500只股下跌",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%B6%854500%E5%8F%AA%E8%82%A1%E4%B8%8B%E8%B7%8C&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技 机器人",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 07时09分]"
+        },
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
+        },
+        {
+          "title": "A股半导体板块盘初拉升，炬光科技20cm涨停，江丰电子涨超12%，杰华特、富创精密、中微半导、汇成股份、帝奥微等个股跟涨。工业和信息化部日前印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》，提出加强高端光电芯片和器件研发，开展光电混合组网技术试验。",
+          "url": "https://flash.jin10.com/detail/20260611093320339800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股MLCC概念低开高走，风华高科逼近涨停，昀冢科技涨超10%，三环集团、火炬电子、国瓷材料、斯迪克跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3117839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "韩国投资者持续加码中国硬科技，增持资产曝光",
+          "url": "https://www.cls.cn/detail/2396870",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "A股半导体产业链震荡拉升，炬光科技、康强电子涨停，江丰电子、杰华特、中微半导、欧莱新材涨超10%，晶丰明源、和林微纳、捷捷微电涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3117836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 07时09分]"
+        },
+        {
+          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时26分]"
+        },
+        {
+          "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
+          "url": "https://www.cls.cn/detail/2396520",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时09分 ~ 10时02分]"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "恒指、恒生科技指数转涨。",
+          "url": "https://wallstreetcn.com/livenews/3117831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "券商调研青睐硬科技赛道，关注景气周期与全球化布局",
+          "url": "https://wallstreetcn.com/livenews/3117748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "恒指低开0.11%，报24380.02点；恒生科技指数跌0.20%。MINIMAX跌超4%，小鹏汽车、地平线机器人等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3117820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "A股开盘，沪指开跌0.34%，深证成指开跌0.43%，创业板指开跌0.40%；油服工程、化工、工业气体、养殖业等板块走强，MLCC、贵金属、人形机器人等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260611092542985800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "标普500指数的11个板块普跌，工业板块收跌3.41%，原材料、信息技术/科技、可选消费板块至多跌2.45%，电信板块跌1.65%，能源板块则收涨1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3117689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "香港恒生指数6月11日（周四）开盘下跌27.94点，跌幅0.11%，报24380.02点；<br/>香港恒生科技指数6月11日（周四）开盘下跌9.37点，跌幅0.2%，报4715.42点；<br/>国企指数6月11日（周四）开盘下跌6.08点，跌幅0.07%，报8312.65点；<br/>红筹指数6月11日（周四）开盘下跌10.63点，跌幅0.25%，报4283.34点。",
+          "url": "https://flash.jin10.com/detail/20260611092150557800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3117687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "A股光刻胶板块震荡走高，雅克科技触及涨停，南大光电、聚合材料、彤程新材、百合花跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3117935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "港股开盘，恒生指数开跌0.11%，恒生科技指数开跌0.20%；石油、锂电池概念走强，明星科网股局部活跃，黄金、新能源车企股走低；中国海洋石油(00883.HK)开涨2.60%。",
+          "url": "https://flash.jin10.com/detail/20260611092144885800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.28%，报6280.80点。 热门中概股里，小鹏初步收跌3.5%，阿里跌3.3%，百度跌2.8%，日月光半导体跌2.4%，腾讯涨2.6%，网易涨4.1%。 ETF中，KWEB初步收涨1.1%。 ETF中，中国科技指数ETF（CQQQ）收跌0.77%，中概互联网指数ETF（KWEB）收涨0.92%。 MSCI新兴市场ex中国ETF（EMXC）收跌2.28%，德银嘉实沪深300指数ETF（ASHR）收跌0.83%，XtrackersHarvest中证50（ASHS）收跌0.34%，",
+          "url": "https://wallstreetcn.com/livenews/3117683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "投资者继续抛售科技股，纳指科技股指数收跌将近2.5%，半导体指数跌约3.6%",
+          "url": "https://wallstreetcn.com/livenews/3117681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -1148,22 +1567,35 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 10时02分]"
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 15时15分]"
         },
         {
           "title": "特朗普公开了一个秘密，全世界都有点懵",
           "url": "https://news.ifeng.com/c/8tos3hBXZVW",
           "source": "凤凰网",
           "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
+        },
+        {
+          "title": "美媒：如今特朗普最头痛的是这件事",
+          "url": "https://news.ifeng.com/c/8trayef73Wv",
+          "source": "凤凰网",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时02分"
+          "time_info": "15时15分"
         },
         {
           "title": "特朗普速胜迷思撞现实之墙，三大战场为何全卡关？",
@@ -1172,9 +1604,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
+          "url": "https://www.cls.cn/detail/2396641",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 15时15分]"
         },
         {
           "title": "特朗普称对伊朗作出强硬回应，伊方说将坚决回击",
@@ -1224,17 +1668,6 @@
           "time_info": "02时33分"
         },
         {
-          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
-          "url": "https://www.cls.cn/detail/2396641",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
           "title": "美军连续两晚轰炸伊朗！特朗普考虑“规模大、时间短”行动施压",
           "url": "https://flash.jin10.com/detail/20260611065236534800",
           "source": "金十数据",
@@ -1274,7 +1707,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1285,7 +1718,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1323,6 +1756,17 @@
           "time_info": "05时26分"
         },
         {
+          "title": "航运情报公司Kpler：自五月初以来，约9600万桶非伊朗原油通过霍尔木兹海峡或阿曼湾出口。包括仍在装货的货物在内，总出口量超过1亿桶，大致符合特朗普声称在此期间有超过1亿桶原油进入全球市场的说法。",
+          "url": "https://flash.jin10.com/detail/20260611144043283800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3117679",
           "source": "华尔街见闻-快讯",
@@ -1354,223 +1798,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技 机器人",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3774176",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时09分]"
-        },
-        {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股半导体板块盘初拉升，炬光科技20cm涨停，江丰电子涨超12%，杰华特、富创精密、中微半导、汇成股份、帝奥微等个股跟涨。工业和信息化部日前印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》，提出加强高端光电芯片和器件研发，开展光电混合组网技术试验。",
-          "url": "https://flash.jin10.com/detail/20260611093320339800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股MLCC概念低开高走，风华高科逼近涨停，昀冢科技涨超10%，三环集团、火炬电子、国瓷材料、斯迪克跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3117839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "A股半导体产业链震荡拉升，炬光科技、康强电子涨停，江丰电子、杰华特、中微半导、欧莱新材涨超10%，晶丰明源、和林微纳、捷捷微电涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3117836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时09分]"
-        },
-        {
-          "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时32分 ~ 05时26分]"
-        },
-        {
-          "title": "英伟达、亚马逊等巨头参投 德国机器人公司Neura获最高14亿美元融资",
-          "url": "https://www.cls.cn/detail/2396520",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时09分 ~ 10时02分]"
-        },
-        {
-          "title": "恒指、恒生科技指数转涨。",
-          "url": "https://wallstreetcn.com/livenews/3117831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "券商调研青睐硬科技赛道，关注景气周期与全球化布局",
-          "url": "https://wallstreetcn.com/livenews/3117748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "恒指低开0.11%，报24380.02点；恒生科技指数跌0.20%。MINIMAX跌超4%，小鹏汽车、地平线机器人等跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3117820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "A股开盘，沪指开跌0.34%，深证成指开跌0.43%，创业板指开跌0.40%；油服工程、化工、工业气体、养殖业等板块走强，MLCC、贵金属、人形机器人等板块跌幅居前。",
-          "url": "https://flash.jin10.com/detail/20260611092542985800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "标普500指数的11个板块普跌，工业板块收跌3.41%，原材料、信息技术/科技、可选消费板块至多跌2.45%，电信板块跌1.65%，能源板块则收涨1.46%。",
-          "url": "https://wallstreetcn.com/livenews/3117689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "香港恒生指数6月11日（周四）开盘下跌27.94点，跌幅0.11%，报24380.02点；<br/>香港恒生科技指数6月11日（周四）开盘下跌9.37点，跌幅0.2%，报4715.42点；<br/>国企指数6月11日（周四）开盘下跌6.08点，跌幅0.07%，报8312.65点；<br/>红筹指数6月11日（周四）开盘下跌10.63点，跌幅0.25%，报4283.34点。",
-          "url": "https://flash.jin10.com/detail/20260611092150557800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "周三（6月10日），美股行业ETF涨跌各异，全球航空业ETF收跌4.59%，半导体ETF跌3.40%，全球科技股指数ETF、科技行业ETF、可选消费ETF、生物科技指数ETF、网络股指数ETF至多跌2.29%，银行业ETF涨0.28%，能源业ETF涨1.50%。",
-          "url": "https://wallstreetcn.com/livenews/3117687",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "港股开盘，恒生指数开跌0.11%，恒生科技指数开跌0.20%；石油、锂电池概念走强，明星科网股局部活跃，黄金、新能源车企股走低；中国海洋石油(00883.HK)开涨2.60%。",
-          "url": "https://flash.jin10.com/detail/20260611092144885800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌0.28%，报6280.80点。 热门中概股里，小鹏初步收跌3.5%，阿里跌3.3%，百度跌2.8%，日月光半导体跌2.4%，腾讯涨2.6%，网易涨4.1%。 ETF中，KWEB初步收涨1.1%。 ETF中，中国科技指数ETF（CQQQ）收跌0.77%，中概互联网指数ETF（KWEB）收涨0.92%。 MSCI新兴市场ex中国ETF（EMXC）收跌2.28%，德银嘉实沪深300指数ETF（ASHR）收跌0.83%，XtrackersHarvest中证50（ASHS）收跌0.34%，",
-          "url": "https://wallstreetcn.com/livenews/3117683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
-        },
-        {
-          "title": "投资者继续抛售科技股，纳指科技股指数收跌将近2.5%，半导体指数跌约3.6%",
-          "url": "https://wallstreetcn.com/livenews/3117681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时26分"
         }
       ]
     },
@@ -1607,7 +1834,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
         },
@@ -1643,6 +1870,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 07时09分]"
+        },
+        {
+          "title": "花旗继续唱空金价",
+          "url": "https://www.douyin.com/hot/2529361",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "金价抹去今年全部涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
@@ -1693,58 +1983,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 07时09分]"
-        },
-        {
-          "title": "花旗继续唱空金价",
-          "url": "https://www.douyin.com/hot/2529361",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "金价抹去今年全部涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时02分"
         }
       ]
     },
