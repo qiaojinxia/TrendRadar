@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T03:20:25.259114+08:00",
-  "total_titles_processed": 432,
+  "generated_at": "2026-06-12T05:36:28.190416+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗方面尚未给出最终回应。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗外交部：尚未就伊美协议达成最终结论",
+          "url": "https://flash.jin10.com/detail/20260612045546518800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "知情人士：伊朗尚未批准伊美协议文本",
@@ -58,9 +69,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗锡里克地区海岸附近传出爆炸声，原因及来源尚不明确。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3118412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：与伊朗外交部长进行了通话。",
@@ -74,6 +96,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗外交部发言人：一旦我们达成结论，认为谅解备忘录的文本能够保障伊朗人民的利益，我们就会予以公布。",
+          "url": "https://flash.jin10.com/detail/20260612045132675800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：错误的战略和冲动的决定将使整个局势朝着更坏的方向重置，引爆能源基础设施和市场，并制造一个将深陷多年、无休止的泥潭。你们将会看到一个截然不同的伊朗。",
           "url": "https://flash.jin10.com/detail/20260611233704905800",
           "source": "金十数据",
@@ -85,16 +118,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "美军称再次对伊朗目标实施“自卫性”打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355301",
-          "source": "澎湃新闻",
+          "title": "伊朗外交部：海峡目前仍然关闭",
+          "url": "https://flash.jin10.com/detail/20260612044814664800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            14
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
@@ -102,11 +134,25 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "美军称再次对伊朗目标实施“自卫性”打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355301",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "伊朗武装力量进入最高战备状态",
@@ -114,11 +160,68 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            23
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 05时36分]"
+        },
+        {
+          "title": "伊朗：使用12枚导弹摧毁美军大量战机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BD%BF%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 05时36分]"
+        },
+        {
+          "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
+          "url": "https://flash.jin10.com/detail/20260612043923940800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "伊朗外交部发言人：有关协议的事宜均为猜测，尚未达成任何最终决定。",
+          "url": "https://flash.jin10.com/detail/20260612043835445800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "伊朗外交部发言人：由于美国的行动，霍尔木兹海峡的局势变得不那么安全。",
+          "url": "https://flash.jin10.com/detail/20260612043722328800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "消息人士：伊朗谈判团队未在主要问题上对美让步",
@@ -132,26 +235,15 @@
           "time_info": "00时08分"
         },
         {
-          "title": "伊朗：使用12枚导弹摧毁美军大量战机",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BD%BF%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "伊朗外交部发言人：伊朗尚未就协议作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260612043654563800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
-          "url": "https://www.cls.cn/detail/2397642",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "05时36分"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：消息人士称，从德黑兰返回的卡塔尔代表团已向美方转交伊朗对最终协议草案的批准意见。",
@@ -160,7 +252,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -176,13 +268,46 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗外交部“辟谣”：尚未就伊美协议达成最终结论，霍尔木兹海峡目前仍关闭",
+          "url": "https://wallstreetcn.com/livenews/3118401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "伊朗外交部发言人： 谈判的形势从一开始对我们就是明确的，大部分文本已经敲定，但美国人不断改变自己的立场。 伊朗已经证明，在划定的红线问题上绝不容忍迁就。",
+          "url": "https://flash.jin10.com/detail/20260612042915962800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "伊朗外交部发言人：卡塔尔和巴基斯坦作为调解方正在积极行动，但美国的行为影响了外交进程。",
+          "url": "https://flash.jin10.com/detail/20260612042811638800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "伊媒称伊朗未批准美伊谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3118355",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -193,9 +318,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "以色列：美国与伊朗的MoU不包含我方",
+          "url": "https://wallstreetcn.com/livenews/3118396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "伊朗红新月会：成员在全国范围内动员，因敌人威胁将继续对伊朗进行空袭。",
@@ -207,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台报道，消息人士称，根据美国与伊朗之间的框架协议草案，各方将承诺立即停止进攻性军事行动。协议规定，在实施期间不得进行军事打击。违规行为应通过调解人协调机制解决。",
+          "url": "https://flash.jin10.com/detail/20260612041624500800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "伊朗武装力量进入最高战备状态",
@@ -237,7 +384,302 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "美媒：特朗普不满对伊打击“反响冷淡” 认为伊朗和媒体都没当回事",
+          "url": "https://flash.jin10.com/detail/20260611233949311800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
+          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "市场消息：卡塔尔埃米尔与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260612030527728800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普称取消打击伊朗行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普称伊朗各方均已批准美伊协议",
+          "url": "https://flash.jin10.com/detail/20260612042328842800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容",
+          "url": "https://wallstreetcn.com/livenews/3118398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
+          "url": "https://flash.jin10.com/detail/20260612042246303800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普结束白宫讲话。",
+          "url": "https://flash.jin10.com/detail/20260612042139765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
+          "url": "https://wallstreetcn.com/livenews/3118352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "伊媒嘲讽特朗普再次TACO",
+          "url": "https://flash.jin10.com/detail/20260612024640276800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "美国总统特朗普：考虑对肥料市场提供某种形式的帮助。",
+          "url": "https://flash.jin10.com/detail/20260612041838711800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普提名原SEC主席为美国国家情报总监",
+          "url": "https://wallstreetcn.com/livenews/3118350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "【特朗普称伊朗各方均已批准美伊协议】美国总统特朗普谈及美伊协议称，据他了解，伊朗最高领袖已同意该协议，伊朗各方均已批准该协议。他还表示，这是一份非常有力、非常详尽的谅解备忘录。特朗普还称，伊朗将不会拥有核武器。特朗普表示，一旦签署谅解备忘录，霍尔木兹海峡将立即开放。他还称，哈尔克岛行动不在考虑之列。 此前，一名接近伊朗谈判团队的知情人士称，伊朗“尚未批准任何与美国达成的初步谅解备忘录文本”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3118394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3118348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普表示相信伊朗最高领袖已批准美伊协议",
+          "url": "https://wallstreetcn.com/livenews/3118393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "以色列：特朗普承诺伊朗将限制导弹生产及停止地区支持",
+          "url": "https://flash.jin10.com/detail/20260612041456892800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：普尔特将短暂担任国家情报总监。",
+          "url": "https://flash.jin10.com/detail/20260612041158684800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：我们在这场对抗伊朗的战争中取得了军事胜利。",
+          "url": "https://flash.jin10.com/detail/20260612040934547800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人有机会重建他们的国家，伊朗已被严重摧毁。",
+          "url": "https://flash.jin10.com/detail/20260612040929676800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "分析人士：称特朗普声明并未改变局势",
+          "url": "https://flash.jin10.com/detail/20260612023118594800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
+          "url": "https://wallstreetcn.com/livenews/3118342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
+          "url": "https://wallstreetcn.com/livenews/3118340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普：取消霍尔木兹海峡封锁是伊朗协议的一部分",
+          "url": "https://wallstreetcn.com/livenews/3118386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "伊朗国防部回应特朗普夺岛言论：敌人任何误判都将招致超乎想象的反击",
+          "url": "https://wallstreetcn.com/livenews/3118338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         }
@@ -245,7 +687,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
@@ -255,8 +697,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -267,52 +721,44 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
-        },
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
-        },
-        {
-          "title": "北京海淀市监局：正对“鹅腿阿姨”涉嫌误导消费者等行为进一步核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33357694",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
           "url": "https://wallstreetcn.com/articles/3774376",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "北京海淀市监局：正对“鹅腿阿姨”涉嫌误导消费者等行为进一步核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33357694",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -320,22 +766,24 @@
           "source": "抖音",
           "ranks": [
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "超模女球迷爆火后出镜 自证不是AI",
@@ -346,8 +794,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
+          "url": "https://wallstreetcn.com/articles/3774382",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "AI短片效果看到起鸡皮疙瘩了",
@@ -356,7 +815,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -367,7 +826,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -394,6 +853,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "UP主做了个AI谢苗",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
           "title": "OpenAI：将收购云平台Ona，从而支持AI智能体。 我们已经就此达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/3118273",
           "source": "华尔街见闻-快讯",
@@ -418,158 +888,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
-        },
-        {
-          "title": "美媒：特朗普不满对伊打击“反响冷淡” 认为伊朗和媒体都没当回事",
-          "url": "https://flash.jin10.com/detail/20260611233949311800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
-          "url": "https://wallstreetcn.com/articles/3774371",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
-        },
-        {
-          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
-          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
-        },
-        {
-          "title": "市场消息：卡塔尔埃米尔与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260612030527728800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
-          "url": "https://wallstreetcn.com/livenews/3118352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "伊媒嘲讽特朗普再次TACO",
-          "url": "https://flash.jin10.com/detail/20260612024640276800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普提名原SEC主席为美国国家情报总监",
-          "url": "https://wallstreetcn.com/livenews/3118350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3118348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "分析人士：称特朗普声明并未改变局势",
-          "url": "https://flash.jin10.com/detail/20260612023118594800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
-          "url": "https://wallstreetcn.com/livenews/3118342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
-          "url": "https://wallstreetcn.com/livenews/3118340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "伊朗国防部回应特朗普夺岛言论：敌人任何误判都将招致超乎想象的反击",
-          "url": "https://wallstreetcn.com/livenews/3118338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技 机器人",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -579,8 +899,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
@@ -590,8 +910,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
@@ -602,8 +922,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
@@ -624,26 +944,71 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美满电子（迈威尔科技）美股盘后跌2%，该公司任命Dan Durn为首席财务官（CFO），6月15日生效。",
+          "url": "https://wallstreetcn.com/livenews/3118391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，原材料板块涨3.26%，工业板块涨3.25%，信息技术/科技板块涨2.94%，能源板块跌2.06%。",
+          "url": "https://wallstreetcn.com/livenews/3118389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "周四（6月11日），美股行业ETF普遍收涨，半导体ETF收涨6.75%，全球航空业ETF涨6.31%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF、可选消费ETF、银行业ETF、网络股指数ETF至多涨3.73%，能源业ETF跌1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3118388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.25%，报6296.64点，北京时间01:28出现一波强势反弹行情——从6200点拉升大约60点。 热门中概股里，日月光半导体初步收涨7.2%，网易涨0.2%，阿里跌1.5%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨5.33%，XtrackersHarvest中证50（ASHS）收涨1.39%，德银嘉实沪深300指数ETF（ASHR）收涨1.04%。 中国科技指数ETF（CQQQ）收涨1.29%，中概互联网指数ETF（KWEB）收涨0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3118384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
         },
         {
           "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
@@ -654,8 +1019,58 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 05时36分]"
+        },
+        {
+          "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
+          "url": "https://wallstreetcn.com/livenews/3118403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，新兴市场ETF涨约4.4%，黄金ETF涨超3.1%",
+          "url": "https://wallstreetcn.com/livenews/3118395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债价格于纽约中午短线飙涨，特朗普取消对伊朗的后续袭击计划",
+          "url": "https://wallstreetcn.com/livenews/3118414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
+          "url": "https://wallstreetcn.com/livenews/3118346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
         }
       ]
     },
@@ -677,19 +1092,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
-          "url": "https://wallstreetcn.com/livenews/3118346",
+          "title": "彭博美元指数创逾1个月最大跌幅，特朗普暗示美伊协议即将达成",
+          "url": "https://wallstreetcn.com/livenews/3118400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "05时36分"
         }
       ]
     }
