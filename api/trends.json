@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-12T07:26:14.603968+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-06-12T09:58:11.979525+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
+        {
+          "title": "伊朗阿巴斯港传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tt1H0RgCkY",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时58分]"
+        },
         {
           "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
@@ -20,15 +32,29 @@
           "time_info": "[00时08分 ~ 07时26分]"
         },
         {
-          "title": "伊朗阿巴斯港传出爆炸声",
-          "url": "https://news.ifeng.com/c/8tt1H0RgCkY",
+          "title": "伊朗武装力量进入最高战备状态",
+          "url": "https://news.ifeng.com/c/8tsZVZjUpb1",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
+          "url": "https://www.cls.cn/detail/2397642",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时20分 ~ 09时58分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗方面尚未给出最终回应。",
@@ -155,19 +181,6 @@
           "time_info": "[00时08分 ~ 07时26分]"
         },
         {
-          "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
-          "url": "https://www.cls.cn/detail/2397642",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 07时26分]"
-        },
-        {
           "title": "伊朗：使用12枚导弹摧毁美军大量战机",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%BD%BF%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
           "source": "百度热搜",
@@ -205,6 +218,28 @@
           "time_info": "[00时08分 ~ 05时36分]"
         },
         {
+          "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
+          "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
           "title": "伊朗外交部发言人：如果伊朗打算在压力和威胁下放弃其原则立场，那我们在一年前就会这么做了。",
           "url": "https://flash.jin10.com/detail/20260612043923940800",
           "source": "金十数据",
@@ -222,7 +257,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -233,7 +268,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -255,7 +290,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -299,9 +334,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "美军击落了两架来自伊朗的单向攻击型无人机，美方称霍尔木兹海峡的航道通行仍在继续。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3118493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：消息人士称，从德黑兰返回的卡塔尔代表团已向美方转交伊朗对最终协议草案的批准意见。",
@@ -343,7 +389,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -387,7 +433,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -420,7 +466,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -453,7 +499,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -464,7 +510,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -486,7 +532,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -508,7 +554,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -527,7 +573,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -539,8 +585,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
+          "url": "https://news.ifeng.com/c/8tso5G96e80",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
+          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
+          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
         },
         {
           "title": "特朗普称取消打击伊朗行动",
@@ -554,15 +633,39 @@
           "time_info": "[07时25分 ~ 07时26分]"
         },
         {
-          "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
-          "url": "https://news.ifeng.com/c/8tso5G96e80",
+          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
+          "url": "https://news.ifeng.com/c/8ttDG767op3",
           "source": "凤凰网",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时58分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时58分]"
         },
         {
           "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
@@ -585,7 +688,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -596,7 +699,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -618,20 +721,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
-          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
         },
         {
           "title": "特朗普称取消打击伊朗行动",
@@ -646,26 +738,48 @@
           "time_info": "[05时36分 ~ 07时26分]"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
+          "title": "特朗普称取消对伊猛烈打击 伊朗回应",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E5%AF%B9%E4%BC%8A%E7%8C%9B%E7%83%88%E6%89%93%E5%87%BB+%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普称80岁生日愿望是“世界和平”，转头宣布狠狠打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33357490",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "石油主题LOF全线低开，特朗普称“未来几天”签和平协议",
+          "url": "https://flash.jin10.com/detail/20260612093218218800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
-        },
-        {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
@@ -674,7 +788,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -690,13 +804,24 @@
           "time_info": "03时20分"
         },
         {
+          "title": "特朗普“和平信号”威力有多大？韩股又狂飙8%，杠杆ETF成波动放大器",
+          "url": "https://flash.jin10.com/detail/20260612093027638800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
           "url": "https://flash.jin10.com/detail/20260612064649190800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -707,7 +832,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -899,6 +1024,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "法庭文件显示：特朗普政府对“要求将特朗普的名字从华盛顿肯尼迪中心移除”的法院命令提出上诉。",
+          "url": "https://wallstreetcn.com/livenews/3118470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
           "url": "https://wallstreetcn.com/livenews/3118340",
           "source": "华尔街见闻-快讯",
@@ -927,7 +1063,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -946,18 +1082,19 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "六氟化钨概念爆火，A股多家上市公司回应相关业务情况",
           "url": "https://www.cls.cn/detail/2397515",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
         },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -969,8 +1106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
         },
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
@@ -981,8 +1118,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
+        },
+        {
+          "title": "北京海淀市监局：正对“鹅腿阿姨”涉嫌误导消费者等行为进一步核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33357694",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
+        },
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            10,
+            16,
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -1003,9 +1168,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
+          "url": "https://wallstreetcn.com/articles/3774382",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时36分 ~ 09时58分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
@@ -1020,30 +1197,16 @@
           "time_info": "[00时08分 ~ 07时26分]"
         },
         {
-          "title": "北京海淀市监局：正对“鹅腿阿姨”涉嫌误导消费者等行为进一步核查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33357694",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
-        },
-        {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
+          "title": "AI短片效果看到起鸡皮疙瘩了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10,
-            16,
-            19,
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
+          "time_info": "[03时20分 ~ 09时58分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
@@ -1071,29 +1234,6 @@
           "time_info": "[00时08分 ~ 07时26分]"
         },
         {
-          "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
-          "url": "https://wallstreetcn.com/articles/3774382",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时36分 ~ 07时26分]"
-        },
-        {
-          "title": "AI短片效果看到起鸡皮疙瘩了",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 07时26分]"
-        },
-        {
           "title": "UP主做了个AI谢苗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%81%9A%E4%BA%86%E4%B8%AAAI%E8%B0%A2%E8%8B%97",
           "source": "bilibili 热搜",
@@ -1104,6 +1244,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 07时26分]"
+        },
+        {
+          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2048342346048213458",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "AI奇谈 绿茵恩仇录笑傲球湖",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A5%87%E8%B0%88%20%E7%BB%BF%E8%8C%B5%E6%81%A9%E4%BB%87%E5%BD%95%E7%AC%91%E5%82%B2%E7%90%83%E6%B9%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "贝索斯驳斥“AI抢饭碗”论：未来十年将迎多个黄金时代",
+          "url": "https://www.cls.cn/detail/2397705",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "A股光伏设备板块高开，金刚光伏涨超5%，迈为股份、晶盛机电、大全能源、明冠新材、TCL中环等个股跟涨；消息面上，据媒体报道，《晶体硅光伏组件和逆变器能效限定值及能效等级》已进入发布前最后审批阶段，预计不久后将正式发布。",
+          "url": "https://flash.jin10.com/detail/20260612092942854800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "印度发布通知，机构客户、直供客户以及工业和商业客户所需的汽油和高速柴油，只能通过其自有消费加油设施获取。",
@@ -1139,6 +1323,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "A股开盘，沪指开涨0.77%，深证成指开涨2.00%，创业板指开涨2.88%；半导体、小金属、贵金属、先进封装、元件、光纤等概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260612092523142800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "OpenAI：将收购云平台Ona，从而支持AI智能体。 我们已经就此达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/3118273",
           "source": "华尔街见闻-快讯",
@@ -1164,18 +1359,19 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "国常会：要锚定科技强国建设目标，高效组织实施国家重大科技任务",
           "url": "https://www.cls.cn/detail/2397510",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
         },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1202,6 +1398,39 @@
           "time_info": "[00时08分 ~ 07时26分]"
         },
         {
+          "title": "港股芯片股大涨，华虹宏力(01347.HK)、澜起科技(06809.HK)双双涨超7%，天域半导体(02658.HK)、兆易创新(03986.HK)、英诺赛科(02577.HK)、壁仞科技(06082.HK)、中芯国际(00981.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260612093457292800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "半导体产业链集体高开，蓝箭电子、江丰电子、富创精密涨超12%，康强电子、炬光科技、中科飞测、神工股份涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3118502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "A股稀土永磁板块走高，安泰科技涨停，杭华股份涨超10%，中钢天源、金田股份、中航泰达、大地熊、争光股份等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260612093236617800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
           "url": "https://wallstreetcn.com/articles/3774357",
           "source": "华尔街见闻",
@@ -1212,6 +1441,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时08分 ~ 03时20分]"
+        },
+        {
+          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2397810",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "恒指高开1.04%，恒生科技指数涨1.24%",
+          "url": "https://wallstreetcn.com/livenews/3118495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.88%，报24376点。 恒生科技指数主连夜盘收涨0.75%，报4683点。",
@@ -1225,13 +1476,24 @@
           "time_info": "03时20分"
         },
         {
+          "title": "A股半导体板块大幅高开，蓝箭电子、江丰电子、富创精密涨超10%，康强电子高开近10%，炬光科技、中科飞测、神功股份纷纷高开。",
+          "url": "https://flash.jin10.com/detail/20260612092751775800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
           "title": "从“被投者”到“投资者”，硬科技企业密集设立产业基金",
           "url": "https://wallstreetcn.com/livenews/3118433",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -1245,6 +1507,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "香港恒生指数6月12日（周五）开盘上涨252.21点，涨幅1.04%，报24501.5点；<br/>香港恒生科技指数6月12日（周五）开盘上涨57.55点，涨幅1.24%，报4713.29点；<br/>国企指数6月12日（周五）开盘上涨60.98点，涨幅0.74%，报8278.06点；<br/>红筹指数6月12日（周五）开盘上涨17.06点，涨幅0.4%，报4277.81点。",
+          "url": "https://flash.jin10.com/detail/20260612092101483800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "港股开盘，恒生指数开涨1.04%，恒生科技指数开涨1.24%；PCB、芯片、新能源车企、黄金等概念股涨幅居前；建滔积层板(01888.HK)开涨9.15%，智谱(02513.HK)开涨7.26%。",
+          "url": "https://flash.jin10.com/detail/20260612092059066800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "标普500指数的11个板块多数收涨，原材料板块涨3.26%，工业板块涨3.25%，信息技术/科技板块涨2.94%，能源板块跌2.06%。",
@@ -1283,8 +1567,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时58分]"
+        },
+        {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 09时58分]"
+        },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
@@ -1298,28 +1606,6 @@
           "time_info": "[00时08分 ~ 05时36分]"
         },
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
-        },
-        {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时26分]"
-        },
-        {
           "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
           "url": "https://www.cls.cn/detail/2397555",
           "source": "财联社热门",
@@ -1329,8 +1615,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 07时26分]"
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 09时58分]"
+        },
+        {
+          "title": "大V：美股两大危险信号同时闪现",
+          "url": "https://www.toutiao.com/trending/7650158326679866943/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
@@ -1353,6 +1650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美股期货延续隔夜涨势，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3118474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         }
       ]
     },
@@ -1389,7 +1697,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
@@ -1417,7 +1725,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
