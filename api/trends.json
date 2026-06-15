@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T08:15:05.281607+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2026-06-15T13:39:26.660768+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 91,
+      "match_count": 98,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 13时39分]"
         },
         {
           "title": "伊朗披露美伊谈判备忘录细节",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 13时39分]"
         },
         {
           "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
@@ -95,7 +95,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -106,9 +106,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "伊朗军方称羞辱了美国和以色列",
+          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "伊朗总统：必须在最高领袖传达的机构决策框架内行动。",
@@ -139,7 +150,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -496,7 +507,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -510,6 +521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "美国须提出3000亿美元伊朗重建计划",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A1%BB%E6%8F%90%E5%87%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BC%8A%E6%9C%97%E9%87%8D%E5%BB%BA%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社报道，伊朗“鉴于当前局势”已取消该国西部的航班。",
@@ -584,7 +606,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -595,7 +617,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -655,13 +677,24 @@
           "time_info": "06时43分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗方面表示，目前世界各国都欢迎美伊达成协议，只有以色列以批判态度对待该协议。",
+          "url": "https://flash.jin10.com/detail/20260615125903292800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "伊朗最高国家安全委员会正式确认伊美谅解备忘录达成",
           "url": "https://wallstreetcn.com/livenews/3119306",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -683,9 +716,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "伊朗确认伊美达成谅解备忘录",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E4%BC%8A%E7%BE%8E%E8%BE%BE%E6%88%90%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "伊朗总统：国家安全委员会的决定是已采纳的标准，并已达成共识，认为有必要走谈判的道路。",
@@ -749,7 +804,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -760,7 +815,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -820,6 +875,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "伊朗总统：战争和谈判的决定权在伊领导层",
           "url": "https://flash.jin10.com/detail/20260614231212857800",
           "source": "金十数据",
@@ -837,7 +903,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -881,7 +947,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -914,7 +980,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -947,7 +1013,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -991,7 +1057,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -1013,7 +1079,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -1024,7 +1090,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -1035,15 +1101,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "伊朗队跨境踢世界杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%B7%A8%E5%A2%83%E8%B8%A2%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 54,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -1138,6 +1215,17 @@
           "time_info": "05时16分"
         },
         {
+          "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
+          "url": "https://wallstreetcn.com/articles/3774634",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，霍尔木兹海峡很快将重新开放商业活动！",
           "url": "https://flash.jin10.com/detail/20260615043701037800",
           "source": "金十数据",
@@ -1149,17 +1237,6 @@
           "time_info": "05时16分"
         },
         {
-          "title": "80大寿，特朗普被气炸了",
-          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时15分"
-        },
-        {
           "title": "市场消息：以色列总理内塔尼亚胡与美国总统特朗普进行电话会谈。",
           "url": "https://flash.jin10.com/detail/20260615043539835800",
           "source": "金十数据",
@@ -1169,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普就欧洲数字税一事威胁对法国征收100%的葡萄酒关税。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3119465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
@@ -1193,6 +1281,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "据纽约邮报：特朗普就数字税问题威胁对法国葡萄酒征收100%关税。",
+          "url": "https://flash.jin10.com/detail/20260615131045423800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "80大寿，特朗普被气炸了",
+          "url": "https://news.ifeng.com/c/8tyA1p0naKZ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 13时39分]"
         },
         {
           "title": "普京与特朗普通话 讨论伊朗局势和乌克兰危机",
@@ -1280,15 +1391,48 @@
           "time_info": "[08时14分 ~ 08时15分]"
         },
         {
+          "title": "普京与特朗普通话",
+          "url": "https://news.ifeng.com/c/8txdaXj6SxP",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "特朗普：伊朗协议是在内塔尼亚胡反对的情况下达成的。 若无法达成核协议，美国将恢复对伊朗的打击。 谅解备忘录将暂停霍尔木兹海峡的收费60天。 协议将确保海峡永远不收通行费。 内塔尼亚胡“很难”说服。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3119311",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "特朗普说海峡周五重开，但船东们不信：过去几个月“狼来了”太多次",
+          "url": "https://flash.jin10.com/detail/20260615130424141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "美伊和谈迎突破性进展！特朗普称协议已完成 签署仪式拟周五举行",
+          "url": "https://www.cls.cn/detail/2399494",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "特朗普说非常接近达成美伊协议",
@@ -1300,6 +1444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "泽连斯基与特朗普通话讨论实现乌和平的举措",
@@ -1363,7 +1518,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -1440,7 +1595,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -1462,9 +1617,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "以色列一名高级内阁部长对第12频道表示：“在我们看来，伊朗是特朗普的问题，他有权寻求达成协议，但黎巴嫩是我们的问题，我们绝不能同意伊朗提出的等式，即便付出与美国发生严重对抗的代价。”",
@@ -1478,13 +1644,24 @@
           "time_info": "01时59分"
         },
         {
+          "title": "美国加州州长纽森：白宫是为美国人民而建的。如今却被用来推广特朗普持有股票的公司，销售订阅，宣传企业赞助商，让特朗普及其家族获利。",
+          "url": "https://flash.jin10.com/detail/20260615125029822800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "特朗普：霍尔木兹海峡将随美伊协议19日签署而开放",
           "url": "https://wallstreetcn.com/livenews/3119298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
         },
@@ -1558,7 +1735,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
@@ -1585,17 +1762,43 @@
           "time_info": "[00时07分 ~ 08时15分]"
         },
         {
+          "title": "7家A股公司，下周“摘帽”",
+          "url": "https://www.cls.cn/detail/2399262",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 13时39分]"
+        },
+        {
           "title": "剑指微信！报道：支付宝酝酿重大改版，将引入AI助手\"阿宝\"，叫车点餐买基金一口气搞定",
           "url": "https://wallstreetcn.com/articles/3774621",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 13时39分]"
+        },
+        {
+          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
+          "url": "https://wallstreetcn.com/articles/3774610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 13时39分]"
         },
         {
           "title": "“小巴菲特”：我不投AI！最大遗憾错过早期Palantir少赚数百亿美元，看好被市场“烧伤”的商业地产",
@@ -1604,29 +1807,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时15分]"
-        },
-        {
-          "title": "7家A股公司，下周“摘帽”",
-          "url": "https://www.cls.cn/detail/2399262",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时15分]"
-        },
-        {
-          "title": "谷歌官宣3万字路线图：1亿人类水平的AI就是ASI！",
-          "url": "https://wallstreetcn.com/articles/3774610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -1670,6 +1850,28 @@
           "time_info": "[00时07分 ~ 06时43分]"
         },
         {
+          "title": "A股培育钻石板块午后持续走强，英诺激光、晶盛机电均涨超10%，四方达直线拉升涨超9%，惠丰钻石涨超7%，力量钻石、国机精工等均涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3119467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "龙舟赛变身端午消费新引擎",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E8%B5%9B%E5%8F%98%E8%BA%AB%E7%AB%AF%E5%8D%88%E6%B6%88%E8%B4%B9%E6%96%B0%E5%BC%95%E6%93%8E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
           "url": "https://www.cls.cn/detail/2399065",
           "source": "财联社热门",
@@ -1685,11 +1887,12 @@
           "url": "https://www.cls.cn/detail/2399350",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 08时15分]"
+          "appearance_count": 4,
+          "time_info": "[06时43分 ~ 13时39分]"
         },
         {
           "title": "10家A股公司退市",
@@ -1703,15 +1906,70 @@
           "time_info": "[00时07分 ~ 01时59分]"
         },
         {
+          "title": "A股存储芯片概念午后拉升，北京君正、金太阳均涨超10%，兆易创新、恒烁股份、普冉股份、江波龙、神工股份跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3119463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股小金属板块午后走高，长裕集团封板涨停，云南锗业、中稀有色、中钨高新、东方钽业、章源钨业等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3119461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股小金属板块午后走高，长裕集团封板涨停，云南锗业、中稀有色、中钨高新、东方钽业、章源钨业等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615130504683800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股创业板指午后涨超4%，深证成指涨2.7%，上证指数涨1%，元件、PET铜箔、CPO等概念板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260615130200396800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "外资巨头下半年展望：AI超级周期未结束，重新审视避险资产",
           "url": "https://wallstreetcn.com/livenews/3119301",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "郝景芳承认用AI写作",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%9D%E6%99%AF%E8%8A%B3%E6%89%BF%E8%AE%A4%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "10家A股公司退市 超25万股民踩雷",
@@ -1739,7 +1997,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "“白菜价”的人形机器人，没法进厂“打螺丝”",
@@ -1761,11 +2019,35 @@
             2,
             4,
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 08时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 13时39分]"
+        },
+        {
+          "title": "据纽约邮报：特朗普表示，法国必须放弃其科技税制度，否则其对美葡萄酒出口将面临高额关税。",
+          "url": "https://flash.jin10.com/detail/20260615131401277800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
+          "url": "https://www.zhihu.com/question/2049162105648051147",
+          "source": "知乎",
+          "ranks": [
+            18,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时14分 ~ 13时39分]"
         },
         {
           "title": "经济日报：人形机器人为何热衷秀才艺",
@@ -1779,21 +2061,43 @@
           "time_info": "[01时59分 ~ 06时43分]"
         },
         {
-          "title": "优必选「机器人伴侣」10 天预售 3800 台，限成年人购买，不做家务只做陪伴，你看好这款产品市场前景吗？",
-          "url": "https://www.zhihu.com/question/2049162105648051147",
-          "source": "知乎",
+          "title": "A股硅能源板块午后上升，有研硅直线拉升涨超13%，合盛硅业触及涨停，硅烷科技、东岳硅材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260615130958463800",
+          "source": "金十数据",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "创业板指午后涨幅扩大至4%，沪指涨1.0%，深证成指涨2.7%。算力硬件、半导体芯片、机器人、航运等方向涨幅居前，全市场超3200只个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3119460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "飞荣达：持有华科冷芯（上海）动力科技有限公司7.7783%股权",
+          "url": "https://flash.jin10.com/detail/20260615125052741800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "央行狂买黄金金价却暴跌",
@@ -1805,6 +2109,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "金价跌破900老板5个手机都忙不过来",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4900%E8%80%81%E6%9D%BF5%E4%B8%AA%E6%89%8B%E6%9C%BA%E9%83%BD%E5%BF%99%E4%B8%8D%E8%BF%87%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
@@ -1817,11 +2143,12 @@
           "url": "https://www.cls.cn/detail/2399448",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时14分 ~ 08时15分]"
+          "appearance_count": 3,
+          "time_info": "[08时14分 ~ 13时39分]"
         }
       ]
     }
