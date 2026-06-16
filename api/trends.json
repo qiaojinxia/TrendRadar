@@ -1,22 +1,36 @@
 {
-  "generated_at": "2026-06-16T07:07:13.961122+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-06-16T10:09:35.286798+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "录音显示美军仍在执行对伊朗海上封锁",
           "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
+        },
+        {
+          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
+          "url": "https://wallstreetcn.com/articles/3774714",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
         },
         {
           "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
@@ -27,20 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
-        },
-        {
-          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
-          "url": "https://wallstreetcn.com/articles/3774714",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
         },
         {
           "title": "伊朗vs新西兰前瞻",
@@ -83,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -138,9 +140,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "世界杯：伊朗vs新西兰",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国官员：伊朗的激进分子反对协议，但没有提出可行的替代方案。",
@@ -160,7 +173,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -236,6 +249,17 @@
           "time_info": "[01时32分 ~ 01时33分]"
         },
         {
+          "title": "万斯：伊朗可能获得3000亿重建资金，海湾国家出钱",
+          "url": "https://news.ifeng.com/c/8tzCGDrMLoe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美国官员：我们很快将了解，与伊朗达成的共识能否转化为改变地区局势的协议。",
           "url": "https://flash.jin10.com/detail/20260616010808832800",
           "source": "金十数据",
@@ -245,6 +269,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "媒体陪看世界杯：伊朗VS新西兰",
+          "url": "https://www.toutiao.com/trending/7651793092747513353/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "伊朗vs新西兰",
+          "url": "https://www.douyin.com/hot/2535961",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "据伊朗电视台报道称，已有3艘油轮和2艘载有伊朗必需品的船只突破了美国的海上封锁。",
@@ -275,7 +321,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -300,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "伊朗vs新西兰",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国官员：签署谅解备忘录（MoU）之后不会对伊朗拨付任何资金。 否认任何被冻结的伊朗资金已经被解冻。",
@@ -330,7 +387,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -341,7 +398,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -352,7 +409,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -363,7 +420,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -385,7 +442,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -396,7 +453,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -407,7 +464,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -418,7 +475,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -454,13 +511,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "美国副总统万斯：伊朗永远也别想从美国纳税人那里得到一分钱。 如果伊朗遵守规定，会邀请其他国家投资伊朗。 免收霍尔木兹海峡通行费已明确写入协议中。",
+          "url": "https://wallstreetcn.com/livenews/3119943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "打脸马克龙？特朗普就数字服务税发难",
+          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
@@ -480,17 +560,6 @@
             5,
             4,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
-        },
-        {
-          "title": "打脸马克龙？特朗普就数字服务税发难",
-          "url": "https://news.ifeng.com/c/8tytt5KRDcq",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -560,7 +629,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -604,9 +673,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美伊局势追踪：已签“电子协议”，特朗普称19日后公布具体内容！",
+          "url": "https://www.cls.cn/detail/2400664",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普谈伊朗核协议：不解除制裁。",
@@ -744,7 +824,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "【焦点复盘】硬科技、小金属携手发力，沪指日线6连阳收复20日均线，全市场超280股涨逾10%",
@@ -770,27 +850,17 @@
           "time_info": "[01时32分 ~ 01时33分]"
         },
         {
-          "title": "在成长与安全之间寻找平衡点，公私募探讨下半年科技投资大方向",
-          "url": "https://wallstreetcn.com/livenews/3119899",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
           "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
           "url": "https://www.cls.cn/detail/2400342",
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
         },
         {
           "title": "信披整改承诺仅保持九个月 国晟科技再收监管“双罚单”|速读公告",
@@ -801,8 +871,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
         },
         {
           "title": "机器人伴侣开售,人机恋成真",
@@ -810,11 +880,35 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
+        },
+        {
+          "title": "在成长与安全之间寻找平衡点，公私募探讨下半年科技投资大方向",
+          "url": "https://wallstreetcn.com/livenews/3119899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时59分 ~ 10时09分]"
         },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
@@ -826,17 +920,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时59分 ~ 07时07分]"
-        },
-        {
-          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
-          "url": "https://wallstreetcn.com/articles/3774700",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[04时59分 ~ 07时07分]"
         },
         {
@@ -873,6 +956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "A股元件板块再度走强，逸豪新材涨超16%，本川智能涨超12%，宝鼎科技、超颖电子封板涨停，风华高科触及涨停，贤丰控股、法拉电子等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260616095714617800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "标普500指数的11个板块多数收涨，信息技术/科技板块涨3.39%，电信板块涨2.42%，可选消费、工业板块至少涨1.36%，房地产板块则收跌0.9%，能源板块跌3.58%。 在所有成分股中，西部数据、Doordash、美光科技、希捷科技、安森美半导体、泰瑞达、高意公司Coherent领跑，Apa、因赛特公司、“大空头”Burry建仓的Fiserv、福克斯、福克斯A领跌。",
@@ -917,13 +1011,313 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅达1%。",
+          "url": "https://wallstreetcn.com/livenews/3119967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股PCB概念股继续走强，宝鼎科技2连板，逸豪新材、国际复材涨超10%，华正新材、生益科技、大族数控涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3119965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "港股光通信板块延续昨日强势，蓝思科技(06613.HK)涨近7%，俊知集团(01300.HK)、汇聚科技(01729.HK)均涨超4%，长飞光纤光缆(06869.HK)涨超3%，舜宇光学科技(02382.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260616095129035800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "港股商业航天概念股走势分化，钧达股份(02865.HK)涨近8%，蓝思科技(06613.HK)涨超6.5%，亚太卫星(01045.HK)涨近3%；中国技术集团(01725.HK)跌超3%，中航科工(02357.HK)、拓璞数控(07688.HK)均跌超1.3%。",
+          "url": "https://flash.jin10.com/detail/20260616094924471800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "恒指低开0.07%，报24826.19点；恒生科技指数开盘基本持平。美团、哔哩哔哩跌超1%；MINIMAX、联想集团、小鹏集团、中芯国际等上涨。",
+          "url": "https://wallstreetcn.com/livenews/3119949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
+        },
+        {
+          "title": "A股锁价定增市场化提速，多家公司将定价基准日“后移”",
+          "url": "https://wallstreetcn.com/livenews/3119903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
+        },
+        {
+          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
+          "url": "https://www.cls.cn/detail/2400118",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时07分]"
+        },
+        {
+          "title": "AI为何成为能源之战",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时07分]"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.toutiao.com/trending/7651542350414037011/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时32分 ~ 07时07分]"
+        },
+        {
+          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
+          "url": "https://www.zhihu.com/question/2049845138457719674",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时32分 ~ 04时59分]"
+        },
+        {
+          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
+          "url": "https://wallstreetcn.com/articles/3774655",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时32分 ~ 01时33分]"
+        },
+        {
+          "title": "雁鹅是一种鹅吗？从生物学种属和消费心理如何理解和判断？",
+          "url": "https://www.zhihu.com/question/2047996607799321751",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 07时07分]"
+        },
+        {
+          "title": "中国5月社会消费品零售总额同比 -0.6%，预期0.00%，前值0.20%。",
+          "url": "https://flash.jin10.com/detail/20260616100002518800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股小金属震荡走强，盛和资源、厦门钨业、盛龙股份均封板涨停，鲳鱼集团涨超8.5%，中钨高新、东方钽业、章源钨业、云南锗业、锡业股份等多股涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260616095956885800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "中国1至5月社会消费品零售总额同比 1.4%，前值 1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3119984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "中国5月社会消费品零售总额同比 -0.6%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3119982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "理想汽车推出动态数据流AI芯片马赫M100 构建完整具身智能系统",
+          "url": "https://flash.jin10.com/detail/20260616095450153800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "提醒：北京时间10:00将公布中国1-5月规模以上工业增加值、社会消费品零售总额、城镇固定投资、房地产开发投资等月度经济数据。",
+          "url": "https://wallstreetcn.com/livenews/3119974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股有色板块再度拉升，盛龙股份4连板，厦门钨业2连板，中钨高新、盛和资源、翔鹭钨业、东方钽业涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3119970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股创业板指站上4100点，日内涨1.66%。",
+          "url": "https://flash.jin10.com/detail/20260616095203147800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "中国5月规模以上工业增加值同比、社会消费品零售总额同比将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260616095000001800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 10时09分]"
+        },
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
           "url": "https://wallstreetcn.com/articles/3774633",
@@ -936,17 +1330,6 @@
           "time_info": "[01时32分 ~ 04时59分]"
         },
         {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
-        },
-        {
           "title": "美股收盘：纳指暴涨近800点 马斯克日赚巴菲特全部身家",
           "url": "https://www.cls.cn/detail/2400615",
           "source": "财联社热门",
@@ -954,8 +1337,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
+          "appearance_count": 3,
+          "time_info": "[07时06分 ~ 10时09分]"
+        },
+        {
+          "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
+          "url": "https://www.cls.cn/detail/2400629",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
@@ -966,8 +1360,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时32分 ~ 10时09分]"
         },
         {
           "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
@@ -1065,119 +1459,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "A股锁价定增市场化提速，多家公司将定价基准日“后移”",
-          "url": "https://wallstreetcn.com/livenews/3119903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "【每日收评】全市场超百股涨停！创业板指涨超5%，PCB等AI硬件概念股集体爆发",
-          "url": "https://www.cls.cn/detail/2400118",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
-        },
-        {
-          "title": "伊朗用AI让球员牵遇难儿童入场",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
-        },
-        {
-          "title": "AI为何成为能源之战",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E8%83%BD%E6%BA%90%E4%B9%8B%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
-        },
-        {
-          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时32分 ~ 07时07分]"
-        },
-        {
-          "title": "伊朗用AI让球员牵遇难儿童入场",
-          "url": "https://www.toutiao.com/trending/7651542350414037011/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 07时07分]"
-        },
-        {
-          "title": "雨果奖科幻作者郝景芳称最新小说一半由 AI 完成，如何看待她这一做法？你会支持含 AI 创作小说吗？",
-          "url": "https://www.zhihu.com/question/2049845138457719674",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 04时59分]"
-        },
-        {
-          "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
-          "url": "https://wallstreetcn.com/articles/3774655",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时32分 ~ 01时33分]"
-        },
-        {
-          "title": "雁鹅是一种鹅吗？从生物学种属和消费心理如何理解和判断？",
-          "url": "https://www.zhihu.com/question/2047996607799321751",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
         }
       ]
     },
@@ -1210,6 +1494,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "市场太乐观了？华尔街老将警告：油价、美债和通胀的滞后冲击才刚开始",
+          "url": "https://wallstreetcn.com/articles/3774702",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "两年期美债收益率跌幅收窄至2.5个基点",
+          "url": "https://wallstreetcn.com/livenews/3119855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1230,23 +1542,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率跌幅收窄至2.5个基点",
-          "url": "https://wallstreetcn.com/livenews/3119855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
