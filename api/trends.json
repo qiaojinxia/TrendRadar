@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T10:03:07.808432+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-06-17T15:35:10.261266+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 23,
+      "match_count": 33,
       "titles": [
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 10时03分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 15时35分]"
         },
         {
           "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
@@ -59,6 +59,28 @@
           "time_info": "[02时17分 ~ 10时03分]"
         },
         {
+          "title": "吴清：新“国九条”以来 社保、保险等净买入A股1.3万亿元",
+          "url": "https://www.cls.cn/detail/2402011",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "从5月数据看消费 这些亮点值得关注",
+          "url": "https://www.toutiao.com/trending/7651807572874444810/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
           "url": "https://www.cls.cn/detail/2401317",
           "source": "财联社热门",
@@ -78,7 +100,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -92,6 +114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "A股收盘：科创50指数大涨4.69%，芯片、算力硬件股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3120802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
@@ -152,6 +185,28 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
+          "title": "高通CEO：重新定义AI设备，全球消费电子将迎来强制性底层芯片架构大升级",
+          "url": "https://wallstreetcn.com/articles/3774814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "A股收评：深成指、创业板指均涨超1%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E8%AF%84%EF%BC%9A%E6%B7%B1%E6%88%90%E6%8C%87%E3%80%81%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E5%9D%87%E6%B6%A8%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
           "title": "机构：投资者可关注A股半年报绩优方向",
           "url": "https://wallstreetcn.com/livenews/3120527",
           "source": "华尔街见闻-快讯",
@@ -169,9 +224,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股新易盛成交额达200亿元，现涨1.5%。",
+          "url": "https://flash.jin10.com/detail/20260617145226686800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "微信支付正式发布AI专属卡",
+          "url": "https://wallstreetcn.com/livenews/3120781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
@@ -191,7 +268,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -224,9 +301,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "A股创业板指午后涨超1%，深证成指涨近1%，上证指数涨0.1%，科创50指数涨超4%，电子化学品、半导体、元件等板块涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260617143920708800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "HPE强化面向AI客户的网络设备，西门子能源加入合作",
@@ -240,6 +328,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "A股超级电容板块震荡走高，麦格米特触及涨停，宏明电子、新宙邦、东阳光、江海股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260617143639119800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "依视路陆逊梯卡董事长兼首席执行官Francesco Milleri：我们相信，先进光学、AI与可穿戴技术的融合将为消费者开启全新一代的体验。 数十年来，依视路陆逊梯卡不断推动镜片和视觉性能的突破性创新，帮助重新定义人们感知周围世界的方式。 与应用材料公司携手，我们期待共同探索智能光学技术，助力塑造智能眼镜和下一代视觉计算的未来，为显示可穿戴设备品类的扩张打造新的全球驱动力。",
           "url": "https://wallstreetcn.com/livenews/3120432",
           "source": "华尔街见闻-快讯",
@@ -251,13 +350,24 @@
           "time_info": "02时17分"
         },
         {
+          "title": "A股中字头个股局部异动，中国化学午后涨停，中纺标、中国能建、中国电建、中铁装配等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3120770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "摩根大通预计到2030年AI基础设施建设总花费将达5.5万亿美元",
           "url": "https://wallstreetcn.com/livenews/3120575",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -276,21 +386,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
-        {
-          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 10时03分]"
-        },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
@@ -298,11 +395,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 10时03分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 15时35分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -311,7 +409,21 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 15时35分]"
+        },
+        {
+          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -330,6 +442,18 @@
           "time_info": "[02时17分 ~ 07时06分]"
         },
         {
+          "title": "伊朗副外长披露美伊谅解备忘录细节",
+          "url": "https://news.ifeng.com/c/8u1TiMA0imn",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时35分]"
+        },
+        {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
           "url": "https://v.ifeng.com/c/8tyNCvcMxI6",
           "source": "凤凰网",
@@ -341,28 +465,42 @@
           "time_info": "[02时17分 ~ 07时06分]"
         },
         {
-          "title": "伊朗副外长披露美伊谅解备忘录细节",
-          "url": "https://news.ifeng.com/c/8u1TiMA0imn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
           "title": "两度扳平!伊朗2-2新西兰",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "贴吧",
           "ranks": [
             7,
             8,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时17分 ~ 10时03分]"
+          "appearance_count": 8,
+          "time_info": "[02时17分 ~ 15时35分]"
+        },
+        {
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时27分 ~ 15时35分]"
+        },
+        {
+          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
+          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
@@ -422,19 +560,6 @@
           "time_info": "02时17分"
         },
         {
-          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时27分 ~ 10时03分]"
-        },
-        {
           "title": "伊朗队突然被勒令离开美国",
           "url": "https://www.toutiao.com/trending/7651870551576677938/",
           "source": "今日头条",
@@ -446,6 +571,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时17分 ~ 07时06分]"
+        },
+        {
+          "title": "国际足联主席探望伊朗球员：我知道你们经历了什么",
+          "url": "https://news.ifeng.com/c/8u1bgpKuIuK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
+        },
+        {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "沙特阿拉比亚电视台发布了伊美14点谅解备忘录的条款，较伊朗迈赫尔通讯社发布版本更为详细。",
@@ -515,6 +662,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "巴基斯坦外长：30名伊朗公民即将踏上归途",
+          "url": "https://flash.jin10.com/detail/20260617144420078800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "伊朗队被勒令离开美国",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -532,7 +690,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         }
@@ -540,7 +698,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -551,8 +709,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时05分 ~ 10时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时05分 ~ 15时35分]"
         },
         {
           "title": "中国5月规模以上工业增加值同比加速至4.5%，3D打印、锂电池、工业机器人等增长较快",
@@ -573,7 +731,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -584,7 +742,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -606,9 +764,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "证监会：严查借科技之名炒概念行为",
+          "url": "https://www.toutiao.com/trending/7652208026585382954/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "A股玻纤板块震荡反弹，山东玻纤、中国巨石封板涨停，中材科技、长海股份、国际复材、宏和科技等跟涨。",
@@ -617,7 +786,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -628,7 +797,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -639,7 +808,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -650,7 +819,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -661,7 +830,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -672,7 +841,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -683,7 +852,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -705,7 +874,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
         },
@@ -719,12 +888,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至4%，半导体板块持续拉升，盛美上海20cm涨停，此前赛腾股份、盛剑科技涨停，拓荆科技涨超10%，华峰测控、华海清科、精智达、长川科技、中微公司等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3120765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "觅蜂科技获数亿元天使+轮融资，国资、产业联合入局",
+          "url": "https://wallstreetcn.com/livenews/3120764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -738,6 +929,17 @@
           "time_info": "[02时17分 ~ 07时06分]"
         },
         {
+          "title": "特朗普：关我们啥事？就是卖卖武器",
+          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时35分]"
+        },
+        {
           "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
           "source": "澎湃新闻",
@@ -749,17 +951,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时17分 ~ 10时03分]"
-        },
-        {
-          "title": "特朗普：关我们啥事？就是卖卖武器",
-          "url": "https://news.ifeng.com/c/8u1SdELcNgi",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
@@ -786,6 +977,18 @@
           "time_info": "[02时17分 ~ 07时06分]"
         },
         {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时35分]"
+        },
+        {
           "title": "共和党警告特朗普政府或面临“停摆”，因民主党反对五角大楼大幅增支",
           "url": "https://wallstreetcn.com/livenews/3120506",
           "source": "华尔街见闻-快讯",
@@ -798,6 +1001,17 @@
           "time_info": "[05时27分 ~ 07时06分]"
         },
         {
+          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
+          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时35分]"
+        },
+        {
           "title": "特朗普称美伊协议已签署",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E7%AD%BE%E7%BD%B2",
           "source": "bilibili 热搜",
@@ -808,28 +1022,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时17分 ~ 07时06分]"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
-        },
-        {
-          "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
-          "url": "https://news.ifeng.com/c/8u0lx8RZe1y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "特朗普称美伊协议谈判进入第二阶段",
@@ -852,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时05分 ~ 07时06分]"
+        },
+        {
+          "title": "加拿大总理卡尼：在乌克兰问题上，美国与特朗普的立场正转向更务实的看法。",
+          "url": "https://flash.jin10.com/detail/20260617144437389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
@@ -1033,7 +1236,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -1069,8 +1272,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时35分]"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -1082,6 +1296,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "豆包DeepSeek答题两极分化",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85DeepSeek%E7%AD%94%E9%A2%98%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时34分 ~ 15时35分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -1223,11 +1448,12 @@
           "url": "https://www.cls.cn/detail/2401773",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时02分 ~ 10时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 15时35分]"
         }
       ]
     }
