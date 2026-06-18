@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T17:55:42.058160+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-06-18T20:56:57.175864+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -27,11 +27,23 @@
             20,
             21,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 17时55分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 20时56分]"
+        },
+        {
+          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
+          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
         },
         {
           "title": "美国公布与伊朗达成的谅解备忘录正式文本",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时24分 ~ 13时19分]"
-        },
-        {
-          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
-          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们在谅解备忘录中接受的每一项承诺都是基于“行动换行动”原则。如果美国未能履行其承诺，我们就不可能履行承诺。",
@@ -219,6 +220,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 08时24分]"
+        },
+        {
+          "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
+          "url": "https://www.zhihu.com/question/2050871601684550857",
+          "source": "知乎",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
         },
         {
           "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
@@ -423,6 +436,17 @@
           "time_info": "13时19分"
         },
         {
+          "title": "美披露美伊谅解备忘录 14 项条款，并承诺终止针对伊朗的所有类型制裁，将对伊朗经济带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2050876787773497711",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "据AXIOS：消息人士表示，美国和伊朗正在讨论将原定于周五举行的谅解备忘录（MOU）签署仪式提前至周三举行。",
           "url": "https://flash.jin10.com/detail/20260617231857427800",
           "source": "金十数据",
@@ -454,17 +478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
-          "url": "https://www.zhihu.com/question/2050871601684550857",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "伊朗外交部发言人：霍尔木兹海峡的问题由伊朗和阿曼负责。",
@@ -517,7 +530,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -564,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "伊朗所发文本显示美国将在签署谅解备忘录后立即发放伊朗石油豁免",
+          "url": "https://wallstreetcn.com/livenews/3121680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：谅解备忘录文本中强调，我们仅就核问题和解除制裁进行谈判，且仅限于此。",
@@ -616,7 +640,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -630,6 +654,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗总统说伊美谅解备忘录展现“相互尊重”",
+          "url": "https://wallstreetcn.com/livenews/3121673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "大摩：市场已“跨过”伊朗战争的影响",
@@ -657,8 +692,24 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            9,
+            6,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时11分 ~ 20时56分]"
+        },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
@@ -670,21 +721,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 08时24分]"
-        },
-        {
-          "title": "一天涨出一个巴菲特！AI加持，马斯克身家涨到飞起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333525",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            9,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时11分 ~ 17时55分]"
         },
         {
           "title": "00后股民全仓AI股2个月赚30万",
@@ -707,6 +743,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "A股电力板块午后再度下探，深南电A触及跌停，西昌电力、粤电力A、豫能控股、华电辽能、桂冠电力、晋控电力等跟跌。",
@@ -769,6 +816,18 @@
           "time_info": "[00时13分 ~ 08时24分]"
         },
         {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
+        },
+        {
           "title": "博主：A股正在发生三大结构性逆转",
           "url": "https://www.toutiao.com/trending/7652346288553332230/",
           "source": "今日头条",
@@ -815,6 +874,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 02时43分]"
+        },
+        {
+          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
+          "url": "https://www.cls.cn/detail/2403255",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
+        },
+        {
+          "title": "用AI打开端午的一百种方式",
+          "url": "https://www.douyin.com/hot/2539388",
+          "source": "抖音",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
         },
         {
           "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
@@ -932,24 +1015,13 @@
           "time_info": "13时19分"
         },
         {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "小米正式发布“全屋智能AI开源方案”Xiaomi Miloco 2.0",
           "url": "https://wallstreetcn.com/livenews/3121595",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -976,28 +1048,6 @@
           "time_info": "13时19分"
         },
         {
-          "title": "用AI打开端午的一百种方式",
-          "url": "https://www.douyin.com/hot/2539388",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "AI内存极限再创突破！SK海力士宣布交付12层HBM4E样品",
-          "url": "https://www.cls.cn/detail/2403255",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "美联储声明新措辞与沃什对AI投资繁荣的关注相呼应",
           "url": "https://flash.jin10.com/detail/20260618021846481800",
           "source": "金十数据",
@@ -1015,7 +1065,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1103,7 +1153,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1114,7 +1164,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1125,7 +1175,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1177,8 +1227,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
+          "url": "https://www.cls.cn/detail/2403312",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
+        },
         {
           "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
           "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
@@ -1223,20 +1284,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
         {
-          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
-          "url": "https://www.cls.cn/detail/2403312",
-          "source": "财联社热门",
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时24分 ~ 20时56分]"
         },
         {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
@@ -1307,19 +1370,6 @@
           "time_info": "[00时13分 ~ 08时24分]"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时24分 ~ 17时55分]"
-        },
-        {
           "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
           "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
           "source": "凤凰网",
@@ -1342,6 +1392,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时19分 ~ 17时55分]"
+        },
+        {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 20时56分]"
         },
         {
           "title": "特朗普：谅解备忘录不是最终协议 若不满意会重新开火",
@@ -1368,6 +1431,30 @@
           "time_info": "[00时13分 ~ 06时59分]"
         },
         {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
+        },
+        {
+          "title": "美学者：特朗普凡尔赛签约离谱至极",
+          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普G7峰会迟到，还宣布“我是老大”",
           "url": "https://news.ifeng.com/c/8u3Bdreuuj0",
           "source": "凤凰网",
@@ -1380,38 +1467,16 @@
           "time_info": "[13时19分 ~ 17时55分]"
         },
         {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            14
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 17时55分]"
-        },
-        {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
-          "title": "美学者：特朗普凡尔赛签约离谱至极",
-          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "[17时55分 ~ 20时56分]"
         },
         {
           "title": "特朗普在G7记者会说了什么",
@@ -1447,7 +1512,29 @@
           "time_info": "08时24分"
         },
         {
+          "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
+          "url": "https://wallstreetcn.com/articles/3774931",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了…”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时55分"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
           "url": "https://news.ifeng.com/c/8u33RqAGLKg",
           "source": "凤凰网",
           "ranks": [
@@ -1455,7 +1542,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时55分"
+          "time_info": "20时56分"
         },
         {
           "title": "据华尔街日报：特朗普政府内部正在推行一种新的饮食计划，其核心内容就是大量食用酸菜。",
@@ -1464,7 +1551,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1533,17 +1620,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "特朗普离开凡尔赛宫时说签署了伊朗备忘录",
@@ -1648,7 +1724,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "中国机器人开始治理沙漠了",
@@ -1688,6 +1764,18 @@
           "time_info": "[00时13分 ~ 08时24分]"
         },
         {
+          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
+          "url": "https://www.cls.cn/detail/2403507",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 20时56分]"
+        },
+        {
           "title": "人开始扮演仿生机器人了",
           "url": "https://www.douyin.com/hot/2538327",
           "source": "抖音",
@@ -1724,17 +1812,6 @@
           "time_info": "00时13分"
         },
         {
-          "title": "七部门重磅发文：鼓励投早投小投硬科技，2028年培育一批平台经济单项冠军",
-          "url": "https://www.cls.cn/detail/2403507",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3121255",
           "source": "华尔街见闻-快讯",
@@ -1763,7 +1840,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1785,7 +1862,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1801,15 +1878,37 @@
           "time_info": "13时19分"
         },
         {
+          "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
+          "url": "https://www.cls.cn/detail/2403717",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "返利科技：筹划控制权变更，6月22日起继续停牌不超3个交易日",
           "url": "https://wallstreetcn.com/livenews/3121590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.14%，报6122.30点。 热门中概股里，理想跌3.4%，阿里跌3.1%，蔚来涨0.2%，日月光半导体涨2%。 ETF中，中概互联网指数ETF（KWEB）收跌1.93%，中国科技指数ETF（CQQQ）收涨1.72%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.35%，德银嘉实沪深300指数ETF（ASHR）收跌0.08%，XtrackersHarvest中证50（ASHS）收涨0.31%。",
@@ -1851,7 +1950,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1878,13 +1977,24 @@
           "time_info": "13时19分"
         },
         {
+          "title": "沪指失守4100点 科技股逆势冲高",
+          "url": "https://www.toutiao.com/trending/7651753489516724233/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "上交所对乐鑫科技予以监管警示。经查，乐鑫科技存在以下违规行为：一是未按规定披露购买房产的重大事项。二是未按规定披露取得深圳市明栈信息科技有限公司控制权的重大事项。",
           "url": "https://flash.jin10.com/detail/20260618171953939800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -1892,7 +2002,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -1903,8 +2013,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时59分 ~ 17时55分]"
+          "appearance_count": 5,
+          "time_info": "[06时59分 ~ 20时56分]"
         },
         {
           "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
@@ -1941,6 +2051,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 05时11分]"
+        },
+        {
+          "title": "风险偏好重燃，美股盘前半导体股大涨，英特尔涨近9%，日元创近两年新低，黄金向上触及4300美元",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
@@ -2018,6 +2139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "SpaceX美股盘前跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3121676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌2.63%，报355.89点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.82%，报2450.24点。 在美股时段交易的原材料指数收跌1%，报251.98点，彭博数据显示，北京时间21:51曾瞬间跳水至零、又瞬间恢复至之前的水平。 在美股时段交易的金属与矿业指数收跌1.63%，报295.95点。",
@@ -2103,11 +2235,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 20时56分]"
         },
         {
           "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
@@ -2143,11 +2276,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 20时56分]"
         },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
@@ -2174,11 +2308,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 17时55分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 20时56分]"
         }
       ]
     }
