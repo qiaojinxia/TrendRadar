@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T14:53:00.469495+08:00",
-  "total_titles_processed": 899,
+  "generated_at": "2026-06-29T20:03:11.295897+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -28,11 +28,12 @@
             13,
             14,
             15,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时16分 ~ 14时53分]"
+          "appearance_count": 12,
+          "time_info": "[01时16分 ~ 20时03分]"
         },
         {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
@@ -72,6 +73,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时16分 ~ 09时38分]"
+        },
+        {
+          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
+          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -123,6 +135,17 @@
           "time_info": "[01时16分 ~ 07时06分]"
         },
         {
+          "title": "【伊朗军方仅允许船只经拉腊克岛以南航道通过霍尔木兹海峡】当地时间29日下午，伊朗军方通告称，所有通过霍尔木兹海峡的船只仅被允许从拉腊克岛以南航道通行。此前，伊朗方面曾在28日发布消息称，船只通过霍尔木兹海峡仍需与革命卫队协调，进入波斯湾的船只最安全的航线位于霍尔木兹岛以南，而驶离波斯湾的船只则应选择拉腊克岛以南航道通行。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3126137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "报道：美国和伊朗即将举行的谈判已被取消。",
           "url": "https://wallstreetcn.com/livenews/3125699",
           "source": "华尔街见闻-快讯",
@@ -132,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗副外长加里巴巴迪前往阿曼，出席霍尔木兹联合委员会会议。双方官员就当前涉及霍尔木兹海峡的相关问题进行了讨论，并围绕《伊斯兰堡谅解备忘录》第五条框架下霍尔木兹海峡未来管理，以及沿岸国家主权权利等议题交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260629193055936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
@@ -152,7 +186,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -327,7 +361,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -352,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "西班牙经济部长：我们将临时措施延长3个月，以遏制伊朗战争对价格的影响。",
+          "url": "https://flash.jin10.com/detail/20260629192229180800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "伊朗球员道歉 说着说着哭了",
@@ -401,7 +446,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -479,11 +524,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 20时03分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -509,13 +555,24 @@
           "time_info": "[02时46分 ~ 07时06分]"
         },
         {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "德国企业押注AI提升劳动效率化解用工荒，有望释放3000亿欧元增长潜力",
           "url": "https://wallstreetcn.com/livenews/3125921",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -537,7 +594,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -577,6 +634,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时16分 ~ 04时16分]"
+        },
+        {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
@@ -641,9 +709,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "高盛策略师：AI将推动美国企业迎来强劲财报季",
+          "url": "https://wallstreetcn.com/livenews/3126113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "韩国：将在2035年前在AI数据中心领域投入超过1000万亿韩元。",
@@ -652,7 +731,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -671,7 +750,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -709,6 +788,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 07时06分]"
+        },
+        {
+          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
+          "url": "https://wallstreetcn.com/articles/3775715",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 20时03分]"
         },
         {
           "title": "券商“把脉”下半年可转债市场投资主线，看好科技板块机遇",
@@ -751,20 +842,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
         {
-          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
-          "url": "https://wallstreetcn.com/articles/3775715",
-          "source": "华尔街见闻",
+          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
+          "url": "https://www.zhihu.com/question/2053454703569244163",
+          "source": "知乎",
           "ranks": [
-            7
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
+          "title": "港交所文件显示，本末动力（北京）科技股份有限公司通过港交所上市聆讯。",
+          "url": "https://wallstreetcn.com/livenews/3126128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "港股机器人概念午后震荡走强，地平线机器人(09660.HK)涨超15%，禾赛-W(02525.HK)涨超5%，微创机器人(02252.HK)、速腾聚创(02498.HK)等跟涨。",
@@ -773,7 +875,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -795,7 +897,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -811,13 +913,24 @@
           "time_info": "09时38分"
         },
         {
+          "title": "据港交所文件：本末动力（北京）科技股份有限公司通过港交所上市聆讯。",
+          "url": "https://flash.jin10.com/detail/20260629191915550800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "A股半导体设备股再度拉升，创元科技涨停，华海清科涨超10%，均创历史新高，此前金海通、华亚智能、柏诚股份涨停，正帆科技、京仪装备、华峰测控、富创精密等快速冲高。",
           "url": "https://wallstreetcn.com/livenews/3125890",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -828,7 +941,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -847,7 +960,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -897,6 +1010,17 @@
           "time_info": "[01时16分 ~ 07时06分]"
         },
         {
+          "title": "特朗普称伊朗已请求召开会议",
+          "url": "https://flash.jin10.com/detail/20260629193155176800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
           "source": "澎湃新闻",
@@ -907,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时16分 ~ 07时06分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已请求召开会议。会议将于明天在多哈举行。",
+          "url": "https://wallstreetcn.com/livenews/3126135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -934,6 +1069,17 @@
           "time_info": "[01时17分 ~ 05时39分]"
         },
         {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "特朗普政府或为Anthropic最强大模型“松绑” 预计一周内解禁Fable 5",
           "url": "https://www.cls.cn/detail/2410998",
           "source": "财联社热门",
@@ -943,6 +1089,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格正在快速下降。 零售层面的任何违规行为都要举报。",
+          "url": "https://wallstreetcn.com/livenews/3126126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
@@ -967,6 +1124,28 @@
           "time_info": "04时16分"
         },
         {
+          "title": "美国总统特朗普：WTI原油价格已跌至69美元，而且还在继续下跌。这一价格甚至低于伊朗开启去核化进程之前的水平！",
+          "url": "https://flash.jin10.com/detail/20260629192509168800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "美国总统特朗普：油价正在迅速下跌！请举报零售环节的任何违规行为！！！",
+          "url": "https://flash.jin10.com/detail/20260629192205650800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260628220938422800",
           "source": "金十数据",
@@ -981,7 +1160,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
@@ -997,6 +1176,17 @@
           "time_info": "[01时16分 ~ 09时38分]"
         },
         {
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "豆包和DeepSeek的博弈",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1006,13 +1196,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 01时17分]"
+        },
+        {
+          "title": "DeepSeek V4正式版官宣7月上线，引入峰谷定价机制",
+          "url": "https://wallstreetcn.com/livenews/3126106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
           "url": "https://flash.jin10.com/detail/20260629060352549800",
