@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T09:32:24.697884+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2026-06-30T14:15:46.992623+08:00",
+  "total_titles_processed": 948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
@@ -101,15 +101,48 @@
           "time_info": "[04时29分 ~ 05时55分]"
         },
         {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "特朗普“和粉丝吵翻了”",
           "url": "https://news.ifeng.com/c/8uMPZ6rxaBi",
           "source": "凤凰网",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
+        },
+        {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我认为，我们在军事上正在获胜，甚至可以说，这场军事行动几乎已经取得胜利。",
@@ -129,7 +162,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -154,6 +187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
+          "url": "https://www.cls.cn/detail/2412193",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "美国总统特朗普：我正在将药价降低200%、300%，甚至400%，但几乎没人谈论这件事。民主党反对这一举措，如果他们上台执政，药价将上涨300%、400%，甚至500%。",
@@ -279,8 +323,246 @@
       ]
     },
     {
+      "keyword_group": "科技 机器人",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 09时32分]"
+        },
+        {
+          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
+          "url": "https://www.zhihu.com/question/2053454703569244163",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            19,
+            18,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 09时32分]"
+        },
+        {
+          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
+          "url": "https://wallstreetcn.com/articles/3775715",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时02分]"
+        },
+        {
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
+        },
+        {
+          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时02分]"
+        },
+        {
+          "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时02分]"
+        },
+        {
+          "title": "恒生科技指数午后涨幅扩大至2%，智谱、联想集团涨超7%。腾讯控股短线拉升涨超3%，百度涨超4%，美团、哔哩哔哩等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3126520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "标普500指数初步收涨1.1%，电信板块涨3.1%，可选消费板块涨2.7%，科技板块涨1.4%，能源板块跌0.7%，原材料板块跌2%。 纳斯达克100指数初步收涨2.2%，成分股中，Rocket Lab初步收涨15.9%，Astera Labs涨15.3%，Strategy涨12.2%，西部数据涨10.9%，Axon涨9.76%，特斯拉涨8.6%，闪迪则跌3.7%，和霍尼韦尔跌6.1%，Copart跌7.77%。",
+          "url": "https://wallstreetcn.com/livenews/3126308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
+          "url": "https://wallstreetcn.com/livenews/3126341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3126312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 07时02分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.04%，报22976点。 恒生科技指数主连夜盘收涨0.45%，报4419点。",
+          "url": "https://wallstreetcn.com/livenews/3126294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时55分]"
+        },
+        {
+          "title": "珞石机器人在港交所公告，在港上市拟发行2303万股H股（视乎超额配股权行使与否而定），定价38港元/股，预期7月9日开始交易。",
+          "url": "https://flash.jin10.com/detail/20260630060755508800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3126306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
+        {
+          "title": "A股铜高速连接概念震荡走强，神宇股份20cm涨停，华丰科技、胜蓝股份涨超10%，双双创历史新高，长盈精密、金信诺、航天电器等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3126503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至4%，格科微、翱捷科技20CM涨停，中科飞测涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3126500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "鱼子酱生产商鲟龙科技香港IPO公开发售部分获得逾2100倍认购",
+          "url": "https://wallstreetcn.com/livenews/3126268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "A股固态电池概念异动拉升，尚水智能20cm涨停，金银河、新宙邦涨超10%，北京利尔、德方纳米、当升科技、上海洗霸跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3126495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "港股机器人概念午后走强，埃斯顿、优必选涨超10%，兆威机电涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3126493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "创业板第四套上市标准企业再添一例，上海企业西井科技IPO申请获受理",
+          "url": "https://wallstreetcn.com/livenews/3126238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "纳斯达克100指数收涨超2.2%，半导体指数涨超3.8%，小盘股指、生物科技指数创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3126308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -292,6 +574,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 07时02分]"
+        },
+        {
+          "title": "以色列防长：准备好独立打击伊朗",
+          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         },
         {
           "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
@@ -343,6 +636,17 @@
           "time_info": "[04时29分 ~ 05时55分]"
         },
         {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
+        },
+        {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
           "url": "https://wallstreetcn.com/livenews/3126290",
           "source": "华尔街见闻-快讯",
@@ -353,17 +657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时55分]"
-        },
-        {
-          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2412298",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
         },
         {
           "title": "伊朗：当前重点是执行谅解备忘录，近期不与美国谈判",
@@ -490,7 +783,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
@@ -584,20 +877,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-06-30）",
-          "url": "https://flash.jin10.com/detail/20260630090242885800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
         },
         {
           "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
@@ -606,7 +888,18 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-06-30）",
+          "url": "https://flash.jin10.com/detail/20260630090242885800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -633,13 +926,24 @@
           "time_info": "07时02分"
         },
         {
+          "title": "英国一季度私人家庭消费支出季环比终值 0.6%，预期 0.6%，初值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
           "title": "中信证券：这轮AI更像电新周期、而非互联网泡沫",
           "url": "https://wallstreetcn.com/livenews/3126371",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -694,6 +998,30 @@
           "time_info": "[00时25分 ~ 05时55分]"
         },
         {
+          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
+          "url": "https://www.cls.cn/detail/2412265",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时01分 ~ 14时15分]"
+        },
+        {
+          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
+          "url": "https://www.cls.cn/detail/2412290",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -707,29 +1035,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
-          "url": "https://www.cls.cn/detail/2412290",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
-          "url": "https://www.cls.cn/detail/2412265",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时01分 ~ 09时32分]"
         },
         {
           "title": "周一（6月29日），彭博电动汽车价格回报指数涨2.73%，报3522.70点，亚太时段显著走高，北京时间14:00以来持稳于3500点附近，美股开盘后涨幅略微有所扩大。",
@@ -854,7 +1159,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
         },
@@ -865,192 +1170,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技 机器人",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2412084",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 09时32分]"
-        },
-        {
-          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
-          "url": "https://www.zhihu.com/question/2053454703569244163",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17,
-            19,
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 09时32分]"
-        },
-        {
-          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
-          "url": "https://wallstreetcn.com/articles/3775715",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "科技股领涨，美股全线收涨，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时02分]"
-        },
-        {
-          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
-          "url": "https://wallstreetcn.com/articles/3775727",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "标普500指数初步收涨1.1%，电信板块涨3.1%，可选消费板块涨2.7%，科技板块涨1.4%，能源板块跌0.7%，原材料板块跌2%。 纳斯达克100指数初步收涨2.2%，成分股中，Rocket Lab初步收涨15.9%，Astera Labs涨15.3%，Strategy涨12.2%，西部数据涨10.9%，Axon涨9.76%，特斯拉涨8.6%，闪迪则跌3.7%，和霍尼韦尔跌6.1%，Copart跌7.77%。",
-          "url": "https://wallstreetcn.com/livenews/3126308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
-          "url": "https://wallstreetcn.com/livenews/3126341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
-          "url": "https://wallstreetcn.com/livenews/3126312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 07时02分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.04%，报22976点。 恒生科技指数主连夜盘收涨0.45%，报4419点。",
-          "url": "https://wallstreetcn.com/livenews/3126294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时55分]"
-        },
-        {
-          "title": "珞石机器人在港交所公告，在港上市拟发行2303万股H股（视乎超额配股权行使与否而定），定价38港元/股，预期7月9日开始交易。",
-          "url": "https://flash.jin10.com/detail/20260630060755508800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
-          "url": "https://wallstreetcn.com/livenews/3126306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时55分"
-        },
-        {
-          "title": "鱼子酱生产商鲟龙科技香港IPO公开发售部分获得逾2100倍认购",
-          "url": "https://wallstreetcn.com/livenews/3126268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        },
-        {
-          "title": "创业板第四套上市标准企业再添一例，上海企业西井科技IPO申请获受理",
-          "url": "https://wallstreetcn.com/livenews/3126238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "纳斯达克100指数收涨超2.2%，半导体指数涨超3.8%，小盘股指、生物科技指数创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3126308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         }
       ]
     },
@@ -1073,6 +1195,30 @@
           "time_info": "[00时25分 ~ 05时55分]"
         },
         {
+          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
+          "url": "https://www.cls.cn/detail/2412167",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
+        },
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
+        },
+        {
           "title": "DeepSeek启动成立来最大规模招聘",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%AF%E5%8A%A8%E6%88%90%E7%AB%8B%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98",
           "source": "百度热搜",
@@ -1082,28 +1228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 02时31分]"
-        },
-        {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
-          "url": "https://www.cls.cn/detail/2412167",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时32分"
         }
       ]
     },
@@ -1162,6 +1286,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价又跌破4000",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E7%A0%B44000%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时15分"
         }
       ]
     },
