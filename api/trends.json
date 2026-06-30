@@ -1,11 +1,519 @@
 {
-  "generated_at": "2026-06-30T20:30:39.523815+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-06-30T23:15:48.850306+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 44,
+      "titles": [
+        {
+          "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时02分]"
+        },
+        {
+          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
+          "url": "https://www.cls.cn/detail/2411865",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时25分 ~ 09时32分]"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时02分]"
+        },
+        {
+          "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
+          "url": "https://www.cls.cn/detail/2411644",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时02分]"
+        },
+        {
+          "title": "AI手机进入Agent时代",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            17,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时25分 ~ 07时02分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时32分 ~ 20时30分]"
+        },
+        {
+          "title": "澳大利亚竞争与消费者委员会：亚马逊(AMZN.O)因涉嫌利用不公平合同条款在Prime Video中投放广告而面临法庭诉讼。",
+          "url": "https://flash.jin10.com/detail/20260630063634188800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850560&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/06/ZhGcN8MYqS-V4BGX2fa-l.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260630230119281800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
+          "url": "https://wallstreetcn.com/livenews/3126879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "杰创智能：拟定增募资不超过19.65亿元，用于智算云服务中心建设项目、AI+安全装备研发及产业化建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3126780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
+          "title": "上半年A股收官",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E6%94%B6%E5%AE%98%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时07分"
+        },
+        {
+          "title": "A股上半年10大牛股",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B410%E5%A4%A7%E7%89%9B%E8%82%A1%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时07分 ~ 20时30分]"
+        },
+        {
+          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
+          "url": "https://wallstreetcn.com/articles/3775807",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 23时15分]"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 23时15分]"
+        },
+        {
+          "title": "A股半年收官 科创50大涨超64%",
+          "url": "https://www.toutiao.com/trending/7656397842558287878/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 23时15分]"
+        },
+        {
+          "title": "吴启华自曝卖肖像权拍AI电影",
+          "url": "https://www.douyin.com/hot/2552172",
+          "source": "抖音",
+          "ranks": [
+            23,
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 09时32分]"
+        },
+        {
+          "title": "A股上半年股王涨超770%",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%82%A1%E7%8E%8B%E6%B6%A8%E8%B6%85770%25%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 23时15分]"
+        },
+        {
+          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
+          "url": "https://wallstreetcn.com/articles/3775756",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时32分 ~ 14时15分]"
+        },
+        {
+          "title": "AI时代哪些文科专业不可替代",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%93%AA%E4%BA%9B%E6%96%87%E7%A7%91%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
+        },
+        {
+          "title": "一口气看完2026上半年AI变局",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C2026%E4%B8%8A%E5%8D%8A%E5%B9%B4AI%E5%8F%98%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
+        },
+        {
+          "title": "Token到底是什么 如何用AI更省钱",
+          "url": "https://www.toutiao.com/trending/7656218600784760356/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
+        },
+        {
+          "title": "专家：下半年A股配置思路或要变了",
+          "url": "https://www.toutiao.com/trending/7657126664970702363/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
+        },
+        {
+          "title": "A股上半年十大牛股出炉",
+          "url": "https://www.toutiao.com/trending/7656239482187104282/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
+        },
+        {
+          "title": "金十数据整理：A股盘前市场要闻速递（2026-06-30）",
+          "url": "https://flash.jin10.com/detail/20260630090242885800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "3家公司告别A股，最后交易日收盘价均不足1元",
+          "url": "https://wallstreetcn.com/livenews/3126337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "热点概念炒作频频引发股价异动，A股公司密集提示风险厘清业务边界",
+          "url": "https://wallstreetcn.com/livenews/3126335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "英国央行副行长暗示将出台新规以监管智能体化AI",
+          "url": "https://wallstreetcn.com/livenews/3126870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "英国一季度私人家庭消费支出季环比终值 0.6%，预期 0.6%，初值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时15分"
+        },
+        {
+          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
+          "url": "https://www.cls.cn/detail/2413162",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "中信证券：这轮AI更像电新周期、而非互联网泡沫",
+          "url": "https://wallstreetcn.com/livenews/3126371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "中国信通院发布AI Infra运维领域首个评测基准",
+          "url": "https://wallstreetcn.com/livenews/3126868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "相关主题ETF上周“吸金”超过250亿元，A股半导体板块高景气下波动加大",
+          "url": "https://wallstreetcn.com/livenews/3126330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "OpenAI研发出新方案，可将推理成本减半",
+          "url": "https://wallstreetcn.com/livenews/3126866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
+          "url": "https://flash.jin10.com/detail/20260630055543411800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国参议院民主党成员John Fetterman告诉美联储主席沃什，美联储必须启动监管规则制定程序，以“加快支付处理并加速工资发放”。 费特曼在6月份稍早的信中援引《快速资金可用法案》（Expedited Funds Availability Act）的相关指令，要求“加快支票清算速度，并提升直接存款（Direct Deposit）的到账效率”。",
+          "url": "https://wallstreetcn.com/livenews/3126865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
+          "url": "https://wallstreetcn.com/livenews/3126270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "呼叫中心概念股大跌，投资者担忧AI致使其沦为“不可投资”资产",
+          "url": "https://wallstreetcn.com/livenews/3126862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美联储哈玛克：消费部门表现出韧性。",
+          "url": "https://flash.jin10.com/detail/20260630225431677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "终于明白AI免费和订阅的区别了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国6月谘商会消费者预期指数 74.4，前值 74.4。",
+          "url": "https://wallstreetcn.com/livenews/3126858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国6月谘商会消费者现况指数 116.4，前值 121.2。",
+          "url": "https://wallstreetcn.com/livenews/3126857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "美国6月谘商会消费者信心指数 91.2，预期 94.6，前值 93.1。",
+          "url": "https://wallstreetcn.com/livenews/3126854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "陈果：A股下半年向上空间更大，市场结构会再平衡",
+          "url": "https://wallstreetcn.com/livenews/3126853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -30,13 +538,24 @@
           "time_info": "[14时15分 ~ 18时07分]"
         },
         {
+          "title": "伊朗：未来几天暂无与美方会晤计划",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "伊朗：石油和石化产品销售“得到极大便利”。",
           "url": "https://wallstreetcn.com/livenews/3126781",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -58,7 +577,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -84,8 +603,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 23时15分]"
         },
         {
           "title": "普京为何将俄乌谈判时间表与伊朗挂钩",
@@ -153,7 +672,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -164,7 +683,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -197,7 +716,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -230,7 +749,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -241,7 +760,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -329,7 +848,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -340,7 +859,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -362,9 +881,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
+        },
+        {
+          "title": "伊朗否认近期将与美国举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3126850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "伊朗代理防长：将“毫不犹豫”回应违反停火协议行为",
@@ -381,8 +911,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 23时15分]"
+        },
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
           "url": "https://www.cls.cn/detail/2411631",
@@ -393,17 +935,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
-          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
         },
         {
           "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
@@ -428,17 +959,29 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
+          "url": "https://wallstreetcn.com/livenews/3126877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
           "url": "https://wallstreetcn.com/articles/3775773",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 20时30分]"
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 23时15分]"
         },
         {
           "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
@@ -460,8 +1003,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 23时15分]"
         },
         {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
@@ -523,6 +1066,17 @@
           "time_info": "[04时29分 ~ 05时55分]"
         },
         {
+          "title": "美国法院公布一批裁决 特朗普“两胜两负”",
+          "url": "https://flash.jin10.com/detail/20260630225819996800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
           "url": "https://www.cls.cn/detail/2412327",
           "source": "财联社热门",
@@ -554,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院刚刚取消了对政治支出的限制！这是共和党的重大胜利，更重要的是，也是美国宪法第一修正案的重大胜利！",
+          "url": "https://flash.jin10.com/detail/20260630225727621800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -716,7 +1281,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -735,7 +1300,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -746,8 +1311,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时32分 ~ 20时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时32分 ~ 23时15分]"
         },
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -825,6 +1390,18 @@
           "time_info": "14时15分"
         },
         {
+          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
+          "url": "https://www.cls.cn/detail/2412980",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 23时15分]"
+        },
+        {
           "title": "标普500指数初步收涨1.1%，电信板块涨3.1%，可选消费板块涨2.7%，科技板块涨1.4%，能源板块跌0.7%，原材料板块跌2%。 纳斯达克100指数初步收涨2.2%，成分股中，Rocket Lab初步收涨15.9%，Astera Labs涨15.3%，Strategy涨12.2%，西部数据涨10.9%，Axon涨9.76%，特斯拉涨8.6%，闪迪则跌3.7%，和霍尼韦尔跌6.1%，Copart跌7.77%。",
           "url": "https://wallstreetcn.com/livenews/3126308",
           "source": "华尔街见闻-快讯",
@@ -869,17 +1446,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 07时02分]"
-        },
-        {
-          "title": "【年中盘点】最热十大板块梳理：半导体设备与材料领涨 CPO、PCB等科技板块赚钱效应火爆",
-          "url": "https://www.cls.cn/detail/2412980",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.04%，报22976点。 恒生科技指数主连夜盘收涨0.45%，报4419点。",
@@ -927,6 +1493,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
+          "url": "https://wallstreetcn.com/articles/3775850",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "永太科技：预计上半年净利润2.65亿元—3.3亿元，同比增长350.68%—461.22%",
           "url": "https://wallstreetcn.com/livenews/3126647",
           "source": "华尔街见闻-快讯",
@@ -949,6 +1526,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "中国第一所机器人学校开学，30台机器人率先入学",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3R1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "A股铜高速连接概念震荡走强，神宇股份20cm涨停，华丰科技、胜蓝股份涨超10%，双双创历史新高，长盈精密、金信诺、航天电器等涨幅靠前。",
           "url": "https://wallstreetcn.com/livenews/3126503",
           "source": "华尔街见闻-快讯",
@@ -966,7 +1554,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -999,7 +1587,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
         },
@@ -1054,9 +1642,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时30分"
+        },
+        {
+          "title": "外资机构持续加码中国硬科技",
+          "url": "https://wallstreetcn.com/livenews/3126849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "纳斯达克100指数收涨超2.2%，半导体指数涨超3.8%，小盘股指、生物科技指数创历史新高",
@@ -1072,347 +1671,8 @@
       ]
     },
     {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 29,
-      "titles": [
-        {
-          "title": "十大券商看后市｜A股相对外盘走势更具韧性，短期关注再平衡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33473686",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "【焦点复盘】沪指深V回升站稳4000点，全市场超190股涨超10%，AI硬件端内部“两极分化”",
-          "url": "https://www.cls.cn/detail/2411865",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时25分 ~ 09时32分]"
-        },
-        {
-          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2411748",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "AI泡沫担忧再度成为市场“主旋律”？华尔街又“炸开了锅”……",
-          "url": "https://www.cls.cn/detail/2411644",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "AI手机进入Agent时代",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            17,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 07时02分]"
-        },
-        {
-          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
-          "url": "https://wallstreetcn.com/articles/3775770",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时32分 ~ 20时30分]"
-        },
-        {
-          "title": "澳大利亚竞争与消费者委员会：亚马逊(AMZN.O)因涉嫌利用不公平合同条款在Prime Video中投放广告而面临法庭诉讼。",
-          "url": "https://flash.jin10.com/detail/20260630063634188800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "杰创智能：拟定增募资不超过19.65亿元，用于智算云服务中心建设项目、AI+安全装备研发及产业化建设项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3126780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时30分"
-        },
-        {
-          "title": "上半年A股收官",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4A%E8%82%A1%E6%94%B6%E5%AE%98%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "A股上半年10大牛股",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B410%E5%A4%A7%E7%89%9B%E8%82%A1%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时30分]"
-        },
-        {
-          "title": "吴启华自曝卖肖像权拍AI电影",
-          "url": "https://www.douyin.com/hot/2552172",
-          "source": "抖音",
-          "ranks": [
-            23,
-            22,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时55分 ~ 09时32分]"
-        },
-        {
-          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
-          "url": "https://wallstreetcn.com/articles/3775807",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时30分]"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时30分]"
-        },
-        {
-          "title": "A股半年收官 科创50大涨超64%",
-          "url": "https://www.toutiao.com/trending/7656397842558287878/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时30分]"
-        },
-        {
-          "title": "AI牛市的悬头之剑：不只是韩国，美股杠杆同样触目惊心",
-          "url": "https://wallstreetcn.com/articles/3775756",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时32分 ~ 14时15分]"
-        },
-        {
-          "title": "AI时代哪些文科专业不可替代",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E5%93%AA%E4%BA%9B%E6%96%87%E7%A7%91%E4%B8%93%E4%B8%9A%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        },
-        {
-          "title": "一口气看完2026上半年AI变局",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E5%AE%8C2026%E4%B8%8A%E5%8D%8A%E5%B9%B4AI%E5%8F%98%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        },
-        {
-          "title": "Token到底是什么 如何用AI更省钱",
-          "url": "https://www.toutiao.com/trending/7656218600784760356/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        },
-        {
-          "title": "专家：下半年A股配置思路或要变了",
-          "url": "https://www.toutiao.com/trending/7657126664970702363/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        },
-        {
-          "title": "A股上半年十大牛股出炉",
-          "url": "https://www.toutiao.com/trending/7656239482187104282/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        },
-        {
-          "title": "A股上半年股王涨超770%",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%82%A1%E7%8E%8B%E6%B6%A8%E8%B6%85770%25%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时29分 ~ 20时30分]"
-        },
-        {
-          "title": "金十数据整理：A股盘前市场要闻速递（2026-06-30）",
-          "url": "https://flash.jin10.com/detail/20260630090242885800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "3家公司告别A股，最后交易日收盘价均不足1元",
-          "url": "https://wallstreetcn.com/livenews/3126337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "热点概念炒作频频引发股价异动，A股公司密集提示风险厘清业务边界",
-          "url": "https://wallstreetcn.com/livenews/3126335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "英国一季度私人家庭消费支出季环比终值 0.6%，预期 0.6%，初值 0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3126510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "中信证券：这轮AI更像电新周期、而非互联网泡沫",
-          "url": "https://wallstreetcn.com/livenews/3126371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时32分"
-        },
-        {
-          "title": "相关主题ETF上周“吸金”超过250亿元，A股半导体板块高景气下波动加大",
-          "url": "https://wallstreetcn.com/livenews/3126330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "分析师：OpenAI或于今年启动IPO 无需等到2027年",
-          "url": "https://flash.jin10.com/detail/20260630055543411800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "城堡证券EMEA固定收益销售主管Nohshad Shah警告称：人工智能（AI）日益成为政治议题。",
-          "url": "https://wallstreetcn.com/livenews/3126270",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -1537,6 +1797,17 @@
           "time_info": "18时07分"
         },
         {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
           "title": "金十图示：2026年06月29日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260630012810152800",
           "source": "金十数据",
@@ -1620,6 +1891,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 23时15分]"
+        },
+        {
           "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
           "url": "https://www.zhihu.com/question/2054981283089069609",
           "source": "知乎",
@@ -1632,18 +1915,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 05时55分]"
-        },
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时07分 ~ 20时30分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -1685,7 +1956,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数29日下跌",
@@ -1721,6 +1992,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
+        },
+        {
+          "title": "美元指数DXY抹去日内涨幅，转为下跌，现报101.1。",
+          "url": "https://flash.jin10.com/detail/20260630225417696800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（6月29日）纽约尾盘，美国10年期国债收益率跌0.20个基点，报4.3666%，日内整体窄幅震荡于4.3646%-4.3882%区间。 两年期美债收益率涨0.62个基点，报4.0983%；30年期美债收益率跌1.28个基点，报4.8513%。 2/10年期美债收益率利差跌0.813个基点，报+26.829个基点。 10年期通胀保值国债（TIPS）收益率跌1.93个基点，至2.1369%；两年期TIPS收益率跌2.12个基点，至2.0932%；30年期TIPS收益率跌1.92个基点，至2.6808%。",
+          "url": "https://wallstreetcn.com/livenews/3126304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时55分]"
+        },
+        {
+          "title": "美国10年期国债收益率涨约2.5个基点，在美国职位空缺数据发布后刷新日高至4.4059%。 两年期美债收益率涨超2.5个基点，也刷新日高至4.1373%。",
+          "url": "https://wallstreetcn.com/livenews/3126864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         }
       ]
     },
@@ -1755,24 +2066,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（6月29日）纽约尾盘，美国10年期国债收益率跌0.20个基点，报4.3666%，日内整体窄幅震荡于4.3646%-4.3882%区间。 两年期美债收益率涨0.62个基点，报4.0983%；30年期美债收益率跌1.28个基点，报4.8513%。 2/10年期美债收益率利差跌0.813个基点，报+26.829个基点。 10年期通胀保值国债（TIPS）收益率跌1.93个基点，至2.1369%；两年期TIPS收益率跌2.12个基点，至2.0932%；30年期TIPS收益率跌1.92个基点，至2.6808%。",
-          "url": "https://wallstreetcn.com/livenews/3126304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时55分]"
         }
       ]
     }
