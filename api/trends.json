@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T20:27:59.405821+08:00",
-  "total_titles_processed": 1347,
+  "generated_at": "2026-07-03T22:54:22.592930+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -63,11 +63,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 20时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 22时54分]"
         },
         {
           "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
@@ -137,6 +138,19 @@
           "time_info": "[01时51分 ~ 07时39分]"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 22时54分]"
+        },
+        {
           "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
           "url": "https://www.cls.cn/detail/2416215",
           "source": "财联社热门",
@@ -149,30 +163,29 @@
           "time_info": "[15时23分 ~ 20时27分]"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 20时27分]"
-        },
-        {
           "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
           "source": "澎湃新闻",
           "ranks": [
             17,
             10,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时32分 ~ 20时27分]"
+          "appearance_count": 7,
+          "time_info": "[11时32分 ~ 22时54分]"
+        },
+        {
+          "title": "新业态增强消费活力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%9A%E6%80%81%E5%A2%9E%E5%BC%BA%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 22时54分]"
         },
         {
           "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
@@ -198,15 +211,17 @@
           "time_info": "11时32分"
         },
         {
-          "title": "新业态增强消费活力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%9A%E6%80%81%E5%A2%9E%E5%BC%BA%E6%B6%88%E8%B4%B9%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 22时54分]"
         },
         {
           "title": "A股新易盛成交额超200亿元，现涨6.48%。",
@@ -291,18 +306,6 @@
           "time_info": "[03时29分 ~ 04时44分]"
         },
         {
-          "title": "AI情绪逆转！全球股市反弹，韩股收涨5.8%，金铜拉涨，美元下跌",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时27分]"
-        },
-        {
           "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
           "url": "https://wallstreetcn.com/articles/3776055",
           "source": "华尔街见闻",
@@ -360,6 +363,18 @@
           "time_info": "[18时14分 ~ 18时15分]"
         },
         {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 22时54分]"
+        },
+        {
           "title": "全球AI疯狂重创千元机市场",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83AI%E7%96%AF%E7%8B%82%E9%87%8D%E5%88%9B%E5%8D%83%E5%85%83%E6%9C%BA%E5%B8%82%E5%9C%BA%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -380,6 +395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
+          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
@@ -421,7 +447,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -435,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "欧洲央行管委、法国央行行长Moulin：AI将在很大程度上具有通胀效应。 目前尚未看到第二轮效应。",
@@ -454,9 +491,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "4名大学生出题 AI考了0分",
+          "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "鹏鼎控股：拟定增募资不超过96亿元，用于庆鼎AI服务器和高速光模块高密度互连积层板项目",
@@ -465,18 +513,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -490,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "贵州：到2027年打造一批示范性白酒消费场景",
+          "url": "https://wallstreetcn.com/livenews/3128747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
@@ -638,7 +686,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -706,11 +754,12 @@
           "ranks": [
             4,
             10,
-            25
+            25,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 20时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 22时54分]"
         },
         {
           "title": "7月3日午间收评：创业板指半日涨1.58%，机器人概念股集体爆发",
@@ -733,6 +782,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
+          "url": "https://www.cls.cn/detail/2416624",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 22时54分]"
         },
         {
           "title": "高盛展望下半年：科技巨头继续失宠，半导体才是“王者”！",
@@ -855,16 +917,17 @@
           "time_info": "[06时11分 ~ 07时39分]"
         },
         {
-          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
-          "url": "https://www.cls.cn/detail/2416624",
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
           "source": "财联社热门",
           "ranks": [
+            13,
             10,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[18时14分 ~ 22时54分]"
         },
         {
           "title": "“全球最大杠杆ETF”的威力：“两倍海力士ETF”不仅影响海力士，甚至是整个全球科技股走势",
@@ -876,18 +939,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时10分 ~ 07时39分]"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
-          "url": "https://www.cls.cn/detail/2416590",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时14分 ~ 20时27分]"
         },
         {
           "title": "Meta卖算力引科技股大跌",
@@ -924,6 +975,17 @@
           "time_info": "11时32分"
         },
         {
+          "title": "激智科技联合小米、3M中国计划共建新型显示联合实验室",
+          "url": "https://flash.jin10.com/detail/20260703223230138800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
           "url": "https://flash.jin10.com/detail/20260703065821847800",
           "source": "金十数据",
@@ -944,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
+          "url": "https://www.zhihu.com/question/2056338500371182782",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "A股铜箔概念震荡反弹，诺德股份涨停，德福科技、方邦股份、生益科技、宏和科技、宝鼎科技、海星股份等跟涨。",
@@ -985,7 +1058,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1010,6 +1083,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "Katalyst发射机器人飞船拯救老化卫星 展示新型轨道抓捕技术",
+          "url": "https://flash.jin10.com/detail/20260703222137011800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "港股半导体板块午后回落，兆易创新、华虹宏力跌超5%，中芯国际跌超3%，澜起科技、晶门半导体等跟跌。",
@@ -1045,13 +1129,24 @@
           "time_info": "18时15分"
         },
         {
+          "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
+          "url": "https://www.zhihu.com/question/2056380849625325900",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "拓荆科技：拟购买无锡尚积半导体科技股份有限公司的控股权，股票继续停牌",
           "url": "https://flash.jin10.com/detail/20260703194953704800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1183,7 +1278,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1216,7 +1311,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1227,7 +1322,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         }
@@ -1235,7 +1330,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -1261,6 +1356,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时32分 ~ 18时15分]"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 22时54分]"
         },
         {
           "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
@@ -1294,19 +1403,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 20时27分]"
         },
         {
           "title": "特朗普重申：伊朗将从美国购买食品",
@@ -1345,6 +1441,18 @@
           "time_info": "[06时11分 ~ 07时39分]"
         },
         {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 22时54分]"
+        },
+        {
           "title": "特朗普参加活动后直接拿走剪刀",
           "url": "https://www.toutiao.com/trending/7656820359463518259/",
           "source": "今日头条",
@@ -1355,17 +1463,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时51分 ~ 06时11分]"
-        },
-        {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 20时27分]"
         },
         {
           "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
@@ -1402,6 +1499,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时11分 ~ 07时39分]"
+        },
+        {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "特朗普暗示沃什在美联储的工作不好开展 继续尝试赶走“刺头”",
@@ -1674,7 +1782,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1699,6 +1807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "特朗普认为马斯克会向“特朗普账户”捐赠SpaceX股票",
@@ -1737,18 +1856,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
           "url": "https://v.ifeng.com/c/8uSml4XgzRh",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 22时54分]"
         },
         {
           "title": "伊朗正寻求向日本出售石油，但潜在买家希望获得更长的制裁豁免期",
@@ -1757,9 +1877,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
+        },
+        {
+          "title": "市场消息：由沙特副外交大臣率领的沙特代表团也出席了伊朗前最高领袖哈梅内伊的葬礼。",
+          "url": "https://flash.jin10.com/detail/20260703223802779800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "美国“利诱”伊朗开放海峡，德黑兰拒不让步：霍尔木兹收费之争陷入僵局",
@@ -1813,7 +1944,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -1904,6 +2035,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时44分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
@@ -1925,6 +2067,19 @@
           "time_info": "[07时39分 ~ 15时24分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时23分 ~ 22时54分]"
+        },
+        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -1935,18 +2090,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时32分 ~ 18时15分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时23分 ~ 20时27分]"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -2080,7 +2223,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         }
