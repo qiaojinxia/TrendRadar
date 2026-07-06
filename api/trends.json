@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T08:10:23.636832+08:00",
-  "total_titles_processed": 616,
+  "generated_at": "2026-07-06T12:53:26.872621+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -43,6 +43,18 @@
           "time_info": "[00时35分 ~ 08时10分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 12时53分]"
+        },
+        {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
           "source": "澎湃新闻",
@@ -57,15 +69,15 @@
           "time_info": "[00时35分 ~ 08时10分]"
         },
         {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
+          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
           "source": "凤凰网",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时10分"
+          "time_info": "12时53分"
         },
         {
           "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
@@ -218,6 +230,17 @@
           "time_info": "[00时35分 ~ 08时10分]"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
           "url": "https://flash.jin10.com/detail/20260705234623439800",
           "source": "金十数据",
@@ -235,7 +258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -268,7 +291,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -301,7 +324,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -323,7 +346,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -356,7 +379,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
@@ -364,19 +387,8 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
-        {
-          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2417296",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 08时10分]"
-        },
         {
           "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
           "url": "https://wallstreetcn.com/articles/3776219",
@@ -387,8 +399,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 12时53分]"
         },
         {
           "title": "多家A股公司，业绩大增",
@@ -398,8 +410,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 08时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 12时53分]"
         },
         {
           "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
@@ -407,7 +419,19 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 12时53分]"
+        },
+        {
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -426,6 +450,47 @@
           "time_info": "[00时35分 ~ 08时10分]"
         },
         {
+          "title": "智能体下线,AI女友凉了？",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 12时53分]"
+        },
+        {
+          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2417353",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时06分 ~ 12时53分]"
+        },
+        {
+          "title": "【早报】A股交易新规，今起正式施行；多家A股公司，业绩大幅预增；哈兰德双响，挪威2-1巴西",
+          "url": "https://www.cls.cn/detail/2417464",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 12时53分]"
+        },
+        {
           "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2417129",
           "source": "财联社热门",
@@ -437,17 +502,15 @@
           "time_info": "[00时35分 ~ 08时10分]"
         },
         {
-          "title": "智能体下线,AI女友凉了？",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355914&amp;topic_name=%E6%99%BA%E8%83%BD%E4%BD%93%E4%B8%8B%E7%BA%BF%2CAI%E5%A5%B3%E5%8F%8B%E5%87%89%E4%BA%86%EF%BC%9F",
-          "source": "贴吧",
+          "title": "研究人员借助AI技术发现两种新型超导体",
+          "url": "https://wallstreetcn.com/livenews/3129164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            10,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 08时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "2026中国互联网大会将举办，聚焦AI产业化落地、算力互联互通等核心议题",
@@ -460,31 +523,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 06时31分]"
-        },
-        {
-          "title": "【早报】A股交易新规，今起正式施行；多家A股公司，业绩大幅预增；哈兰德双响，挪威2-1巴西",
-          "url": "https://www.cls.cn/detail/2417464",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "有业绩支撑的非AI板块修复在即？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2417353",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时06分 ~ 08时10分]"
         },
         {
           "title": "电诈人员用AI同时和100多人聊天",
@@ -514,6 +552,17 @@
           "time_info": "[03时52分 ~ 06时31分]"
         },
         {
+          "title": "关键考验明日来袭：三星Q2营利料狂飙17倍 但AI支出前景暗藏风险",
+          "url": "https://www.cls.cn/detail/2417526",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "英国监管机构：金融服务业AI正引发“军备竞赛” 需扩大监管范围",
           "url": "https://flash.jin10.com/detail/20260706053240940800",
           "source": "金十数据",
@@ -525,15 +574,48 @@
           "time_info": "06时31分"
         },
         {
+          "title": "金山办公回应“WPS滥收费、背刺用户” ：言论不实。免费基础功能绝不收费，少数AI办公智能体等高成本服务，会独立计费，用户按需购买。",
+          "url": "https://wallstreetcn.com/livenews/3129154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "A股交易新规今起施行，券商配套更新风险揭示书",
           "url": "https://wallstreetcn.com/livenews/3129031",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "PCB制造卡住AI机架，英伟达Kyber NVL144被曝大幅延期",
+          "url": "https://flash.jin10.com/detail/20260706115759697800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         },
         {
           "title": "专家：A股的结构性行情还会存在",
@@ -542,7 +624,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -558,13 +640,278 @@
           "time_info": "03时52分"
         },
         {
+          "title": "中公教育突登A股人气榜第一",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B2%E7%AA%81%E7%99%BBA%E8%82%A1%E4%BA%BA%E6%B0%94%E6%A6%9C%E7%AC%AC%E4%B8%80&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "今起，A股交易规则重要调整",
           "url": "https://flash.jin10.com/detail/20260706064257878800",
           "source": "金十数据",
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "SemiAnalysis：英伟达下一代AI机架系统推迟至2028年",
+          "url": "https://flash.jin10.com/detail/20260706114616337800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技 机器人",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
+          "url": "https://wallstreetcn.com/livenews/3129017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 08时10分]"
+        },
+        {
+          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
+          "url": "https://wallstreetcn.com/livenews/3129014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 08时10分]"
+        },
+        {
+          "title": "已进入多家本体、模组厂商和灵巧手企业供应链 人形机器人概念股单日涨超14% 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2417369",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "野村：数据采集成2026年人形机器人训练关键",
+          "url": "https://flash.jin10.com/detail/20260706122718526800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "商络电子7月6日在互动平台表示，公司与机器人领域部分企业已展开合作关系，总体来说，涉及机器人领域的业务占公司整体营收比例较小。",
+          "url": "https://flash.jin10.com/detail/20260706122709919800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3129005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 06时31分]"
+        },
+        {
+          "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
+          "url": "https://wallstreetcn.com/livenews/3128970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 06时31分]"
+        },
+        {
+          "title": "科技股调整怎么看？无差别抱团正分化",
+          "url": "https://www.cls.cn/detail/2417336",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "英力股份7月6日在互动平台表示，公司人形机器人镁铝合金结构件项目处于送样阶段，目前没有形成营收和利润，正在同步开展洽谈和寻找合作机会，后续若有重大进展将依规披露。",
+          "url": "https://flash.jin10.com/detail/20260706122659054800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "科技部部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
+          "url": "https://flash.jin10.com/detail/20260706075143937800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "99万元机器人伴侣续航撑不过一晚",
+          "url": "https://www.baidu.com/s?wd=99%E4%B8%87%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E7%BB%AD%E8%88%AA%E6%92%91%E4%B8%8D%E8%BF%87%E4%B8%80%E6%99%9A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "科技股座次“大洗牌”？瑞银：半导体等“AI基石”称王，“老牌巨头”失宠！",
+          "url": "https://www.cls.cn/detail/2417331",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "科技基金交易拥挤风险增加 洼地资产有望逐步成为公募布局方向",
+          "url": "https://wallstreetcn.com/livenews/3129039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "99万机器人伴侣续航撑不过一晚",
+          "url": "https://s.weibo.com/weibo?q=%2399%E4%B8%87%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E7%BB%AD%E8%88%AA%E6%92%91%E4%B8%8D%E8%BF%87%E4%B8%80%E6%99%9A%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "7月6日投资避雷针：日盈电子、长盛轴承、福赛科技等机器人概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2417504",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "三季度公募基金调查显示：科技成长仍是“心头好”，极致分化后打法生变",
+          "url": "https://wallstreetcn.com/livenews/3129034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
+          "url": "https://www.cls.cn/detail/2417055",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（7月6日）",
+          "url": "https://flash.jin10.com/detail/20260706073106849800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "上周逾百亿资金回流股票ETF，硬科技板块热度居高不下",
+          "url": "https://wallstreetcn.com/livenews/3129030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "99万元机器人伴侣续航撑不过一晚",
+          "url": "https://www.toutiao.com/trending/7659051533732642857/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "99万机器人伴侣续航撑不过一晚",
+          "url": "https://www.toutiao.com/trending/7659051533732642857/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         }
@@ -572,7 +919,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -592,9 +939,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时10分 ~ 12时53分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -685,6 +1032,17 @@
           "time_info": "[03时52分 ~ 06时31分]"
         },
         {
+          "title": "伊朗已故最高领袖送葬仪式在德黑兰举行",
+          "url": "https://flash.jin10.com/detail/20260706120720741800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
           "url": "https://flash.jin10.com/detail/20260706005622516800",
           "source": "金十数据",
@@ -707,6 +1065,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "伊朗已故最高领袖送葬仪式在德黑兰举行",
+          "url": "https://wallstreetcn.com/livenews/3129145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "伊朗已故最高领袖哈梅内伊三子现身",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -720,141 +1089,8 @@
       ]
     },
     {
-      "keyword_group": "科技 机器人",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "招商证券：短期冲击后关注科技修复与中报业绩双主线",
-          "url": "https://wallstreetcn.com/livenews/3129017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 08时10分]"
-        },
-        {
-          "title": "2026 中国（南京）具身智能机器人产业展将于7月10-12日举行",
-          "url": "https://wallstreetcn.com/livenews/3129014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 08时10分]"
-        },
-        {
-          "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3129005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 06时31分]"
-        },
-        {
-          "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
-          "url": "https://wallstreetcn.com/livenews/3128970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 06时31分]"
-        },
-        {
-          "title": "科技部部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展",
-          "url": "https://flash.jin10.com/detail/20260706075143937800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "科技基金交易拥挤风险增加 洼地资产有望逐步成为公募布局方向",
-          "url": "https://wallstreetcn.com/livenews/3129039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "三季度公募基金调查显示：科技成长仍是“心头好”，极致分化后打法生变",
-          "url": "https://wallstreetcn.com/livenews/3129034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
-          "url": "https://www.cls.cn/detail/2417055",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（7月6日）",
-          "url": "https://flash.jin10.com/detail/20260706073106849800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "上周逾百亿资金回流股票ETF，硬科技板块热度居高不下",
-          "url": "https://wallstreetcn.com/livenews/3129030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        },
-        {
-          "title": "99万机器人伴侣续航撑不过一晚",
-          "url": "https://www.toutiao.com/trending/7659051533732642857/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -881,13 +1117,35 @@
           "time_info": "[00时35分 ~ 08时10分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
           "url": "https://www.cls.cn/detail/2417191",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
         },
@@ -898,9 +1156,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非农修复已到站，金价下一站等纪要发车",
+          "url": "https://flash.jin10.com/detail/20260706115418875800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
         }
       ]
     }
