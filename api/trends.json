@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-08T17:11:08.105551+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-07-08T19:24:22.901133+08:00",
+  "total_titles_processed": 1316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时59分 ~ 19时24分]"
+        },
         {
           "title": "美军：开始对伊朗发动系列打击",
           "url": "https://www.cls.cn/detail/2419769",
@@ -35,16 +47,29 @@
           "time_info": "[11时36分 ~ 17时11分]"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            2
+            1,
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 17时11分]"
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时24分]"
+        },
+        {
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时34分 ~ 19时24分]"
         },
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
@@ -58,28 +83,15 @@
           "time_info": "[06时39分 ~ 08时01分]"
         },
         {
-          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
-          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时34分 ~ 17时11分]"
-        },
-        {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时34分 ~ 17时11分]"
+          "time_info": "[17时10分 ~ 19时24分]"
         },
         {
           "title": "美军称对伊朗新一轮打击，击中超80个目标",
@@ -140,15 +152,17 @@
           "time_info": "[06时39分 ~ 14时34分]"
         },
         {
-          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
-          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
-          "source": "凤凰网",
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            16,
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 19时24分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：布什尔地区传出多起爆炸声。",
@@ -261,6 +275,18 @@
           "time_info": "11时37分"
         },
         {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时36分 ~ 19时24分]"
+        },
+        {
           "title": "沙特外交部：伊朗应对此类袭击及其后果承担全部责任。",
           "url": "https://flash.jin10.com/detail/20260708023304943800",
           "source": "金十数据",
@@ -294,29 +320,15 @@
           "time_info": "14时34分"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
+          "title": "卡塔尔内阁：我们谴责伊朗对巴林和科威特的频繁攻击，认为这是对两国主权的严重侵犯。",
+          "url": "https://flash.jin10.com/detail/20260708190858989800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            12,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 17时11分]"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时36分 ~ 17时11分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "美军对伊朗发动强力打击",
@@ -433,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "卡塔尔内阁：我们要求伊朗停止这些危险做法，并保留采取适当行动以保护本国利益的权利。",
+          "url": "https://flash.jin10.com/detail/20260708190706956800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "据天空新闻：消息人士称，美军打击行动仍在持续。与此前所谓停火期间美国对伊朗发动的打击相比，此次行动似乎持续时间更长、规模更大。",
@@ -633,6 +656,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "伊朗总统：美国在世界杯上行为体现其“霸凌”本质",
+          "url": "https://wallstreetcn.com/livenews/3130604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "卡塔尔就其运输船遇袭向伊朗发出照会",
           "url": "https://wallstreetcn.com/livenews/3130190",
           "source": "华尔街见闻-快讯",
@@ -642,6 +676,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "伊朗称胡齐斯坦省遭美方袭击 致1死2伤",
+          "url": "https://wallstreetcn.com/livenews/3130603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "据伊朗国家电视台：阿巴斯港市和格什姆的局势已恢复正常，锡里克地区仍有爆炸声。",
@@ -697,6 +742,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
+        },
+        {
+          "title": "伊朗布什尔省两处军事基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3130598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "伊朗外交部：伊朗认为美国政府应对“违反”结束战争的《伊斯兰堡谅解备忘录》所造成的后果负责。",
@@ -867,7 +923,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -942,6 +998,17 @@
           "time_info": "[11时36分 ~ 17时11分]"
         },
         {
+          "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
+          "url": "https://news.ifeng.com/c/8ub1oqRPQxp",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "特朗普政府将今明两年布油价格预期下调超10美元，上调今年美国石油产量预期",
           "url": "https://wallstreetcn.com/livenews/3130093",
           "source": "华尔街见闻-快讯",
@@ -978,6 +1045,17 @@
           "time_info": "[00时33分 ~ 08时01分]"
         },
         {
+          "title": "特朗普称美伊谅解备忘录已经终结",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "据Axios：一名美国官员表示，特朗普在土耳其参加北约峰会期间批准了针对伊朗的打击计划，并于今日下令实施。目前尚不清楚打击行动将持续多久。",
           "url": "https://flash.jin10.com/detail/20260708074240544800",
           "source": "金十数据",
@@ -995,9 +1073,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "伊朗最高领袖顾问：美国总统特朗普意图再次发动袭击，我们已做好充分准备。",
@@ -1017,7 +1106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1028,7 +1117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1048,11 +1137,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 19时24分]"
         },
         {
           "title": "特朗普说中国威胁论纯属危言耸听",
@@ -1105,9 +1195,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普称美伊临时停火协议已结束",
@@ -1116,7 +1217,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1132,13 +1233,24 @@
           "time_info": "00时34分"
         },
         {
+          "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
+          "url": "https://www.cls.cn/detail/2420505",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "特朗普称美伊备忘录“已终结” 局势已经回到了原点",
           "url": "https://flash.jin10.com/detail/20260708164211261800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1160,7 +1272,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1182,7 +1294,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1193,7 +1305,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1207,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "法院记录显示，美国俄勒冈州正寻求获取有关派拉蒙游说特朗普政府支持该并购交易的相关文件。",
@@ -1237,7 +1360,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1259,7 +1382,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1270,7 +1393,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1281,7 +1404,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1303,7 +1426,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1314,7 +1437,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1328,12 +1451,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普认为美伊谅解备忘录已终结",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A4%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E5%B7%B2%E7%BB%88%E7%BB%93%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "“我们没有看空英伟达”！SemiAnalysis又发小作文：“AI央行”英伟达撬动7万亿债务雪球",
@@ -1409,13 +1543,26 @@
           "time_info": "14时34分"
         },
         {
+          "title": "日本合体搞AI试图突围中美",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 19时24分]"
+        },
+        {
           "title": "中兴全球首款AI智能体手机将亮相2026WAIC",
           "url": "https://wallstreetcn.com/livenews/3130543",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1432,18 +1579,6 @@
           "time_info": "[11时36分 ~ 17时11分]"
         },
         {
-          "title": "日本合体搞AI试图突围中美",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355995&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%90%88%E4%BD%93%E6%90%9EAI%E8%AF%95%E5%9B%BE%E7%AA%81%E5%9B%B4%E4%B8%AD%E7%BE%8E",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 17时11分]"
-        },
-        {
           "title": "行业景气度持续回暖，多家A股化工企业上半年业绩预喜",
           "url": "https://wallstreetcn.com/livenews/3130206",
           "source": "华尔街见闻-快讯",
@@ -1454,6 +1589,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 08时01分]"
+        },
+        {
+          "title": "日本高中生携AI爆破被捕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 19时24分]"
         },
         {
           "title": "A股失守4000点关口 后市如何演绎",
@@ -1477,17 +1624,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 00时34分]"
-        },
-        {
-          "title": "日本高中生携AI爆破被捕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356003&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%AB%98%E4%B8%AD%E7%94%9F%E6%90%BAAI%E7%88%86%E7%A0%B4%E8%A2%AB%E6%8D%95",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "恒科指暴涨5%，阿里狂飙超10%，A股震荡收跌，创业板跌近2%，芯片、AI服务器爆发",
@@ -1567,6 +1703,28 @@
           "time_info": "14时34分"
         },
         {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2420504",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "韩国股市暴跌20%逼近熊市，AI热潮遭遇“业绩越炸跌越狠”的尴尬",
           "url": "https://flash.jin10.com/detail/20260708135940359800",
           "source": "金十数据",
@@ -1622,6 +1780,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "大V：A股涨跌全看半导体",
+          "url": "https://www.toutiao.com/trending/7659370681934757924/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美国参议院民主党成员Warren施压五角大楼与多家AI公司，要求披露合同。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3130078",
           "source": "华尔街见闻-快讯",
@@ -1655,6 +1824,28 @@
           "time_info": "08时01分"
         },
         {
+          "title": "A股再现天价离婚案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E7%8E%B0%E5%A4%A9%E4%BB%B7%E7%A6%BB%E5%A9%9A%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "博主：A股这波调整何时休",
+          "url": "https://www.toutiao.com/trending/7660090915477786150/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "OpenAI官宣GPT-5.6发布时间",
           "url": "https://search.bilibili.com/all?keyword=GPT-5.6%E8%A6%81%E5%8F%91%E5%B8%83%E4%BA%86",
           "source": "bilibili 热搜",
@@ -1686,6 +1877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "张雨霏发视频AI模仿哈兰德",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%8F%91%E8%A7%86%E9%A2%91AI%E6%A8%A1%E4%BB%BF%E5%93%88%E5%85%B0%E5%BE%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "AI热潮后劲不足？交易员预测纳指100下半年或陷入震荡",
@@ -1724,7 +1926,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 27,
+      "match_count": 34,
       "titles": [
         {
           "title": "人形机器人成高端制造出口新名片",
@@ -1780,8 +1982,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 3,
+          "time_info": "[17时10分 ~ 19时24分]"
         },
         {
           "title": "A股AI服务器、交换机等算力硬件股持续活跃，带动AI PC概念异动拉升，泓禧科技30CM涨停，雷神科技涨超15%，华勤技术、慧为智能、亿道信息、联芸科技等跟涨。",
@@ -1801,9 +2003,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "中国央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://wallstreetcn.com/livenews/3130639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "恒生科技指数涨幅扩大至3%，智谱涨超9%，联想涨超8%。",
@@ -1874,6 +2087,61 @@
           "time_info": "[17时10分 ~ 17时11分]"
         },
         {
+          "title": "盛视科技：预计上半年净利润同比增长336.02%-460.59%",
+          "url": "https://wallstreetcn.com/livenews/3130629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
+          "url": "https://www.cls.cn/detail/2420430",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "金时科技：公司超级电容器业务仍处于前期发展阶段，整体收入占比较低，目前暂无在手订单，该业务未来能否为公司带来良好的业绩回报尚存在不确定性；公司（含合并报表范围内控股公司）目前不涉及液冷相关业务、光通信业务。",
+          "url": "https://wallstreetcn.com/livenews/3130626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "佳缘科技：因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。",
+          "url": "https://wallstreetcn.com/livenews/3130624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "天津普林：预计上半年净利润3600万元-5200万元，同比增长435.64%-673.71%；泰和电路科技（珠海）有限公司产能稳步释放，营业收入、净利润较上年同期均实现大幅增长。",
+          "url": "https://wallstreetcn.com/livenews/3130613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "Meta在聊天机器人和Instagram中推出AI图像生成模型",
           "url": "https://flash.jin10.com/detail/20260708020143676800",
           "source": "金十数据",
@@ -1913,7 +2181,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1924,7 +2192,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -1957,9 +2225,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "纳微科技：预计上半年净利润1.28亿元至1.50亿元，同比增长102%至137%；上半年，预计连续两个季度营业收入实现同比 30%以上的快速增长，其中核心业务色谱填料和层析介质产品的销售收入增速预计超过50%。",
+          "url": "https://wallstreetcn.com/livenews/3130602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "恒生科技指数涨超5%",
@@ -2031,7 +2310,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -2107,13 +2386,35 @@
           "time_info": "06时39分"
         },
         {
+          "title": "中东战火再燃，美股期指跌超1%，韩股入熊，油价大涨6%，金银跳水",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "博通美股盘前转涨，此前一度跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3130594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1％，道琼斯指数期货跌0.85％，标普500指数期货跌0.67％。",
           "url": "https://wallstreetcn.com/livenews/3130517",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -2124,7 +2425,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
         },
@@ -2143,7 +2444,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -2217,6 +2518,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗，李博杰称始终履行职责，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
