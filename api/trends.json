@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T04:53:30.269864+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-07-12T05:53:42.934585+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
@@ -37,20 +37,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
-          "url": "https://flash.jin10.com/detail/20260712041548582800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时53分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -81,30 +70,6 @@
           "time_info": "[01时02分 ~ 04时53分]"
         },
         {
-          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
-          "url": "https://flash.jin10.com/detail/20260712030241916800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时53分]"
-        },
-        {
-          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
-          "url": "https://flash.jin10.com/detail/20260712024237763800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时53分]"
-        },
-        {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
           "url": "https://wallstreetcn.com/livenews/3132344",
           "source": "华尔街见闻-快讯",
@@ -113,8 +78,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -125,8 +90,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
@@ -137,8 +102,59 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时53分]"
+        },
+        {
+          "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
+          "url": "https://flash.jin10.com/detail/20260712030241916800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 05时53分]"
+        },
+        {
+          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
+          "url": "https://flash.jin10.com/detail/20260712041548582800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时53分]"
+        },
+        {
+          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
+          "url": "https://flash.jin10.com/detail/20260712024237763800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 05时53分]"
+        },
+        {
+          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
+          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 05时53分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -152,18 +168,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 03时43分]"
-        },
-        {
-          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
-          "url": "https://flash.jin10.com/detail/20260712021317281800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 04时53分]"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -208,20 +212,20 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
+          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
+          "url": "https://www.cls.cn/detail/2423546",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
-          "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
-          "url": "https://www.cls.cn/detail/2423546",
-          "source": "财联社热门",
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
@@ -238,8 +242,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
+        },
+        {
+          "title": "重回AI一线？Meta单周大涨15%",
+          "url": "https://wallstreetcn.com/articles/3776692",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -250,32 +268,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
-        },
-        {
-          "title": "重回AI一线？Meta单周大涨15%",
-          "url": "https://wallstreetcn.com/articles/3776692",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
-          "url": "https://flash.jin10.com/detail/20260712043502920800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "无人机吊起2人神图系AI合成",
@@ -285,19 +279,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
-        },
-        {
-          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
-          "url": "https://flash.jin10.com/detail/20260712032711538800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "下周A股超40股限售解禁，7股解禁比例超10%",
@@ -308,8 +291,43 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时53分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：至少到目前为止，我相当确信，AI总体上是在创造就业岗位，而不是减少就业。这与我此前的预期并不一致。虽然我没有其他人那么悲观，但我原本认为，当AI发展到如今这样的能力水平时，应该已经对就业市场产生一定影响了。当然，这一趋势可能会继续下去。",
+          "url": "https://flash.jin10.com/detail/20260712043502920800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时53分]"
+        },
+        {
+          "title": "Meta AI生图功能惹争议 引发侵犯肖像权等担忧后已被下线",
+          "url": "https://flash.jin10.com/detail/20260712032711538800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时53分]"
+        },
+        {
+          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
+          "url": "https://www.cls.cn/detail/2423447",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "time_info": "[03时42分 ~ 05时53分]"
         },
         {
           "title": "A股下周怎么走",
@@ -324,26 +342,105 @@
           "time_info": "[01时02分 ~ 03时43分]"
         },
         {
-          "title": "美国FCC批准“太空反射镜”试点 马斯克要求员工使用自家AI | 环球市场",
-          "url": "https://www.cls.cn/detail/2423447",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 04时53分]"
-        },
-        {
           "title": "A股一周熊股出炉：最熊股跌超84%",
           "url": "https://www.toutiao.com/trending/7660657298100764698/",
           "source": "今日头条",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
+        },
+        {
+          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
+          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
+        },
+        {
+          "title": "特朗普在北约峰会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
+        },
+        {
+          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
+          "url": "https://flash.jin10.com/detail/20260712002717195800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            14,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 05时53分]"
+        },
+        {
+          "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
+          "url": "https://flash.jin10.com/detail/20260712053423358800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "六成美国民众认为特朗普以权谋私",
+          "url": "https://www.toutiao.com/trending/7660740613621841939/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         }
       ]
     },
@@ -356,11 +453,12 @@
           "url": "https://wallstreetcn.com/articles/3776694",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -371,8 +469,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -383,75 +481,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
           "url": "https://flash.jin10.com/detail/20260712034752790800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565148",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
-        },
-        {
-          "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
-          "url": "https://news.ifeng.com/c/8ufglrDUNWy",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
-        },
-        {
-          "title": "特朗普在北约峰会说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
-        },
-        {
-          "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
-          "url": "https://flash.jin10.com/detail/20260712002717195800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时53分]"
         }
       ]
     },
@@ -464,22 +507,24 @@
           "url": "https://wallstreetcn.com/articles/3776703",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "科技股续撑纳指三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 04时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 05时53分]"
         },
         {
           "title": "“孤岛”救援的中国科技",
@@ -504,11 +549,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[03时42分 ~ 05时53分]"
         }
       ]
     }
