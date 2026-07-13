@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:32:13.374016+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2026-07-13T22:26:17.833649+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 22时26分]"
         },
         {
           "title": "伊朗打击美国在中东地区目标",
@@ -132,6 +132,20 @@
           "time_info": "[07时58分 ~ 14时57分]"
         },
         {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 22时26分]"
+        },
+        {
           "title": "美国否认伊朗袭击致3名美军士兵死亡",
           "url": "https://wallstreetcn.com/livenews/3132467",
           "source": "华尔街见闻-快讯",
@@ -182,6 +196,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "伊朗外交部发言人：要为伤亡的伊朗人复仇",
+          "url": "https://wallstreetcn.com/livenews/3132961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "伊朗海军军官在美军袭击中身亡",
           "url": "https://wallstreetcn.com/livenews/3132420",
           "source": "华尔街见闻-快讯",
@@ -191,19 +216,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时02分 ~ 05时55分]"
-        },
-        {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 18时32分]"
         },
         {
           "title": "也门外交部重申，面对美国和以色列持续不断的侵略，也门将继续支持伊朗。",
@@ -581,7 +593,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -625,7 +637,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -663,6 +675,17 @@
           "time_info": "14时57分"
         },
         {
+          "title": "伊朗：不会允许美国干涉霍尔木兹海峡管理",
+          "url": "https://wallstreetcn.com/livenews/3132955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
           "url": "https://flash.jin10.com/detail/20260713055814899800",
           "source": "金十数据",
@@ -691,7 +714,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -768,7 +791,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -779,9 +802,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "伊朗军方称不会允许美国干涉霍尔木兹海峡 并警告地区国家勿配合美军",
+          "url": "https://wallstreetcn.com/livenews/3132932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "伊朗对美国位于海湾地区的军事目标发动大规模袭击",
@@ -798,7 +832,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -863,6 +897,18 @@
           "time_info": "[01时02分 ~ 06时53分]"
         },
         {
+          "title": "国务院批复《扩大消费“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2424650",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 22时26分]"
+        },
+        {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2423581",
           "source": "财联社热门",
@@ -873,6 +919,42 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时02分 ~ 07时58分]"
+        },
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，油涨金跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 22时26分]"
+        },
+        {
+          "title": "赛力斯A股股价跌停",
+          "url": "https://www.toutiao.com/trending/7661625503505252393/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "AI“下半场”的赛道变了？不再光比谁更大、更强……",
@@ -887,15 +969,15 @@
           "time_info": "[14时56分 ~ 18时32分]"
         },
         {
-          "title": "国务院批复《扩大消费“十五五”规划》",
-          "url": "https://www.cls.cn/detail/2424650",
+          "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
+          "url": "https://www.cls.cn/detail/2424821",
           "source": "财联社热门",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
@@ -965,19 +1047,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 18时32分]"
-        },
-        {
           "title": "AI是如何“杀死”印度IT行业的",
           "url": "https://www.toutiao.com/trending/7661654432722980388/",
           "source": "今日头条",
@@ -989,6 +1058,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时42分 ~ 07时58分]"
+        },
+        {
+          "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
+          "url": "https://wallstreetcn.com/articles/3776779",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "消费观突然就被矫正了",
@@ -1013,6 +1093,17 @@
           "time_info": "[18时31分 ~ 18时32分]"
         },
         {
+          "title": "国务院：让居民消费底气更足",
+          "url": "https://www.toutiao.com/trending/7661937802280239123/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
           "title": "AI需求蔓延至成熟制程 台积电拟上调报价 预计明年1月生效",
           "url": "https://www.cls.cn/detail/2424076",
           "source": "财联社热门",
@@ -1033,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "如何看待 SpaceXAI 的 Grok Build 被曝默认静默上传完整 Git 仓库？",
+          "url": "https://www.zhihu.com/question/2059755445468902035",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "沪指险守3900点 A股能否修复",
@@ -1129,7 +1231,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1145,13 +1247,24 @@
           "time_info": "11时44分"
         },
         {
+          "title": "Plus精选图示：AI巨头将公布二季度财报，现金流可能出现转折",
+          "url": "https://flash.jin10.com/detail/20260713221325781800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "《扩大消费“十五五”规划》：有序放宽服务业准入限制，优化新业态新领域市场准入环境",
           "url": "https://wallstreetcn.com/livenews/3132776",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1184,7 +1297,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1217,9 +1330,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3132944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "A股存储芯片概念股午后持续走弱，兆易创新触及跌停，成交额超300亿元。此前香农芯创、德明利、诚邦股份跌停，普冉股份、雅创电子、北京君正、佰维存储等多股跌超10%。",
@@ -1239,7 +1363,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1261,7 +1385,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1313,7 +1437,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -1353,6 +1477,19 @@
           "time_info": "[11时44分 ~ 18时32分]"
         },
         {
+          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
+          "url": "https://wallstreetcn.com/articles/3776747",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 22时26分]"
+        },
+        {
           "title": "夏粮增产20亿斤背后的科技密码",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%8F%E7%B2%AE%E5%A2%9E%E4%BA%A720%E4%BA%BF%E6%96%A4%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%AF%86%E7%A0%81%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -1364,25 +1501,13 @@
           "time_info": "[06时53分 ~ 07时58分]"
         },
         {
-          "title": "高盛：中国股票出现“轮动信号”，A股硬科技仍占优，H股互联网等盈利修复",
-          "url": "https://wallstreetcn.com/articles/3776747",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 18时32分]"
-        },
-        {
           "title": "沃顿科技：半导体及液冷领域业务收入占比不超过1%，不会对业绩产生重大影响",
           "url": "https://wallstreetcn.com/livenews/3132803",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1391,11 +1516,45 @@
           "url": "https://wallstreetcn.com/articles/3776758",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 22时26分]"
+        },
+        {
+          "title": "科技股去杠杆何时结束？机构：关键看两大信号",
+          "url": "https://wallstreetcn.com/articles/3776787",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
+          "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
+          "title": "科技股连续大跌 这轮牛市到顶了吗",
+          "url": "https://www.toutiao.com/trending/7661946107336855094/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 22时26分]"
         },
         {
           "title": "挑战在BW和机器人跳舞",
@@ -1437,7 +1596,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1470,7 +1629,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1492,7 +1651,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -1522,7 +1681,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -1543,8 +1702,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时44分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[11时44分 ~ 22时26分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -1570,6 +1729,39 @@
           "time_info": "[01时02分 ~ 07时58分]"
         },
         {
+          "title": "特朗普：美国将对过航霍尔木兹海峡的货物收取20%的“费用补偿”",
+          "url": "https://wallstreetcn.com/livenews/3132965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "美、布两油短线持续走高，现分别报74.71美元/桶和79.5美元/桶。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713222044730800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时31分 ~ 22时26分]"
+        },
+        {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
           "url": "https://flash.jin10.com/detail/20260713021538403800",
           "source": "金十数据",
@@ -1581,17 +1773,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时55分]"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -1628,6 +1809,28 @@
           "time_info": "[14时56分 ~ 14时57分]"
         },
         {
+          "title": "现货黄金短线走低，回落至4020美元/盎司下方，日内跌2.50%。消息面上，特朗普宣布恢复对伊朗封锁。",
+          "url": "https://flash.jin10.com/detail/20260713221733697800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "特朗普：即刻起恢复封锁伊朗 对货物运输收取20%费用",
+          "url": "https://flash.jin10.com/detail/20260713221707911800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
           "url": "https://flash.jin10.com/detail/20260712224922649800",
           "source": "金十数据",
@@ -1642,7 +1845,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
@@ -1677,6 +1880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3132940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     }
