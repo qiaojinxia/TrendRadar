@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T05:32:39.706590+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2026-07-15T06:59:47.875719+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "英新首相上任即迎考验 经济承压、伊朗风险加剧",
@@ -47,9 +47,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
+          "url": "https://flash.jin10.com/detail/20260715064945051800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗亨格姆岛遭美方炮弹袭击。",
@@ -58,20 +69,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
         {
-          "title": "伊朗官方通讯社（IRNA）：亨加姆岛（Hengam Island）遭到投射物袭击。",
-          "url": "https://wallstreetcn.com/livenews/3133892",
+          "title": "伊朗地方政府：霍尔木兹海峡发生交火",
+          "url": "https://flash.jin10.com/detail/20260715064933426800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国冻结伊朗数字资产超1.3亿美元",
+          "url": "https://wallstreetcn.com/livenews/3133920",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时32分"
+          "time_info": "06时59分"
+        },
+        {
+          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
+          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "伊朗霍尔木兹甘省政府表示，当地时间约23时，美军打击命中伊朗南部锡里克附近地区。",
@@ -96,15 +129,16 @@
           "time_info": "04时15分"
         },
         {
-          "title": "伊朗Bushehr核工厂周边的防空系统被激活。（MEHR）",
-          "url": "https://wallstreetcn.com/livenews/3133891",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.toutiao.com/trending/7662353080528145926/",
+          "source": "今日头条",
           "ranks": [
-            3
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "据ABC：一名美国官员证实，美军目前正在伊朗境内实施空袭行动。该官员表示，空袭已持续数小时。",
@@ -135,7 +169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -146,7 +180,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -173,29 +207,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
-          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.toutiao.com/trending/7662353080528145926/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -203,19 +214,44 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "伊朗官方通讯社（IRNA）：亨加姆岛（Hengam Island）遭到投射物袭击。",
+          "url": "https://wallstreetcn.com/livenews/3133892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时59分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://wallstreetcn.com/articles/3776923",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时32分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 06时59分]"
+        },
+        {
+          "title": "伊朗Bushehr核工厂周边的防空系统被激活。（MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3133891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时59分]"
         },
         {
           "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
@@ -285,6 +321,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "英国外交部：就代理人组织发动袭击一事，召见伊朗驻英临时代办。",
+          "url": "https://flash.jin10.com/detail/20260715061844356800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "据伊朗媒体：伊朗格什姆岛和班达尔阿巴斯再次传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260715032420134800",
           "source": "金十数据",
@@ -318,6 +365,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "伊朗谴责美军袭击伊环境保护站致三人死亡",
+          "url": "https://wallstreetcn.com/livenews/3133908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "伊朗基什岛水电工程公司表示，在美国于周二凌晨发动的袭击中，一枚射弹在基什岛供水供电设施附近爆炸。由于爆炸点距离发电机组较近，部分发电机组的技术参数发生变化。",
           "url": "https://flash.jin10.com/detail/20260715003916670800",
           "source": "金十数据",
@@ -349,6 +407,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "伊朗媒体援引霍尔木兹甘省省长的话称，阿巴斯港、沿海地区及波斯湾岛屿听到的声音与霍尔木兹海峡的冲突有关。",
+          "url": "https://flash.jin10.com/detail/20260715061459331800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "伊朗副外长：在战争状态下，我们将完全管理霍尔木兹海峡。",
@@ -395,6 +464,28 @@
           "time_info": "04时15分"
         },
         {
+          "title": "伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3133901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：爆炸声似与海湾、阿曼湾及霍尔木兹海峡水域发生的交火和冲突有关。",
+          "url": "https://flash.jin10.com/detail/20260715055659440800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "伊朗Andimeshk市传出爆炸声。（Irib新闻社）",
           "url": "https://wallstreetcn.com/livenews/3133778",
           "source": "华尔街见闻-快讯",
@@ -404,6 +495,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "伊朗军方称持续打击地区内美军基地",
+          "url": "https://wallstreetcn.com/livenews/3133900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：霍尔木兹甘省东部海域及锡里克地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260715055613933800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "伊朗亨贾姆岛及阿巴斯港传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3133898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
@@ -417,380 +541,77 @@
           "time_info": "01时23分"
         },
         {
-          "title": "美军宣布恢复对伊朗实行海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3133867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "a股 ai 消费",
-      "match_count": 31,
-      "titles": [
-        {
-          "title": "未来5年消费“路线图”来了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "惠民生促消费双向发力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%83%A0%E6%B0%91%E7%94%9F%E4%BF%83%E6%B6%88%E8%B4%B9%E5%8F%8C%E5%90%91%E5%8F%91%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
-          "url": "https://www.zhihu.com/question/2060385485915263811",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
-          "url": "https://www.cls.cn/detail/2425963",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
-          "url": "https://wallstreetcn.com/livenews/3133848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581628",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
-          "url": "https://www.cls.cn/detail/2426403",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
-          "url": "https://wallstreetcn.com/livenews/3133798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时40分]"
-        },
-        {
-          "title": "AI生成环卫工照片获摄影比赛一等奖",
-          "url": "https://www.toutiao.com/trending/7662295509886697491/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "UP主解读AI浪潮下的资本周期",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
-        },
-        {
-          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
-          "url": "https://www.zhihu.com/question/2059349642496710015",
-          "source": "知乎",
-          "ranks": [
-            15,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时40分]"
-        },
-        {
-          "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
-          "url": "https://flash.jin10.com/detail/20260715004912134800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
-          "url": "https://flash.jin10.com/detail/20260715050136121800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "OpenAI：我们相信竞争，也支持人们自由选择工作地点。",
-          "url": "https://flash.jin10.com/detail/20260715034128035800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "OpenAI回应苹果诉讼：目前未发现任何证据支持相关指控。",
-          "url": "https://flash.jin10.com/detail/20260715033822967800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
-          "url": "https://wallstreetcn.com/articles/3776834",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "OpenAI回应苹果诉讼：我们严肃对待这些指控。",
-          "url": "https://flash.jin10.com/detail/20260715033549266800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美联储理事巴尔：AI有潜力显著提升生产率，尤其将惠及低技能和经验不足的劳动者。",
-          "url": "https://flash.jin10.com/detail/20260715004624591800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
-          "url": "https://flash.jin10.com/detail/20260715044652988800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美联储理事巴尔：AI将从多个方面影响劳动力市场和整体经济，目前尚无法判断其会缩小还是加剧收入和财富不平等。",
-          "url": "https://flash.jin10.com/detail/20260715004456687800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
-          "url": "https://flash.jin10.com/detail/20260715044636741800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
-          "url": "https://wallstreetcn.com/livenews/3133879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
-          "url": "https://wallstreetcn.com/livenews/3133873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
-          "url": "https://wallstreetcn.com/livenews/3133872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "苹果洽谈AI初创公司，拟让大模型直接运行于iPhone",
-          "url": "https://flash.jin10.com/detail/20260715012440056800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "苹果正与一家能将AI模型压缩至在iPhone上运行的初创公司洽谈",
-          "url": "https://wallstreetcn.com/livenews/3133806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
-          "url": "https://wallstreetcn.com/livenews/3133777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "美国电网运营巨头PJM Interconnection LLC在AI繁荣期没能实现关键的电力供应目标。 该公司与可靠的电力需求目标之间存在6.8 GW缺口。",
-          "url": "https://wallstreetcn.com/livenews/3133868",
+          "title": "伊朗副总统：美国违背承诺在预料之中",
+          "url": "https://wallstreetcn.com/livenews/3133895",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "伊朗军方称持续打击地区内美军基地",
+          "url": "https://flash.jin10.com/detail/20260715054903206800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美军宣布恢复对伊朗实行海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3133867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "伊朗亨贾姆岛及阿巴斯港传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260715054703235800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，针对该地区美国基地的无人机行动将持续进行，直至“最终胜利”。",
+          "url": "https://flash.jin10.com/detail/20260715054416739800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
@@ -804,15 +625,16 @@
           "time_info": "[01时23分 ~ 05时32分]"
         },
         {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时59分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -823,8 +645,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
+          "url": "https://flash.jin10.com/detail/20260715064314727800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -834,33 +667,24 @@
             7,
             10,
             25,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时32分]"
-        },
-        {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时32分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 06时59分]"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -868,11 +692,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时32分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时59分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -897,6 +722,127 @@
           "time_info": "02时40分"
         },
         {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普证实美伊举行对话 暗示仍可能存在谈判路径",
+          "url": "https://flash.jin10.com/detail/20260715063311504800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普称与伊朗方面举行了会谈 威胁打击电厂",
+          "url": "https://flash.jin10.com/detail/20260715062920165800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普：将继续打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3133913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
+          "url": "https://flash.jin10.com/detail/20260715062230575800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国总统特朗普宣称：现在，我才不想与伊朗对话。 （被问及他上一次与伊朗方面交谈是什么时候时）我的代表就在今天下午已经与伊朗官员交谈。 美方（已经）告诉伊朗，最好还是达成一份协议。 我们一直都认真仔细地对待（伊朗）平民。 美国官员告诉伊朗方面，德黑兰最好达成协议，否则将“一无所有”。 （当被问及是否认为伊朗会达成协议）伊朗应该这么做，但他不知道伊朗会不会这样做。",
+          "url": "https://wallstreetcn.com/livenews/3133911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "据法新社：美国总统特朗普威胁称，如果没有达成协议，将于下周打击伊朗发电厂。",
+          "url": "https://flash.jin10.com/detail/20260715061817167800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国总统特朗普：美国敦促伊朗达成协议。",
+          "url": "https://flash.jin10.com/detail/20260715061639787800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国总统特朗普：美国于周二与伊朗进行了对话。",
+          "url": "https://flash.jin10.com/detail/20260715061629798800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普：对伊朗的打击将持续到我喊停 能源目标最后再打",
+          "url": "https://wallstreetcn.com/livenews/3133907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "美国总统特朗普针对俄罗斯制裁立法草案声称：（美国国会山）可能会将伊朗塞入其中。 他们可能会将霍尔木兹海峡问题塞入俄罗斯草案。 俄罗斯草案可能会纳入霍尔木兹与伊朗。",
           "url": "https://wallstreetcn.com/livenews/3133784",
           "source": "华尔街见闻-快讯",
@@ -914,9 +860,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "美国总统特朗普：将把针对伊朗的能源设施目标留到最后。",
+          "url": "https://flash.jin10.com/detail/20260715061205994800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美国总统特朗普在预先录制的采访中宣称：我们“痛打”伊朗。 我们必须维持霍尔木兹海峡的开放。 重申海峡仍然是开放的。 他们已经完成了伊朗目标。 “袭击伊朗”将持续至我喊“够了”。 他们还剩下一些战斗，但已经不多了。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3133905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -925,9 +893,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，对伊朗的打击将持续，直到我说够了为止。伊朗还有一些斗志，但他们的余力不多。",
+          "url": "https://flash.jin10.com/detail/20260715061106742800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "美国总统特朗普声称：通胀趋势将会延续下去。",
@@ -1042,8 +1021,392 @@
       ]
     },
     {
+      "keyword_group": "a股 ai 消费",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "未来5年消费“路线图”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "惠民生促消费双向发力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%83%A0%E6%B0%91%E7%94%9F%E4%BF%83%E6%B6%88%E8%B4%B9%E5%8F%8C%E5%90%91%E5%8F%91%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "当AI穿上白大褂：谁来唤醒沉睡的医疗数据？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33524110",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "如何评价呼和浩特摄影比赛一等奖作品疑 AI 生成，工作人员称「的确太假了」？应该允许 AI 作品参展吗？",
+          "url": "https://www.zhihu.com/question/2060385485915263811",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
+          "url": "https://www.cls.cn/detail/2425963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581628",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "OpenAI置评苹果公司发起的窃密诉讼：对原告的任何证据都不知情。 我们严肃对待苹果的指控。",
+          "url": "https://wallstreetcn.com/livenews/3133848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
+          "url": "https://www.cls.cn/detail/2426403",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "媒体：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://wallstreetcn.com/livenews/3133917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "AI生成环卫工照片获摄影比赛一等奖",
+          "url": "https://www.toutiao.com/trending/7662295509886697491/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15,
+            9,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "UP主解读AI浪潮下的资本周期",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBAI%E6%B5%AA%E6%BD%AE%E4%B8%8B%E7%9A%84%E8%B5%84%E6%9C%AC%E5%91%A8%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            18,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
+        },
+        {
+          "title": "摩根大通敦促员工慎用高价AI处理简单任务，企业高管开始忧心成本",
+          "url": "https://wallstreetcn.com/livenews/3133798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时40分]"
+        },
+        {
+          "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
+          "url": "https://www.zhihu.com/question/2059349642496710015",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时23分 ~ 02时40分]"
+        },
+        {
+          "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
+          "url": "https://flash.jin10.com/detail/20260715004912134800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "OpenAI开始涉足苹果“舒适区”，拟推首款AI硬件",
+          "url": "https://flash.jin10.com/detail/20260715050136121800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "印媒：“悄然转向”，印度企业青睐中国AI大模型",
+          "url": "https://flash.jin10.com/detail/20260715064114258800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "OpenAI：我们相信竞争，也支持人们自由选择工作地点。",
+          "url": "https://flash.jin10.com/detail/20260715034128035800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "OpenAI回应苹果诉讼：目前未发现任何证据支持相关指控。",
+          "url": "https://flash.jin10.com/detail/20260715033822967800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "韩国信贷耗尽、SK海力士蒸发890亿美元——但A股在同一场恐慌里完成了两笔反向投票",
+          "url": "https://wallstreetcn.com/articles/3776834",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "OpenAI回应苹果诉讼：我们严肃对待这些指控。",
+          "url": "https://flash.jin10.com/detail/20260715033549266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美联储理事巴尔：AI有潜力显著提升生产率，尤其将惠及低技能和经验不足的劳动者。",
+          "url": "https://flash.jin10.com/detail/20260715004624591800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "OpenAI表示，其AI智能音箱产品并未侵犯苹果(AAPL.O)的商业机密。",
+          "url": "https://flash.jin10.com/detail/20260715044652988800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美联储理事巴尔：AI将从多个方面影响劳动力市场和整体经济，目前尚无法判断其会缩小还是加剧收入和财富不平等。",
+          "url": "https://flash.jin10.com/detail/20260715004456687800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "市场消息：OpenAI计划推出AI智能音箱作为旗下首款硬件产品，定位为AI陪伴助手。",
+          "url": "https://flash.jin10.com/detail/20260715044636741800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "OpenAI打算发布家用音箱，作为其首款硬件产品",
+          "url": "https://wallstreetcn.com/livenews/3133879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美联储理事、曾经担任金融监管事务的副主席迈克尔·巴尔表示，尽管他欢迎创新，但AI究竟会减少还是加剧收入和财富不平等，目前尚不清楚。 “关于AI在不远和遥远的未来将能做到什么，我们听到了许多大胆论断。有些可能会成为现实，有些则不会。但未来的不平等不仅取决于AI能做什么，也取决于我们选择用AI做什么，”巴尔表示。",
+          "url": "https://wallstreetcn.com/livenews/3133873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美联储负责监管的副主席鲍曼：不应在AI等问题上“微观管理”银行",
+          "url": "https://wallstreetcn.com/livenews/3133872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "苹果洽谈AI初创公司，拟让大模型直接运行于iPhone",
+          "url": "https://flash.jin10.com/detail/20260715012440056800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "苹果正与一家能将AI模型压缩至在iPhone上运行的初创公司洽谈",
+          "url": "https://wallstreetcn.com/livenews/3133806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "美联储主席沃什：人工智能（AI）供应冲击发生的速度比我想象的更迅速。",
+          "url": "https://wallstreetcn.com/livenews/3133777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC在AI繁荣期没能实现关键的电力供应目标。 该公司与可靠的电力需求目标之间存在6.8 GW缺口。",
+          "url": "https://wallstreetcn.com/livenews/3133868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1075,9 +1438,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时59分]"
         },
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -1091,15 +1454,27 @@
           "time_info": "04时15分"
         },
         {
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
           "url": "https://wallstreetcn.com/livenews/3133888",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时59分]"
         },
         {
           "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
@@ -1108,7 +1483,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -1152,7 +1527,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -1160,7 +1535,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "长鑫科技公告：发行价格为8.66元/股",
@@ -1172,8 +1547,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         },
         {
           "title": "小米机器人打螺丝成功率98%",
@@ -1190,6 +1565,19 @@
           "time_info": "[01时23分 ~ 05时32分]"
         },
         {
+          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
+          "url": "https://www.zhihu.com/question/2058449781597459395",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 06时59分]"
+        },
+        {
           "title": "长鑫科技公告",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -1203,16 +1591,38 @@
           "time_info": "[01时23分 ~ 04时15分]"
         },
         {
-          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
-          "url": "https://www.zhihu.com/question/2058449781597459395",
-          "source": "知乎",
+          "title": "长鑫科技发行价确定为8.66元",
+          "url": "https://www.douyin.com/hot/2571581",
+          "source": "抖音",
           "ranks": [
-            20,
-            18
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 05时32分]"
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时59分]"
+        },
+        {
+          "title": "绩优基金二季报密集披露：更加聚焦硬科技，锚定产业发展趋势",
+          "url": "https://wallstreetcn.com/livenews/3133915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "长鑫科技IPO定价出炉，专家呼吁理性看待企业创新成长价值",
+          "url": "https://wallstreetcn.com/livenews/3133909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.18%，报24400点。 恒生科技指数主连夜盘收跌0.11%，报4692点。",
@@ -1232,7 +1642,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -1243,18 +1653,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "长鑫科技发行价确定为8.66元",
-          "url": "https://www.douyin.com/hot/2571581",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -1270,11 +1669,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 04时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 06时59分]"
         },
         {
           "title": "金价在美国CPI通胀数据发布日涨超1.2%，钯金涨4.1%",
@@ -1283,7 +1683,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         },
@@ -1297,6 +1697,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "据知情人士透露，高盛100亿美元高评级债券发行获得大约320亿美元认购。 在6-31年的三部分到期时间债券供应中，久期最长的债券收益率定价较可比美债溢价大约113个基点，最初讨论的收窄大约22个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3133904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         }
       ]
     },
@@ -1322,7 +1750,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
         }
@@ -1340,8 +1768,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 06时59分]"
         }
       ]
     },
@@ -1355,23 +1783,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
