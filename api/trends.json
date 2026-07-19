@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-19T20:03:03.227005+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-07-19T22:03:02.018607+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 106,
+      "match_count": 121,
       "titles": [
+        {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 22时03分]"
+        },
         {
           "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
           "url": "https://news.ifeng.com/c/8us98j6W28N",
@@ -34,18 +46,6 @@
           "time_info": "[00时27分 ~ 09时04分]"
         },
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时50分 ~ 20时03分]"
-        },
-        {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
           "url": "https://www.cls.cn/detail/2430332",
           "source": "财联社热门",
@@ -54,11 +54,34 @@
             6,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时04分 ~ 20时03分]"
+          "appearance_count": 11,
+          "time_info": "[09时04分 ~ 22时03分]"
+        },
+        {
+          "title": "伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 22时03分]"
+        },
+        {
+          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
+          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 22时03分]"
         },
         {
           "title": "伊朗打击科威特、巴林、约旦的美军目标，发射镜头曝光",
@@ -107,26 +130,17 @@
           "time_info": "[12时50分 ~ 17时31分]"
         },
         {
-          "title": "伊朗让美军付出重大代价",
-          "url": "https://news.ifeng.com/c/8usdq92gz1I",
-          "source": "凤凰网",
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            1
+            29,
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 20时03分]"
-        },
-        {
-          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
-          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 20时03分]"
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 22时03分]"
         },
         {
           "title": "科威特消防部门表示，救援队伍已成功控制住伊朗袭击目标区域的两处火灾。 救援队伍已扑灭因弹片落入居民区而引发的另外三处火灾。",
@@ -191,18 +205,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 07时28分]"
-        },
-        {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时28分 ~ 20时03分]"
         },
         {
           "title": "伊朗外交部发言人：美国违反协议，造成“不可能”全面落实谅解备忘录（MoU）。 美国违反MoU期间，伊朗不会全面履行MoU提出的义务。（伊朗半官方媒体Tasnim）",
@@ -371,17 +373,6 @@
           "time_info": "15时29分"
         },
         {
-          "title": "科威特：发电站和海水淡化工厂再次遭到伊朗打击。 伊朗的打击造成发电站和水厂起火。 大量发电部门受到影响。 正设法让受到破坏的部门恢复运营。",
-          "url": "https://wallstreetcn.com/livenews/3136259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
           "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
           "url": "https://flash.jin10.com/detail/20260719034107497800",
           "source": "金十数据",
@@ -412,7 +403,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -426,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "约旦称击落3枚伊朗导弹，将保持最高级别戒备",
+          "url": "https://wallstreetcn.com/livenews/3136294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗政府：伊朗外长阿拉格齐与伊拉克外长福阿德·侯赛因就美国对伊朗发动军事袭击后最新地区事态发展、华盛顿多次违反《伊斯兰堡谅解备忘录》的情况，以及伊朗针对相关行动采取的回应进行了讨论。",
@@ -535,6 +537,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 15时29分]"
+        },
+        {
+          "title": "科威特：发电站和海水淡化工厂再次遭到伊朗打击。 伊朗的打击造成发电站和水厂起火。 大量发电部门受到影响。 正设法让受到破坏的部门恢复运营。",
+          "url": "https://wallstreetcn.com/livenews/3136259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时03分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社发布伊朗导弹击中约旦穆瓦法克·萨勒提空军基地的瞬间。此次袭击导致两名美国军人死亡，另有一名美国军人失踪。",
@@ -792,6 +806,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3136292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗革命卫队海军司令：美国别无选择，只能远离海湾。",
           "url": "https://flash.jin10.com/detail/20260718230600966800",
           "source": "金十数据",
@@ -853,7 +878,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -889,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "美国能源部长赖特：无论伊朗是否提供帮助，（美方）都将确保霍尔木兹海峡的石油输送。海峡石油流动的“七天截尾均值”低于700万桶/日。<br/>",
+          "url": "https://flash.jin10.com/detail/20260719211212937800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：美国既然执意挑起战火，并准备承担更加沉重的代价和更大的耻辱，就应当知道，伊朗人民和抵抗阵线已为其准备了永远无法忘记的教训。",
@@ -933,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "伊朗外长：部分核争端可能“无法解决”",
+          "url": "https://wallstreetcn.com/livenews/3136283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "局势持续升级！美军连续第七晚空袭伊朗 被曝将向以增派数十架加油机",
@@ -1001,6 +1048,17 @@
           "time_info": "18时57分"
         },
         {
+          "title": "约旦武装部队称拦截3枚伊朗发射的导弹",
+          "url": "https://flash.jin10.com/detail/20260719205616524800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗称哈吉阿巴德遭美军袭击",
           "url": "https://wallstreetcn.com/livenews/3136093",
           "source": "华尔街见闻-快讯",
@@ -1023,15 +1081,37 @@
           "time_info": "03时09分"
         },
         {
+          "title": "约旦军方表示，三枚针对南部城市亚喀巴的伊朗弹道导弹被拦截，第四枚则落在一片空旷地区。",
+          "url": "https://flash.jin10.com/detail/20260719205216938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗革命卫队称两艘船只在霍尔木兹海峡发生事故",
           "url": "https://wallstreetcn.com/livenews/3136244",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
+        },
+        {
+          "title": "以军称监测到伊朗向约旦亚喀巴方向发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3136280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社援引当地官员的话称，美国军方瞄准了靠近（西南部胡齐斯坦省）沙德甘的一个地点。",
@@ -1054,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        },
+        {
+          "title": "据约旦国家新闻社援引军事官员的消息称，伊朗导弹坠落在约旦后未造成人员伤亡或重大损失。",
+          "url": "https://flash.jin10.com/detail/20260719205141551800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗称将转入全面毁灭性反击阶段",
@@ -1089,6 +1180,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "国际原子能机构：国际原子能机构已就公开报道与伊朗方面进行了联系。",
+          "url": "https://flash.jin10.com/detail/20260719205111724800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗外交部：谅解备忘录不允许美在霍尔木兹海峡开辟独立平行航线",
           "url": "https://flash.jin10.com/detail/20260719002007369800",
           "source": "金十数据",
@@ -1122,6 +1224,28 @@
           "time_info": "12时50分"
         },
         {
+          "title": "国际原子能机构：国际原子能机构正在调查有关伊朗达尔霍温一处计划中的核电站施工现场遭遇夜间袭击的报告。",
+          "url": "https://flash.jin10.com/detail/20260719205005611800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "据约旦国家电视台：约旦武装部队表示，他们击落了三枚针对该国的伊朗导弹。",
+          "url": "https://flash.jin10.com/detail/20260719204926577800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗武装部队：将“毁灭性回击”美国野蛮行径",
           "url": "https://wallstreetcn.com/livenews/3136126",
           "source": "华尔街见闻-快讯",
@@ -1133,6 +1257,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "以色列媒体：伊朗最高领袖穆杰塔巴·哈梅内伊不在国内",
+          "url": "https://wallstreetcn.com/livenews/3136275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗分析人士回应科威特专家：想要安全就把美军从你们领土上撤走",
           "url": "https://flash.jin10.com/detail/20260719103255397800",
           "source": "金十数据",
@@ -1142,6 +1277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "据以色列第12频道：美军拦截了一枚朝约旦亚喀巴市发射的伊朗导弹。",
+          "url": "https://flash.jin10.com/detail/20260719204712183800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊媒：伊朗南部阿巴斯港和格什姆岛附近传出爆炸声",
@@ -1172,9 +1318,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
+        },
+        {
+          "title": "伊朗革命卫队针对霍尔木兹海峡关闭问题通报称：只要美国的恶意行径（malice）持续，海峡将维持关闭状态。（伊朗媒体FARS）",
+          "url": "https://wallstreetcn.com/livenews/3136273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗革命卫队：有两艘在霍尔木兹海峡南部航线上航行的船只发生事故，另有两艘船已宣布放弃航行。",
@@ -1232,6 +1389,17 @@
           "time_info": "15时29分"
         },
         {
+          "title": "以色列埃拉特市政府发言人：不久前，以色列国防军发言人通报称，探测到从伊朗方向向约旦亚喀巴市（靠近以色列领土）发射的导弹。最近几分钟内听到的爆炸声，是约旦境内拦截行动所致。目前，后方司令部的指导方针没有变化，预计国内各地区不会发布警报。该地区所有部队均处于戒备状态并做好了准备，包括正在进行的演习和训练。如果局势评估出现任何进一步变化，我们将及时发布最新消息。",
+          "url": "https://flash.jin10.com/detail/20260719202428143800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗：将“毁灭性回击”美国野蛮行径",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E2%80%9C%E6%AF%81%E7%81%AD%E6%80%A7%E5%9B%9E%E5%87%BB%E2%80%9D%E7%BE%8E%E5%9B%BD%E9%87%8E%E8%9B%AE%E8%A1%8C%E5%BE%84",
           "source": "百度热搜",
@@ -1246,7 +1414,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 75,
+      "match_count": 82,
       "titles": [
         {
           "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
@@ -1274,6 +1442,22 @@
           "time_info": "[00时27分 ~ 09时04分]"
         },
         {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 22时03分]"
+        },
+        {
           "title": "AI牛市结束了吗？市场充满疑虑",
           "url": "https://wallstreetcn.com/articles/3777289",
           "source": "华尔街见闻",
@@ -1285,21 +1469,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 09时04分]"
-        },
-        {
-          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2430229",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 20时03分]"
         },
         {
           "title": "《大众摄影》回应刊发“五腿牛”照片：作者承认系使用AI失误",
@@ -1369,8 +1538,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时13分 ~ 20时03分]"
+          "appearance_count": 16,
+          "time_info": "[04时13分 ~ 22时03分]"
+        },
+        {
+          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
+          "url": "https://www.cls.cn/detail/2430318",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 22时03分]"
         },
         {
           "title": "美企抄袭中国AI玩双标被点名",
@@ -1442,6 +1624,20 @@
           "time_info": "[01时33分 ~ 07时28分]"
         },
         {
+          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
+          "url": "https://www.cls.cn/detail/2430367",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 22时03分]"
+        },
+        {
           "title": "阿里云WAIC论坛： “AI爆发不靠一两颗芯片”、SaaS将转向“按结果付费”、模型不再是唯一核心",
           "url": "https://wallstreetcn.com/articles/3777301",
           "source": "华尔街见闻",
@@ -1482,19 +1678,6 @@
           "time_info": "[01时33分 ~ 07时28分]"
         },
         {
-          "title": "环球下周看点：AI交易迎关键考验 财报季、央行决议与中东局势牵动市场",
-          "url": "https://www.cls.cn/detail/2430318",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时50分 ~ 20时03分]"
-        },
-        {
           "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
           "url": "https://www.cls.cn/detail/2429875",
           "source": "财联社热门",
@@ -1506,17 +1689,17 @@
           "time_info": "[00时27分 ~ 06时25分]"
         },
         {
-          "title": "直击WAIC 2026：“全球AI for ADANES核能智能体系”来了，破解核安全与AI黑箱难题",
-          "url": "https://www.cls.cn/detail/2430367",
-          "source": "财联社热门",
+          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777355",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
-            8
+            7,
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时28分 ~ 20时03分]"
+          "time_info": "[17时31分 ~ 22时03分]"
         },
         {
           "title": "聚焦极端天气与城市灾害预警，“华雨GeoAI”大模型在WAIC首发",
@@ -1532,6 +1715,17 @@
           "time_info": "[00时28分 ~ 07时28分]"
         },
         {
+          "title": "“中国AI只差两三个月”，硅谷坐不住了",
+          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 22时03分]"
+        },
+        {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
           "url": "https://wallstreetcn.com/articles/3777263",
           "source": "华尔街见闻",
@@ -1542,6 +1736,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 05时25分]"
+        },
+        {
+          "title": "又一批A股半年报预喜，“易中天”已有2家披露",
+          "url": "https://www.cls.cn/detail/2430507",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时03分]"
         },
         {
           "title": "蔡磊获2026年度AI特别贡献人物",
@@ -1565,29 +1771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "AI算力需求与产品结构优化双轮驱动，新易盛上半年净利同比预增78%～103%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 20时03分]"
-        },
-        {
-          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
-          "url": "https://wallstreetcn.com/livenews/3136258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
         },
         {
           "title": "白宫前AI政策官员、 OpenAI战略未来主管迪恩·鲍尔：Kimi K3是一个非常优秀的模型！我不认为它的表现可以简单归因于蒸馏或类似技术。在智能体编程场景中，它的表现似乎基本可以与2026年第一季度最优秀的公开模型相媲美。",
@@ -1630,7 +1813,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -1708,15 +1891,16 @@
           "time_info": "[18时57分 ~ 20时03分]"
         },
         {
-          "title": "“中国AI只差两三个月”，硅谷坐不住了",
-          "url": "https://news.ifeng.com/c/8ut3mOkXOOH",
-          "source": "凤凰网",
+          "title": "诊疗方案与病历书写两大赛道，全国上百支队伍在沪比拼AI临床应用",
+          "url": "https://wallstreetcn.com/livenews/3136258",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            4,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 20时03分]"
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 22时03分]"
         },
         {
           "title": "乐奇Rokid携原生操作系统YodaOS亮相WAIC 2026",
@@ -1742,6 +1926,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 03时09分]"
+        },
+        {
+          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
+          "url": "https://www.zhihu.com/question/2061156114658485568",
+          "source": "知乎",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时02分 ~ 22时03分]"
         },
         {
           "title": "AI行业要重新洗牌了",
@@ -1792,28 +1988,6 @@
           "time_info": "[12时50分 ~ 15时29分]"
         },
         {
-          "title": "又一批A股半年报预喜，“易中天”已有2家披露",
-          "url": "https://www.cls.cn/detail/2430507",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
-        },
-        {
-          "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
-          "url": "https://www.zhihu.com/question/2061156114658485568",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
-        },
-        {
           "title": "响应“AI牛股”激励风向 阿斯麦将向全体员工发放2万欧元大红包",
           "url": "https://www.cls.cn/detail/2430037",
           "source": "财联社热门",
@@ -1825,6 +1999,17 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
+          "title": "Kimi K3让美国AI巨头慌了",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E8%AE%A9%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E6%85%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "下周A股机会来了吗",
           "url": "https://www.toutiao.com/trending/7663408925571727403/",
           "source": "今日头条",
@@ -1834,6 +2019,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
+          "title": "Kimi K3让全球AI圈炸锅了",
+          "url": "https://www.toutiao.com/trending/7664192249667784198/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "上海“星枢计划”首发星座在WAIC正式发布",
@@ -1857,6 +2053,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
+          "title": "下周A股会回稳吗",
+          "url": "https://www.toutiao.com/trending/7663684251825258537/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "用AI预测西班牙vs阿根廷",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%A2%84%E6%B5%8B%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
         },
         {
           "title": "今年的AI变在哪儿",
@@ -1887,7 +2105,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -1920,7 +2138,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -1953,7 +2171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -1978,6 +2196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        },
+        {
+          "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
+          "url": "https://wallstreetcn.com/livenews/3136278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "美媒称中国抹去美国在AI领域领先地位",
@@ -2035,6 +2264,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "国联民生证券：拟通过公司自有资金以集中竞价交易方式回购公司A股股份，回购资金额预计为1-2亿元人民币，回购股份用途包括但不限于维护公司价值及股东权益、减少公司注册资本等法律法规允许的用途。",
+          "url": "https://flash.jin10.com/detail/20260719204215780800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "摩尔线程WAIC 2026披露三大“AI工厂”进展",
           "url": "https://wallstreetcn.com/livenews/3136123",
           "source": "华尔街见闻-快讯",
@@ -2063,9 +2303,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
+        },
+        {
+          "title": "世界黄金协会CEO泰达维高度评价中国市场涌现的创新和活力。 “中国是全球黄金市场当中至关重要且充满活力的一部分，在市场发展、消费者培育、产品创新等方面的实践为全球黄金产业的发展提供了宝贵经验。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3136266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "寻汇联合万事达卡发布B2B行业首份AI智能体全球支付白皮书",
@@ -2148,19 +2399,8 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 41,
+      "match_count": 45,
       "titles": [
-        {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 06时25分]"
-        },
         {
           "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
           "url": "https://wallstreetcn.com/articles/3777330",
@@ -2171,8 +2411,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 22时03分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时50分 ~ 20时03分]"
+          "time_info": "[00时27分 ~ 06时25分]"
         },
         {
           "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
@@ -2190,6 +2441,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时28分]"
+        },
+        {
+          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
+          "url": "https://www.zhihu.com/question/2061864895159833546",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时28分 ~ 22时03分]"
+        },
+        {
+          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2430460",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 22时03分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -2229,19 +2506,6 @@
           "time_info": "17时31分"
         },
         {
-          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
-          "url": "https://www.zhihu.com/question/2061864895159833546",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时28分 ~ 20时03分]"
-        },
-        {
           "title": "机器人在WAIC一脚踹出真本事",
           "url": "https://www.douyin.com/hot/2574930",
           "source": "抖音",
@@ -2265,18 +2529,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 04时13分]"
-        },
-        {
-          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
-          "url": "https://www.cls.cn/detail/2430460",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 20时03分]"
         },
         {
           "title": "阡视科技发布超节点系统wylon",
@@ -2338,6 +2590,28 @@
           "time_info": "[15时28分 ~ 15时29分]"
         },
         {
+          "title": "中国机器人现在有多疯狂",
+          "url": "https://www.toutiao.com/trending/7664204045283757611/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
+          "title": "长鑫科技770万个中签号背后",
+          "url": "https://www.toutiao.com/trending/7664182019143765546/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 22时03分]"
+        },
+        {
           "title": "长鑫科技中签号出炉",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89",
           "source": "百度热搜",
@@ -2358,6 +2632,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
+          "url": "https://flash.jin10.com/detail/20260719211602664800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "当“大投行”撞上“硬科技”：中国券商正复制海外巨头的超级进化",
@@ -2382,13 +2667,24 @@
           "time_info": "17时31分"
         },
         {
+          "title": "晶科科技与商汤科技达成算电协同战略合作",
+          "url": "https://flash.jin10.com/detail/20260719211310261800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "万拿机器人发布两款灵巧手产品",
           "url": "https://flash.jin10.com/detail/20260719190348400800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -2410,7 +2706,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -2421,7 +2717,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -2443,7 +2739,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -2476,7 +2772,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -2564,7 +2860,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -2627,7 +2923,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -2643,6 +2939,21 @@
           "time_info": "[04时13分 ~ 17时31分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 22时03分]"
+        },
+        {
           "title": "白宫声称特朗普并非针对中国",
           "url": "https://news.ifeng.com/c/8urPoLCdQ0d",
           "source": "凤凰网",
@@ -2655,18 +2966,15 @@
           "time_info": "[00时27分 ~ 07时28分]"
         },
         {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            4,
-            3,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时50分 ~ 20时03分]"
+          "appearance_count": 6,
+          "time_info": "[18时56分 ~ 22时03分]"
         },
         {
           "title": "特朗普透露：因凡蒂诺曾建议美国和中国联合举办一届世界杯",
@@ -2735,17 +3043,6 @@
           "time_info": "[00时27分 ~ 07时28分]"
         },
         {
-          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
-          "url": "https://news.ifeng.com/c/8utCDuus6XE",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时56分 ~ 20时03分]"
-        },
-        {
           "title": "谁将与特朗普同举大力神杯",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "bilibili 热搜",
@@ -2766,7 +3063,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -2903,6 +3200,17 @@
           "time_info": "12时50分"
         },
         {
+          "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
+          "url": "https://wallstreetcn.com/livenews/3136290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -3004,8 +3312,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时50分 ~ 20时03分]"
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 22时03分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -3041,6 +3349,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时28分 ~ 22时03分]"
+        },
+        {
           "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3136067",
           "source": "华尔街见闻-快讯",
@@ -3054,25 +3374,13 @@
           "time_info": "[00时28分 ~ 07时28分]"
         },
         {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时28分 ~ 20时03分]"
-        },
-        {
           "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
           "url": "https://wallstreetcn.com/livenews/3136253",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
