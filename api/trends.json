@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T14:51:22.559068+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-07-20T18:15:32.644547+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 66,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时15分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -69,6 +69,17 @@
           "time_info": "[01时02分 ~ 08时02分]"
         },
         {
+          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
+          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 18时15分]"
+        },
+        {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
           "url": "https://news.ifeng.com/c/8utWHdX6JW4",
           "source": "凤凰网",
@@ -80,15 +91,15 @@
           "time_info": "[08时01分 ~ 12时03分]"
         },
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
           "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 14时51分]"
+          "time_info": "[14时51分 ~ 18时15分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -119,18 +130,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -592,13 +592,24 @@
           "time_info": "[01时02分 ~ 02时04分]"
         },
         {
+          "title": "伊朗司法总监：我们必须比以往任何时候都更加警惕那些煽动者、谣言散布者、伪善者和渗透者。",
+          "url": "https://flash.jin10.com/detail/20260720180438856800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美国两次空袭击中伊朗布什尔。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3136637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -631,7 +642,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -645,6 +656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "伊朗司法总监：那些被派往前线、战场和街头的人们强调，必须继续开展圣战，打击侵略成性、背信弃义的敌人，并已举起复仇的旗帜。国家官员之间不存在分歧，都认为美国敌人绝无信誉可言；我们绝不会以任何方式向其屈服，并将坚持到底。",
+          "url": "https://flash.jin10.com/detail/20260720175441234800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美方称对伊朗军事行动将持续进行",
@@ -675,7 +697,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -697,7 +719,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -741,7 +763,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -752,7 +774,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -766,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "伊拉克民兵武装就美袭击伊朗发声",
+          "url": "https://www.toutiao.com/trending/7664146504593260563/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
@@ -782,7 +815,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 52,
+      "match_count": 68,
       "titles": [
         {
           "title": "又一批A股半年报预喜，“易中天”已有2家披露",
@@ -894,6 +927,18 @@
           "time_info": "[01时02分 ~ 08时02分]"
         },
         {
+          "title": "A股",
+          "url": "https://www.douyin.com/hot/2577975",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 18时15分]"
+        },
+        {
           "title": "两大央企深夜宣布：增持A股",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A4%A7%E5%A4%AE%E4%BC%81%E6%B7%B1%E5%A4%9C%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%A2%9E%E6%8C%81A%E8%82%A1",
           "source": "百度热搜",
@@ -931,16 +976,27 @@
           "time_info": "[12时03分 ~ 14时51分]"
         },
         {
-          "title": "A股",
-          "url": "https://www.douyin.com/hot/2577975",
-          "source": "抖音",
+          "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
+          "url": "https://www.zhihu.com/question/2062293737414160723",
+          "source": "知乎",
           "ranks": [
-            4,
-            5
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 14时51分]"
+          "time_info": "[14时51分 ~ 18时15分]"
+        },
+        {
+          "title": "证监会就近期A股波动发声",
+          "url": "https://www.toutiao.com/trending/7664095612945600019/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "商务部将组织开展绿色消费试点工作",
@@ -949,9 +1005,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "一图看懂 | 一批上市公司出手，A股新一轮“增持回购潮”拉开大幕",
+          "url": "https://www.cls.cn/detail/2431271",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "AI大模型公司零一万物计划2027年在香港上市。（彭博）",
@@ -965,15 +1032,15 @@
           "time_info": "12时03分"
         },
         {
-          "title": "王祖贤肖像授权网易AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
-          "source": "贴吧",
+          "title": "院士谈年轻人该如何学AI",
+          "url": "https://search.bilibili.com/all?keyword=%E9%99%A2%E5%A3%AB%E8%B0%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%AF%A5%E5%A6%82%E4%BD%95%E5%AD%A6AI",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "18时15分"
         },
         {
           "title": "中国成为全球AI发展与治理关键力量",
@@ -987,15 +1054,15 @@
           "time_info": "12时03分"
         },
         {
-          "title": "一年超 8 万家面包店关停，超市烘焙区却排长队，面包生意到底好不好做？反映了怎样的消费趋势？",
-          "url": "https://www.zhihu.com/question/2062293737414160723",
+          "title": "如何评价代数几何著名猜想「雅可比猜想」被 AI 证伪？如此简洁、可独立验证的数学发现意味着什么？",
+          "url": "https://www.zhihu.com/question/2062518030224061737",
           "source": "知乎",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "18时15分"
         },
         {
           "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
@@ -1009,6 +1076,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时54分 ~ 06时56分]"
+        },
+        {
+          "title": "王祖贤肖像授权网易AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356337&amp;topic_name=%E7%8E%8B%E7%A5%96%E8%B4%A4%E8%82%96%E5%83%8F%E6%8E%88%E6%9D%83%E7%BD%91%E6%98%93AI",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时15分]"
+        },
+        {
+          "title": "SpaceX据称向鸿海下达巨额订单 订购价值520亿美元AI服务器机架",
+          "url": "https://www.cls.cn/detail/2430890",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时15分]"
         },
         {
           "title": "A股市场震荡整理，机构称短期抛压或已集中释放",
@@ -1049,6 +1140,19 @@
           "time_info": "[04时54分 ~ 06时56分]"
         },
         {
+          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 18时15分]"
+        },
+        {
           "title": "月之暗面将推出新模型 KimiK3，将给 AI 市场带来哪些新冲击？",
           "url": "https://www.zhihu.com/question/2061156114658485568",
           "source": "知乎",
@@ -1085,16 +1189,16 @@
           "time_info": "[12时03分 ~ 14时51分]"
         },
         {
-          "title": "AI观察｜2026WAIC上风很大的“Token工厂”已是“红海”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33616683",
-          "source": "澎湃新闻",
+          "title": "A股行情",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
-            14,
-            11
+            13,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时03分 ~ 14时51分]"
+          "time_info": "[14时51分 ~ 18时15分]"
         },
         {
           "title": "全美出现数据中心出售潮，「反数据中心运动」又向红蓝州同时蔓延，这会对市场和 AI 产业形成多大影响？",
@@ -1133,6 +1237,18 @@
           "time_info": "[01时02分 ~ 02时04分]"
         },
         {
+          "title": "王祖贤AI人脸授权",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时15分]"
+        },
+        {
           "title": "毕马威中国主席：AI正加速转变为经济增长的核心引擎",
           "url": "https://wallstreetcn.com/livenews/3136278",
           "source": "华尔街见闻-快讯",
@@ -1150,7 +1266,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1161,7 +1277,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1177,26 +1293,48 @@
           "time_info": "08时02分"
         },
         {
-          "title": "SpaceX据称向鸿海下达巨额订单 订购价值520亿美元AI服务器机架",
-          "url": "https://www.cls.cn/detail/2430890",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "商务部将于2026-2028年组织开展绿色消费试点工作",
           "url": "https://flash.jin10.com/detail/20260720143954587800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "AI不准用,日本漫画家被迫停更",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356343&amp;topic_name=AI%E4%B8%8D%E5%87%86%E7%94%A8%2C%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%94%BB%E5%AE%B6%E8%A2%AB%E8%BF%AB%E5%81%9C%E6%9B%B4",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "指数跌破年线对A股意味着什么",
+          "url": "https://www.toutiao.com/trending/7663453795988537350/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "国际铝业协会（IAI）：6月全球原铝产量达598万吨。",
+          "url": "https://flash.jin10.com/detail/20260720180219345800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "中国海油A股盘中触及涨停。",
@@ -1210,13 +1348,35 @@
           "time_info": "12时03分"
         },
         {
+          "title": "中国建筑：控股股东中建集团拟增持公司A股股份5亿元-10亿元",
+          "url": "https://wallstreetcn.com/livenews/3136770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "国产智能仿生手亮相WAIC",
+          "url": "https://www.douyin.com/hot/2577537",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "商务部：优化县域商贸流通设施布局，激发下沉市场消费活力",
           "url": "https://wallstreetcn.com/livenews/3136632",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1227,7 +1387,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1282,20 +1442,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
         {
-          "title": "A股行情",
-          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E8%A1%8C%E6%83%85&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "A股今天为何盘中震荡尾盘才拉升",
+          "url": "https://www.toutiao.com/trending/7664069086713724982/",
+          "source": "今日头条",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "18时15分"
         },
         {
           "title": "A股",
@@ -1309,13 +1469,24 @@
           "time_info": "12时03分"
         },
         {
+          "title": "今日66只A股价格突破年线",
+          "url": "https://www.toutiao.com/trending/7664442992057090054/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "AI如何成为我们的智能伙伴",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E6%88%91%E4%BB%AC%E7%9A%84%E6%99%BA%E8%83%BD%E4%BC%99%E4%BC%B4",
           "source": "bilibili 热搜",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1329,6 +1500,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "专家：A股调整近尾声",
+          "url": "https://www.toutiao.com/trending/7664538417857826346/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "魔法师的咒语其实是AI指令",
+          "url": "https://s.weibo.com/weibo?q=%E9%AD%94%E6%B3%95%E5%B8%88%E7%9A%84%E5%92%92%E8%AF%AD%E5%85%B6%E5%AE%9E%E6%98%AFAI%E6%8C%87%E4%BB%A4&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "姚期智：中国AI产业领跑全球",
@@ -1353,26 +1546,48 @@
           "time_info": "12时03分"
         },
         {
+          "title": "分析师：A股年内二次买点或已到来",
+          "url": "https://www.toutiao.com/trending/7664079334257442879/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "A股年内二次买点或到来",
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%B9%B4%E5%86%85%E4%BA%8C%E6%AC%A1%E4%B9%B0%E7%82%B9%E6%88%96%E5%88%B0%E6%9D%A5%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
         {
-          "title": "王祖贤AI人脸授权",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%A5%96%E8%B4%A4AI%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "京东方A：于7月20日首次回购公司A股股份 支付总金额约4990万元",
+          "url": "https://wallstreetcn.com/livenews/3136744",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "18时15分"
+        },
+        {
+          "title": "A股三大指数涨跌不一",
+          "url": "https://www.toutiao.com/trending/7664463165929521178/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "夏奇拉DaiDai二创reaction",
@@ -1381,7 +1596,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1392,7 +1607,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -1400,7 +1615,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 22,
+      "match_count": 33,
       "titles": [
         {
           "title": "史上跌速最快、跌幅最大的科技股抛售潮接近尾声了吗？高盛对市场“残酷轮动”的反思",
@@ -1469,6 +1684,17 @@
           "time_info": "[01时02分 ~ 06时56分]"
         },
         {
+          "title": "我国人形机器人产品超全球半数",
+          "url": "https://www.douyin.com/hot/2578684",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "金十数据整理：每日科技要闻速递（7月20日）",
           "url": "https://flash.jin10.com/detail/20260720072532377800",
           "source": "金十数据",
@@ -1478,6 +1704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "淳中科技：董事长提议5000万元-1亿元回购股份 用于减少注册资本",
+          "url": "https://flash.jin10.com/detail/20260720180533646800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "法拉第未来(FFIE.O)：宣布与阿根廷足球协会（AFA）达成合作，正式成为阿根廷国家队在北美地区机器人及相关机器人技术领域的官方区域赞助商。",
@@ -1551,15 +1788,48 @@
           "time_info": "[02时04分 ~ 03时42分]"
         },
         {
+          "title": "尾盘变盘！上证50大涨超3%，“煤电酒油”爆发，科技股再度下跌，恒指、恒科指均涨超2%，AI大模型股逆势下挫",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "花旗：美股“科技7巨头”的标签已经过时",
+          "url": "https://flash.jin10.com/detail/20260720180357146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "A股源杰科技盘中触及20CM跌停，报1324.80元。",
           "url": "https://wallstreetcn.com/livenews/3136635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "东方财富证券陈果：从今天起，对中国真科技龙头，不应太悲观，应动态评估性价比",
+          "url": "https://wallstreetcn.com/livenews/3136772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
@@ -1568,9 +1838,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "WAIC机器人格斗拳拳到铁",
+          "url": "https://www.douyin.com/hot/2576677",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "【午报】沪指、创业板指均涨超1%，电力、油气等板块延续强势，科技赛道局部修复",
+          "url": "https://www.cls.cn/detail/2430973",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "贵州茅台股价反超源杰科技",
@@ -1579,9 +1871,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "花旗：在人工智能股票赢家中，美股“科技7巨头”的标签已经过时。",
+          "url": "https://flash.jin10.com/detail/20260720175653296800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "富通科技(00465.HK)午后涨超100%。",
@@ -1590,7 +1904,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1623,7 +1937,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1645,9 +1959,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
+        },
+        {
+          "title": "荣旗科技：拟以2500万元-5000万元回购股份，回购股份的价格不超过人民币106元/股。",
+          "url": "https://wallstreetcn.com/livenews/3136739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "炬芯科技：公司第二代存内计算技术研发取得重大进展",
+          "url": "https://flash.jin10.com/detail/20260720174547757800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "A股液冷概念股震荡走弱，金富科技、川润股份午后跌停，同飞股份、震安科技、新莱应材、利和兴、中石科技跌超10%。",
@@ -1656,7 +1992,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -1664,7 +2000,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -1711,6 +2047,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时03分 ~ 14时51分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-20）",
+          "url": "https://flash.jin10.com/detail/20260720180937404800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特朗普摸大力神杯",
@@ -1866,6 +2213,18 @@
           "time_info": "[08时01分 ~ 08时02分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时51分 ~ 18时15分]"
+        },
+        {
           "title": "特朗普为西班牙颁奖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1883,7 +2242,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1899,17 +2258,6 @@
           "time_info": "08时02分"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时51分"
-        },
-        {
           "title": "美国总统特朗普将大力神杯颁给西班牙队。",
           "url": "https://flash.jin10.com/detail/20260720064454811800",
           "source": "金十数据",
@@ -1919,6 +2267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普隔着防弹玻璃现场看世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7664367574197469203/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -1957,7 +2316,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -1968,7 +2327,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -1985,7 +2344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -2007,7 +2366,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         }
@@ -2037,8 +2396,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时01分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时01分 ~ 18时15分]"
         }
       ]
     }
