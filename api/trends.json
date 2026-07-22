@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T00:02:31.883875+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-23T01:36:56.609531+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
@@ -26,30 +26,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "别再给AI乱传文件了",
           "url": "https://s.weibo.com/weibo?q=%E5%88%AB%E5%86%8D%E7%BB%99AI%E4%B9%B1%E4%BC%A0%E6%96%87%E4%BB%B6%E4%BA%86&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "又一批A股公司业绩亮相！A股股王上半年净利最高增超9倍",
           "url": "https://www.cls.cn/detail/2433968",
           "source": "财联社热门",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
+          "url": "https://www.cls.cn/detail/2434359",
+          "source": "财联社热门",
+          "ranks": [
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "夏日消费热力十足",
@@ -59,19 +73,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
-          "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
-          "url": "https://www.cls.cn/detail/2434359",
-          "source": "财联社热门",
+          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
+          "url": "https://wallstreetcn.com/articles/3777699",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "OpenAI：将向国家实验室和大学中约2000名“创世使命”研究人员提供400万美元的Codex访问权限。",
@@ -96,17 +110,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "云支出目标狂飙至7500亿美元！OpenAI豪掷超300亿美元建数据中心，推出Presence平台进军企业软件市场",
-          "url": "https://wallstreetcn.com/articles/3777699",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
           "title": "OpenAI：将为参与研究的人员提供高达1000万美元的API使用额度，花费其250万美元经费。",
           "url": "https://flash.jin10.com/detail/20260722233640761800",
           "source": "金十数据",
@@ -116,6 +119,87 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "为什么要说尽量少跟AI倾诉聊天",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "用AI通关高难度跑步游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
+          "url": "https://wallstreetcn.com/articles/3777627",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
+          "url": "https://www.zhihu.com/question/2060880883452793625",
+          "source": "知乎",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
+          "url": "https://www.cls.cn/detail/2434311",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
+          "url": "https://www.cls.cn/detail/2434259",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "OpenAI遭遇史上首次评测失控事故",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
@@ -129,81 +213,37 @@
           "time_info": "00时02分"
         },
         {
-          "title": "震惊硅谷！OpenAI模型“失控越狱”，入侵HuggingFace“抄答案”，智谱GLM 5.2临危救场",
-          "url": "https://wallstreetcn.com/articles/3777627",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "为什么要说尽量少跟AI倾诉聊天",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AF%B4%E5%B0%BD%E9%87%8F%E5%B0%91%E8%B7%9FAI%E5%80%BE%E8%AF%89%E8%81%8A%E5%A4%A9&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "用AI通关高难度跑步游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E9%80%9A%E5%85%B3%E9%AB%98%E9%9A%BE%E5%BA%A6%E8%B7%91%E6%AD%A5%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
-          "url": "https://www.cls.cn/detail/2434259",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "AMD首次押注Anthropic：最高投资50亿美元 并锁定数百亿美元AI服务器订单",
-          "url": "https://www.cls.cn/detail/2434311",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "快递员摔坏购入价 18.6 万元的手镯，快递公司只愿赔 5 万元，赔偿金额应如何认定？消费者该如何维权？",
-          "url": "https://www.zhihu.com/question/2060880883452793625",
+          "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
+          "url": "https://www.zhihu.com/question/2063264614834336987",
           "source": "知乎",
           "ranks": [
-            15
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时36分"
         },
         {
-          "title": "OpenAI遭遇史上首次评测失控事故",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
-          "source": "百度热搜",
+          "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
+          "url": "https://flash.jin10.com/detail/20260723004322768800",
+          "source": "金十数据",
           "ranks": [
-            16
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时36分"
+        },
+        {
+          "title": "美国被中国AI吓着了吗",
+          "url": "https://www.toutiao.com/trending/7665318652928855615/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         },
         {
           "title": "评论员：A股“阵痛期”还没结束",
@@ -220,7 +260,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -230,8 +270,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -241,19 +281,31 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
           "url": "https://www.cls.cn/detail/2434152",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时36分"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -280,69 +332,43 @@
       ]
     },
     {
-      "keyword_group": "科技 机器人",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
-          "url": "https://www.zhihu.com/question/2063197377310233514",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
-          "url": "https://wallstreetcn.com/articles/3777612",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
-          "url": "https://www.zhihu.com/question/2062983976835344170",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗前外长：伊朗有夺取美基地能力，警告乌克兰勿要提供无人机",
           "url": "https://wallstreetcn.com/livenews/3138313",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            23
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "伊朗袭击亚马逊公司设施",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8%E8%AE%BE%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗的行为破坏了国际上努力实现稳定的行动。呼吁联合国安理会和国际社会制止伊朗的侵略和攻击。",
+          "url": "https://flash.jin10.com/detail/20260723004714905800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时36分"
         },
         {
           "title": "伊朗军方消息人士：若美袭击伊桥梁或电站 伊将对等打击",
@@ -350,17 +376,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗袭击亚马逊公司设施",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8%E8%AE%BE%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -380,8 +395,60 @@
       ]
     },
     {
+      "keyword_group": "科技 机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
+          "url": "https://www.zhihu.com/question/2063197377310233514",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
+          "url": "https://wallstreetcn.com/articles/3777612",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "长鑫科技网上弃购超 658 万股，券商被迫包销 5731 万元，为何大量中签散户放弃缴款？对上市股价有何影响？",
+          "url": "https://www.zhihu.com/question/2062983976835344170",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -391,14 +458,25 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "如何看待 7 月 22 日 DeepSeek 客户端联网搜索近 4 小时不可用？",
+          "url": "https://www.zhihu.com/question/2063241470010822764",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时36分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -408,8 +486,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时36分]"
+        },
+        {
+          "title": "Reddit股价大跌，媒体报道称其可能限制谷歌访问权限",
+          "url": "https://wallstreetcn.com/livenews/3138315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时36分"
         }
       ]
     },
@@ -444,6 +533,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
+          "url": "https://wallstreetcn.com/livenews/3138337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时36分"
         }
       ]
     }
