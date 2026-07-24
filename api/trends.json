@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T01:07:03.291417+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-25T02:59:49.726354+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "“十五五”消费市场迎重大变化",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -52,17 +63,6 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "AI烧钱担忧叠加中东局势，纳斯达克100指数跌幅扩大至1.2%，存储芯片板块重挫逾6%，SK海力士跌7%，油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
           "source": "澎湃新闻",
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -81,19 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "A股史上最大股票回购方案",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -103,8 +92,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "A股史上最大股票回购方案",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -114,19 +115,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
           "url": "https://www.toutiao.com/trending/7666058970050183209/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "朋友圈开始用AI照片代替旅游照",
@@ -151,15 +153,103 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
+          "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://wallstreetcn.com/livenews/3139604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
+          "url": "https://wallstreetcn.com/livenews/3139600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
           "url": "https://flash.jin10.com/detail/20260725000422924800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "SpaceX AI：今天我们将把Grok引入Google Workspace。适用于Google Workspace的Grok是一款免费的附加组件。",
+          "url": "https://flash.jin10.com/detail/20260725020808879800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
+          "url": "https://wallstreetcn.com/livenews/3139592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "SpaceX股价大跌后或迎来机会 摩根士丹利分析师看好其AI业务估值",
+          "url": "https://flash.jin10.com/detail/20260725020122183800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "Meta加码AI助手 接入Gmail和日历拓展能力",
+          "url": "https://flash.jin10.com/detail/20260725014737999800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "大厂挤爆AI宠物赛道",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%8E%82%E6%8C%A4%E7%88%86AI%E5%AE%A0%E7%89%A9%E8%B5%9B%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "Anthropic推出更具成本效益的日常任务AI模型",
+          "url": "https://wallstreetcn.com/livenews/3139584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "宁德时代回应发起A股史上最大单次回购",
@@ -168,7 +258,156 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：科威特北部发生数起爆炸。",
+          "url": "https://flash.jin10.com/detail/20260725024318375800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与巴基斯坦外长会晤，重点讨论两国双边关系及地区和国际形势发展。",
+          "url": "https://flash.jin10.com/detail/20260725024021054800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗胡齐斯坦省副省长：有关美国再次袭击伊朗与伊拉克接壤的沙拉姆切边境口岸的传闻不属实。",
+          "url": "https://flash.jin10.com/detail/20260725023740373800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
+          "url": "https://wallstreetcn.com/livenews/3139570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "声明：伊朗和阿曼两位部长还强调了维护海洋安全的重要性，并就防止紧张局势升级及建立地区和平与稳定的区域解决方案进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260725002701808800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "伊朗外长与阿曼外长通电话。",
+          "url": "https://wallstreetcn.com/livenews/3139569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "声明显示，伊朗和阿曼外长在电话中讨论了霍尔木兹海峡的最新地区和安全形势以及海上航行问题。",
+          "url": "https://flash.jin10.com/detail/20260725002544122800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗最高联合军事指挥机构负责人誓言，每有一名伊朗人被杀，伊朗将杀死一名美军人员。",
+          "url": "https://flash.jin10.com/detail/20260725001557560800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
+          "url": "https://flash.jin10.com/detail/20260725000646407800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "王毅会见伊朗外长阿拉格齐",
+          "url": "https://wallstreetcn.com/livenews/3139591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗称近期美国空袭造成境内59死666伤",
+          "url": "https://wallstreetcn.com/livenews/3139546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
@@ -176,7 +415,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -186,52 +425,79 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
           "url": "https://www.cls.cn/detail/2436602",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
           "url": "https://www.cls.cn/detail/2436740",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
           "url": "https://www.toutiao.com/trending/7665950655214784041/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
         },
         {
           "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
@@ -239,17 +505,6 @@
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -267,26 +522,26 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
           "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
           "url": "https://wallstreetcn.com/livenews/3139562",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3139589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "马斯克：支持（20多家）美国科技公司关于开放权重模型的公开信。",
@@ -295,112 +550,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
-          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
-          "url": "https://wallstreetcn.com/livenews/3139570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "声明：伊朗和阿曼两位部长还强调了维护海洋安全的重要性，并就防止紧张局势升级及建立地区和平与稳定的区域解决方案进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260725002701808800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗外长与阿曼外长通电话。",
-          "url": "https://wallstreetcn.com/livenews/3139569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "声明显示，伊朗和阿曼外长在电话中讨论了霍尔木兹海峡的最新地区和安全形势以及海上航行问题。",
-          "url": "https://flash.jin10.com/detail/20260725002544122800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗最高联合军事指挥机构负责人誓言，每有一名伊朗人被杀，伊朗将杀死一名美军人员。",
-          "url": "https://flash.jin10.com/detail/20260725001557560800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
-          "url": "https://flash.jin10.com/detail/20260725000646407800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗称近期美国空袭造成境内59死666伤",
-          "url": "https://wallstreetcn.com/livenews/3139546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时07分"
         }
@@ -408,7 +558,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
@@ -417,9 +567,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "特朗普会晤高级顾问 评估是否加大对伊朗军事行动力度",
+          "url": "https://flash.jin10.com/detail/20260725023621281800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -429,8 +590,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 01时07分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 02时59分]"
+        },
+        {
+          "title": "美国总统特朗普周五围绕伊朗问题会见多个顶级顾问。 本次会议讨论是否加大对伊朗的袭击力度。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3139606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "市场消息：特朗普将于周五会见多位核能公司首席执行官，庆祝先进反应堆取得里程碑进展。",
@@ -439,9 +611,64 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据纽约时报：据四位知情人士透露，特朗普周五与高级顾问和内阁高级成员会面，决定是否加大对伊朗的军事打击力度。",
+          "url": "https://flash.jin10.com/detail/20260725022038678800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普全球关税再遭法律挑战 两家小型企业起诉政府",
+          "url": "https://flash.jin10.com/detail/20260725021722387800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普政府因新一轮全球关税而被推上被告席，多家小微企业挑战美国总统特朗普的301关税。 标普500指数目前涨0.36%道指涨0.53%，纳指跌0.13%，半导体指数跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3139598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "美国小企业提起诉讼，质疑特朗普新的“强迫劳动”关税措施。诉讼称，相关关税授权需要提供更详细的、针对具体国家的调查结论，才能在法律上成立。",
+          "url": "https://flash.jin10.com/detail/20260725020246817800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京说，他不会向伊朗出售武器。",
@@ -450,15 +677,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据白宫官员透露，乌克兰总统泽连斯基将于下周初与美国总统特朗普会面。",
+          "url": "https://wallstreetcn.com/livenews/3139581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
@@ -467,9 +705,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260725015555373800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260725015553317800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         },
         {
           "title": "布油跌4%，美股扩大涨幅，报道称巴基斯坦正在探索重启美伊会谈的途径",
@@ -478,9 +738,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.63%，暂报2119.90点，上周五结束交易以来（7*24）累计下跌1.56%，整体冲高回落。 MarketVectorTM数字资产100中盘指数跌1.49%，报2393.94点，期内累跌6.63%，7月21日北京时间16:01拉升至2669.08点，随后持续下挫。 MarketVector数字资产100指数跌1.42%，报12649.38点，期内累涨0.08%，整体冲高回落。 最近七天迄今，Solana累跌1.81%，狗狗币累跌5.52%，XRP累跌0.26%。 比特币跌0.30%，暂报63878.70美元；以太坊涨0.69%，暂报1854.812美元。",
+          "url": "https://wallstreetcn.com/livenews/3139579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时59分"
         }
       ]
     }
