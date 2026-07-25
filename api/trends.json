@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T17:19:39.439563+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-07-25T18:54:04.948521+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 39,
+      "match_count": 44,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 18时54分]"
         },
         {
           "title": "“十五五”消费市场迎重大变化",
@@ -29,6 +30,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 09时03分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 18时54分]"
         },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -68,16 +81,31 @@
           "time_info": "[01时06分 ~ 05时39分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
-            3
+            7,
+            5,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 18时54分]"
+        },
+        {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 18时54分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -92,18 +120,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时06分 ~ 09时03分]"
-        },
-        {
-          "title": "中国AI反超,老美急眼下黑手",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 17时19分]"
         },
         {
           "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
@@ -130,19 +146,6 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
-          "url": "https://wallstreetcn.com/articles/3777901",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 17时19分]"
-        },
-        {
           "title": "A股史上最大股票回购方案",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E6%96%B9%E6%A1%88",
           "source": "百度热搜",
@@ -155,6 +158,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 07时04分]"
+        },
+        {
+          "title": "消息称，OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://wallstreetcn.com/livenews/3139736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
@@ -173,11 +187,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 18时54分]"
+        },
+        {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 18时54分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -191,16 +219,16 @@
           "time_info": "[01时06分 ~ 04时27分]"
         },
         {
-          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3139723",
-          "source": "华尔街见闻-快讯",
+          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
+          "url": "https://www.zhihu.com/question/2064272326489628784",
+          "source": "知乎",
           "ranks": [
-            5,
-            11
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 17时19分]"
+          "appearance_count": 4,
+          "time_info": "[15时21分 ~ 18时54分]"
         },
         {
           "title": "AI重现狼牙山五壮士英雄壮举",
@@ -235,23 +263,69 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 18时54分]"
+        },
+        {
+          "title": "A股一周跌幅榜出炉",
+          "url": "https://www.toutiao.com/trending/7666327652068835364/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时54分]"
+        },
+        {
+          "title": "AI已经摸不透柯洁了",
+          "url": "https://www.douyin.com/hot/2584747",
+          "source": "抖音",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时54分]"
+        },
+        {
+          "title": "马斯克：中国很有可能成AI领导者",
+          "url": "https://www.toutiao.com/trending/7666381434109578761/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时21分 ~ 17时19分]"
+          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
-          "title": "男生中考 699 分偷偷改志愿读中职，称「未来想当程序员，AI 时代也不怕」，如何看待这一升学选择？",
-          "url": "https://www.zhihu.com/question/2064272326489628784",
-          "source": "知乎",
+          "title": "女装退货率达80% 责任不在消费者",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E8%BE%BE80%25+%E8%B4%A3%E4%BB%BB%E4%B8%8D%E5%9C%A8%E6%B6%88%E8%B4%B9%E8%80%85",
+          "source": "百度热搜",
           "ranks": [
-            20,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时21分 ~ 17时19分]"
+          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
           "title": "朋友圈开始用AI照片代替旅游照",
@@ -276,17 +350,6 @@
           "time_info": "[01时06分 ~ 01时07分]"
         },
         {
-          "title": "A股一周跌幅榜出炉",
-          "url": "https://www.toutiao.com/trending/7666327652068835364/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "SpaceX AI：将把Grok引入Google Workspace。 适用于Google Workspace的Grok是一款免费的附加组件。",
           "url": "https://wallstreetcn.com/livenews/3139604",
           "source": "华尔街见闻-快讯",
@@ -296,6 +359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
+          "url": "https://flash.jin10.com/detail/20260725172016965800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         },
         {
           "title": "摩根士丹利：如果SpaceX股价跌至10%，将意味着该公司的人工智能（AI）毫无价值。",
@@ -430,17 +504,6 @@
           "time_info": "02时59分"
         },
         {
-          "title": "AI已经摸不透柯洁了",
-          "url": "https://www.douyin.com/hot/2584747",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "Anthropic推出更具成本效益的日常任务AI模型",
           "url": "https://wallstreetcn.com/livenews/3139584",
           "source": "华尔街见闻-快讯",
@@ -466,7 +529,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -493,17 +556,6 @@
           "time_info": "01时07分"
         },
         {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "特朗普会晤高级顾问 评估是否加大对伊朗军事行动力度",
           "url": "https://flash.jin10.com/detail/20260725023621281800",
           "source": "金十数据",
@@ -513,6 +565,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时54分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
@@ -636,6 +700,17 @@
           "time_info": "[04时27分 ~ 05时39分]"
         },
         {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%AB%9E%E9%80%89%E6%80%BB%E7%BB%9F%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
+        },
+        {
           "title": "美国总统特朗普周五围绕伊朗问题会见多个顶级顾问。 本次会议讨论是否加大对伊朗的袭击力度。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3139606",
           "source": "华尔街见闻-快讯",
@@ -730,7 +805,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -880,6 +955,404 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
+          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 18时54分]"
+        },
+        {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 18时54分]"
+        },
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
+        },
+        {
+          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
+          "url": "https://news.ifeng.com/c/8v324dBINEL",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时54分]"
+        },
+        {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 18时54分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：科威特北部发生数起爆炸。",
+          "url": "https://flash.jin10.com/detail/20260725024318375800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://wallstreetcn.com/livenews/3139737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与巴基斯坦外长会晤，重点讨论两国双边关系及地区和国际形势发展。",
+          "url": "https://flash.jin10.com/detail/20260725024021054800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "伊朗胡齐斯坦省副省长：有关美国再次袭击伊朗与伊拉克接壤的沙拉姆切边境口岸的传闻不属实。",
+          "url": "https://flash.jin10.com/detail/20260725023740373800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 18时54分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260725051459277800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 09时03分]"
+        },
+        {
+          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3139667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 09时03分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
+          "url": "https://flash.jin10.com/detail/20260725040656654800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 07时04分]"
+        },
+        {
+          "title": "伊朗称袭击美国亚马逊公司一数据中心",
+          "url": "https://www.toutiao.com/trending/7665519115210899499/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 07时04分]"
+        },
+        {
+          "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3139646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时39分 ~ 07时04分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3139664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 09时03分]"
+        },
+        {
+          "title": "伊朗军方称将对美军实施对等报复",
+          "url": "https://wallstreetcn.com/livenews/3139696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 15时21分]"
+        },
+        {
+          "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
+          "url": "https://wallstreetcn.com/livenews/3139570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "声明：伊朗和阿曼两位部长还强调了维护海洋安全的重要性，并就防止紧张局势升级及建立地区和平与稳定的区域解决方案进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260725002701808800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://flash.jin10.com/detail/20260725174159775800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
+          "title": "伊朗外长与阿曼外长通电话。",
+          "url": "https://wallstreetcn.com/livenews/3139569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "声明显示，伊朗和阿曼外长在电话中讨论了霍尔木兹海峡的最新地区和安全形势以及海上航行问题。",
+          "url": "https://flash.jin10.com/detail/20260725002544122800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
+          "url": "https://flash.jin10.com/detail/20260725151742483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗最高联合军事指挥机构负责人誓言，每有一名伊朗人被杀，伊朗将杀死一名美军人员。",
+          "url": "https://flash.jin10.com/detail/20260725001557560800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://flash.jin10.com/detail/20260725113145513800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
+          "url": "https://flash.jin10.com/detail/20260725000646407800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
+          "url": "https://flash.jin10.com/detail/20260725132754175800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260725111226216800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "王毅会见伊朗外长阿拉格齐",
+          "url": "https://wallstreetcn.com/livenews/3139591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗称近期美国空袭造成境内59死666伤",
+          "url": "https://wallstreetcn.com/livenews/3139546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "伊朗与巴基斯坦两国外长会晤，讨论地区及国际局势",
+          "url": "https://wallstreetcn.com/livenews/3139613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        },
+        {
+          "title": "伊朗导弹齐发 打击多处美军目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E9%BD%90%E5%8F%91+%E6%89%93%E5%87%BB%E5%A4%9A%E5%A4%84%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科技 机器人",
       "match_count": 30,
       "titles": [
@@ -893,8 +1366,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 18时54分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -905,11 +1378,12 @@
             4,
             3,
             2,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 18时54分]"
         },
         {
           "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
@@ -928,6 +1402,18 @@
           "time_info": "[01时06分 ~ 17时19分]"
         },
         {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 18时54分]"
+        },
+        {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
           "url": "https://wallstreetcn.com/articles/3777828",
           "source": "华尔街见闻",
@@ -941,18 +1427,6 @@
           "time_info": "[01时06分 ~ 07时04分]"
         },
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 17时19分]"
-        },
-        {
           "title": "中国机器人霸榜,日本破防",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
@@ -963,6 +1437,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时06分 ~ 12时46分]"
+        },
+        {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 18时54分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -1013,18 +1499,6 @@
           "time_info": "12时46分"
         },
         {
-          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
-          "url": "https://www.cls.cn/detail/2436901",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 17时19分]"
-        },
-        {
           "title": "据韩国媒体Newsis援引韩国总统顾问的消息报道，三星电子和SK海力士将与美国大型科技公司推进规模达1375万亿韩元（约9500亿美元）的芯片合作项目。",
           "url": "https://flash.jin10.com/detail/20260725121246416800",
           "source": "金十数据",
@@ -1034,6 +1508,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 18时54分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -1049,19 +1537,6 @@
           "time_info": "[01时06分 ~ 05时39分]"
         },
         {
-          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
-          "url": "https://wallstreetcn.com/livenews/3139717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 17时19分]"
-        },
-        {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
           "url": "https://wallstreetcn.com/livenews/3139640",
           "source": "华尔街见闻-快讯",
@@ -1073,6 +1548,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 07时04分]"
+        },
+        {
+          "title": "科技七巨头单日抹去近9000亿美元！华尔街老将喊话：市场过度反应，地缘危机即买点",
+          "url": "https://wallstreetcn.com/articles/3777880",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时54分]"
         },
         {
           "title": "长鑫科技上市时间敲定 7 月 27 日，哪些信息值得关注？你看好它的上市吗？",
@@ -1107,17 +1594,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "科技七巨头单日抹去近9000亿美元！华尔街老将喊话：市场过度反应，地缘危机即买点",
-          "url": "https://wallstreetcn.com/articles/3777880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "本周，标普累跌约0.6%，道指累跌0.4%，纳指累跌2.2%，科技股七巨头指数跌3.4%，存储芯片指数冲高回落累涨5.4%，半导体指数涨0.8%。 标普500指数初步大致收平，科技板块跌1%，原材料板块涨1.3%，房地产板块涨2.4%。 纳斯达克100指数初步收跌1.2%，成分股中，Nebius Group初步收跌13.2%，CoreWeave跌11.6%，闪迪、Astera Labs跌11.1%，Lumentum跌8.6%，Arm控股、英特尔至少跌7.9%。",
@@ -1243,361 +1719,23 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
-          "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时06分 ~ 17时19分]"
-        },
-        {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 09时03分]"
-        },
-        {
-          "title": "伊朗外长：无需更多调解者，美应改变态度",
-          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 17时19分]"
-        },
-        {
-          "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
-          "url": "https://news.ifeng.com/c/8v324dBINEL",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：科威特北部发生数起爆炸。",
-          "url": "https://flash.jin10.com/detail/20260725024318375800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗与巴基斯坦外长会晤，重点讨论两国双边关系及地区和国际形势发展。",
-          "url": "https://flash.jin10.com/detail/20260725024021054800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "伊朗胡齐斯坦省副省长：有关美国再次袭击伊朗与伊拉克接壤的沙拉姆切边境口岸的传闻不属实。",
-          "url": "https://flash.jin10.com/detail/20260725023740373800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260725051459277800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时39分 ~ 09时03分]"
-        },
-        {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://wallstreetcn.com/livenews/3139714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 17时19分]"
-        },
-        {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 17时19分]"
-        },
-        {
-          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3139667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 09时03分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
-          "url": "https://flash.jin10.com/detail/20260725040656654800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗称袭击美国亚马逊公司一数据中心",
-          "url": "https://www.toutiao.com/trending/7665519115210899499/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3139646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 07时04分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
-          "url": "https://wallstreetcn.com/livenews/3139664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时04分 ~ 09时03分]"
-        },
-        {
-          "title": "伊朗军方称将对美军实施对等报复",
-          "url": "https://wallstreetcn.com/livenews/3139696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 15时21分]"
-        },
-        {
-          "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
-          "url": "https://wallstreetcn.com/livenews/3139570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "声明：伊朗和阿曼两位部长还强调了维护海洋安全的重要性，并就防止紧张局势升级及建立地区和平与稳定的区域解决方案进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260725002701808800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗外长与阿曼外长通电话。",
-          "url": "https://wallstreetcn.com/livenews/3139569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "声明显示，伊朗和阿曼外长在电话中讨论了霍尔木兹海峡的最新地区和安全形势以及海上航行问题。",
-          "url": "https://flash.jin10.com/detail/20260725002544122800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
-          "url": "https://flash.jin10.com/detail/20260725151742483800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗最高联合军事指挥机构负责人誓言，每有一名伊朗人被杀，伊朗将杀死一名美军人员。",
-          "url": "https://flash.jin10.com/detail/20260725001557560800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗外长说不惧威胁不屈服于美国",
-          "url": "https://flash.jin10.com/detail/20260725113145513800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
-          "url": "https://flash.jin10.com/detail/20260725000646407800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
-          "url": "https://flash.jin10.com/detail/20260725132754175800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260725111226216800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        },
-        {
-          "title": "王毅会见伊朗外长阿拉格齐",
-          "url": "https://wallstreetcn.com/livenews/3139591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
-        },
-        {
-          "title": "伊朗称近期美国空袭造成境内59死666伤",
-          "url": "https://wallstreetcn.com/livenews/3139546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗与巴基斯坦两国外长会晤，讨论地区及国际局势",
-          "url": "https://wallstreetcn.com/livenews/3139613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "伊朗导弹齐发 打击多处美军目标",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E9%BD%90%E5%8F%91+%E6%89%93%E5%87%BB%E5%A4%9A%E5%A4%84%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 18时54分]"
+        },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260725041124494800",
@@ -1622,19 +1760,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时04分 ~ 09时03分]"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 17时19分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
@@ -1784,6 +1909,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT崩了",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B4%A9%E4%BA%86&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时53分 ~ 18时54分]"
         }
       ]
     }
