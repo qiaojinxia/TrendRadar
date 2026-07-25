@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T07:04:29.693503+08:00",
-  "total_titles_processed": 538,
+  "generated_at": "2026-07-25T09:03:55.582957+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "美国总统特朗普声称：加拿大没有邀请美方参加大桥开通仪式。 美方修改了关于跨境大桥的协议，美国获得（通行）收入的50%。",
@@ -40,6 +41,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普称美国与伊朗仍在对话",
+          "url": "https://wallstreetcn.com/livenews/3139662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 09时03分]"
         },
         {
           "title": "美国总统特朗普：新的关税非常标准。另一种征收关税的方式更简单，我们有多种形式。",
@@ -125,15 +138,15 @@
           "time_info": "02时59分"
         },
         {
-          "title": "特朗普称美国与伊朗仍在对话",
-          "url": "https://wallstreetcn.com/livenews/3139662",
+          "title": "特朗普暂停“废除H-1B签证费用命令”的上诉请求被驳回",
+          "url": "https://wallstreetcn.com/livenews/3139683",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "09时03分"
         },
         {
           "title": "市场消息：特朗普将于周五会见多位核能公司首席执行官，庆祝先进反应堆取得里程碑进展。",
@@ -145,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "报道：特朗普的电力“智囊”在力推电网重大改革后即将离任",
+          "url": "https://wallstreetcn.com/livenews/3139677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "据纽约时报：据四位知情人士透露，特朗普周五与高级顾问和内阁高级成员会面，决定是否加大对伊朗的军事打击力度。",
@@ -293,7 +317,7 @@
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -306,8 +330,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -318,8 +342,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -342,11 +366,23 @@
             20,
             19,
             17,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
+        },
+        {
+          "title": "中国机器人霸榜,日本破防",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -364,15 +400,15 @@
           "time_info": "[01时06分 ~ 07时04分]"
         },
         {
-          "title": "中国机器人霸榜,日本破防",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
-          "source": "贴吧",
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -381,7 +417,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -534,6 +570,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "韩国总统李在明：与全球科技公司合作开启人工智能新纪元。",
+          "url": "https://flash.jin10.com/detail/20260725075120011800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.22%，报25020点。 恒生科技指数主连夜盘收跌0.11%，报4633点。",
           "url": "https://wallstreetcn.com/livenews/3139615",
           "source": "华尔街见闻-快讯",
@@ -562,7 +609,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         }
@@ -570,7 +617,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
@@ -580,8 +627,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "“十五五”消费市场迎重大变化",
@@ -591,8 +638,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -618,6 +665,46 @@
           "time_info": "[01时06分 ~ 05时39分]"
         },
         {
+          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
+          "url": "https://wallstreetcn.com/articles/3777849",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
+        },
+        {
+          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
+          "url": "https://wallstreetcn.com/articles/3777836",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
+        },
+        {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
@@ -627,43 +714,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时07分]"
-        },
-        {
-          "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
-          "url": "https://wallstreetcn.com/articles/3777849",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
-        },
-        {
-          "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
-          "url": "https://wallstreetcn.com/articles/3777836",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -678,6 +728,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时06分 ~ 07时04分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -842,29 +903,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
           "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时06分 ~ 07时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 09时03分]"
         },
         {
           "title": "据伊朗媒体Fars News：科威特北部发生数起爆炸。",
@@ -876,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗与巴基斯坦外长会晤，重点讨论两国双边关系及地区和国际形势发展。",
@@ -900,27 +974,29 @@
           "time_info": "02时59分"
         },
         {
-          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3139667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260725051459277800",
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时39分 ~ 09时03分]"
+        },
+        {
+          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3139667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时39分 ~ 07时04分]"
+          "time_info": "[07时04分 ~ 09时03分]"
         },
         {
           "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
@@ -958,6 +1034,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 07时04分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3139664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 09时03分]"
         },
         {
           "title": "美国对伊朗金融家Zanjani的网络实施新制裁",
@@ -1004,15 +1092,15 @@
           "time_info": "01时07分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
-          "url": "https://wallstreetcn.com/livenews/3139664",
-          "source": "华尔街见闻-快讯",
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "09时03分"
         },
         {
           "title": "据伊朗媒体：伊朗最高联合军事指挥机构负责人誓言，每有一名伊朗人被杀，伊朗将杀死一名美军人员。",
@@ -1073,19 +1161,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
-          "url": "https://wallstreetcn.com/livenews/3139670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260725041124494800",
@@ -1098,6 +1175,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 07时04分]"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
+          "url": "https://wallstreetcn.com/livenews/3139670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 09时03分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 闪迪跌超10%",
@@ -1113,6 +1202,18 @@
           "time_info": "[04时27分 ~ 07时04分]"
         },
         {
+          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
+          "url": "https://wallstreetcn.com/livenews/3139661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 09时03分]"
+        },
+        {
           "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260725041219645800",
           "source": "金十数据",
@@ -1125,15 +1226,15 @@
           "time_info": "[05时39分 ~ 07时04分]"
         },
         {
-          "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
-          "url": "https://wallstreetcn.com/livenews/3139661",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时04分"
+          "time_info": "09时03分"
         },
         {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
@@ -1145,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "美股存储、光通信重挫 闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E9%87%8D%E6%8C%AB+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时03分"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股盘中）",
@@ -1190,11 +1302,12 @@
           "url": "https://flash.jin10.com/detail/20260725053410066800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 09时03分]"
         },
         {
           "title": "美元指数本周涨0.7%",
