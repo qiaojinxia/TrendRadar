@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T15:04:16.215801+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-08-01T17:33:02.454926+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时43分 ~ 15时04分]"
+        },
+        {
+          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时34分 ~ 17时33分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -48,17 +59,6 @@
           "time_info": "[01时43分 ~ 08时04分]"
         },
         {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时34分 ~ 15时04分]"
-        },
-        {
           "title": "AI生成的作品算艺术吗",
           "url": "https://www.douyin.com/hot/2591797",
           "source": "抖音",
@@ -70,8 +70,23 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 15时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 17时33分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 17时33分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -97,18 +112,18 @@
           "time_info": "[01时43分 ~ 08时04分]"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            11,
-            12
+            10,
+            7,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 15时04分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 17时33分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -161,6 +176,19 @@
           "time_info": "[01时43分 ~ 08时04分]"
         },
         {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 17时33分]"
+        },
+        {
           "title": "市场不相信“神话”：“AI股神”死于杠杆？",
           "url": "https://wallstreetcn.com/articles/3778378",
           "source": "华尔街见闻",
@@ -171,6 +199,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 08时04分]"
+        },
+        {
+          "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
+          "url": "https://www.zhihu.com/question/2066605797186823402",
+          "source": "知乎",
+          "ranks": [
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 17时33分]"
         },
         {
           "title": "AI男主都能带货了",
@@ -199,30 +239,16 @@
           "time_info": "[06时34分 ~ 08时04分]"
         },
         {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时04分 ~ 15时04分]"
-        },
-        {
-          "title": "“AI股神”最新表态：再也不碰杠杆了",
-          "url": "https://www.cls.cn/detail/2443109",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 15时04分]"
+          "time_info": "[15时03分 ~ 17时33分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
@@ -306,6 +332,28 @@
           "time_info": "[06时34分 ~ 08时04分]"
         },
         {
+          "title": "“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？",
+          "url": "https://wallstreetcn.com/articles/3778474",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://wallstreetcn.com/livenews/3143487",
           "source": "华尔街见闻-快讯",
@@ -318,26 +366,37 @@
           "time_info": "[06时34分 ~ 08时04分]"
         },
         {
-          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
-          "url": "https://wallstreetcn.com/articles/3778476",
+          "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
+          "url": "https://wallstreetcn.com/articles/3778475",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
-          "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
-          "url": "https://www.zhihu.com/question/2066605797186823402",
-          "source": "知乎",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
           "ranks": [
-            16
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
+          "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692011",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "头部AI再失控 Claude黑进三家公司",
@@ -485,8 +544,361 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 31,
+      "titles": [
+        {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗革命卫队一天发表三份声明",
+          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时38分]"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260801062202634800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 08时04分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
+          "url": "https://flash.jin10.com/detail/20260801055438503800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 08时04分]"
+        },
+        {
+          "title": "据媒体报道，美国和以色列准备轰炸伊朗的能源目标。WTI原油期货在收盘之后电子交易盘走高，目前交投于86美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3143471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 17时33分]"
+        },
+        {
+          "title": "伊朗称中东地区国家应重新考虑与美国的“合作与结盟”",
+          "url": "https://flash.jin10.com/detail/20260801164731787800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://wallstreetcn.com/articles/3778449",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 17时33分]"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 17时33分]"
+        },
+        {
+          "title": "【伊朗警告打击美以能源基础设施】8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。该安全官员表示，伊朗已制定一项全面计划，包括打击以色列关键基础设施及地区内美国能源基础设施等，伊方已做好充分准备。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3143510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://wallstreetcn.com/livenews/3143579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "伊朗打击美军空中任务后勤保障枢纽",
+          "url": "https://www.douyin.com/hot/2591858",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 12时03分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡暂停通行",
+          "url": "https://www.toutiao.com/trending/7668680642107805238/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 03时38分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
+          "url": "https://wallstreetcn.com/livenews/3143491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 08时04分]"
+        },
+        {
+          "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
+          "url": "https://flash.jin10.com/detail/20260801045602074800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
+          "url": "https://www.toutiao.com/trending/7668445091514155050/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 05时08分]"
+        },
+        {
+          "title": "伊朗：已制定计划应对潜在美以袭击",
+          "url": "https://www.toutiao.com/trending/7668829809023402026/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "科威特军队总参谋部：科威特防空部队目前正在应对敌方无人机攻击，以回击伊朗的侵略行径。若听到爆炸声，那是我方防空系统拦截敌方攻击所致。我们呼吁所有人遵守主管部门发布的安全与防护指令。",
+          "url": "https://flash.jin10.com/detail/20260801142851230800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://flash.jin10.com/detail/20260801163642334800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://wallstreetcn.com/livenews/3143506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "科威特称，伊朗无人机袭击科威特北部政府设施，袭击其北部政府设施。",
+          "url": "https://wallstreetcn.com/livenews/3143576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "科威特军方：防空部队目前正在拦截来自伊朗的敌方导弹。",
+          "url": "https://flash.jin10.com/detail/20260801142733421800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "伊朗警告称美国海军封锁可能导致更多海峡关闭",
+          "url": "https://wallstreetcn.com/livenews/3143573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "伊朗议长：伊朗已赢得战争，需扩大最高领袖权威以巩固成果",
+          "url": "https://flash.jin10.com/detail/20260801141957318800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "科威特军方：伊朗的攻击波及到一家民用公司的设备，造成了由于弹片落下而导致的物质损失，地点在布比扬岛。",
+          "url": "https://flash.jin10.com/detail/20260801161340356800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "科威特军方：伊朗的攻击波及多处重要设施，袭击了位于北部的一处政府机构。",
+          "url": "https://flash.jin10.com/detail/20260801161127749800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "伊朗政府：伊朗外长阿拉格奇与印度外长苏杰生通电话，讨论了双边关系及地区最新局势。",
+          "url": "https://flash.jin10.com/detail/20260801015450418800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗军方发言人称，我们近期已投入使用新型无人机，相关细节将在未来几天内公布。我们的无人机航程足以覆盖以色列领土。",
+          "url": "https://flash.jin10.com/detail/20260801153027574800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
+        },
+        {
+          "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
+          "url": "https://wallstreetcn.com/livenews/3143392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "据伊通社（IRNA）报道，伊朗政府发言人法蒂玛·穆哈杰拉尼表示，当敌人将炼油厂、油库、燃料管道乃至天然气设施列为打击目标时，其用意显然远不止摧毁几座工业建筑。敌人真正想要的是扰乱伊朗人民的日常生活——制造排队、散布焦虑、动摇社会的心理安全防线。正因如此，能源安全不仅是国家安全的基石，更是国家韧性的关键支柱。",
+          "url": "https://flash.jin10.com/detail/20260801133336850800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "美国中央司令部：伊朗政府再次表示已关闭霍尔木兹海峡。 这是错误的。 事实上，霍尔木兹海峡仍然对商船开放。 伊朗并未控制该海峡。 过去四个月里，已有数千艘船只通过这条国际航道。",
+          "url": "https://wallstreetcn.com/livenews/3143385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -520,8 +932,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 17时33分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -548,6 +960,19 @@
           "time_info": "[01时43分 ~ 12时03分]"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 17时33分]"
+        },
+        {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
           "url": "https://flash.jin10.com/detail/20260801054306728800",
           "source": "金十数据",
@@ -570,28 +995,17 @@
           "time_info": "[06时34分 ~ 08时04分]"
         },
         {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 15时04分]"
-        },
-        {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
           "url": "https://www.cls.cn/detail/2443172",
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 15时04分]"
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 17时33分]"
         },
         {
           "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
@@ -628,6 +1042,17 @@
           "time_info": "[06时34分 ~ 08时04分]"
         },
         {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
           "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
           "source": "澎湃新闻",
@@ -637,6 +1062,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时03分 ~ 15时04分]"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://wallstreetcn.com/livenews/3143570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时33分"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -751,272 +1187,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗革命卫队一天发表三份声明",
-          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时38分]"
-        },
-        {
-          "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
-          "url": "https://flash.jin10.com/detail/20260801062202634800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 08时04分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
-          "url": "https://flash.jin10.com/detail/20260801055438503800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 08时04分]"
-        },
-        {
-          "title": "据媒体报道，美国和以色列准备轰炸伊朗的能源目标。WTI原油期货在收盘之后电子交易盘走高，目前交投于86美元附近。",
-          "url": "https://wallstreetcn.com/livenews/3143471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        },
-        {
-          "title": "【伊朗警告打击美以能源基础设施】8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。该安全官员表示，伊朗已制定一项全面计划，包括打击以色列关键基础设施及地区内美国能源基础设施等，伊方已做好充分准备。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3143510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
-          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 15时04分]"
-        },
-        {
-          "title": "伊朗警告打击美以能源基础设施",
-          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 15时04分]"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://wallstreetcn.com/articles/3778449",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 15时04分]"
-        },
-        {
-          "title": "伊朗打击美军空中任务后勤保障枢纽",
-          "url": "https://www.douyin.com/hot/2591858",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 12时03分]"
-        },
-        {
-          "title": "伊朗宣布霍尔木兹海峡暂停通行",
-          "url": "https://www.toutiao.com/trending/7668680642107805238/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时38分]"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
-          "url": "https://wallstreetcn.com/livenews/3143491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 08时04分]"
-        },
-        {
-          "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
-          "url": "https://flash.jin10.com/detail/20260801045602074800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 08时04分]"
-        },
-        {
-          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
-          "url": "https://www.toutiao.com/trending/7668445091514155050/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 05时08分]"
-        },
-        {
-          "title": "伊朗：已制定计划应对潜在美以袭击",
-          "url": "https://www.toutiao.com/trending/7668829809023402026/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时03分"
-        },
-        {
-          "title": "科威特军队总参谋部：科威特防空部队目前正在应对敌方无人机攻击，以回击伊朗的侵略行径。若听到爆炸声，那是我方防空系统拦截敌方攻击所致。我们呼吁所有人遵守主管部门发布的安全与防护指令。",
-          "url": "https://flash.jin10.com/detail/20260801142851230800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "伊朗警告打击美以能源基础设施",
-          "url": "https://wallstreetcn.com/livenews/3143506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "科威特军方：防空部队目前正在拦截来自伊朗的敌方导弹。",
-          "url": "https://flash.jin10.com/detail/20260801142733421800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "伊朗议长：伊朗已赢得战争，需扩大最高领袖权威以巩固成果",
-          "url": "https://flash.jin10.com/detail/20260801141957318800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "伊朗政府：伊朗外长阿拉格奇与印度外长苏杰生通电话，讨论了双边关系及地区最新局势。",
-          "url": "https://flash.jin10.com/detail/20260801015450418800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
-          "url": "https://wallstreetcn.com/livenews/3143392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "据伊通社（IRNA）报道，伊朗政府发言人法蒂玛·穆哈杰拉尼表示，当敌人将炼油厂、油库、燃料管道乃至天然气设施列为打击目标时，其用意显然远不止摧毁几座工业建筑。敌人真正想要的是扰乱伊朗人民的日常生活——制造排队、散布焦虑、动摇社会的心理安全防线。正因如此，能源安全不仅是国家安全的基石，更是国家韧性的关键支柱。",
-          "url": "https://flash.jin10.com/detail/20260801133336850800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "美国中央司令部：伊朗政府再次表示已关闭霍尔木兹海峡。 这是错误的。 事实上，霍尔木兹海峡仍然对商船开放。 伊朗并未控制该海峡。 过去四个月里，已有数千艘船只通过这条国际航道。",
-          "url": "https://wallstreetcn.com/livenews/3143385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技 机器人",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -1028,8 +1200,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 15时04分]"
+          "appearance_count": 11,
+          "time_info": "[01时43分 ~ 17时33分]"
         },
         {
           "title": "【焦点复盘】科创50高开低走录得日线4连阴，算力硬件股批量炸板回落，机器人概念卷土重来",
@@ -1056,6 +1228,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 06时34分]"
+        },
+        {
+          "title": "略惊悚!美企开发半人马机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 17时33分]"
         },
         {
           "title": "宇树科技 IPO 时间定了，8 月 10 日开启新股申购，怎样看待其市场前景？",
@@ -1106,6 +1290,17 @@
           "time_info": "[12时03分 ~ 15时04分]"
         },
         {
+          "title": "杨勇被授予国防科技一等功，他的背后有哪些事迹？",
+          "url": "https://www.zhihu.com/question/2066620089789407496",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
           "title": "A股科技板块全线反攻，机构称调整或接近尾声",
           "url": "https://wallstreetcn.com/livenews/3143477",
           "source": "华尔街见闻-快讯",
@@ -1116,17 +1311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时34分 ~ 08时04分]"
-        },
-        {
-          "title": "略惊悚!美企开发半人马机器人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
         },
         {
           "title": "长鑫科技LPDDR6接近研发验证尾声",
@@ -1209,7 +1393,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -1252,6 +1436,29 @@
           "time_info": "[01时43分 ~ 08时04分]"
         },
         {
+          "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2066223484309434997",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 17时33分]"
+        },
+        {
+          "title": "实测DeepSeek V4 Flash",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时03分 ~ 17时33分]"
+        },
+        {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
@@ -1278,15 +1485,15 @@
           "time_info": "[01时43分 ~ 08时04分]"
         },
         {
-          "title": "实测DeepSeek V4 Flash",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeek%20V4%20Flash",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
+          "url": "https://www.zhihu.com/question/2066599476764964006",
+          "source": "知乎",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 15时04分]"
+          "appearance_count": 4,
+          "time_info": "[15时03分 ~ 17时33分]"
         },
         {
           "title": "DeepSeekV4Flash正式版跑分出炉",
@@ -1310,17 +1517,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 01时44分]"
-        },
-        {
-          "title": "DeepSeek V4 flash 上线，相较 Kimi K3 各有哪些优劣？现版本大模型中你的选择是啥？",
-          "url": "https://www.zhihu.com/question/2066599476764964006",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时03分 ~ 15时04分]"
         }
       ]
     },
@@ -1337,8 +1533,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时04分 ~ 15时04分]"
+          "appearance_count": 6,
+          "time_info": "[08时04分 ~ 17时33分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
