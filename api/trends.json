@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T19:23:52.123815+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2026-08-05T21:15:25.080531+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "AI做题吊打日本名校状元",
@@ -16,11 +16,12 @@
             10,
             15,
             22,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时13分 ~ 19时23分]"
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 21时15分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -30,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[10时43分 ~ 21时15分]"
         },
         {
           "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
@@ -97,6 +98,17 @@
           "time_info": "[13时49分 ~ 19时23分]"
         },
         {
+          "title": "一图看懂｜多家A股公司，跨界算力签大单",
+          "url": "https://www.cls.cn/detail/2446404",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 21时15分]"
+        },
+        {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
           "url": "https://flash.jin10.com/detail/20260805070003293800",
           "source": "金十数据",
@@ -155,17 +167,6 @@
           "time_info": "13时49分"
         },
         {
-          "title": "一图看懂｜多家A股公司，跨界算力签大单",
-          "url": "https://www.cls.cn/detail/2446404",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "A股教育板块震荡走高 ，兴业股份、新开普涨停，传智教育此前涨停，中公教育涨超8%，科德教育、昂立教育跟涨。",
           "url": "https://flash.jin10.com/detail/20260805101834996800",
           "source": "金十数据",
@@ -188,16 +189,28 @@
           "time_info": "04时53分"
         },
         {
+          "title": "Anthropic确认正组建团队设计自研AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3145408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "AI做的动物尺度太大了",
           "url": "https://s.weibo.com/weibo?q=%23AI%E5%81%9A%E7%9A%84%E5%8A%A8%E7%89%A9%E5%B0%BA%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 21时15分]"
         },
         {
           "title": "报道：美国告知AI企业，将不对开放权重模型进行安全测试",
@@ -232,8 +245,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 21时15分]"
+        },
+        {
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时40分 ~ 19时23分]"
+          "time_info": "[19时23分 ~ 21时15分]"
         },
         {
           "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
@@ -247,6 +271,18 @@
           "time_info": "[13时49分 ~ 16时40分]"
         },
         {
+          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
+          "url": "https://www.cls.cn/detail/2446407",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 21时15分]"
+        },
+        {
           "title": "京东外卖推出 AI 头盔，能语音接单、规划路线、解析备注，对骑手安全和效率有提升吗？会成为外卖标配吗？",
           "url": "https://www.zhihu.com/question/2067572483331291076",
           "source": "知乎",
@@ -256,17 +292,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时43分 ~ 13时49分]"
-        },
-        {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "梁文峰会不会成为中国 AI 里程碑人物？",
@@ -322,17 +347,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
-        },
-        {
-          "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
-          "url": "https://www.cls.cn/detail/2446407",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         },
         {
           "title": "SpaceX在AI领域亏损超预期",
@@ -467,6 +481,17 @@
           "time_info": "06时15分"
         },
         {
+          "title": "谷歌正就一笔超过15亿美元的交易与AI编码代理初创公司Mechanize进行谈判。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3145391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "对AI文风ptsd了",
           "url": "https://s.weibo.com/weibo?q=%E5%AF%B9AI%E6%96%87%E9%A3%8Eptsd%E4%BA%86&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -583,7 +608,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -602,7 +627,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -635,8 +660,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 21时15分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -677,6 +702,17 @@
           "time_info": "[13时49分 ~ 16时40分]"
         },
         {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 21时15分]"
+        },
+        {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
           "url": "https://flash.jin10.com/detail/20260805030300160800",
           "source": "金十数据",
@@ -688,15 +724,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
+          "title": "据CNN：一名海湾国家官员认为，美国与伊朗在周五前达成协议的可能性为50%。",
+          "url": "https://flash.jin10.com/detail/20260805210247727800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时23分"
+          "time_info": "21时15分"
         },
         {
           "title": "淡水河谷CEO：伊朗战争造成诸多项目的速度放缓。",
@@ -721,6 +757,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时14分 ~ 03时09分]"
+        },
+        {
+          "title": "伊朗官员：“抵抗阵线”协调行动增强对美威慑",
+          "url": "https://wallstreetcn.com/livenews/3145405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，如果美国停止对伊朗及其利益的侵略和犯罪行为，并满足所有必要条件以及既定要求，海峡局势才可能恢复到一个月前的状态。",
@@ -866,6 +913,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "伊朗总统与哈马斯领导人通话 表示支持巴勒斯坦人民",
+          "url": "https://wallstreetcn.com/livenews/3145393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
           "title": "伊朗高官：美试图阻挠伊朗阿曼就霍尔木兹海峡谈判",
           "url": "https://wallstreetcn.com/livenews/3144866",
           "source": "华尔街见闻-快讯",
@@ -894,7 +952,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -923,320 +981,8 @@
       ]
     },
     {
-      "keyword_group": "科技 机器人",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "实拍高校团队研究的灭蚊黑科技",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E9%AB%98%E6%A0%A1%E5%9B%A2%E9%98%9F%E7%A0%94%E7%A9%B6%E7%9A%84%E7%81%AD%E8%9A%8A%E9%BB%91%E7%A7%91%E6%8A%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            15,
-            17,
-            26,
-            28,
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时13分 ~ 16时40分]"
-        },
-        {
-          "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2068088684528791862",
-          "source": "知乎",
-          "ranks": [
-            7,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 07时35分]"
-        },
-        {
-          "title": "外媒称美国拟禁止进口中国新型号的光收发模块，此举将对中美科技竞争及全球数据产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2068088684528791862",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 13时49分]"
-        },
-        {
-          "title": "科创50指数午后涨超6%，成分股中，中微公司涨超14%，拓荆科技涨超13%，华润微涨近9%。",
-          "url": "https://flash.jin10.com/detail/20260805134726640800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.32%，报25917点。 恒生科技指数主连夜盘收涨0.53%，报4910点。",
-          "url": "https://wallstreetcn.com/livenews/3144910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        },
-        {
-          "title": "兆日科技：筹划发行股份购买资产，股票8月6日起停牌",
-          "url": "https://flash.jin10.com/detail/20260805184509929800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "李大霄谈高科技反弹",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E9%AB%98%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时40分 ~ 19时23分]"
-        },
-        {
-          "title": "美股科技泡沫要破了吗",
-          "url": "https://www.toutiao.com/trending/7670156290131234367/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时13分 ~ 01时14分]"
-        },
-        {
-          "title": "周二（8月4日），美股存储芯片与硬件供应链指数涨6.74%，报202.90点。 成分股闪迪收涨10.84%，泰瑞达涨10.32%，Rambus、拉姆研究、美光科技至少涨7.62%，应用材料、西部数据至少涨4.05%，希捷科技涨1.72%。此外，SK海力士ADR涨8.17%。",
-          "url": "https://wallstreetcn.com/livenews/3144978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
-          "url": "https://www.cls.cn/detail/2445835",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "A股PCB概念板块持续拉升，胜宏科技逼近涨停，宝鼎科技、东材科技等股此前涨停，科翔股份、有研粉材、埃科光电涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3145173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "A股MLCC概念持续走高，洁美科技午后涨停，火炬电子、东材科技此前封板，昀冢科技、风华高科、达利凯普等涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3145169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "港股光通信股午后反弹，长飞光纤光缆(06869.HK)涨超17%，曦智科技-P(01879.HK)涨超9%，华虹半导体(01347.HK)涨近6%，蓝思科技(06613.HK)涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260805133150961800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时49分"
-        },
-        {
-          "title": "港股收盘：恒生指数收涨0.24%，恒生科技指数收涨0.97%。MINIMAX涨约10%，洛阳钼业涨约9%，华虹宏力涨约5%。",
-          "url": "https://wallstreetcn.com/livenews/3145266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "A股CPO概念开盘下挫，中际旭创、联特科技、新易盛跌超10%，剑桥科技接近跌停，东山精密、源杰科技、长光华芯、天孚通信均跌超6%。",
-          "url": "https://wallstreetcn.com/livenews/3145049",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
-          "url": "https://wallstreetcn.com/livenews/3144931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "港股收评：恒生指数涨0.24%，恒生科技指数涨0.97%",
-          "url": "https://flash.jin10.com/detail/20260805161552734800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "部分基金逆势加仓，A股硬科技板块迎修复契机",
-          "url": "https://wallstreetcn.com/livenews/3144987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
-        },
-        {
-          "title": "恒指高开0.15%，报25890.99点；恒生科技指数涨0.33%。智谱涨近4%，联想、MINIMAX涨超3%，中际旭创跌近15%。",
-          "url": "https://wallstreetcn.com/livenews/3145040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
-          "url": "https://www.zhihu.com/question/2068289164244693148",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "香港恒生指数8月5日（周三）收盘上涨62.9点，涨幅0.24%，报25915.82点；<br/>香港恒生科技指数8月5日（周三）收盘上涨47.46点，涨幅0.97%，报4933.07点；<br/>国企指数8月5日（周三）收盘上涨29.47点，涨幅0.34%，报8603.73点；<br/>红筹指数8月5日（周三）收盘上涨12.74点，涨幅0.31%，报4158.15点。",
-          "url": "https://flash.jin10.com/detail/20260805161129080800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
-          "title": "千里科技1-7月整车产销同比增加",
-          "url": "https://wallstreetcn.com/livenews/3145329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3144864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "A股小金属板块短线走高，宝武镁业涨停，云南锗业此前涨停，浩通科技、东方钽业、中钨高新跟涨。",
-          "url": "https://flash.jin10.com/detail/20260805095511220800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
-          "url": "https://wallstreetcn.com/livenews/3144863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
-        },
-        {
-          "title": "美国堪萨斯城联储主席施密德：科技投资中的杠杆水平值得讨论。",
-          "url": "https://wallstreetcn.com/livenews/3145032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "这轮科技反弹能不能跟",
-          "url": "https://www.toutiao.com/trending/7670181966355893787/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -1320,9 +1066,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3145413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "优步第二季度营收141.9亿美元，预估142.4亿美元。 第二季度每股收益1.17美元。 第二季度调整后EBITDA为28.2亿美元，预估27.9亿美元。 第二季度总订单额580.2亿美元，预估571.7亿美元。 优步预计第三季度调整后每股收益84至88美分。 优步预计第三季度总订单额582.5亿至602.5亿美元，市场预估593.2亿美元。 优步美股盘前跌1.5%。",
@@ -1331,7 +1088,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1388,9 +1145,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
+        },
+        {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股盘中）",
@@ -1402,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "海峡重开预期降温，美股盘前SpaceX跌超10%、AMD跌8%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "财报公布后，AMD(AMD.O)和SpaceX(SPCX.O)美股盘后均跌8%。",
@@ -1421,7 +1200,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1443,7 +1222,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1549,8 +1328,332 @@
       ]
     },
     {
+      "keyword_group": "科技 机器人",
+      "match_count": 28,
+      "titles": [
+        {
+          "title": "实拍高校团队研究的灭蚊黑科技",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E9%AB%98%E6%A0%A1%E5%9B%A2%E9%98%9F%E7%A0%94%E7%A9%B6%E7%9A%84%E7%81%AD%E8%9A%8A%E9%BB%91%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24,
+            15,
+            17,
+            26,
+            28,
+            23,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时13分 ~ 16时40分]"
+        },
+        {
+          "title": "外媒称美国拟禁止进口中国新型数据中心设备，此举将对中美科技竞争及全球数据产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068088684528791862",
+          "source": "知乎",
+          "ranks": [
+            7,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时35分]"
+        },
+        {
+          "title": "外媒称美国拟禁止进口中国新型号的光收发模块，此举将对中美科技竞争及全球数据产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2068088684528791862",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 13时49分]"
+        },
+        {
+          "title": "科创50指数午后涨超6%，成分股中，中微公司涨超14%，拓荆科技涨超13%，华润微涨近9%。",
+          "url": "https://flash.jin10.com/detail/20260805134726640800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.32%，报25917点。 恒生科技指数主连夜盘收涨0.53%，报4910点。",
+          "url": "https://wallstreetcn.com/livenews/3144910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "兆日科技：筹划发行股份购买资产，股票8月6日起停牌",
+          "url": "https://flash.jin10.com/detail/20260805184509929800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "李大霄谈高科技反弹",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E9%AB%98%E7%A7%91%E6%8A%80%E5%8F%8D%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 21时15分]"
+        },
+        {
+          "title": "为什么说华为旗舰技术看尊界？如何看待尊界 V800 首发多项「华为黑科技」？",
+          "url": "https://www.zhihu.com/question/2068289164244693148",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 21时15分]"
+        },
+        {
+          "title": "美股科技泡沫要破了吗",
+          "url": "https://www.toutiao.com/trending/7670156290131234367/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时13分 ~ 01时14分]"
+        },
+        {
+          "title": "周二（8月4日），美股存储芯片与硬件供应链指数涨6.74%，报202.90点。 成分股闪迪收涨10.84%，泰瑞达涨10.32%，Rambus、拉姆研究、美光科技至少涨7.62%，应用材料、西部数据至少涨4.05%，希捷科技涨1.72%。此外，SK海力士ADR涨8.17%。",
+          "url": "https://wallstreetcn.com/livenews/3144978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "马斯克向科技界“投下炸弹”：SpaceX只用英伟达GPU，因为性能最佳！",
+          "url": "https://www.cls.cn/detail/2445835",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "A股PCB概念板块持续拉升，胜宏科技逼近涨停，宝鼎科技、东材科技等股此前涨停，科翔股份、有研粉材、埃科光电涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3145173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "A股MLCC概念持续走高，洁美科技午后涨停，火炬电子、东材科技此前封板，昀冢科技、风华高科、达利凯普等涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3145169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "缺人！年薪最高80万元，“机器人教练”成职场新风口",
+          "url": "https://wallstreetcn.com/livenews/3145403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "港股光通信股午后反弹，长飞光纤光缆(06869.HK)涨超17%，曦智科技-P(01879.HK)涨超9%，华虹半导体(01347.HK)涨近6%，蓝思科技(06613.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260805133150961800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.24%，恒生科技指数收涨0.97%。MINIMAX涨约10%，洛阳钼业涨约9%，华虹宏力涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3145266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "A股CPO概念开盘下挫，中际旭创、联特科技、新易盛跌超10%，剑桥科技接近跌停，东山精密、源杰科技、长光华芯、天孚通信均跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3145049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
+          "url": "https://wallstreetcn.com/livenews/3144931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "港股收评：恒生指数涨0.24%，恒生科技指数涨0.97%",
+          "url": "https://flash.jin10.com/detail/20260805161552734800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "部分基金逆势加仓，A股硬科技板块迎修复契机",
+          "url": "https://wallstreetcn.com/livenews/3144987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时35分"
+        },
+        {
+          "title": "恒指高开0.15%，报25890.99点；恒生科技指数涨0.33%。智谱涨近4%，联想、MINIMAX涨超3%，中际旭创跌近15%。",
+          "url": "https://wallstreetcn.com/livenews/3145040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "香港恒生指数8月5日（周三）收盘上涨62.9点，涨幅0.24%，报25915.82点；<br/>香港恒生科技指数8月5日（周三）收盘上涨47.46点，涨幅0.97%，报4933.07点；<br/>国企指数8月5日（周三）收盘上涨29.47点，涨幅0.34%，报8603.73点；<br/>红筹指数8月5日（周三）收盘上涨12.74点，涨幅0.31%，报4158.15点。",
+          "url": "https://flash.jin10.com/detail/20260805161129080800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "千里科技1-7月整车产销同比增加",
+          "url": "https://wallstreetcn.com/livenews/3145329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "光通信概念股普遍上涨，其中，光模块与光器件供应商Lumentum涨超10.5%，高意公司/相干公司Coherent重新涨超14%，Applied Optoelectronics涨超20%，Fabrinet涨幅重新扩大至约16%。 光通信芯片供应商博通涨超5.2%，迈威尔科技/美满电子涨约13%，MACOM Technology一度涨超6%，Credo Technology Group重新涨超7%。 网络设备与系统供应商思科涨幅重新扩大至4%，Ciena涨幅重新扩大至6.4%。 光纤缆线与基础连接供应商康宁公司Corning涨幅重新扩大至6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3144864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "A股小金属板块短线走高，宝武镁业涨停，云南锗业此前涨停，浩通科技、东方钽业、中钨高新跟涨。",
+          "url": "https://flash.jin10.com/detail/20260805095511220800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
+          "url": "https://wallstreetcn.com/livenews/3144863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        },
+        {
+          "title": "美国堪萨斯城联储主席施密德：科技投资中的杠杆水平值得讨论。",
+          "url": "https://wallstreetcn.com/livenews/3145032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "这轮科技反弹能不能跟",
+          "url": "https://www.toutiao.com/trending/7670181966355893787/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -1564,6 +1667,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时13分 ~ 07时35分]"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "特朗普不满坡度与外观，要求重建白宫停机坪",
@@ -1674,7 +1788,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1721,6 +1835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://wallstreetcn.com/livenews/3145385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
@@ -1765,6 +1890,18 @@
           "time_info": "[01时13分 ~ 07时35分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 21时15分]"
+        },
+        {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
@@ -1778,24 +1915,13 @@
           "time_info": "[01时13分 ~ 04时53分]"
         },
         {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
           "title": "DeepSeek干完活自己写了个游戏",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1912,6 +2038,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价重回900元大关",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E900%E5%85%83%E5%A4%A7%E5%85%B3%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         }
       ]
     },
