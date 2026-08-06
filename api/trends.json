@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T08:02:39.295531+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-08-06T11:51:44.637697+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -121,6 +121,18 @@
           "time_info": "[01时42分 ~ 03时39分]"
         },
         {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 11时51分]"
+        },
+        {
           "title": "机构：霍尔木兹海峡重开后，伊朗仍将建立机制“确保维持和平”",
           "url": "https://flash.jin10.com/detail/20260806011138184800",
           "source": "金十数据",
@@ -141,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "伊朗副外长：美国在信息中表示，已准备好重返其承诺。",
@@ -196,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
-        },
-        {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
         },
         {
           "title": "伊朗副外长：伊朗要求改变霍尔木兹海峡当前的航行路线，因为在当前安全形势下，这些路线已不再适宜。",
@@ -380,7 +392,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -440,6 +452,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "伊朗管控海峡的算盘有两大缺陷，冲突扩散风险令局势复杂化——新版发布",
+          "url": "https://flash.jin10.com/detail/20260806105353192800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
           "url": "https://wallstreetcn.com/livenews/3145573",
           "source": "华尔街见闻-快讯",
@@ -454,7 +477,7 @@
     },
     {
       "keyword_group": "a股 ai 消费",
-      "match_count": 26,
+      "match_count": 37,
       "titles": [
         {
           "title": "一图看懂｜多家A股公司，跨界算力签大单",
@@ -467,6 +490,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时42分 ~ 08时02分]"
+        },
+        {
+          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
+          "url": "https://wallstreetcn.com/articles/3778711",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 11时51分]"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -505,16 +540,15 @@
           "time_info": "[01时42分 ~ 05时13分]"
         },
         {
-          "title": "A股三大股指均涨超1%，科创50暴涨近5%，半导体大爆发，“易中天”集体回应美国光模块禁令，恒科指涨1%",
-          "url": "https://wallstreetcn.com/articles/3778711",
-          "source": "华尔街见闻",
+          "title": "A股午评：创业板指冲高回落跌0.67% CPO、PCB概念逆势走强",
+          "url": "https://flash.jin10.com/detail/20260806113702255800",
+          "source": "金十数据",
           "ranks": [
-            6,
             4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 08时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
@@ -590,6 +624,18 @@
           "time_info": "[01时42分 ~ 06时36分]"
         },
         {
+          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
+          "url": "https://www.cls.cn/detail/2446788",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 11时51分]"
+        },
+        {
           "title": "Meta推出首款AI编程智能体，正面挑战Anthropic与OpenAI。",
           "url": "https://wallstreetcn.com/livenews/3145560",
           "source": "华尔街见闻-快讯",
@@ -607,7 +653,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -623,6 +669,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "侧重于AI投资的Altimeter资产管理规模在7月份缩水11%。 数据显示，多家基金公司已经在7月表现惨淡。",
           "url": "https://wallstreetcn.com/livenews/3145558",
           "source": "华尔街见闻-快讯",
@@ -634,15 +691,15 @@
           "time_info": "03时39分"
         },
         {
-          "title": "“存储ETF”创纪录爆火后，幕后推手再押AI光通信赛道",
-          "url": "https://www.cls.cn/detail/2446788",
-          "source": "财联社热门",
+          "title": "A股粮食概念板块短线拉升，金健米业涨停，神农种业、秋乐种业、京粮控股、新赛股份、敦煌种业等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260806112803608800",
+          "source": "金十数据",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "11时51分"
         },
         {
           "title": "美联储理事库克：消费者信心低迷与多种因素有关，包括高通胀。",
@@ -667,15 +724,37 @@
           "time_info": "01时42分"
         },
         {
+          "title": "又一美联储官员警告通胀失控风险，沃什却在押注AI拯救降息空间？",
+          "url": "https://flash.jin10.com/detail/20260806112303640800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "外资机构密集发声，AI资本开支拐点隐现",
           "url": "https://wallstreetcn.com/livenews/3145647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "国瓷材料：针对AI服务器及车规级MLCC粉体 已完成部分高端产线的扩产工作",
+          "url": "https://wallstreetcn.com/livenews/3145772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "大摩：两家AI实验室的芯片融资需求或达6000亿美元",
@@ -711,15 +790,37 @@
           "time_info": "06时36分"
         },
         {
+          "title": "日本首相高市早苗：两年后将食品消费税恢复至8%并不属于加税。 为获得市场信任，食品消费税有必要恢复至8%。 新税收抵免制度的效益将超过减税。",
+          "url": "https://wallstreetcn.com/livenews/3145764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "当没有人再谈论AI",
           "url": "https://www.toutiao.com/trending/7670659420547714601/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "A股医药商业板块直线拉升，人民同泰、合富中国双双涨停，药易购涨超15%，开开实业、建发致新、塞力医疗、华人健康跟涨。",
+          "url": "https://flash.jin10.com/detail/20260806111152300800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "私募资本涌入新兴市场，竞相为AI基础设施建设提供资金",
@@ -733,6 +834,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "A股三大指数集体翻红，创业板指盘初一度跌超2.5%，贵金属、算力硬件、半导体芯片等方向涨幅居前，沪深京三市上涨个股超2500只。",
+          "url": "https://wallstreetcn.com/livenews/3145762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
           "url": "https://flash.jin10.com/detail/20260806021844852800",
           "source": "金十数据",
@@ -742,6 +854,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "住房消费跻身大宗消费首位 多个热点城市正研究出台住房消费提振举措",
+          "url": "https://wallstreetcn.com/livenews/3145757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "中国黄金协会：2026年上半年我国黄金产量同比下降14.62%，黄金消费量同比增长1.23%",
+          "url": "https://wallstreetcn.com/livenews/3145752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "股市暴跌叠加高温天气，韩国暑期消费明显降温",
+          "url": "https://flash.jin10.com/detail/20260806105412664800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "据华尔街日报，谷歌公司首席科学家Jeff Dean离职，将创办自己的AI公司。 谷歌母公司Alphabet/谷歌A（GOOGL）跌幅扩大之1.5%，刷新日低。",
@@ -758,7 +903,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -767,9 +912,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 11时51分]"
         },
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -778,9 +923,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 11时51分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -789,9 +934,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 11时51分]"
+        },
+        {
+          "title": "卡尼不点名调侃特朗普",
+          "url": "https://wallstreetcn.com/livenews/3145797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时02分"
+          "time_info": "11时51分"
         },
         {
           "title": "美媒曝特朗普在弹药储备问题上被误导 向防长倾泻不满",
@@ -800,9 +956,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
@@ -875,6 +1042,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "美国总统特朗普：我更愿意与伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260806054735118800",
           "source": "金十数据",
@@ -930,6 +1108,17 @@
           "time_info": "06时36分"
         },
         {
+          "title": "美国白宫否认特朗普与赫格塞思因弹药库存短缺发生争执",
+          "url": "https://wallstreetcn.com/livenews/3145771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "美国总统特朗普：关税让我们变得富有。",
           "url": "https://flash.jin10.com/detail/20260806053019525800",
           "source": "金十数据",
@@ -972,12 +1161,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "特朗普小跑着保护险些摔下台的幼童",
+          "url": "https://www.toutiao.com/trending/7670741330352734262/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
     {
       "keyword_group": "科技 机器人",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -987,8 +1187,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 11时51分]"
         },
         {
           "title": "Yardeni Research Inc.总裁兼首席投资策略师Yardeni认为，对于一个高增长行业来说，那是比较低的估值倍数。 抛售科技板块的投资者“已经发现他们实际上把这些这些股票变成了促销品”。 将纳斯达克100指数推进技术性回调的抛售也消除了其过高的估值，从而为反弹创造了条件。 加之强劲的季报和持续旺盛的人工智能需求，进一步上涨也有了稳固的基础。（彭博）",
@@ -1011,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
+          "url": "https://flash.jin10.com/detail/20260806114306480800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "美国禁止进口中国机器人",
@@ -1036,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时36分]"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至2.1%。中芯国际跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3145788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "摩根大通：科技股交易在经历惨烈抛售后，散户影响力或将加大",
@@ -1082,6 +1304,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "CPO概念股震荡拉升，联特科技、光力科技涨超10%，中富电路、长芯博创、汇绿生态、工业富联涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3145776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
           "title": "周三（8月5日），美国科技股七巨头（Magnificent 7）指数跌0.28%，报226.01点，美股早盘高开低走，北京时间21:33刷新日高至229.56点、00:12刷新日低至225.05点，之后持稳于226点附近。成分股中，谷歌A收跌4.03%——在标普500指数所有成分股里跌幅靠前，特斯拉、亚马逊、微软至多跌1.77%，Meta、苹果至多收涨0.52%，英伟达涨3.43%。 “超大”市值科技股指数跌1.19%，报444.40点。成分股中，除了前述个股之外，AMD收跌7.04%，高通跌3.16%，甲骨文跌0.93%，博通、Adobe、奈飞至多收涨0.86%，Salesforce涨1.04%。",
           "url": "https://wallstreetcn.com/livenews/3145619",
           "source": "华尔街见闻-快讯",
@@ -1099,9 +1332,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "港股AI应用股多数下跌，汇量科技(01860.HK)大跌近8%，金山云(03896.HK)跌超6%，中手游(00302.HK)、百度(09888.HK)、阿里巴巴(09988.HK)、小米集团(01810.HK)均跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260806112007682800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "恒生科技指数跌2%，恒生指数跌1.86%。",
+          "url": "https://flash.jin10.com/detail/20260806111544174800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
           "title": "李大霄谈高科技反弹",
@@ -1124,6 +1379,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "A股半导体产业链震荡拉升，汇成股份、欧莱新材、甬矽电子涨超10%，有研新材此前2连板，和林微纳、长电科技涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3145759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "金十图示：2026年08月06日（周四）全球主要科技与互联网公司市值变化",
+          "url": "https://flash.jin10.com/detail/20260806105635209800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         }
       ]
     },
@@ -1137,11 +1414,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 11时51分]"
         },
         {
           "title": "美股收盘：道指再创历史新高 SpaceX与AMD拖累纳指走低",
@@ -1149,11 +1427,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[06时36分 ~ 11时51分]"
         },
         {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
@@ -1195,7 +1474,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -1231,6 +1510,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "DeepSeek计划大幅涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 03时39分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "DeepSeek把Claude拉进“斩杀线”",
+          "url": "https://www.toutiao.com/trending/7670490376733462057/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     },
@@ -1285,31 +1637,30 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            20
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 03时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
         },
         {
-          "title": "DeepSeek把Claude拉进“斩杀线”",
-          "url": "https://www.toutiao.com/trending/7670490376733462057/",
-          "source": "今日头条",
+          "title": "国际金价涨超4%，重返4200美元上方",
+          "url": "https://wallstreetcn.com/livenews/3145608",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时42分"
+          "time_info": "06时36分"
         }
       ]
     },
@@ -1338,23 +1689,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价涨超4%，重返4200美元上方",
-          "url": "https://wallstreetcn.com/livenews/3145608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
         }
       ]
     }
